@@ -11,3 +11,5 @@ git commit -m "update"
 git push
 
 cd -
+
+hugo server

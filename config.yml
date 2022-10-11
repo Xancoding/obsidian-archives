@@ -79,12 +79,12 @@ params:
     region: ap-beijing
 
   editPost:
-    URL: "https://github.com/ZagXuY/Xan-s-Blog/tree/main/content"
+    URL: "https://github.com/Xancoding/Blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
   homeInfoParams: # 首页信息
-    Title: "Talk is cheap,Show me the Code"
+    Title: "ʜᴀᴘᴘʏ ᴇᴠᴇʀʏ ᴅᴀʏ"
     # Content: "Welcome to Xan’s space."
 
 # profileMode: # 首页信息
