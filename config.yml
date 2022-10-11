@@ -1,0 +1,156 @@
+baseURL: https://xancoding.github.io/ # 绑定的域名
+languageCode: zh-cn
+title: Xan's Blog
+theme: "PaperMod"
+
+enableRobotsTXT: true # 允许爬虫抓取到搜索引擎
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
+
+googleAnalytics: UA-123-45 # 谷歌统计
+
+paginate: 15    # 首页每页显示的文章数
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
+    - identifier: tags
+      name: Tags
+      url: tags/
+      weight: 15
+    - identifier: archives
+      name: Archives
+      url: archives/
+      weight: 20
+    - identifier: links
+      name: Links
+      url: links/
+      weight: 30
+    - identifier: about
+      name: About
+      url: about/
+      weight: 40
+    - identifier: search
+      name: Search
+      url: search/
+      weight: 50
+
+
+# 这里的参数会被代码以 .Site.Params 的形式读取
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  keywords: [Blog, OpenSource, Coding, Programming, Outdoor, Running]
+  author: "Xan"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false  
+
+  ShowToc: true # 显示目录
+  TocOpen: true # 自动展开目录
+ 
+  DateFormat: "2006-01-02"
+  ShowFullTextinRSS: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true # 显示阅读时间
+  ShowLastMod: true # 显示文章更新时间
+  ShowPostNavLinks: true
+  ShowShareButtons: false
+  ShowCodeCopyButtons: true # 显示copy按钮
+  ShowWordCounts: true # 显示字数
+  VisitCount: true # 显示访问人数
+  ShowLastMod: true # 显示文章更新时间
+  hideFooter: false # 隐藏页脚
+  displayFullLangName: true
+
+  twikoo:
+    version: 1.6.7
+    id: Xan
+    region: ap-beijing
+
+  editPost:
+    URL: "https://github.com/ZagXuY/Xan-s-Blog/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  homeInfoParams: # 首页信息
+    Title: "Talk is cheap,Show me the Code"
+    # Content: "Welcome to Xan’s space."
+
+# profileMode: # 首页信息
+    # enabled: true
+    # title: "Xan" # optional default will be site title
+    # subtitle: "Coding Running Hiking"
+    # imageUrl: "https://avatars.githubusercontent.com/u/97733434?s=400&u=b2eb7f2c540e6cdeefc2bf0be1a87561c38daf6c&v=4" # optional
+    # imageTitle: "HeadShot.jpg" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+
+  socialIcons: # 首页图标
+      - name: Github
+        url: "https://github.com/Xancoding"
+      - name: WeChat
+        url: "img/wechat.jpg"
+      - name: RSS
+        url: "index.xml"
+ 
+  assets:
+        favicon: "img/favicon.ico"
+        favicon16x16: "img/favicon.ico"
+        favicon32x32: "img/favicon.ico"
+        apple_touch_icon: "img/favicon.ico"
+        safari_pinned_tab: "img/favicon.ico"
+        
+  label:
+    text: "Xan's Blog"
+    icon: "img/Headshot.jpg"
+    iconHeight: 35
+  
+  fuseOpts: # 搜索配置
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: [ "title", "permalink", "summary" ]
+
+taxonomies: # 分类格式
+  category: categories # 按类别
+  tag: tags # 按标签
+  series: series # 按系列
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # HUGO 默认转义 Markdown 文件中的 HTML 代码，如需开启的话
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: Molokai
+    tabWidth: 4
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
