@@ -24,7 +24,9 @@ cover:
 ---
 
 > **不要高估自己的自制力**
+> 
 > **整个互联网正在充斥着流量内容，而我们得学会如何从垃圾中找到金子**
+> 
 > **获取信息的方式最好是主动的，摆脱算法和机器的喂养，自己去挖掘有价值的信息**
 
 # RSS
@@ -43,20 +45,20 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 `RSSHub Radar` 的出现，完美解决了不是所有的网页都提供RSS源这一痛点，它可以自动生成网站的RSS源以供订阅，非常方便。
 
-![RSSHub Radar](../../static/img/getInfo/RSSHub.png)
+![RSSHub Radar](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/RSSHub.png)
 
 ## 推荐文章
-[优化自己的信息源](https://catcoding.me/p/get-better-info/)
+[优化自己的信息源](https://catcoding.me/p/get-better-info/)  
 
-[中文互联网的产出在渐渐枯萎](https://www.zhihu.com/question/49684783/answer/2305132342)
+[中文互联网的产出在渐渐枯萎](https://www.zhihu.com/question/49684783/answer/2305132342)  
 
-[知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)
+[知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
 
-[RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)
+[RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
 
-[互联网之子](https://coolshell.cn/articles/11928.html)
+[互联网之子](https://coolshell.cn/articles/11928.html)  
 
-[RSS Source | RSS订阅源推荐](https://rss-source.com/)
+[RSS Source | RSS订阅源推荐](https://rss-source.com/)  
 
 # 搜索引擎
 `Google搜索 + AdblockPlus 浏览器插件 + uBlackist 浏览器插件`
@@ -65,7 +67,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 `AdblockPlus` 主动拦截网页上不想看到的内容
 
-![AdblockPlus](../../static/img/getInfo/AdblockPlus.png)
+![AdblockPlus](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/AdblockPlus.png)
 
 `uBlackist` 在搜索时屏蔽特定网站，我屏蔽了CSDN和百度知道
 ```
@@ -75,18 +77,17 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 *://zhidao.baidu.com/*
 ```
 
-![uBlackist](../../static/img/getInfo/uBlackist.png)
+![uBlackist](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/uBlackist.png)
 
 `Chrome` 浏览器还可以通过在地址栏中输入快捷字词，快速搜索特定网站，或使用其他搜索引擎
 
 经过如下配置
 
-![search1 ](../../static/img/getInfo/search1.png)
+![search1 ](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search1.png)
 
 就可以使用快捷键简便搜索啦
 
-![search2 ](../../static/img/getInfo/search2.png)
-
+![search2 ](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search2.png)
 
 
 
