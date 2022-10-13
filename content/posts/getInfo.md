@@ -47,6 +47,8 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 ![RSSHub Radar](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/RSSHub.png)
 
+我使用RSS主要用来订阅我感兴趣的个人博客，我订阅的博客网站在 `Links` 页面下的 **博客** 那一栏。
+
 ## 推荐文章
 [优化自己的信息源](https://catcoding.me/p/get-better-info/)  
 
@@ -63,7 +65,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 # 搜索引擎
 - `Google & AdblockPlus & uBlacklist`
 
-`Chrome` 浏览器是我目前体验感最好的搜索引擎，`Microsoft Edge` 浏览器提供的`Bing 搜索` 体验感也还不错。
+`Chrome` 浏览器提供的`Google 搜索`是我目前体验感最好的搜索引擎，`Microsoft Edge` 浏览器提供的 `Bing 搜索` 体验感也还不错。
 
 `AdblockPlus 浏览器插件` 由用户主动设置拦截网页上不想看到的内容，下图是我对知乎页面的屏蔽后的结果，我使用这个插件把知乎和B站的推荐内容屏蔽，以获得更为简洁的体验
 
@@ -91,12 +93,12 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 在手机端，我是使用**桌面小工具**来达到只使用APP搜索功能目的。
 
-
+![search3](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search3.png)
 
 # 书籍
 - `Neat Reader & Z-Library & 学校图书馆`
 
-** 读书，是治愈迷茫最好的良药。**
+**读书，是治愈迷茫最好的良药。**
 
 [Neat Reader](https://www.neat-reader.com/) 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) 搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 `Neat Reader` 阅读。
 
