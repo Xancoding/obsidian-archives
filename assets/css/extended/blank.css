@@ -133,3 +133,8 @@ pre, code {
 .terms-tags li {
     margin: 5px;
 }
+
+img:active {
+    transform: scale(2,2)
+}
+
