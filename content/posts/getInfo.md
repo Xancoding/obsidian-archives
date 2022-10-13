@@ -23,8 +23,8 @@ cover:
     relative: false
 ---
 
-> **不要高估自己的自制力**
-> 
+>**这个时代不缺信息，因为信息太多了，缺的是时间**
+>
 > **整个互联网正在充斥着流量内容，而我们得学会如何从垃圾中找到金子**
 > 
 > **获取信息的方式最好是主动的，摆脱算法和机器的喂养，自己去挖掘有价值的信息**
@@ -61,15 +61,15 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 [RSS Source | RSS订阅源推荐](https://rss-source.com/)  
 
 # 搜索引擎
-`Google搜索 + AdblockPlus 浏览器插件 + uBlackist 浏览器插件`
+- `Google & AdblockPlus & uBlacklist`
 
-`Chrome` 浏览器是我目前重度使用的浏览器，`Microsoft Edge` 浏览器体验感也还不错。
+`Chrome` 浏览器是我目前体验感最好的搜索引擎，`Microsoft Edge` 浏览器提供的`Bing 搜索` 体验感也还不错。
 
-`AdblockPlus` 主动拦截网页上不想看到的内容
+`AdblockPlus 浏览器插件` 由用户主动设置拦截网页上不想看到的内容，下图是我对知乎页面的屏蔽后的结果，我使用这个插件把知乎和B站的推荐内容屏蔽，以获得更为简洁的体验
 
 ![AdblockPlus](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/AdblockPlus.png)
 
-`uBlackist` 在搜索时屏蔽特定网站，我屏蔽了CSDN和百度知道
+`uBlacklist 浏览器插件` 在搜索时屏蔽特定网站，我屏蔽了CSDN和百度知道
 ```
 *://www.csdn.net/*
 *://bbs.csdn.net/*
@@ -77,17 +77,36 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 *://zhidao.baidu.com/*
 ```
 
-![uBlackist](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/uBlackist.png)
+![uBlacklist](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/uBlacklist.png)
 
-`Chrome` 浏览器还可以通过在地址栏中输入快捷字词，快速搜索特定网站，或使用其他搜索引擎
+`Chrome` 浏览器还可以通过在地址栏中输入快捷字词，快速搜索特定网站，或使用其他搜索引擎，我通过设置它将知乎和B站作为搜索引擎使用。在我想寻找某条信息时，只需在地址栏输入关键字 `zh ` or `bi ` 即可搜索。
 
 经过如下配置
 
-![search1 ](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search1.png)
+![search1](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search1.png)
 
-就可以使用快捷键简便搜索啦
+就可以通过在地址栏中输入快捷字词实现简便搜索啦
 
-![search2 ](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search2.png)
+![search2](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search2.png)
+
+在手机端，我是使用**桌面小工具**来达到只使用APP搜索功能目的。
+
+
+
+# 书籍
+- `Neat Reader & Z-Library & 学校图书馆`
+
+** 读书，是治愈迷茫最好的良药。**
+
+[Neat Reader](https://www.neat-reader.com/) 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) 搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 `Neat Reader` 阅读。
+
+![neatReader](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/neatReader.png)
+
+不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看。
+
+
+
+
 
 
 
