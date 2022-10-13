@@ -1,6 +1,8 @@
 #! /bin/bash
 
-hugo -F --cleanDestinationDir
+# hugo -F --cleanDestinationDir
+
+hugo 
 
 cd public/
 
