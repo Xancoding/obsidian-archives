@@ -6,6 +6,11 @@ tags: # 标签
 - Tech
 - Productivity
 - RSS
+keywords: # 关键词
+- Tech
+- Productivity
+- RSS
+- Search Engine
 description: "" # 描述
 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: ""
@@ -71,7 +76,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 ![AdblockPlus](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/AdblockPlus.png)
 
-`uBlacklist 浏览器插件` 在搜索时屏蔽特定网站，我屏蔽了CSDN和百度知道
+`uBlacklist 浏览器插件` 在搜索时屏蔽特定网站，做到对低质内容的过滤，我屏蔽了CSDN和百度知道 
 ```
 *://www.csdn.net/*
 *://bbs.csdn.net/*
@@ -105,6 +110,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 ![neatReader](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/neatReader.png)
 
 不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看。
+
 
 
 
