@@ -26,6 +26,30 @@
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/) 软件开发中的软技能
 - [Side Project 指南](https://sideproject.guide/)
 
+# 户外
+## 入门指南
+- [登山者Black](https://space.bilibili.com/5682935)
+	- [户外运动安全手册（上）](https://www.bilibili.com/video/BV1qe411x7gc/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [户外运动安全手册（下）](https://www.bilibili.com/video/BV1rf4y1U7FZ/?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [洋葱式穿着/户外运动穿什么](https://www.bilibili.com/video/BV1xE411j77f/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [户外必备10要素--可能拯救你生命的十件户外必需品](https://www.bilibili.com/video/BV14U4y1577f/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [户外装备选购终极指南](https://www.bilibili.com/video/BV18z411h7Wq/?vd_source=ae16ff6478eb15c1b87880540263910b)
+
+- [烛逢](https://space.bilibili.com/604006215)
+	- [户外运动三层穿衣法 | 烛逢](https://www.bilibili.com/video/BV1CQ4y1v7qo/?spm_id_from=333.788&vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [在野外找路-六只脚｜烛逢](https://www.bilibili.com/video/BV1Tr4y1C7XT/?spm_id_from=333.788&vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [六只脚进阶篇 | 烛逢](https://www.bilibili.com/video/BV1af4y1T7dK/?spm_id_from=333.788&vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [两步路使用教学｜烛逢](https://www.bilibili.com/video/BV1Mi4y117Zc/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
+
+## 两步路路网
+1. 下载豌豆荚
+2. 在豌豆荚中搜索两步路，下载 v6.7.2版本
+3. 在应用商店中关闭自动更新
+
+## 沉浸式登山
+- [Mew_喵喵](https://space.bilibili.com/480567097/?spm_id_from=333.999.0.0)
+- [秘密仙人掌](https://space.bilibili.com/441981477/?spm_id_from=333.999.0.0)
+
 # 资源
 - [**Source**](https://resource.1kbtool.com/)
 ## Edit
