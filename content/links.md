@@ -26,7 +26,19 @@
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/) 软件开发中的软技能
 - [Side Project 指南](https://sideproject.guide/)
 
-# 户外
+# 资源
+- [**Source**](https://resource.1kbtool.com/)
+## Edit
+- [**Exercism**](https://exercism.org/tracks) 在线练习编程语言
+- [Overleaf](https://www.overleaf.com/project) 在线 `LaTeX` 编辑器
+## Art
+- [**Excalidraw**](https://excalidraw.com/) 在线白板画图工具
+- [Gallerix](https://gallerix.asia/) 绘画和画家
+- [Unsplash](https://mani-unsplash-clone.netlify.app/) 无版权图片
+- [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
+- [Game-icons](https://game-icons.net/) 游戏图标在线存储库
+
+# Outdoor
 ## 入门指南
 - [登山者Black](https://space.bilibili.com/5682935)
 	- [户外运动安全手册（上）](https://www.bilibili.com/video/BV1qe411x7gc/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
@@ -49,16 +61,22 @@
 ## 沉浸式登山
 - [Mew_喵喵](https://space.bilibili.com/480567097/?spm_id_from=333.999.0.0)
 - [秘密仙人掌](https://space.bilibili.com/441981477/?spm_id_from=333.999.0.0)
+## 登山装备清单
+![mountaineeringEquipment](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/mountaineeringEquipment.png)
 
-# 资源
-- [**Source**](https://resource.1kbtool.com/)
-## Edit
-- [**Exercism**](https://exercism.org/tracks) 在线练习编程语言
-- [Overleaf](https://www.overleaf.com/project) 在线 `LaTeX` 编辑器
-## Art
-- [**Excalidraw**](https://excalidraw.com/) 在线白板画图工具
-- [Gallerix](https://gallerix.asia/) 绘画和画家
-- [Unsplash](https://mani-unsplash-clone.netlify.app/) 无版权图片
-- [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
-- [Game-icons](https://game-icons.net/) 游戏图标在线存储库
+## 
+
+# Run
+## 衣物穿脱
+![RunningOnAndOff](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/RunningOnAndOff.png)
+
+*图片来自于知乎博主@阿甘跑步，版权归原作者所有*
+## 配速表
+![speedTable](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/speedTable.png)
+
+
+
+
+
+
 
