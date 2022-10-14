@@ -1,6 +1,7 @@
 # 博客
 - [Owen 的博客](https://www.owenyoung.com/)
 	- [收集发人深省的话](https://www.owenyoung.com/quotes/)
+	- [探索互联网上高质量的内容](https://www.owenyoung.com/sources/)
 - [程序员的喵](https://catcoding.me/)
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 
