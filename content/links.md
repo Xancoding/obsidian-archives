@@ -61,18 +61,17 @@
 ## 沉浸式登山
 - [Mew_喵喵](https://space.bilibili.com/480567097/?spm_id_from=333.999.0.0)
 - [秘密仙人掌](https://space.bilibili.com/441981477/?spm_id_from=333.999.0.0)
+
 ## 登山装备清单
 ![mountaineeringEquipment](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/mountaineeringEquipment.png)
 
-## 
-
 # Run
 ## 衣物穿脱
-![RunningOnAndOff](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/RunningOnAndOff.png)
+![RunningOnAndOff](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/RunningOnAndOff.jpg)
 
 *图片来自于知乎博主@阿甘跑步，版权归原作者所有*
 ## 配速表
-![speedTable](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/speedTable.png)
+![speedTable](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/speedTable.jpg)
 
 
 
