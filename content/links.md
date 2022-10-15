@@ -4,6 +4,8 @@
 	- [探索互联网上高质量的内容](https://www.owenyoung.com/sources/)
 - [程序员的喵](https://catcoding.me/)
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+- [编程随想的博客](https://program-think.blogspot.com/)
+	- [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
 
 # 社区
 - [小众软件论坛](https://meta.appinn.net/)
