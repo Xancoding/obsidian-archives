@@ -6,6 +6,12 @@
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [编程随想的博客](https://program-think.blogspot.com/)
 	- [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
+	- [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
+	- [学习与人生——700篇博文之感悟](https://program-think.blogspot.com/2020/12/Study-and-Life.html)
+	- [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
+	- [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
+	- [如何挖掘网络资源](https://program-think.blogspot.com/2013/03/internet-resource-discovery-0.html)
+	- [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
 
 # 社区
 - [小众软件论坛](https://meta.appinn.net/)
