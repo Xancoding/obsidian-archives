@@ -39,8 +39,10 @@ cover:
 > **终端，一个程序，是界面上打开的黑框框本身，`shell` 运行于其中**
 ## Shell
 - [常用文件管理命令 | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2855530/)
-- [Shell 语法 | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2855883/)
+- **[Shell 语法 | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2855883/)**
 - [管道、环境变量与常用命令  | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/3030391/)
+	- **[常用命令  | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/3030414/)**
+- [《Bash 脚本教程》](https://wangdoc.com/bash/)
 - [第 1 讲 - 课程概览与 Shell | The missing semester of your CS education](https://missing-semester-cn.github.io/2020/course-shell/)
 - [第 2 讲 - Shell 工具和脚本 | The missing semester of your CS education](https://missing-semester-cn.github.io/2020/shell-tools/)
 - [终极 Shell——ZSH](https://zhuanlan.zhihu.com/p/19556676)
@@ -52,13 +54,11 @@ cover:
 - `Shell` 负责外界与 `Linux 内核` 的交互，接收用户或其他应用程序的命令，然后把这些命令转化成内核能理解的语言，传给内核，内核是真正干活的，干完之后再把结果返回用户或应用程序
 - `Shell`解释器有 `sh`、`bash`、`zsh...`
 ### Shell常用命令
-1. `ag console.log` ：全文搜索含 `console.log` 的程序段
-2. `|`：将左侧程序输出流作为右侧程序输入流
-3. `tee`：读取输入流，然后写入文件
-4. `xdg-open`：用合适的程序打开文件 
-5. `history` ：打印命令历史记录
-6. `find` ：查找文件
-7. `grep` ：查找文件里符合条件的字符串 [grep](https://www.runoob.com/linux/linux-comm-grep.html)
+1. `ag xxx`：搜索当前目录下的所有文件，**检索`xxx`字符串**
+2. `find /path/to/directory/ -name '*.py'`：**搜索**某个文件路径下的所有`*.py`**文件**
+3. `history`：展示当前用户的历史操作。内容存放在`~/.bash_history`中
+4. `grep xxx`：从`stdin`中读入若干行数据，如果某行中包含`xxx`，则输出该行；否则忽略该行，**用于查找文件里符合条件的字符串**
+
 ## Tmux && Vim
 - [tmux和vim | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2855620/)
 - [Tmux 使用教程 | 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
@@ -110,8 +110,12 @@ Host server
 	- `scp -r SERVER:homework .`：将服务器中的`~/homework/`文件夹复制到本地的当前路径下
 ## Git
 - [git | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2932078/)
+- [Git从放弃到入门](https://juejin.cn/column/6969263852206686221)
+	- [Git从放弃到入门：状态与阶段](https://juejin.cn/post/6973299611536457742)
+	- **[Git从放弃到入门：撤销操作](https://juejin.cn/post/6974039503056928776)**
 - [Git 原理入门](https://www.ruanyifeng.com/blog/2018/10/git-internals.html)
 - [Learn Git Braching - Game](https://learngitbranching.js.org/?locale=zh_CN)
+- [Pro Git Online](https://git-scm.com/book/zh/v2)
 ***
 ### Git是什么？
 > **Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理**
@@ -123,8 +127,10 @@ Host server
 4. `git clone git@git.acwing.com:xxx/XXX.git`：将远程仓库`XXX`下载到当前目录下
 5. `git log`：查看当前分支的所有版本
 6. **`git status`：查看仓库状态**
-7. **`git restore --staged xx`：将`xx`从暂存区里移除**
-8. **`git checkout — XX`或`git restore XX`：将`XX`文件尚未加入暂存区的修改全部撤销**
+7. **有时候暂存了更改，尚未提交至仓库，如何取消暂存的更改？**
+	- **`git restore --staged XX`或`git reset HEAD XX`：将`XX`从暂存区里移除** 
+8. **有时候修改了本地工作目录（通常也叫工作区）的文件，如何放弃本地更改（尚未暂存）？**
+	-  **`git checkout XX`或`git restore XX`：将`XX`文件尚未加入暂存区的修改全部撤销**
 #### Git 全局设置
 1. `git config --global user.name xxx`：设置全局用户名，信息记录在`~/.gitconfig`文件中
 2. `git config --global user.email xxx@xxx.com`：设置全局邮箱地址，信息记录在`~/.gitconfig`文件中
@@ -178,38 +184,86 @@ Host server
 3. `git stash drop`：删除栈顶存储的修改
 4. `git stash pop`：将栈顶存储的修改恢复到当前分支，同时删除栈顶元素
 5. `git stash list`：查看栈中所有元素
-## Thrift 
+## **Thrift** 
 - [Thrift_learning - AcGit](https://git.acwing.com/fashen/thrift_learning/-/blob/master/readme.md)
 - [thrift 官网](https://thrift.apache.org/) -> [Tutorial](https://thrift.apache.org/tutorial/) -> [tutorial.thrift](https://git-wip-us.apache.org/repos/asf?p=thrift.git;a=blob_plain;f=tutorial/tutorial.thrift)
 
 ### Thrift是什么？
 > **Thrift是一个轻量级、跨语言的远程过程服务调用（RPC）框架**
 > 
-> **用于跨语言服务开发，它将软件栈和代码生成引擎结合在一起，以构建在 C++、Java、Python、PHP、Ruby、Erlang、Perl、Haskell、C#、Cocoa、JavaScript、Node. Js、Smalltalk、OCaml 和 Delphi 等语言之间高效、无缝地工作的服务**
-
-### 实现过程
-1. 定义接口 (存放接口的文件夹就是 thrift 文件)
-2. 完成 `Server` 端
-- 通过接口生成 C++版本的服务端
-```cpp
-//通过这个命令就可以实现，不过在此之前需要做一些准备工作
-//tutorial.thrift表示从当前目录到定义接口的路径
-thrift -r --gen cpp tutorial.thrift
+> **RPC（远程过程调用）是一个计算机通信协议，该协议允许运行于一台计算机的程序调用另一台计算机的子程序，而程序员无需额外地为这个交互作用编程**
+> 
+> **Thrift用于跨语言服务开发，它将软件栈和代码生成引擎结合在一起，以构建在 C++、Java、Python、PHP、Ruby、Erlang、Perl、Haskell、C#、Cocoa、JavaScript、Node. Js、Smalltalk、OCaml 和 Delphi 等语言之间高效、无缝地工作的服务**
+### 文件结构
 ```
-- 好习惯: 写 thrift 服务的时候，先编译成功，然后再逐步向文件中添加模块
-- 编译：
-	-  `g++ -c` 后接待编译的 `cpp` 文件
-	-  注意： `H` 文件不需要编译
-	-  `.O` 文件即编译完成的文件
-- 链接：
-	- `g++ *.o -o main.cpp -lthrift`
-	- `-lthrift` 意为加上 `thrift` 动态链接库
+|-- README.md
+|-- game
+|   `-- src
+|       |-- client.py
+|       `-- match_client
+|           |-- __init__.py
+|           |-- __pycache__
+|           |   `-- __init__.cpython-38.pyc
+|           `-- match
+|               |-- Match.py
+|               |-- __init__.py
+|               |-- __pycache__
+|               |   |-- Match.cpython-38.pyc
+|               |   |-- __init__.cpython-38.pyc
+|               |   `-- ttypes.cpython-38.pyc
+|               |-- constants.py
+|               `-- ttypes.py
+|-- match_system
+|   `-- src
+|       |-- Match.o
+|       |-- Save.o
+|       |-- main
+|       |-- main.cpp
+|       |-- main.o
+|       |-- match_server
+|       |   |-- Match.cpp
+|       |   |-- Match.h
+|       |   |-- match_types.cpp
+|       |   `-- match_types.h
+|       |-- match_types.o
+|       `-- save_client
+|           |-- Save.cpp
+|           |-- Save.h
+|           `-- save_types.h
+`-- thrift
+    |-- match.thrift
+    `-- save.thrift
+```
+### 实现过程
+1. 定义接口 (存放接口的文件夹就是 `thrift` 文件)
+2. 完成 `Server` 端
+	1. 通过`match.thrift`接口在`match_system`文件夹下生成 C++版本的服务端
+	```
+	thrift -r --gen cpp tutorial.thrift
+	```
+	2. 将`gen cpp` 文件夹重命名，如：`match_server`（区别于之后要此处生成的`client_server`）
+	3. 把 `Match_server.skeleton.cpp` 移动到当前 `src` 目录下并重命名为 `main.cpp`
+		- 由于移动了 `main.cpp` 故需要修改一下` main.cpp` 中头文件里关于 `Match.h` 的引用路径：`#include "Match.h"` -> `#include "match_server/Match.h"`
+	4. 在`main.cpp`中实现具体业务逻辑
+1. 完成 `Client` 端
+	1. 通过`match.thrift`接口在`game`文件夹下生成 `python3` 版本的服务端，然后通过修改得到客户端，其余操作步骤同服务端
+	```
+	thrift -r --gen py tutorial.thrift
+	```
+	2. 删掉 `Match_remote `，该文件是用 py 实现 服务端 时用的文件，此处我们只需要实现 **客户端** 功能，因此他没有作用，不妨删掉，让文档简洁一点
+	3. 利用官网提供的模板，在`src`文件夹下编写 **客户端** 文件 `client.py`
+4. 持久化到云端
+	- 将 **非编译文件** 和 **非可执行文件** 提交到 `git` 中去（好的工程习惯）
+		- `Cpp`
+			- `git restore --stage *.o`
+			- `git restore --stage main`
+		- `Python`
+			- `git restore --stage *.pyc   # .pyc文件是编译文件，不加入暂存区里`
+			- `git restore --stage *.swp   # .swp文件是缓存文件，不加入暂存区里（vim没关时会生成）`
+- 注意：先运行服务器后，客户端才能正常运行
 
-- 持久化到云端
-	- 可执行文件和编译好的文件最好不要存到云端
-		- `git restore --stage *.o`
-		- `git restore --stage main`
-3. 完成 `Client` 端
+
+
 
 
 
