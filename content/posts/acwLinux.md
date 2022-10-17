@@ -35,6 +35,8 @@ cover:
 - [命令行的艺术 ](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [The Missing Semester of Your CS Education](https://missing-semester-cn.github.io/)
 ***
+## Terminal
+> **终端，一个程序，是界面上打开的黑框框本身，`shell` 运行于其中**
 ## Shell
 - [常用文件管理命令 | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2855530/)
 - [Shell 语法 | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2855883/)
@@ -45,10 +47,10 @@ cover:
 - [快速入门 zsh](https://github.com/ohmyzsh/ohmyzsh)
 ***
 ### Shell是什么？
-- `Shell` 是我们通过命令行与操作系统沟通的 `程序`，是个 `解释器`
+- `Shell` 是我们通过命令行与操作系统沟通的 `程序`，是个 `命令行解释器`
 - `Shell` 脚本可以直接在命令行中执行，也可以将一套逻辑组织成一个文件，方便复用
 - `Shell` 负责外界与 `Linux 内核` 的交互，接收用户或其他应用程序的命令，然后把这些命令转化成内核能理解的语言，传给内核，内核是真正干活的，干完之后再把结果返回用户或应用程序
-- `bash` 是 `shell` 的一种
+- `Shell`解释器有 `sh`、`bash`、`zsh...`
 ### Shell常用命令
 1. `ag console.log` ：全文搜索含 `console.log` 的程序段
 2. `|`：将左侧程序输出流作为右侧程序输入流
@@ -69,6 +71,11 @@ cover:
 > **`Tmux` 是一个用于在终端窗口中运行多个终端会话的工具，即终端复用软件（terminal multiplexer）**
 > 
 > **远程 `SSH` 访问服务器进行工作时。即使非正常掉线，它能保存当前工作状态，并保证当前任务继续运行。**
+### Session && Window && Pane
+- 一个`tmux `可以有好多个`session`(会话)
+- 一个`session`可以有好多个`window`(窗口)
+- 一个`window`可以有好多个`pane`(面板)
+- 一个`session`里不超过10个`window`是最方便的：可以用0到9迅速切换
 ### Vim 是什么？
 > **VIM 是 Linux 系统上一款文本编辑器，它是操作 Linux 的一款利器。**
 ## SSH 
@@ -203,9 +210,6 @@ thrift -r --gen cpp tutorial.thrift
 		- `git restore --stage *.o`
 		- `git restore --stage main`
 3. 完成 `Client` 端
-
-
-
 
 
 
