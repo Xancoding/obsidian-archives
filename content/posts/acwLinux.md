@@ -250,7 +250,7 @@ Host server
 	```
 	thrift -r --gen cpp tutorial.thrift
 	```
-	2. 将`gen cpp` 文件夹重命名，如：`match_server`（区别于之后要此处生成的`client_server`）
+	2. 将`gen cpp` 文件夹重命名，如：`match_server`（区别于之后要在此处生成的`client_server`）
 	3. 把 `Match_server.skeleton.cpp` 移动到当前 `src` 目录下并重命名为 `main.cpp`
 		- 由于移动了 `main.cpp` 故需要修改一下` main.cpp` 中头文件里关于 `Match.h` 的引用路径：`#include "Match.h"` -> `#include "match_server/Match.h"`
 	4. 在`main.cpp`中实现具体业务逻辑
@@ -268,7 +268,7 @@ Host server
 			- `git restore --stage main`
 		- `Python`
 			- `git restore --stage *.pyc   # .pyc文件是编译文件，不加入暂存区里`
-			- `git restore --stage *.swp   # .swp文件是缓存文件，不加入暂存区里（vim没关时会生成）`
+			- `git restore --stage *.swp   # .swp文件是缓存文件，不加入暂存区里`
 - 注意：先运行服务器后，客户端才能正常运行
 #### 项目地址
 - [Thrift_lesson](https://git.acwing.com/ZagY/thrift_lesson)
