@@ -194,7 +194,16 @@ Host server
 > **RPC（远程过程调用）是一个计算机通信协议，该协议允许运行于一台计算机的程序调用另一台计算机的子程序，而程序员无需额外地为这个交互作用编程**
 > 
 > **Thrift用于跨语言服务开发，它将软件栈和代码生成引擎结合在一起，以构建在 C++、Java、Python、PHP、Ruby、Erlang、Perl、Haskell、C#、Cocoa、JavaScript、Node. Js、Smalltalk、OCaml 和 Delphi 等语言之间高效、无缝地工作的服务**
-### 文件结构
+### 例：实现一个游戏的匹配服务
+#### 基本框架
+1. 游戏应用端（Python3）
+	1. 客户端：与 匹配系统服务器 的服务端交互
+2. 匹配系统服务器（C++）
+	1. 服务端：与 游戏应用端 的客户端交互
+	2. 客户端：与 数据存储服务器 的服务端交互 
+3. 数据存储服务器（已经实现）
+	1. 服务端：与 匹配系统服务器 的客户端交互
+#### 文件结构
 ```
 |-- README.md
 |-- game
@@ -234,7 +243,7 @@ Host server
     |-- match.thrift
     `-- save.thrift
 ```
-### 实现过程
+#### 实现过程（部分）
 1. 定义接口 (存放接口的文件夹就是 `thrift` 文件)
 2. 完成 `Server` 端
 	1. 通过`match.thrift`接口在`match_system`文件夹下生成 C++版本的服务端
@@ -261,6 +270,10 @@ Host server
 			- `git restore --stage *.pyc   # .pyc文件是编译文件，不加入暂存区里`
 			- `git restore --stage *.swp   # .swp文件是缓存文件，不加入暂存区里（vim没关时会生成）`
 - 注意：先运行服务器后，客户端才能正常运行
+#### 项目地址
+- [Thrift_lesson](https://git.acwing.com/ZagY/thrift_lesson)
+
+
 
 
 
