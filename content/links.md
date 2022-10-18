@@ -38,7 +38,6 @@
 - [**Source**](https://resource.1kbtool.com/)
 ## Edit
 - [**Exercism**](https://exercism.org/tracks) 在线练习编程语言
-- [Overleaf](https://www.overleaf.com/project) 在线 `LaTeX` 编辑器
 ## Art
 - [**Excalidraw**](https://excalidraw.com/) 在线白板画图工具
 - [Gallerix](https://gallerix.asia/) 绘画和画家

@@ -103,16 +103,17 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 ![search3](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search3.png)
 
 # 书籍
-- `Neat Reader & Z-Library & 学校图书馆`
+- `Neat Reader & Sumatra PDF & Z-Library & LoreFree & 学校图书馆`
 
 **读书，是治愈迷茫最好的良药。**
 
-[Neat Reader](https://www.neat-reader.com/) 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) 搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 `Neat Reader` 阅读。
+`Neat Reader` 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) or [LoreFree](https://lorefree.com/) 上搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 [Neat Reader](https://www.neat-reader.com/) 阅读。
 
 ![neatReader](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/neatReader.png)
 
-不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看。
+如果找不到EPUB格式的书籍，我会存 PDF 格式的，然后在 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) 上阅读
 
+不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看。
 
 
 
