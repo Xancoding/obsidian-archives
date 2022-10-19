@@ -28,7 +28,6 @@
 # 学习
 - [CS自学指南](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 - [小林 x 图解计算机基础](https://xiaolincoding.com/) 
-- [代码随想录 x 数据结构与算法](https://www.programmercarl.com/) 
 
 # 文章
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/) 软件开发中的软技能

@@ -32,6 +32,7 @@ cover:
 - [《算法竞赛进阶指南》](https://book.douban.com/subject/30136932/)
 - [《算法（第4版）》](https://book.douban.com/subject/19952400/)
 ***
+- [代码随想录 x 数据结构与算法](https://www.programmercarl.com/) 
 - [AcWing 算法基础课](https://www.acwing.com/activity/content/11/)
 - [AcWing 算法提高课](https://www.acwing.com/activity/content/16/)
 - [AcWing 算法进阶课](https://www.acwing.com/activity/content/32/)
