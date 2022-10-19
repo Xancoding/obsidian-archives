@@ -18,6 +18,7 @@
 ### 参考资料
 - [Sulv's Blog](https://www.sulvblog.cn/)
 - [3rd's Blog](https://333rd.net/)
+- [田少晗的个人博客](https://shaohanyun.top/)
 ## [WarOfWarlock](https://github.com/Xancoding/WarOfWarlock)
 ### 搭建工具
 - `HTML & CSS & JavaScript & Django`
