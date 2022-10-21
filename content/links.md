@@ -16,7 +16,8 @@
 # 社区
 - [小众软件论坛](https://meta.appinn.net/)
 - [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
-- [Medium](https://medium.com/) 网络文章发布平台，文章质量高
+- [Medium](https://medium.com/) 网络文章发布平台 文章质量高
+- [Buzzing](https://www.buzzing.cc/) 国外社交媒体聚合热榜 中文标题 
 - [HackerNews](https://news.ycombinator.com/)
 
 # 工具
