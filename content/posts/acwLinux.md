@@ -76,8 +76,68 @@ cover:
 - 一个`session`可以有好多个`window`(窗口)
 - 一个`window`可以有好多个`pane`(面板)
 - 一个`session`里不超过10个`window`是最方便的：可以用0到9迅速切换
+### Tmux常用命令
+> **Ac-Terminal 下前缀键被修改成了 Ctrl + a，一般的默认情况下是 Ctrl + b**
+1. `tmux new -s <session-name>`：新建会话
+2. `tmux detach` $or$ `Ctrl + a d`：分离会话，退出当前 Tmux 窗口，但是会话和里面的进程仍然在后台运行
+3. `tmux attach -t <session-name>`：重新接入某个已存在的会话
+4. `tmux kill-session -t <session-name>`：杀死某个会话
+5. `tmux switch -t <session-name>`：切换会话
+6. `tmux rename-session -t <old-name> <new-name>`：重命名会话
+7. `tmux ls` $or$ `Ctrl + a s`：查看当前所有的 Tmux 会话
+8. 在`tmux`中选中文本时，需要按住 `shift` 键
+9. `tmux`中复制/粘贴文本：
+	1. 按下 `Ctrl + a` 后松开手指，然后按 `[`
+	2. 用鼠标选中文本，被选中的文本会被自动复制到tmux的剪贴板
+	3. 按下 `Ctrl + a` 后松开手指，然后按 `]` ，会将剪贴板中的内容粘贴到光标处
 ### Vim 是什么？
 > **VIM 是 Linux 系统上一款文本编辑器，它是操作 Linux 的一款利器。**
+### Vim常用命令
+1. 一般模式切换到编辑模式（常用）
+	1. `i` : 在光标所处位置 **直接** 开始
+	2. `a` : 在光标所处位置的 **下一个字符** 开始
+	3. `o` : 在光标所处位置的 **下一行** 开始
+	4. `r` : 取代当前光标处的字符，然后开始
+	5. `[ESC]` : 退出编辑模式，回到一般模式
+2. 光标移动操作
+	1. `n<Space>` : **n** 为数字，光标 **向右移动**这一行的n个字符
+	2. `n<Enter>` : **n** 为数字，光标 **向下移动**n行
+	3. `0` 或 `功能键[Home]`: 光标移动到 **本行开头**
+	4. `$` 或 `功能键[End]`: 光标移动到 **本行末尾**
+	5. `:n` 或 `nG` : **n** 为数字，光标移动到 **第n行**
+	6. `G`: 光标移动到 **最后一行**
+	7. `gg` : 光标移动到 **第一行**
+3. 查找、替换操作
+	1. `/word` : 向 **光标之下** 寻找 第一个值为 **word** 的字符串
+	2. `?word` : 向 **光标之上** 寻找 第一个值为 **word** 的字符串
+	3. `n` : 重复 **前一个** 查找操作
+	4. `N` : 反向 重复 **前一个** 查找操作
+	5. `:n1,n2s/word1/word2/g` : **n1** 与 **n2** 为数字，在第 **n1** 行与 **n2** 行之间寻找 **word1** 这个字符串，并将该字符串 替换 为 **word2**
+	6. `:1,$s/word1/word2/g` : 将全文的 **word1** 替换为 **word2**
+	7. `:1,$s/word1/word2/gc` : 将全文的 **word1** 替换为 **word2**，且在替换前 **要求用户确认**
+4. 文本操作（可搭配 `数字+<Enter>/<Space>、0、G、$` 等使用，达到预期组合效果）
+	1. `v` : 选中文本
+	2. `d` : 删除选中的文本
+	3. `dd` : 删除当前行
+	4. `y` : 复制选中的文本
+	5. `yy` : 复制当前行
+	6. `p` : 将复制的数据在光标的下一行/下一个位置 粘贴
+	7. `u` : 撤销
+	8. `Ctrl + r` : 取消撤销
+	9. `>` : 将选中的文本整体 **向右缩进一次**
+	10. `<` : 将选中的文本整体 **向左缩进一次**
+5. 命令行操作
+	1. `:w` : 保存
+	2. `:w!` : 强制保存
+	3. `:q` : 退出
+	4. `:q!` : 强制退出
+	5. `:wq` : 保存并退出
+	6. `:set paste` : 设置成粘贴模式，取消代码自动缩进
+	7. `:set nopaste` : 取消粘贴模式，开启代码自动缩进
+	8. `:set nu` : 显示行号
+	9. `:set nonu` : 隐藏行号
+	10. `:noh`：关闭查找关键词高亮
+6. `Ctrl + q` : 当`vim`卡死时，可以 **取消当前正在执行的命令**
 ## SSH 
 - [SSH | AcWing Linux 基础课](https://www.acwing.com/file_system/file/content/whole/index/content/2898263/)
 - [Adding a new SSH key to your GitHub account](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
@@ -189,7 +249,7 @@ Host server
 - [Thrift_learning - AcGit](https://git.acwing.com/fashen/thrift_learning/-/blob/master/readme.md)
 - [AcWing Linux 基础课 | Colopen's blog | Thrift](https://www.colopen-blog.com/Engineer/acw_linux/)
 - [thrift 官网](https://thrift.apache.org/) -> [Tutorial](https://thrift.apache.org/tutorial/) -> [tutorial.thrift](https://git-wip-us.apache.org/repos/asf?p=thrift.git;a=blob_plain;f=tutorial/tutorial.thrift)
-
+***
 ### Thrift是什么？
 > **Thrift是一个轻量级、跨语言的远程过程服务调用（RPC）框架**
 > 
@@ -272,27 +332,72 @@ Host server
 			- `git restore --stage *.pyc   # .pyc文件是编译文件，不加入暂存区里`
 			- `git restore --stage *.swp   # .swp文件是缓存文件，不加入暂存区里`
 - 注意：先运行服务器后，客户端才能正常运行
+#### Thrift 接口
+##### Match.thrift 
+```
+namespace cpp match_service
+struct User {
+    1: i32 id,
+    2: string name,
+    3: i32 scores
+}
+service Match {
+    i32 add_user(1: User user, 2: string info),
+    i32 remove_user(1: User user, 2: string info),
+}
+```
+##### Save.thrift 
+```
+namespace cpp save_service
+service Save {
+    /**
+     * username: myserver的名称
+     * password: myserver的密码的md5值的前8位，用命令md5sum
+     * 用户名密码验证成功会返回0，验证失败会返回1
+     * 验证成功后，结果会被保存到myserver:homework/lesson_6/result.txt中
+     */
+    i32 save_data(1: string username, 2: string password, 3: i32 player1_id, 4: i32 player2_id)
+}
+```
 #### 各版本预览
 ##### Match_server:1.0
 - `match_client`：创建固定的`User`
 ```
+from match_client.match import Match
+from match_client.match.ttypes import User
+
+from thrift import Thrift
+from thrift.transport import TSocket
+from thrift.transport import TTransport
+from thrift.protocol import TBinaryProtocol
+
+
 def main():
-# Make socket
-transport = TSocket.TSocket('localhost', 9090)
-# Buffering is critical. Raw sockets are very slow
-transport = TTransport.TBufferedTransport(transport)
-# Wrap in a protocol
-protocol = TBinaryProtocol.TBinaryProtocol(transport)
-# Create a client to use the protocol encoder
-client = Match.Client(protocol)
-# Connect!
-transport.open()
+    # Make socket
+    transport = TSocket.TSocket('localhost', 9090)
 
-user = User(1, 'yxc', 1500)
-client.add_user(user, "")
+    # Buffering is critical. Raw sockets are very slow
+    transport = TTransport.TBufferedTransport(transport)
 
-# Close!
-transport.close()
+    # Wrap in a protocol
+    protocol = TBinaryProtocol.TBinaryProtocol(transport)
+
+    # Create a client to use the protocol encoder
+    client = Match.Client(protocol)
+
+    # Connect!
+    transport.open()
+
+    user = User(1, 'yxc', 1500)
+    client.add_user(user, "")
+
+    # Close!
+    transport.close()
+
+
+# 调用 main 函数
+if __name__ == "__main__":
+    main()
 ```
 - `match_server`
 ```
@@ -344,6 +449,14 @@ int main(int argc, char **argv) {
 ##### Match_server:2.0
 - `match_client`：根据标准输入来创建`User`
 ```
+from match_client.match import Match
+from match_client.match.ttypes import User
+
+from thrift import Thrift
+from thrift.transport import TSocket
+from thrift.transport import TTransport
+from thrift.protocol import TBinaryProtocol
+
 # 利用 python 在终端读入信息需要引入 stdin
 from sys import stdin
 
@@ -351,7 +464,20 @@ from sys import stdin
 # 目的是可以一直不断处理信息
 # 然后重写 main 函数，使之能不断从终端读入信息
 def operate(op, user_id, user_name, score):
-    # ...........................
+    # Make socket 
+	transport = TSocket.TSocket('localhost', 9090)
+	
+	# Buffering is critical. Raw sockets are very slow
+	transport = TTransport.TBufferedTransport(transport)
+	
+	# Wrap in a protocol
+	protocol = TBinaryProtocol.TBinaryProtocol(transport)
+	
+	# Create a client to use the protocol encoder
+	client = Match.Client(protocol)
+	
+	# Connect!
+	transport.open()
 
     # 针对 op 参数，分别进行 "增加" 与 "删出" 操作
     user = User(user_id, user_name, score)
@@ -361,12 +487,17 @@ def operate(op, user_id, user_name, score):
     else:
         client.remove_user(user, "")
     
-    # ...........................
+    # Close!
+	transport.close()
 
 def main():
     for line in stdin:
         op, user_id, user_name, score = line.split(' ')
         operate(op, int(user_id), user_name, int(score))
+
+# 调用 main 函数
+if __name__ == "__main__":
+    main()
 ```
 - `match_server`：自动将用户池中前两个用户匹配到一起
 ```
@@ -399,7 +530,6 @@ struct MessageQueue {   // 消息队列
     condition_variable cv;  // 条件变量，用于阻塞唤醒线程
 }message_queue;
 class Pool {    // 模拟匹配池
-    
 public:
     void save_result(int a, int b) {  // 记录成功匹配的信息
         printf("Match Result: %d %d \n", a, b);
@@ -512,7 +642,7 @@ void save_result(int a, int b) { // 记录成功匹配的信息
         transport->open();
 
         //调用接口，把信息存储 "数据存储服务器" 中
-        int res = client.save_data("acs_2", "50c0f4b2", a, b);
+        int res = client.save_data("acs_4888", "07637c4c", a, b);
         //输出匹配结果
         if (!res) puts("success");
         else puts("fail");
@@ -560,6 +690,7 @@ struct MessageQueue {   // 消息队列
 }message_queue;
 class Pool {    // 模拟匹配池
 public:
+	//重写 save_result 内的内容，使其能够与 "数据存储服务器" 交互
     void save_result(int a, int b) {  // 记录成功匹配的信息
         printf("Match Result: %d %d \n", a, b);
         // Client端的板子
@@ -680,7 +811,7 @@ int main(int argc, char **argv) {
 ```
 
 ##### Match_server:4.0
-- `match_server`：随时间扩大匹配域，每一单位的 wt 会扩大 50分 的匹配域
+- `match_server`：随时间扩大匹配域，每一单位的 `wt` 会扩大 $50$ 分 的匹配域
 ```
 // This autogenerated skeleton file illustrates how to build a server.
 // You should copy it to another filename to avoid overwriting it.
@@ -744,7 +875,7 @@ public:
         int b_max_dif = wt[j] * 50;
         return dt <= a_max_dif && dt <= b_max_dif;
     }
-    void match() {  // 将匹配池中的第一、第二个用户匹配
+    void match() {
        for (uint32_t i = 0; i < wt.size(); ++ i)
            wt[i] ++;
         while (users.size() > 1) {
@@ -872,7 +1003,6 @@ success
 ```
 #### 项目地址
 - [Learning-Thrift](https://github.com/Xancoding/Learning-Thrift)
-
 
 
 
