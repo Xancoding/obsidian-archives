@@ -99,11 +99,15 @@ params:
   socialIcons: # 首页图标
       - name: Github
         url: "https://github.com/Xancoding"
+      - name: BiliBili
+        url : "https://space.bilibili.com/365076064"        
       - name: WeChat
         url: "img/wechat.jpg"
+      - name: email
+        url: "mailto:zag.zj.cn@gmail.com"
       - name: RSS
         url: "index.xml"
- 
+
   assets:
         favicon: "img/favicon.ico"
         favicon16x16: "img/favicon.ico"
