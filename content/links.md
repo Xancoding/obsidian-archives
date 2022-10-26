@@ -25,6 +25,7 @@
 - [Obsidian](https://obsidian.md/) 知识管理工具
 - [划词翻译](https://hcfy.app/) 浏览器翻译插件
 - [Spotify](https://open.spotify.com/) 流媒体音乐服务平台
+- [软件推荐 | 茂茂物语 (fe-mm.com)](https://notes.fe-mm.com/software/cross-platform.html)
 
 # 学习
 - [CS自学指南](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
