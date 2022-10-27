@@ -76,8 +76,8 @@
 # Run
 ## 衣物穿脱
 ![RunningOnAndOff](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/RunningOnAndOff.jpg)
+<div style="font-size:14px;color:#C0C0C0;text-decoration:underline">图片来自于知乎博主@阿甘跑步，版权归原作者所有</div> 
 
-*图片来自于知乎博主@阿甘跑步，版权归原作者所有*
 ## 配速表
 ![speedTable](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/speedTable.jpg)
 
