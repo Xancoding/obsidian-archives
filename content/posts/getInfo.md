@@ -30,20 +30,6 @@ cover:
     relative: false
 ---
 
-- [优化自己的信息源](https://catcoding.me/p/get-better-info/)  
-
-- [中文互联网的产出在渐渐枯萎](https://www.zhihu.com/question/49684783/answer/2305132342)  
-
-- [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
-
-- [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
-
-- [互联网之子](https://coolshell.cn/articles/11928.html)  
-
-- [RSS Source | RSS订阅源推荐](https://rss-source.com/)  
-
-- [Practical Google Search Tips](http://haoeric.github.io/Google-search-grammar/)
-***
 >**这个时代不缺信息，因为信息太多了，缺的是时间**
 >
 > **整个互联网正在充斥着流量内容，而我们得学会如何从垃圾中找到金子**
@@ -113,7 +99,20 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 如果找不到EPUB格式的书籍，我会存 PDF 格式的，然后在 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) 上阅读
 
 不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看。
+# 推荐阅读
+- [优化自己的信息源](https://catcoding.me/p/get-better-info/)  
 
+- [中文互联网的产出在渐渐枯萎](https://www.zhihu.com/question/49684783/answer/2305132342)  
+
+- [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
+
+- [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
+
+- [互联网之子](https://coolshell.cn/articles/11928.html)  
+
+- [RSS Source | RSS订阅源推荐](https://rss-source.com/)  
+
+- [Practical Google Search Tips](http://haoeric.github.io/Google-search-grammar/)
 
 
 

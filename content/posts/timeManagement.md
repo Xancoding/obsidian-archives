@@ -61,9 +61,9 @@ cover:
 
 最后的最后，一定记得要**对自己的能力做一个合理的预期**，你每周工作40小时并不意味着你能完成80个番茄钟。找到适合你的番茄钟数量，过度的加量会适得其反。
 
-# 推荐文章
+# 推荐阅读
 - [如何用Todo清单度过余生的每一天？](https://zhuanlan.zhihu.com/p/468627225?utm_campaign=shareopn&utm_medium=social&utm_oi=1205113084614000640&utm_psn=1564268556828737536&utm_source=wechat_session)
 - [告别社交网络有多难](https://geekplux.com/posts/farewell_social_network)
 - [社交网络名存实亡](https://geekplux.com/newsletters/28)
 - [Sunset of the social network](https://www.axios.com/2022/07/25/sunset-social-network-facebook-tiktok)
-- [软技能](https://book.douban.com/subject/26835090/) 生产力篇
+- [《软技能》](https://book.douban.com/subject/26835090/) 生产力篇
