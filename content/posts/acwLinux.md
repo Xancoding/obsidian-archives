@@ -244,6 +244,31 @@ Host server
 3. `git stash drop`：删除栈顶存储的修改
 4. `git stash pop`：将栈顶存储的修改恢复到当前分支，同时删除栈顶元素
 5. `git stash list`：查看栈中所有元素
+### 本地项目上传到GitHub
+1. 配置`ssh-key`实现本地与`Git`服务器免密交互
+```
+ssh-keygen  # 生成密钥
+cat .ssh/id_rsa.pub
+# 复制密钥，提交到 git 服务器的 ssh 密钥中
+```
+2. 按照下面的操作在本地文件夹配置一下`Git`：
+```
+git config --global user.name xxx  # 设置用户名
+git config --global user.email xxx@xxx.com  # 设置用户邮箱
+
+git init
+git add .
+git commit -m "xxx"
+git remote add origin https://github.com/xxx/XXX.git  # 建立连接
+git push -u origin master
+```
+### .gitignore的作用
+> **工程常识：缓存文件，可执行文件，编译文件 不要传到自己的 git 项目里**
+> 
+> **.gitignore的作用就是帮助我们在git add时将我们指定的一些文件自动排除在外，不提交到git当中**
+> 
+> **在Git工作区的根目录下创建一个特殊的`.gitignore`文件，然后把要忽略的文件名填进去，Git就会自动忽略这些文件**
+
 ## **Thrift** 
 - [Thrift | AcWing Linux 基础课](https://www.acwing.com/video/3479/)
 - [Thrift_learning - AcGit](https://git.acwing.com/fashen/thrift_learning/-/blob/master/readme.md)
@@ -1037,14 +1062,14 @@ success
 1. `scp django_lesson_1_0.tar server`：将`docker压缩包`传至云服务器
 2.  `ssh server`：免密登录至云服务器
 3.  `docker load -i django_lesson_1_0.tar`：将`docker压缩包`解压缩成`docker镜像`
-4.  `docker run -p 20000:22 8000:8000 --name django -itd django_lesson:1.0` ：利用 `镜像django_lesson:1.0` 创建一个命名为 `django` 的 `docker容器`（`20000端口` 登录）（`8000端口` 调试）并启动
+4.  `docker run -p 20000:22 8000:8000 --name django -itd django_lesson:1.0` ：利用 `镜像django_lesson:1.0` 创建一个命名为 `django` 的 `docker容器`并启动
 5.  `docker attach my_docker_server`：进入创建的`docker容器`（服务器）
 6.  `adduser acs`：创建`acs`用户
 7.  `usermod -aG sudo acs`：为`acs`用户分配`sudo`权限
 8.  `scp .bashrc .vimrc .tmux.conf django`：将本地服务器的`bash`&`vim`&`tmux`配置文件传至`docker 容器`
-
 ### Docker项目迁移
-第一步，登录容器，关闭所有运行中的任务。</br>
+第一步，登录容器，关闭所有运行中的任务 
+
 第二步，登录运行容器的服务器，然后执行：
 
 ```
@@ -1052,6 +1077,24 @@ docker commit CONTAINER_NAME django_lesson:1.1  # 将容器保存成镜像，将
 docker stop CONTAINER_NAME # 关闭容器
 docker rm CONTAINER_NAME # 删除容器
 ```
+### 增加容器的映射端口 : 80 与 443
+> **给运行中的容器，开通端口，是一件非常麻烦的事情**
+> 
+> **一个比较好的解决方案 : 先把容器保存成镜像，再删掉容器，然后用镜像生成新的容器，同时打开需要的端口**
+
+第一步，登录容器，关闭所有运行中的任务
+
+第二步，登录运行容器的服务器，然后执行 :
+```shell
+docker commit CONTAINER_NAME django_lesson:1.1  # 将容器保存成镜像，将CONTAINER_NAME替换成容器名称
+docker stop CONTAINER_NAME  # 关闭容器
+docker rm CONTAINER_NAME # 删除容器
+
+# 使用保存的镜像重新创建容器
+
+docker run -p 20000:22 -p 8000:8000 -p 80:80 -p 443:443 --name CONTAINER_NAME -itd django_lesson:1.1
+```
+第三步，去云服务器控制台，在安全组配置中开放80和443端口
 
 
 
