@@ -1,0 +1,38 @@
+---
+title: "构建你的数字花园" # 标题
+date: 2022-10-30T15:28:22+08:00 # 创建时间
+author: ["Xan"] # 作者
+tags: # 标签
+- Life
+- 工具
+- 知识管理
+keywords: # 关键词
+- Life
+- 工具
+- 知识管理
+description: "" # 描述
+weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+slug: ""
+draft: false # 是否为草稿
+comments: true # 是否展示评论
+showToc: true # 显示目录
+TocOpen: true # 自动展开目录
+hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
+disableShare: true # 底部不显示分享栏
+showbreadcrumbs: true # 顶部显示当前路径
+cover:
+    image: "" #图片路径 例：posts/tech/123/picture.png
+    caption: "" # 图片底部描述
+    alt: ""
+    relative: false
+---
+
+# 推荐阅读
+- [Obsidian](https://obsidian.md/) 
+- [语雀](https://www.yuque.com/)
+- [什么是 Zettelkasten 卡片盒笔记法？](https://www.zhihu.com/question/384309878/answer/2713962647)
+- [卢曼：与卡片盒交流](https://mp.weixin.qq.com/s?__biz=MzA5MzUzODA1OA==&mid=2247483947&idx=1&sn=2cccb76ee58ddd11541d91c4b283b594&chksm=905d104ea72a9958d71c70313d5a4799641aa903e62f32ac1038ec5fb8c903fc7db36c261d26&scene=178&cur_album_id=1477367917246726144#rd)
+- [我的知识管理工具和经验](https://catcoding.me/p/my-notes-taking-tools-and-experience/)
+- [我的 Obsidian 使用经验](https://catcoding.me/p/obsidian-for-programmer/)
+- [程序员的喵喵 | Obsidian 使用](https://space.bilibili.com/477825203/channel/collectiondetail?sid=365656)
+- [【中文字幕】Zettelkasten笔记系统的搭建 | 手把手教学 | Zettelkasten in Obsidian](https://www.bilibili.com/video/BV1Di4y1y7df/?spm_id_from=333.337.search-card.all.click&vd_source=03fea8b80d1864616f56adac92aa2617)
