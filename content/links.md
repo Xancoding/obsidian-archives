@@ -71,15 +71,15 @@
 - [秘密仙人掌](https://space.bilibili.com/441981477/?spm_id_from=333.999.0.0)
 
 ## 登山装备清单
-![mountaineeringEquipment](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/mountaineeringEquipment.png)
+![mountaineeringEquipment](https://bu.dusays.com/2022/10/30/635e1c4fb1e10.png)
 
 # Run
 ## 衣物穿脱
-![RunningOnAndOff](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/RunningOnAndOff.jpg)
+![RunningOnAndOff](https://bu.dusays.com/2022/10/30/635e1c526b4a9.jpg)
 <div style="font-size:14px;color:#C0C0C0;text-decoration:underline">图片来自于知乎博主@阿甘跑步，版权归原作者所有</div> 
 
 ## 配速表
-![speedTable](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/speedTable.jpg)
+![speedTable](https://bu.dusays.com/2022/10/30/635e1c54eebbc.jpg)
 
 
 

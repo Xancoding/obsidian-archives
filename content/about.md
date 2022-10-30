@@ -1,10 +1,7 @@
-# 作者
-|           |                    |
-| --------- | ------------------ |
-| 英文名:   | Xan              |
-| 职业:     | 学生             |
-| 爱好:     | 跑步、徒步 |
-# 项目
+# About me
+𝑯𝒊, 𝑰'𝒎 ✨ [𝐗𝐚𝐧](https://xancoding.cn/) ✨,𝐚 𝐂𝐒 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐍𝐂𝐄𝐏𝐔.</br></br>
+𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲.
+# Projects
 ## [Blog](https://github.com/Xancoding/Blog)
 ### 搭建工具
 - `Hugo & GitHub Pages & Twikoo`

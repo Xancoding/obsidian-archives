@@ -38,7 +38,7 @@ cover:
 
 我准备学习小鹤双拼，找了张小鹤双拼的键位图，用作电脑桌面，打字想不起来的时候瞄一眼。
 
-![doubleSpell](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/doubleSpell/doubleSpell.png)
+![doubleSpell](https://bu.dusays.com/2022/10/30/635e1d0475d82.png)
 
 # 推荐阅读
 - [双拼学习记](https://geekplux.com/posts/learn_shuangpin)

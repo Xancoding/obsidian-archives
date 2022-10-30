@@ -51,7 +51,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 `RSSHub Radar` 的出现，完美解决了不是所有的网页都提供RSS源这一痛点，它可以自动生成网站的RSS源以供订阅，非常方便。
 
-![RSSHub Radar](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/RSSHub.png)
+![RSSHub Radar](https://bu.dusays.com/2022/10/30/635e1cf8e7955.png)
 
 我使用RSS主要用来订阅我感兴趣的个人博客，我订阅的博客网站在 `Links` 页面下的 **博客** 那一栏。
 # 搜索引擎
@@ -61,7 +61,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 `AdblockPlus 浏览器插件` 由用户主动设置拦截网页上不想看到的内容，下图是我对知乎页面的屏蔽后的结果，我使用这个插件把知乎和B站的推荐内容屏蔽，以获得更为简洁的体验
 
-![AdblockPlus](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/AdblockPlus.png)
+![AdblockPlus](https://bu.dusays.com/2022/10/30/635e1cfc65bd4.png)
 
 `uBlacklist 浏览器插件` 在搜索时屏蔽特定网站，做到对低质内容的过滤，我屏蔽了CSDN和百度知道 
 ```
@@ -71,21 +71,21 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 *://zhidao.baidu.com/*
 ```
 
-![uBlacklist](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/uBlacklist.png)
+![uBlacklist](https://bu.dusays.com/2022/10/30/635e1cfba95d3.png)
 
 `Chrome` 浏览器还可以通过在地址栏中输入快捷字词，快速搜索特定网站，或使用其他搜索引擎，我通过设置它将知乎和B站作为搜索引擎使用。在我想寻找某条信息时，只需在地址栏输入关键字 `zh ` or `bi ` 即可搜索。
 
 经过如下配置
 
-![search1](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search1.png)
+![search1](https://bu.dusays.com/2022/10/30/635e1cf9a6064.png)
 
 就可以通过在地址栏中输入快捷字词实现简便搜索啦
 
-![search2](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search2.png)
+![search2](https://bu.dusays.com/2022/10/30/635e1cfa54e5d.png)
 
 在手机端，我是使用**桌面小工具**来达到只使用APP搜索功能目的。
 
-![search3](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/search3.png)
+![search3](https://bu.dusays.com/2022/10/30/635e1cfb03d6b.png)
 
 # 书籍
 - `Neat Reader & Sumatra PDF & Z-Library & LoreFree & 学校图书馆`
@@ -94,7 +94,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 `Neat Reader` 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) or [LoreFree](https://lorefree.com/) 上搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 [Neat Reader](https://www.neat-reader.com/) 阅读。
 
-![neatReader](https://raw.githubusercontent.com/Xancoding/Blog/main/static/img/getInfo/neatReader.png)
+![neatReader](https://bu.dusays.com/2022/10/30/635e1cf8284ec.png)
 
 如果找不到EPUB格式的书籍，我会存 PDF 格式的，然后在 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) 上阅读
 
