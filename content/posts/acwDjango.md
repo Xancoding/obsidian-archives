@@ -1319,7 +1319,10 @@ class AcGamePlayground {
 ## 用户名密码登录
 - [6.1 用户名密码登录 | 讲义](https://www.acwing.com/blog/content/12373/)
 - [6.1 上课笔记 | Andrew1729](https://www.acwing.com/solution/content/79314/)
+- [6.1 上课笔记 | 吃饱喝足不学习](https://www.acwing.com/solution/content/75831/)
 ***
+### 客户端请求与Django响应流程
+> **用户在客户端通过`$.ajax`发送请求，根据`urls`路由到对应的`views`中的函数，处理`request`后返回`JsonResponse` 至客户端**
 ### 前期准备工作
 做开发，先开启调试模式，如果不开启，服务器一旦运行错误，就只返回 `Error` 报错
 `settings.py`
@@ -2183,10 +2186,26 @@ In [13]:
 ## Web端AcWing一键登录ஐ
 - [6.2 Web端AcWing一键登录 | 讲义](https://www.acwing.com/blog/content/12466/)
 - [6.2 上课笔记 | Andrew1729](https://www.acwing.com/solution/content/79354/)
+- [6.2 Web端AcWing一键登录 | Vedio](https://www.acwing.com/video/3565/) 
+	1. **Oauth2一键授权登录的基本原理**：$17m30s——29m15s——32m51s$
+	2. 数据表添加`openid`信息：$33m20s——34m47s$
+	3. **Oauth2一键授权登录的代码实现**：$35m20s——1h25s——1h27m20s$
 ***
+> **用户点击`AcWing一键登录`，通过`urls & views`调用`apply_code`函数，将`state`放到`redis`中，将`appid & redirect_uri & scope & state` 传入`apply_code_url`链接，返回并重定向至`apply_code_url`向用户询问是否授权**
+> 
+> **用户点击`同意`后，重定向至`redirect_uri`链接，返回参数为`code`和`state`，通过`urls & views`调用`receive_code`函数**
+> 
+> **若验证`state`失败，直接重定向至初始界面**
+> 
+> **若验证`state`成功，将`appid & code & secret`发送至`AcWing服务器`，申请授权令牌`access_token`和用户的`openid`**
+> 
+> **若申请令牌成功，将`access_token & openid`发送至`AcWing服务器`，得到用户信息，创建并登录用户，最后重定向至初始界面**
 ## AcApp端AcWing一键登录ஐ
 - [6.3 AcApp端AcWing一键登录 | 讲义](https://www.acwing.com/blog/content/12467/)
 - [6.3 上课笔记 | Andrew1729](https://www.acwing.com/solution/content/79365/)
+- [6.3 Acapp端AcWing一键登录 | Vedio](https://www.acwing.com/video/3566/) 
+	1. **Oauth2一键授权登录的基本原理**：$10m——12m20s——16m35s——18m$
+	2. **Oauth2一键授权登录的代码实现**：$19m25s——21m——23m25s——34m29s——42m10s$
 ***
 # 实现联机对战ஐ
 - [7. 实现联机对战 | 讲义](https://www.acwing.com/file_system/file/content/whole/index/content/3357332/)
