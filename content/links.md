@@ -1,3 +1,7 @@
+# CS
+- [CS自学指南](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
+- [小林 x 图解计算机基础](https://xiaolincoding.com/)
+
 # Blogs
 - [面向信仰编程](https://draveness.me/)
 	- [为什么这么设计](https://draveness.me/whys-the-design/)
@@ -14,21 +18,12 @@
 	- [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
 	- [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
 	- [如何挖掘网络资源](https://program-think.blogspot.com/2013/03/internet-resource-discovery-0.html)
-	- [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
-
-# Community
-- [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
-- [Medium](https://medium.com/) 网络文章发布平台 文章质量高
-- [Buzzing](https://www.buzzing.cc/) 国外社交媒体聚合热榜 中文标题 
-- [HackerNews](https://news.ycombinator.com/) 技术热点话题 新闻社区
-- [小众软件论坛](https://meta.appinn.net/) 分享免费、小巧、有趣、实用软件
-
+	- [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html) 
 # Tools
 - [Exercism](https://exercism.org/tracks) 在线练习编程语言
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
-
 # Outdoor
 ## 入门指南
 - [登山者Black](https://space.bilibili.com/5682935)
@@ -51,7 +46,6 @@
 
 ## 登山装备清单
 ![mountaineeringEquipment](https://bu.dusays.com/2022/10/30/635e1c4fb1e10.png)
-
 # B站UP主
 ## History 
 1. [集思屋](https://space.bilibili.com/1103935173?spm_id_from=333.337.0.0)
@@ -67,3 +61,10 @@
 1. [安迪视频](https://space.bilibili.com/357261525?spm_id_from=333.337.0.0)
 2. [动漫作业本](https://space.bilibili.com/488779255?spm_id_from=333.337.search-card.all.click) 海贼王
 3. [chissy](https://space.bilibili.com/19258940/?spm_id_from=333.999.0.0) 探险活宝
+# Community
+- [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
+- [Medium](https://medium.com/) 网络文章发布平台 文章质量高
+- [Buzzing](https://www.buzzing.cc/) 国外社交媒体聚合热榜 中文标题 
+- [HackerNews](https://news.ycombinator.com/) 技术热点话题 新闻社区
+- [小众软件论坛](https://meta.appinn.net/) 分享免费、小巧、有趣、实用软件
+
