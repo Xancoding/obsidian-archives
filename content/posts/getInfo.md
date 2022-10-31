@@ -54,6 +54,22 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 ![RSSHub Radar](https://bu.dusays.com/2022/10/30/635e1cf8e7955.png)
 
 我使用RSS主要用来订阅我感兴趣的个人博客，我订阅的博客网站在 `Links` 页面下的 **博客** 那一栏。
+# 播客
+- `小宇宙`
+
+播客也是一个很好的信息源，可以在做一些不用🧠的事时听。我的使用场景通常是在吃饭或是上下课的路上。我使用的播客软件是[小宇宙](https://www.xiaoyuzhoufm.com/)，体验不错。
+# 书籍
+- `Neat Reader & Sumatra PDF & Z-Library & LoreFree & 学校图书馆`
+
+**读书，是治愈迷茫最好的良药。**
+
+`Neat Reader` 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) or [LoreFree](https://lorefree.com/) 上搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 [Neat Reader](https://www.neat-reader.com/) 阅读。
+
+![neatReader](https://bu.dusays.com/2022/10/30/635e1cf8284ec.png)
+
+如果找不到EPUB格式的书籍，我会存 PDF 格式的，然后在 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) 上阅读
+
+不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看。
 # 搜索引擎
 - `Google & AdblockPlus & uBlacklist`
 
@@ -86,19 +102,6 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 在手机端，我是使用**桌面小工具**来达到只使用APP搜索功能目的。
 
 ![search3](https://bu.dusays.com/2022/10/30/635e1cfb03d6b.png)
-
-# 书籍
-- `Neat Reader & Sumatra PDF & Z-Library & LoreFree & 学校图书馆`
-
-**读书，是治愈迷茫最好的良药。**
-
-`Neat Reader` 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) or [LoreFree](https://lorefree.com/) 上搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 [Neat Reader](https://www.neat-reader.com/) 阅读。
-
-![neatReader](https://bu.dusays.com/2022/10/30/635e1cf8284ec.png)
-
-如果找不到EPUB格式的书籍，我会存 PDF 格式的，然后在 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) 上阅读
-
-不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看。
 # 推荐阅读
 - [优化自己的信息源](https://catcoding.me/p/get-better-info/)  
 
