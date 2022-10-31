@@ -70,3 +70,4 @@ cover:
 - [Sunset of the social network](https://www.axios.com/2022/07/25/sunset-social-network-facebook-tiktok)
 ***
 - [《软技能》](https://book.douban.com/subject/26835090/) 生产力篇
+{{< douban  src="https://book.douban.com/subject/26835090/" >}}

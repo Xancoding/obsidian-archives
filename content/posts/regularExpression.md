@@ -54,3 +54,5 @@ cover:
 ***
 - [《正则表达式必知必会》](https://book.douban.com/subject/26285406/)
 - [《精通正则表达式》](https://book.douban.com/subject/2154713/)
+{{< douban src="https://book.douban.com/subject/26285406/" >}}
+{{< douban src="https://book.douban.com/subject/2154713/" >}}

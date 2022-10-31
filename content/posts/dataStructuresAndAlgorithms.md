@@ -26,11 +26,8 @@ cover:
     alt: ""
     relative: false
 ---
+
 - [数据结构与算法 | 我的笔记](https://github.com/Xancoding/Data-Structures-and-Algorithms)
-- [《大话数据结构》](https://book.douban.com/subject/6424904/)
-- [《labuladong的算法小抄》](https://book.douban.com/subject/35252621/)
-- [《算法竞赛进阶指南》](https://book.douban.com/subject/30136932/)
-- [《算法（第4版）》](https://book.douban.com/subject/19952400/)
 ***
 - [代码随想录 x 数据结构与算法](https://www.programmercarl.com/) 
 - [AcWing 算法基础课](https://www.acwing.com/activity/content/11/)
@@ -43,3 +40,12 @@ cover:
 - [AcWing](https://www.acwing.com/)
 - [Luogo](https://www.luogu.com.cn/)
 - [Codeforces](https://codeforces.com/)
+***
+- [《大话数据结构》](https://book.douban.com/subject/6424904/)
+- [《labuladong的算法小抄》](https://book.douban.com/subject/35252621/)
+- [《算法竞赛进阶指南》](https://book.douban.com/subject/30136932/)
+- [《算法（第4版）》](https://book.douban.com/subject/19952400/)
+{{< douban src="https://book.douban.com/subject/6424904/" >}}
+{{< douban src="https://book.douban.com/subject/35252621/" >}}
+{{< douban src="https://book.douban.com/subject/30136932/" >}}
+{{< douban src="https://book.douban.com/subject/19952400/" >}}

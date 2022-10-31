@@ -45,3 +45,4 @@ cover:
 ***
 - [一份不太简短的 LATEX 介绍](http://www.ptep-online.com/ctan/lshort_chinese.pdf)
 - [《Latex入门》](https://book.douban.com/subject/24703731/)
+{{< douban src="https://book.douban.com/subject/24703731/" >}}

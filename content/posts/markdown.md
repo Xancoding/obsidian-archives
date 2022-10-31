@@ -91,5 +91,7 @@ cover:
 - [Markdown - All You Need to Know](http://haoeric.github.io/markdown-grammar/#fnref:1)
 - [Markdown 官方教程](https://markdown.com.cn/)
 - [Markdown 指南中文版](https://www.markdown.xyz/)
+***
 - [《了不起的Markdown》](https://book.douban.com/subject/34613706/)
+{{< douban src="https://book.douban.com/subject/34613706/" >}}
 
