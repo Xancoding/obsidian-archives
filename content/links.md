@@ -24,6 +24,13 @@
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
+- 
+# Movies
++ [x] [海洋之歌](http://www.wsscsc.com/play/26699-1-1.html)
++ [ ] 狼行者
++ [ ] [凯尔经的秘密](https://www.youtube.com/watch?v=oe_JogMlDDw&t=2517s)
++ [ ] 狐狸与我
++ [ ] 白日梦想家
 # Outdoor
 ## 入门指南
 - [登山者Black](https://space.bilibili.com/5682935)
