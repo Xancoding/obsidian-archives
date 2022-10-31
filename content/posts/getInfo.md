@@ -103,25 +103,11 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 ![search3](https://bu.dusays.com/2022/10/30/635e1cfb03d6b.png)
 # 推荐阅读
-- [优化自己的信息源](https://catcoding.me/p/get-better-info/)  
-
-- [中文互联网的产出在渐渐枯萎](https://www.zhihu.com/question/49684783/answer/2305132342)  
-
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
-
 - [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
-
-- [互联网之子](https://coolshell.cn/articles/11928.html)  
-
 - [RSS Source | RSS订阅源推荐](https://rss-source.com/)  
-
+***
 - [Practical Google Search Tips](http://haoeric.github.io/Google-search-grammar/)
-
-
-
-
-
-
-
-
-
+***
+- [优化自己的信息源](https://catcoding.me/p/get-better-info/)  
+- [中文互联网的产出在渐渐枯萎](https://www.zhihu.com/question/49684783/answer/2305132342)  

@@ -1,4 +1,7 @@
 # Blogs
+- [面向信仰编程](https://draveness.me/)
+	- [为什么这么设计](https://draveness.me/whys-the-design/)
+	- [Go 语言设计与实现](https://draveness.me/golang/)
 - [Owen 的博客](https://www.owenyoung.com/)
 	- [收集发人深省的话](https://www.owenyoung.com/quotes/)
 	- [探索互联网上高质量的内容](https://www.owenyoung.com/sources/)
@@ -21,10 +24,8 @@
 - [小众软件论坛](https://meta.appinn.net/) 分享免费、小巧、有趣、实用软件
 
 # Tools
-- [**Exercism**](https://exercism.org/tracks) 在线练习编程语言
+- [Exercism](https://exercism.org/tracks) 在线练习编程语言
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
-- [ProcessOn](https://www.processon.com/) 免费在线流程图思维导图
-- [Excalidraw](https://excalidraw.com/) 手绘风格流程图
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
 
