@@ -35,6 +35,7 @@ cover:
 - [卢曼：与卡片盒交流](https://mp.weixin.qq.com/s?__biz=MzA5MzUzODA1OA==&mid=2247483947&idx=1&sn=2cccb76ee58ddd11541d91c4b283b594&chksm=905d104ea72a9958d71c70313d5a4799641aa903e62f32ac1038ec5fb8c903fc7db36c261d26&scene=178&cur_album_id=1477367917246726144#rd)
 - [我的知识管理工具和经验](https://catcoding.me/p/my-notes-taking-tools-and-experience/)
 - [我的 Obsidian 使用经验](https://catcoding.me/p/obsidian-for-programmer/)
+- [不要再碎片化笔记了 - 关于笔记的思考](https://www.owenyoung.com/blog/about-notes/)
 ***
 - [程序员的喵喵 | Obsidian 使用](https://space.bilibili.com/477825203/channel/collectiondetail?sid=365656)
 - [【中文字幕】Zettelkasten笔记系统的搭建 | 手把手教学 | Zettelkasten in Obsidian](https://www.bilibili.com/video/BV1Di4y1y7df/?spm_id_from=333.337.search-card.all.click&vd_source=03fea8b80d1864616f56adac92aa2617)
