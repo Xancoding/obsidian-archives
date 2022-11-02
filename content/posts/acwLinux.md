@@ -244,6 +244,14 @@ Host server
 3. `git stash drop`：删除栈顶存储的修改
 4. `git stash pop`：将栈顶存储的修改恢复到当前分支，同时删除栈顶元素
 5. `git stash list`：查看栈中所有元素
+### Git更换远程仓库地址
+```csharp
+git remote -v  # 查看远端地址
+git remote # 查看远端仓库名
+git remote rm origin # 删除远程的仓库
+git remote add origin https://github.com/xx/xx.git （新地址） # 重新添加远程仓库
+git push --set-upstream origin master
+```
 ### 本地项目上传到GitHub
 1. 配置`ssh-key`实现本地与`Git`服务器免密交互
 ```
