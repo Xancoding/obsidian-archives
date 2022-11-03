@@ -3,6 +3,7 @@
 - [小林 x 图解计算机基础](https://xiaolincoding.com/)
 
 # Blogs
+- [杨 飞 自 选 作 品 集](http://www.999kg.com/)
 - [面向信仰编程](https://draveness.me/)
 	- [为什么这么设计](https://draveness.me/whys-the-design/)
 	- [Go 语言设计与实现](https://draveness.me/golang/)
