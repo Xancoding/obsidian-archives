@@ -76,7 +76,7 @@ cover:
 ***
 ## KOF
 - [KOF](https://github.com/Xancoding/Leaning-jQuery)
-- [AcWing Web 应用课 | 中期项目——拳皇（上） | Vedio](https://www.acwing.com/video/3830/)
+- [AcWing Web 应用课 | 中期项目——拳皇（上） | Vedio](https://www.acwing.com/video/3830/) 
 - [AcWing Web 应用课 | 中期项目——拳皇（下） | Vedio](https://www.acwing.com/video/3833/)
 ***
 ### 基础操作
@@ -568,6 +568,8 @@ export class GameMap extends AcGameObject {
 
   
 
+    // 加入血条
+
     this.root.$kof.append($(`
 
       <div class="kof-head">
@@ -584,7 +586,9 @@ export class GameMap extends AcGameObject {
 
   
 
-    this.time_left = 60000;  //单位：毫秒
+    // 加入计时表
+
+    this.time_left = 60000;  //单位：毫秒（因为定义的timedelta单位是ms）
 
     this.$timer = this.root.$kof.find('.kof-head-timer');
 
@@ -602,9 +606,21 @@ export class GameMap extends AcGameObject {
 
   update() {
 
+    this.update_time();
+
+  
+
+    this.render();
+
+  }
+
+  
+
+  update_time() {
+
     this.time_left -= this.timedelta;
 
-    if (this.time_left < 0) {
+    if (this.time_left < 0) {   // 时间到，游戏结束
 
       this.time_left = 0;
 
@@ -625,10 +641,6 @@ export class GameMap extends AcGameObject {
     }
 
     this.$timer.text(parseInt(this.time_left / 1000));
-
-  
-
-    this.render();
 
   }
 
@@ -699,9 +711,9 @@ export class Player extends AcGameObject {
 
     this.status = 3;  // 0：静止， 1：向前，2：向后，3：跳跃，4：攻击，5：被攻击，6：死亡   随着项目的完善，动作会变的很多，这时用数组存储字符串代替this.status会更方便
 
-    this.animations = new Map();  // 状态的动作    
+    this.animations = new Map();  // 存储GIF动画的每一帧
 
-    this.frame_current_cnt = 0;  // 当前记录帧数
+    this.frame_current_cnt = 0;  // 记录当前的帧数
 
   
 
@@ -777,7 +789,7 @@ export class Player extends AcGameObject {
 
         this.status = 3;
 
-        this.frame_current_cnt = 0;
+        this.frame_current_cnt = 0; // 每次跳跃重新记录帧数，确保跳跃动画正常
 
   
 
@@ -817,53 +829,55 @@ export class Player extends AcGameObject {
 
   
 
-    let [a, b] = this.root.players;
+    // 确保两个角色不会重叠   a 是自己、b 是对手
 
-    if (a !== this) [a,b] = [b, a];
+    // let [a, b] = this.root.players;
 
-  
-
-    let r1 = {
-
-      x1: a.x,
-
-      y1: a.y,
-
-      x2: a.x + a.width,
-
-      y2: a.x + a.height,
-
-    };
-
-    let r2 = {
-
-      x1: b.x,
-
-      y1: b.y,
-
-      x2: b.x + b.width,
-
-      y2: b.x + b.height,
-
-    };
+    // if (a !== this) [a,b] = [b, a];
 
   
 
-    if (this.is_collusion(r1, r2)) {
+    // let r1 = {
 
-      b.x += this.vx * this.timedelta / 1000 / 2;
+    //   x1: a.x,
 
-      b.y += this.vy * this.timedelta / 1000 / 2;
+    //   y1: a.y,
 
-      a.x -= this.vx * this.timedelta / 1000 / 2;
+    //   x2: a.x + a.width,
 
-      a.y -= this.vy * this.timedelta / 1000 / 2;
+    //   y2: a.x + a.height,
+
+    // };
+
+    // let r2 = {
+
+    //   x1: b.x,
+
+    //   y1: b.y,
+
+    //   x2: b.x + b.width,
+
+    //   y2: b.x + b.height,
+
+    // };
 
   
 
-      if (this.status === 3) this.status = 0;
+    // if (this.is_collusion(r1, r2)) {
 
-    }
+    //   b.x += this.vx * this.timedelta / 1000 / 2;
+
+    //   b.y += this.vy * this.timedelta / 1000 / 2;
+
+    //   a.x -= this.vx * this.timedelta / 1000 / 2;
+
+    //   a.y -= this.vy * this.timedelta / 1000 / 2;
+
+  
+
+    //   if (this.status === 3) this.status = 0;
+
+    // }
 
   
 
@@ -875,7 +889,7 @@ export class Player extends AcGameObject {
 
       this.vy = 0;
 
-      if (this.status === 3) this.status = 0;
+      if (this.status === 3) this.status = 0;   // 因为任何时刻都有重力施加，不加这一句会导致状态只有静止状态
 
     }
 
@@ -899,7 +913,7 @@ export class Player extends AcGameObject {
 
   
 
-  update_direction() {
+  update_direction() {  // 确保两个角色始终相对
 
     if (this.status === 6) return;
 
@@ -939,7 +953,7 @@ export class Player extends AcGameObject {
 
   is_attack() {
 
-    if (this.status === 6) return;
+    if (this.status === 6) return;  // 已经倒地，无法再被攻击
 
   
 
@@ -953,7 +967,7 @@ export class Player extends AcGameObject {
 
   
 
-    this.$hp_div.animate({  
+    this.$hp_div.animate({  // 血条减少，渐变
 
       width: this.$hp.parent().width() * this.hp / 100,
 
@@ -961,7 +975,7 @@ export class Player extends AcGameObject {
 
   
 
-    this.$hp.animate({  
+    this.$hp.animate({  // 血条减少，渐变
 
       width: this.$hp.parent().width() * this.hp / 100,
 
@@ -983,9 +997,9 @@ export class Player extends AcGameObject {
 
   
 
-  update_attack() {
+  update_attack() {   // 判定是否被攻击到
 
-    if (this.status === 4 && this.frame_current_cnt === 18) {
+    if (this.status === 4 && this.frame_current_cnt === 18) {   // 第18帧时动画挥出拳，判断此时是否拳头与对方有碰撞
 
       let me = this, you = this.root.players[1 - this.id];
 
@@ -993,7 +1007,7 @@ export class Player extends AcGameObject {
 
       let r2;  // 敌方人物矩形
 
-      if (this.direction >0) {
+      if (this.direction > 0) {
 
         r1 = {
 
@@ -1075,7 +1089,7 @@ export class Player extends AcGameObject {
 
   
 
-    if (this.status === 1 && this.direction * this.vx < 0) status = 2;
+    if (this.status === 1 && this.direction * this.vx < 0) status = 2;    // 后退状态
 
   
 
@@ -1085,13 +1099,13 @@ export class Player extends AcGameObject {
 
       if (this.direction > 0) {  // 正方向
 
-        let k = parseInt(this.frame_current_cnt / obj.frame_rate) % obj.frame_cnt;
+        let k = parseInt(this.frame_current_cnt / obj.frame_rate) % obj.frame_cnt;  // 通过obj.frame_rate控制渲染动画的速率，方便控制动画，而不只是单纯的每一帧都渲染一次
 
         let image = obj.gif.frames[k].image;
 
         this.ctx.drawImage(image, this.x, this.y + obj.offset_y, image.width * obj.scale, image.height * obj.scale);
 
-      } else {  // 反方向
+      } else {  // 反方向   通过调整坐标系来翻转方向
 
         this.ctx.save();
 
@@ -1105,7 +1119,7 @@ export class Player extends AcGameObject {
 
         let image = obj.gif.frames[k].image;
 
-        this.ctx.drawImage(image, this.root.game_map.$canvas.width() - this.width - this.x, this.y + obj.offset_y, image.width * obj.scale, image.height * obj.scale);
+        this.ctx.drawImage(image, this.root.game_map.$canvas.width() - this.width - this.x, this.y + obj.offset_y, image.width * obj.scale, image.height * obj.scale);  // 不同于正方向时的渲染，因为此时坐标系改变，需要在对称的位置渲染
 
   
 
@@ -1119,9 +1133,9 @@ export class Player extends AcGameObject {
 
     if (status === 4 || status === 5 || status === 6) {  // 确保不会一直循环GIF
 
-      if (this.frame_current_cnt === obj.frame_rate * (obj.frame_cnt - 1)) {
+      if (this.frame_current_cnt === obj.frame_rate * (obj.frame_cnt - 1)) {  // 确保此时已经播放完一次GIF动画
 
-        if (status === 6) {
+        if (status === 6) {   // 死亡倒地不起，这里的 -- 和 下面的 ++ 相抵消，使之在最后一帧不再变化
 
           this.frame_current_cnt--;
 
@@ -1169,7 +1183,7 @@ export class Kyo extends Player {
 
     let outer = this;
 
-    let offsets = [0, -22, -22, -150, 0, 0, 0];   // 偏移量
+    let offsets = [0, -22, -22, -150, 0, 0, 0];   // 偏移量 不同的动画高度不同，因此需要借助竖直方向上的偏移量将他们调整至同一水平面
 
     for (let i = 0; i < 7; ++ i) {  // 7个动作
 
@@ -1183,7 +1197,7 @@ export class Kyo extends Player {
 
         frame_cnt: 0,  // GIF帧数
 
-        frame_rate: 5,  // 每秒的帧数
+        frame_rate: 5,  // 每5帧过渡一次
 
         offset_y: offsets[i],  // y方向偏移量
 
@@ -1205,7 +1219,7 @@ export class Kyo extends Player {
 
   
 
-        if (i === 3) {
+        if (i === 3) {  // 调整跳跃时GIF播放速率
 
           obj.frame_rate = 4;
 
@@ -1978,10 +1992,10 @@ export {
 ```
 #### 状态机
 <center> 
-	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/03/636315494cea8.png">
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/03/6363d89220c15.png">
 	<br>
 	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
 	display: inline-block; 
 	color: #999; 
-	padding: 2px;">0：静止    1：移动     3：跳跃</div> 
+	padding: 2px;">0：静止    1：移动     3：跳跃    4：攻击</div> 
  </center>
