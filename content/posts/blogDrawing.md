@@ -28,6 +28,8 @@ cover:
 > **画图的工具并不重要，重要的其实是你应该如何形成自己的规则体系，想要为博客配图并不是一件困难的事情，比较困难的是长期坚持并且经常思考，对自己形成的规则不断改善，最终就一定能够做好。**
 # 推荐阅读
 - [Sketch](https://www.lucidchart.com/pages/) UI 设计工具
+- [Figma](https://www.figma.com/) UI 设计工具
+- [蓝湖](https://lanhuapp.com/) UI 设计工具
 - [LucidChart](https://www.lucidchart.com/pages/) 绘制 UML 图、流程图的商业软件
 - [Excalidraw](https://excalidraw.com/) 手绘风格图表工具
 - [Plantuml](https://plantuml.com/) 快速编写UML图的组件
