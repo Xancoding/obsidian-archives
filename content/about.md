@@ -2,34 +2,22 @@
 𝑯𝒊, 𝑰'𝒎 ✨ [𝐗𝐚𝐧](https://xancoding.cn/) ✨,𝐚 𝐂𝐒 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐍𝐂𝐄𝐏𝐔.
 
 𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠, 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐚𝐧𝐝 𝐏𝐬𝐲𝐜𝐡𝐨𝐥𝐨𝐠𝐲.
-## Self-awareness
-1. 缺乏安全感
-2. 渴望亲密关系
-3. 缺失被拒绝的勇气
-4. 分享欲强，什么都想跟别人讲
-5. 希望别人可以认识到真正的我是什么样的，害怕误解
-6. 在面对自己感兴趣的问题上，常常喜欢弄清来龙去脉
-7. 习惯事前计划，事后反思，常常自我批判
-8. 对新知识保持着好奇
-9. 认为任何事都有答案
-10. 常常因为觉得自己的观点不成熟，而很少发表看法
-11. 压力过大时，情绪会明显低落，难以调节
-12. 对信息的封闭感到不悦，追求信息的开放与共享
-13. 喜欢把脑中所想记录下来
-14. 推崇极简主义
-15. 喜欢规划每天安排，却又对长期的时间段（如：一周、一个月、一年）做不出合适的计划
-## Changes to try
-1. Just try
-2. 多表达个人的感受，而不是去压抑它
-3. 多说说自己的想法与看法给别人
-4. 多读书，从书中寻找答案
-5. 多写博客，把所思所想记录下来
 # Life Insights
 1. THINK MORE
-2. LESS IS MORE
-3. DOING AND READING
-4. 背书一定要大声读出来
+2. THINK INDEPENDENTLY
+3. LESS IS MORE
+4. DOING AND READING
+5. 背书一定要大声读出来
+6. 学习三部曲：WHAT HOW WHY
+7. 不要担心错过某条消息——会被你错过的消息，多半不重要，不看也罢；真正重要的消息，你自然不会错过。
+# Motto
+1. The value of a college education is not the learning of many facts but the training of the mind to think.[^1]
 
+[^1]: **高等教育的价值在于【训练思维】，而不在于传授事实。**
+
+2. Do not try to change yourself.Work to improve the way you perform.[^2]
+
+[^2]: **不要试图改变自我，因为这样你不大可能成功。但是，你应该努力改进你的工作方式。**
 # Projects
 ## [Blog](https://github.com/Xancoding/Blog)
 ### 搭建工具

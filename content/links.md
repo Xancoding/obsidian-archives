@@ -14,20 +14,53 @@
 	- [探索互联网上高质量的内容](https://www.owenyoung.com/sources/)
 - [程序员的喵](https://catcoding.me/)
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
-- [编程随想的博客](https://program-think.blogspot.com/)
-	- [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
-	- [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
-	- [学习与人生——700篇博文之感悟](https://program-think.blogspot.com/2020/12/Study-and-Life.html)
-	- [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
-	- [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
-	- [如何挖掘网络资源](https://program-think.blogspot.com/2013/03/internet-resource-discovery-0.html)
-	- [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html) 
+- [编程随想的博客（需翻墙）](https://program-think.blogspot.com/)
+	1. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
+	2. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
+	3. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
+	4. [如何挖掘网络资源[0]：为啥要写这个话题？](https://program-think.blogspot.com/2013/03/internet-resource-discovery-0.html)
+		1. [如何挖掘网络资源[1]：网站的类型和使用场景](https://program-think.blogspot.com/2013/03/internet-resource-discovery-1.html)
+		2. **[如何挖掘网络资源[2]：Google 搜索的基本语法](https://program-think.blogspot.com/2013/03/internet-resource-discovery-2.html)**
+		3. **[如何挖掘网络资源[3]：解答 Google 搜索的常见问题（FAQs）](https://program-think.blogspot.com/2013/03/internet-resource-discovery-3.html)**
+	5. [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
+	6. [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
+	7. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
+	8. [为啥俺很少看视频？——兼谈“视频”与“文本”在认知心理学方面的差异](https://program-think.blogspot.com/2017/08/Some-Reasons-to-Watch-Less-Videos.html)
+	9. [为啥俺不常用微博？——兼谈时间管理心得](https://program-think.blogspot.com/2012/02/microblog-and-time-management.html)
+	10. [为啥俺要写这个博客——动机的自我分析](https://program-think.blogspot.com/2013/04/why-write-blog.html)
+	11. [如何选择 IT 技术书籍](https://program-think.blogspot.com/2009/01/choose-it-book.html)
+***
+1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
+	1. [扫盲“社会工程学”[1]：攻击手法之【信息收集】](https://program-think.blogspot.com/2009/05/social-engineering-1-gather-information.html)
+	2. [扫盲“社会工程学”[2]：攻击手法之【假冒身份】](https://program-think.blogspot.com/2009/05/social-engineering-2-pretend.html)
+	3. [扫盲“社会工程学”[3]：攻击手法之【施加影响】](https://program-think.blogspot.com/2009/05/social-engineering-3-influence.html)
+	4. [扫盲“社会工程学”[4]：【综合运用】举例](https://program-think.blogspot.com/2009/06/social-engineering-4-example.html)
+	5. [扫盲“社会工程学”[5]：你该如何【防范】？](https://program-think.blogspot.com/2009/07/social-engineering-5-defend.html)
+2. [如何成为优秀开发人员[0]：怎样算是优秀的？](https://program-think.blogspot.com/2009/01/0.html)
+	1. [如何成为优秀开发人员[1]：关于兴趣](https://program-think.blogspot.com/2009/01/1.html)
+	2. [如何成为优秀开发人员[2]：关于自学能力](https://program-think.blogspot.com/2009/01/2.html)
+	3. [如何成为优秀开发人员[3]：设定个人发展目标和计划](https://program-think.blogspot.com/2009/01/3.html)
+	4. [如何成为优秀开发人员[4]：做正确的事](https://program-think.blogspot.com/2009/01/4.html)
+	5. [如何成为优秀开发人员[5]：正确地做事（概述）](https://program-think.blogspot.com/2009/02/5.html)
+	6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
+	7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
+***
+1. [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
+2. [书评：《学会提问——批判性思维指南》](https://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html)
+3. [书评：《人月神话》——不朽的软件工程名著](https://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html)
+4.  [书评：《你的灯亮着吗？——找到问题的真正所在》](https://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html)
+***
+1. [如何翻墙？](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)
+2. [扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”](https://program-think.blogspot.com/2014/01/dns.html)
+3. [计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”](https://program-think.blogspot.com/2021/03/Computer-Networks-Overview.html)
+***
+- [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
+
 # Tools
 - [Exercism](https://exercism.org/tracks) 在线练习编程语言
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
-- 
 # Movies
 + [x] [海洋之歌](http://www.wsscsc.com/play/26699-1-1.html)
 + [ ] 狼行者
