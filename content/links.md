@@ -44,6 +44,8 @@
 	5. [如何成为优秀开发人员[5]：正确地做事（概述）](https://program-think.blogspot.com/2009/02/5.html)
 	6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
 	7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
+3. [“心智模式”系列：认识你自己——心智模式扫盲介绍](https://program-think.blogspot.com/2010/02/about-mental-model.html)
+4. [扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”](https://program-think.blogspot.com/2019/08/Monetary-Economics.html)
 ***
 1. [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
 2. [书评：《学会提问——批判性思维指南》](https://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html)
@@ -53,6 +55,8 @@
 1. [如何翻墙？](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)
 2. [扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”](https://program-think.blogspot.com/2014/01/dns.html)
 3. [计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”](https://program-think.blogspot.com/2021/03/Computer-Networks-Overview.html)
+4. [对比4种强化域名安全的协议——DNSSEC，DNSCrypt，DNS over TLS，DNS over HTTPS](https://program-think.blogspot.com/2018/10/Comparison-of-DNS-Protocols.html)
+5. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html)
 ***
 - [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
 
@@ -75,6 +79,7 @@
 	- [洋葱式穿着/户外运动穿什么](https://www.bilibili.com/video/BV1xE411j77f/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 	- [户外必备10要素--可能拯救你生命的十件户外必需品](https://www.bilibili.com/video/BV14U4y1577f/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 	- [户外装备选购终极指南](https://www.bilibili.com/video/BV18z411h7Wq/?vd_source=ae16ff6478eb15c1b87880540263910b)
+	- [户外急救/户外医疗包](https://www.bilibili.com/video/BV1ft4y1Q7nh/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 
 - [烛逢](https://space.bilibili.com/604006215)
 	- [户外运动三层穿衣法 | 烛逢](https://www.bilibili.com/video/BV1CQ4y1v7qo/?spm_id_from=333.788&vd_source=ae16ff6478eb15c1b87880540263910b)
