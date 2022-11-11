@@ -46,6 +46,7 @@
 	7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
 3. [“心智模式”系列：认识你自己——心智模式扫盲介绍](https://program-think.blogspot.com/2010/02/about-mental-model.html)
 4. [扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”](https://program-think.blogspot.com/2019/08/Monetary-Economics.html)
+5. [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
 ***
 1. [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
 2. [书评：《学会提问——批判性思维指南》](https://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html)
@@ -57,9 +58,11 @@
 3. [计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”](https://program-think.blogspot.com/2021/03/Computer-Networks-Overview.html)
 4. [对比4种强化域名安全的协议——DNSSEC，DNSCrypt，DNS over TLS，DNS over HTTPS](https://program-think.blogspot.com/2018/10/Comparison-of-DNS-Protocols.html)
 5. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html)
+6. [扫盲文件完整性校验——关于散列值和数字签名](https://program-think.blogspot.com/2013/02/file-integrity-check.html)
+7. **[扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”](https://program-think.blogspot.com/2019/09/Netcat-Tricks.html)**
+8. **[扫盲 HTTPS 和 SSL/TLS 协议[0]：引子](https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html)**
+9. **[扫盲操作系统虚拟机[0]：概述](https://program-think.blogspot.com/2012/10/system-vm-0.html)**
 ***
-- [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
-
 # Tools
 - [Exercism](https://exercism.org/tracks) 在线练习编程语言
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
