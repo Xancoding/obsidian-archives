@@ -202,6 +202,115 @@ host 192.168.0.10
 筛选内容包含username的http数据包----http contains "username"
 ```
 ## 通过实验阐述ARP的工作原理
+> **ARP即地址解析协议（Address Resolution Protocol），是根据IP地址获取MAC地址的一个TCP/IP协议**
+> 
+> **ARP用于解决同一个局域网上的主机或路由器的IP地址和MAC地址的映射问题**
+> 
+> **每一台主机都设有一个 ARP高速缓存，里面存有 本局域网上 各主机和路由器的IP地址到MAC地址的映射表**
+
+### ARP工作流程
+1. 当主机A要向**本局域网**上的某台主机B发送IP数据报时，就现在其ARP高速缓存中查找有无主机B的IP地址。若有，查出其对应的MAC地址，写入MAC帧；若没有，进行下述步骤
+2. 主机A的ARP进程在本局域网上广播一个ARP请求分组，其中有自己的IP地址到MAC地址的映射
+3. 本局域网上的所有主机运行的ARP进程都收到此ARP请求分组
+4. 主机B的IP地址与ARP请求分组中要查询的IP地址一致，就收下这个ARP请求分组，将主机A的MAC映射写入自己的ARP高速缓存，并向主机A发送ARP响应分组，同时在这个ARP响应分组中写入自己的MAC地址。由于其余所有主机的IP地址都与ARP请求分组中要查询的IP地址不一致，因此不理睬
+5. 主机A收到主机B的ARP响应分组后，就在其ARP高速缓存中写入主机B的IP地址到MAC地址的映射
+### 实验步骤及内容
+#### ARP命令练习
+1. 在`cmd`中使用`ipconfig/all`命令，查看自己的IP地址和MAC地址，同时让小组成员连接同一个`WIFI`执行相同的操作并记录
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f62756d2e9.png">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">我的 IP地址和MAC地址</div> 
+ </center>
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f6331a7d39.png">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">小组成员的 IP地址和MAC地址</div> 
+ </center>
+
+
+2. 使用`arp -a`查看ARP缓存表
+![1](https://bu.dusays.com/2022/11/12/636f603bde062.png)
+3. 使用`ping`小组成员的IP添加动态ARP表项
+![2](https://bu.dusays.com/2022/11/12/636f60cfe4604.png)
+我在`ping`小组成员`ip`地址时碰到**请求超时**的问题。  
+经排查，是因为windows防火墙默认设置的是不让别人ping通，通过修改防火墙相关设置解决了该问题。  
+**步骤：控制面板 →  系统和安全 → Windows防火墙 → 高级设置 → 入站规则 → 文件和打印机共享（回显请求 - ICMPv4-In）设置为启用**
+4. 使用`arp -a`查看ARP缓存表，发生新增一条数据
+![3](https://bu.dusays.com/2022/11/12/636f6169b6f50.png)
+5. 以管理员身份运行`cmd`，执行`arp -d *`，删除缓存信息
+![4](https://bu.dusays.com/2022/11/12/636f62661400d.png)
+
+#### 抓包分析ARP协议
+##### 当ARP缓存对应数据为空时
+###### 实验步骤
+1. 主机A执行`arp -d *`，删除缓存信息
+2. 主机A运行Wireshark，设置显示过滤器表达式为`arp.dst.proto_ipv4 == 192.168.31.186 and arp.src.proto_ipv4 == 192.168.31.248 or icmp `
+3. 主机A`ping`主机B的`ip地址`
+##### 结果分析
+1. 主机A将自己的`ip地址 192.168.31.248` & `MAC地址 c0:3c:59:5e:37:47`写入请求分组，并将`目的ip地址`设置为`192.168.31.186`，`目的MAC地址`设置为`00:00:00:00:00:00`，对本局域网内的所有主机进行广播
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f8f33f1a20.png">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">主机A发出的ARP请求分组</div> 
+ </center>
+
+2. 主机B收下这个ARP请求分组，将主机A的MAC映射写入自己的ARP高速缓存，并向主机A发送ARP响应分组，同时在这个ARP响应分组中写入自己的MAC地址，即`28:7f:cf:12:af:89`
+3. 主机A收到主机B的ARP响应分组后，就在其ARP高速缓存中写入主机B的IP地址到MAC地址的映射
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f8e7d3f758.png">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">主机A收到的来自主机B的ARP响应分组</div> 
+ </center>
+
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f8ea2d8434.png">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">主机A的ARP高速缓存表</div> 
+ </center>
+
+##### 当ARP缓存对应数据不为空时
+###### 实验步骤
+1. 主机A运行Wireshark，设置显示过滤器表达式为`arp.dst.proto_ipv4 == 192.168.31.186 and arp.src.proto_ipv4 == 192.168.31.248 or icmp `
+2. 主机B运行Wireshark，设置显示过滤器表达式为`arp.dst.proto_ipv4 == 192.168.31.248 and arp.src.proto_ipv4 == 192.168.31.186 or icmp`
+3. 主机A `ping`主机B的`ip地址`
+##### 结果分析
+主机A没有发出`ARP`请求，而主机B接受到了主机A的ICMP报文，说明主机A直接使用了高速缓存区内的对应数据
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f910b7f31d.png">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">主机A发出的报文</div> 
+ </center>
+
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/10/26/635911c150be7.jpg">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">主机B接受到的来自主机A的报文</div> 
+ </center>
+
+## 利用实验结果分析ICMP协议的报文结构字段定义
+> **ICMP即互联网控制报文协议（Internet Control Message Protocol），网络设备（包括路由器）使用它来发送错误消息和指示与另一个IP 地址通信时成功或失败的操作信息**
 ## 参考
 1. [Wireshark系列之4 捕获过滤器](https://blog.51cto.com/yttitan/1734425)
 2. [网络——Wireshark工具](https://blog.51cto.com/u_13579643/3647795?articleABtest=0)
@@ -210,4 +319,7 @@ host 192.168.0.10
 5. [一文精讲Wireshark的抓包和分析](https://www.freebuf.com/sectool/256745.html)
 6. [Wireshark简明教程，新手专用，挑实在的讲，不搞花里胡哨](https://bbs.huaweicloud.com/blogs/285673)
 7. [WireShark网络封包抓包工具各个界面介绍](https://blog.51cto.com/u_15688254/5694733)
-8. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
+8. [实验3.利用Wireshark分析ARP协议](https://codeantenna.com/a/2zI6hbfTIM)
+9. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
+
+
