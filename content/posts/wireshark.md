@@ -233,7 +233,7 @@ host 192.168.0.10
 	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
 	display: inline-block; 
 	color: #999; 
-	padding: 2px;">我的 IP地址和MAC地址</div> 
+	padding: 2px;">主机A IP地址和MAC地址</div> 
  </center>
 <center> 
 	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f6331a7d39.png">
@@ -241,18 +241,18 @@ host 192.168.0.10
 	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
 	display: inline-block; 
 	color: #999; 
-	padding: 2px;">小组成员的 IP地址和MAC地址</div> 
+	padding: 2px;">主机B IP地址和MAC地址</div> 
  </center>
 
 
-2. 使用`arp -a`查看ARP缓存表
+2. 主机A使用`arp -a`查看ARP缓存表
 ![1](https://bu.dusays.com/2022/11/12/636f603bde062.png)
-3. 使用`ping`小组成员的IP添加动态ARP表项
+3. 主机A通过`ping`主机B的IP来添加动态ARP缓存表数据
 ![2](https://bu.dusays.com/2022/11/12/636f60cfe4604.png)
-我在`ping`小组成员`ip`地址时碰到**请求超时**的问题。  
+我在`ping`主机B`ip`地址时碰到**请求超时**的问题。  
 经排查，是因为windows防火墙默认设置的是不让别人ping通，通过修改防火墙相关设置解决了该问题。  
 **步骤：控制面板 →  系统和安全 → Windows防火墙 → 高级设置 → 入站规则 → 文件和打印机共享（回显请求 - ICMPv4-In）设置为启用**
-4. 使用`arp -a`查看ARP缓存表，发生新增一条数据
+4. 主机A使用`arp -a`查看ARP缓存表，发生新增一条数据
 ![3](https://bu.dusays.com/2022/11/12/636f6169b6f50.png)
 5. 以管理员身份运行`cmd`，执行`arp -d *`，删除缓存信息
 ![4](https://bu.dusays.com/2022/11/12/636f62661400d.png)
@@ -263,7 +263,7 @@ host 192.168.0.10
 1. 主机A执行`arp -d *`，删除缓存信息
 2. 主机A运行Wireshark，设置显示过滤器表达式为`arp.dst.proto_ipv4 == 192.168.31.186 and arp.src.proto_ipv4 == 192.168.31.248 or icmp `
 3. 主机A`ping`主机B的`ip地址`
-##### 结果分析
+###### 结果分析
 1. 主机A将自己的`ip地址 192.168.31.248` & `MAC地址 c0:3c:59:5e:37:47`写入请求分组，并将`目的ip地址`设置为`192.168.31.186`，`目的MAC地址`设置为`00:00:00:00:00:00`，对本局域网内的所有主机进行广播
 <center> 
 	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f8f33f1a20.png">
@@ -296,11 +296,10 @@ host 192.168.0.10
 
 ##### 当ARP缓存对应数据不为空时
 ###### 实验步骤
-1. 主机A运行Wireshark，设置显示过滤器表达式为`arp.dst.proto_ipv4 == 192.168.31.186 and arp.src.proto_ipv4 == 192.168.31.248 or icmp `
-2. 主机B运行Wireshark，设置显示过滤器表达式为`arp.dst.proto_ipv4 == 192.168.31.248 and arp.src.proto_ipv4 == 192.168.31.186 or icmp`
-3. 主机A `ping`主机B的`ip地址`
-##### 结果分析
-主机A没有发出`ARP`请求，而主机B接受到了主机A的ICMP报文，说明主机A直接使用了高速缓存区内的对应数据
+1. 主机A运行Wireshark，设置显示过滤器表达式为`arp.dst.proto_ipv4 == 192.168.31.186 and arp.src.proto_ipv4 == 192.168.31.248 or icmp`
+2. 主机A `ping`主机B的`ip地址`
+###### 结果分析
+主机A没有发出`ARP`请求，而主机B接受到了主机A的ICMP报文，说明主机A直接使用了高速缓存区内的对应数据，而没有发出广播
 <center> 
 	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636f910b7f31d.png">
 	<br>
@@ -308,15 +307,6 @@ host 192.168.0.10
 	display: inline-block; 
 	color: #999; 
 	padding: 2px;">主机A发出的报文</div> 
- </center>
-
-<center> 
-	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/10/26/635911c150be7.jpg">
-	<br>
-	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
-	display: inline-block; 
-	color: #999; 
-	padding: 2px;">主机B接受到的来自主机A的报文</div> 
  </center>
 
 ## 利用实验结果分析ICMP协议的报文结构字段定义
