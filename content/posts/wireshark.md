@@ -480,6 +480,65 @@ Internet Control Message Protocol
 ```
 1. Type的值为 **11**，Code的值为 **0**，表示超时报错
 2. 图1的**回送请求报文**出错，图2相对应的**差错报告报文**，把图1报文的IP数据报的首部和数据字段的前8个字节提取出来，作为ICMP报文的数据字段
+## 基于实验数据深入分析TCP协议功能
+> **TCP即传输控制协议（Transmission Control Protocol），是面向连接的运输层协议**
+### TCP报文格式 
+![1](https://bu.dusays.com/2022/11/13/63704be4d65f3.png)
+### TCP报文格式解释
+1. <u>源端口</u>和<u>目的端口</u>：各占 2 字节，和和 IP 头部的 **源地址** 和 **目的地址** 一起唯一地标识了每个连接
+2. <u>序列号</u>：占 4 字节，TCP连接中传送的数据流中的**每一个字节都按顺序编号**，序号字段的值指的是**本报文段**所发送的数据的第一个字节的序号
+3. <u>确认号</u>：占 4 字节，是期望收到对方的下一个报文段的数据的第一个字节的序号
+4. <u>数据偏移</u>：占 4 位，它指出TCP报文段的数据起始处距离TCP报文段的起始处有多远，实际是指出TCP报文段的首部长度
+5. <u>保留</u>：占 6 位，保留为今后使用，默认置0
+6. <u>紧急 URG(URGent)</u>：当 URG = 1 时，表明紧急指针字段有效。它告诉系统此报文段中有紧急数据，应尽快传送(相当于高优先级的数据)
+7. <u>确认 ACK(ACKnowledegment)</u>：只有当 ACK = 1 时确认号字段有效，当 ACK = 0 时确认号无效
+8. <u>推送 PSH(PuSH)</u>：接收 TCP 收到 PSH = 1 的报文段，就尽快地交付接收应用进程，不再等到整个缓存都填满了后再向上交付 
+9. <u>复位 RST(ReSeT)</u>：当 RST = 1 时，表明 TCP 连接中出现严重差错（如由于主机崩溃或其他原因）必须释放连接，然后再重新建立运输连接。RST置1还用来拒绝一个非法报文或拒绝打开一个连接
+10. <u>同步 SYN(SYNchronization)</u>：在连接建立时用来同步序号。当 SYN = 1 而 ACK = 0 时，表明这是一个连接请求报文段。对方若同意建立连接，则在响应的报文段中使 SYN = 1 和 ACK = 1
+11. <u>终止 FIN(FINish)</u>：用来释放一个连接。FIN = 1 表明此报文段的发送端的数据已发送完毕，并要求释放运输连接。
+12. <u>窗口</u>：占 2 字节，指的是发送本报文段的一方的**接收窗口**。用于流量控制，指示接收方愿意接收的字节数量
+13. <u>检验和</u>：占 2 字节，检验和字段检验的范围包括TCP首部和数据这两部分。在计算检验和时，要在 TCP 报文段的前面加上 12 字节的伪首部
+14. <u>选项</u>：长度可变，最长可达 40 字节。如 **最长报文段长度MSS**、**窗口扩大**选项、**时间戳**选项等等
+15. <u>填充字段</u>：仅仅是为了使整个TCP首部长度为 4 字节的整数倍
+### 实验步骤 
+1. 下载 [TCP/UDP Socket 调试工具](https://files.cnblogs.com/files/ggll611928/TCP-UDP-Socket%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7-v2.2.rar)
+![1](https://bu.dusays.com/2022/11/13/6370874b20e3e.png)
+2. 在`cmd`中`ping zhihu.com`，得到`ip地址`为`103.41.167.234`
+![2](https://bu.dusays.com/2022/11/13/637087b2b3a4b.png)
+3. 使用TCP调试工具，创建一个连接
+![3](https://bu.dusays.com/2022/11/13/6370887550c8b.png)
+4. 打开Wireshark，设置显示过滤器为 `ip.addr == 103.41.167.234`
+![4](https://bu.dusays.com/2022/11/13/637088cda466f.png)
+5. 在TCP调试工具中，点击 **连接**
+![5](https://bu.dusays.com/2022/11/13/63708928070a7.png)
+6. 在TCP调试工具中，发送数据 `Hello World!!!`后，连接自动断开
+![6](https://bu.dusays.com/2022/11/13/63708c752ff6b.png)
+7. 在Wireshark中捕获到以下数据包
+![7](https://bu.dusays.com/2022/11/13/63708cca0d6f9.png)
+### 三次握手
+![1](https://bu.dusays.com/2022/11/13/637052e140268.png)
+- 一开始，客户端和服务端都处于 `CLOSE` 状态。先是服务端主动监听某个端口，处于 `LISTEN` 状态
+- 客户端随机初始化 **序列号 seq** 为 **x**，同时把 **SYN** 置1，接着把报文发送给服务端。之后，TCP客户端进入 `SYN-SENT` 状态
+![1](https://bu.dusays.com/2022/11/13/637090318e9b1.png)
+- 服务器收到连接请求报文段后，若同意连接，将进行下述操作。首先，随机初始化自己的 **序列号 seq** 为 **y**，其次把 **确认号 ack** 置为 **x + 1**，接着 **SYN** 和 **ACK** 均置为1，最后把该报文发给客户端。这时，服务端进入`SYN-RCVD` 状态
+![2](https://bu.dusays.com/2022/11/13/6370903f2af73.png)
+- 客户端收到服务端报文后，还要向服务端回应最后一个应答报文。首先将应答报文的 **ACK** 置为1，**确认号 ack** 置为 **y + 1**，**序列号 seq** 置为 **x + 1**，最后把报文发送给服务端。之后，客户端处于`ESTABLISHED` 状态
+![3](https://bu.dusays.com/2022/11/13/63709042a0303.png)
+- 服务端收到客户端的应答报文后，也进入 `ESTABLISHED` 状态
+
+### 四次挥手
+![1](https://bu.dusays.com/2022/11/13/637055a33c4fe.png)
+- 客户端打算关闭连接，此时会发送一个 TCP 首部 `FIN` 标志位被置为 `1` 的报文并指明自己当前的 **序列号 seq** 为 **u**，之后客户端进入 `FIN_WAIT_1` 状态
+![1](https://bu.dusays.com/2022/11/13/637095cced990.png)
+- 服务端收到该报文后，就向客户端发送 `ACK` 应答报文，指明自己当前的 **序列号 seq** 为 **v**， **确认号 ack** 为 **u + 1**，接着服务端进入 `CLOSE_WAIT` 状态
+![2](https://bu.dusays.com/2022/11/13/637095cf921e9.png)
+- 客户端收到服务端的 `ACK` 应答报文后，之后进入 `FIN_WAIT_2` 状态
+- 等待服务端处理完数据后，也向客户端发送 `FIN` 报文，报文的 `ACK` 置为 `1`，**序列号 seq** 为 **w**， **确认号 ack** 为 **u + 1**，之后服务端进入 `LAST_ACK` 状态
+![3](https://bu.dusays.com/2022/11/13/637095d1574be.png)
+- 客户端收到服务端的 `FIN` 报文后，回一个 `ACK` 应答报文，其中 **序列号 seq** 为 **u + 1**， **确认号 ack** 为 **w + 1**，之后进入 `TIME_WAIT` 状态
+![4](https://bu.dusays.com/2022/11/13/637095d2df5ff.png)
+- 服务端收到了 `ACK` 应答报文后，就进入了 `CLOSE` 状态，至此服务端已经完成连接的关闭
+- 客户端在经过 `2MSL` 一段时间后，自动进入 `CLOSE` 状态，至此客户端也完成连接的关闭
 ## 参考
 1. [Wireshark系列之4 捕获过滤器](https://blog.51cto.com/yttitan/1734425)
 2. [网络——Wireshark工具](https://blog.51cto.com/u_13579643/3647795?articleABtest=0)
@@ -492,6 +551,12 @@ Internet Control Message Protocol
 9. [如何计算IP或ICMP协议首部里的checksum字段](https://zhuanlan.zhihu.com/p/364195316)
 10. [带你深入熟悉你所不知道的ICMP](https://blog.51cto.com/ccieh3c/2654283)
 11. [使用Wireshark学习网络协议之ICMP](https://zhaoqqi.github.io/2016/10/05/network-wireshark-arp/)
-12. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
+12. [实战！我用 Wireshark 让你“看见“ TCP](https://www.cnblogs.com/xiaolincoding/p/12922927.html)
+13. [4.1 TCP 三次握手与四次挥手面试题](https://xiaolincoding.com/network/3_tcp/tcp_interview.html)
+14. [Wireshark抓包TCP三次握手](https://blog.51cto.com/u_15103025/2643297)
+15. [TCP 中的三次握手和四次挥手](https://rgb-24bit.github.io/blog/2019/tcp-connect-manage.html)
+16. [Wireshark配合TCP调试工具理解TCP三次握手和四次挥手过程](https://blog.csdn.net/u014117943/article/details/118520498)
+17. [老生常谈的TCP三次握手和四次挥手，你会了吗？](https://juejin.cn/post/7034547558664011783)
+18. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
 
 
