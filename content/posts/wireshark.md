@@ -539,6 +539,126 @@ Internet Control Message Protocol
 ![4](https://bu.dusays.com/2022/11/13/637095d2df5ff.png)
 - 服务端收到了 `ACK` 应答报文后，就进入了 `CLOSE` 状态，至此服务端已经完成连接的关闭
 - 客户端在经过 `2MSL` 一段时间后，自动进入 `CLOSE` 状态，至此客户端也完成连接的关闭
+## 访问外网某服务器，分析从MAC层协议、IP协议、TCP协议一直到HTTP协议的过程
+### 访问网页的全过程
+1. 当输入URL时，浏览器作为客户端**向DNS服务器发送请求**，获取与域名相对应的IP地址
+2. 浏览器通过IP地址同对应的服务器**建立TCP连接**
+3. 浏览器向服务器**发送HTTP请求** 
+4. 服务器接收到请求后，**返回响应**包
+5. 浏览器接收到响应包后，**进行页面的渲染**
+6. HTTP请求结束，**TCP连接断开**
+### DNS
+#### DNS报文结构
+![1](https://bu.dusays.com/2022/11/13/6370b7a2baa6b.png)
+#### DNS查询步骤
+浏览器在解析域名时，会经过下列步骤：
+1. 首先查看本地的 Hosts 文件。若有域名和 IP 地址的对应关系，直接使用该 IP 地址通信；若没有，浏览器向本地 DNS 服务器发出一个 DNS 请求
+2. 本地 DNS 服务器查看有无缓存记录。若有，直接响应；若没有，本地 DNS 服务器向 DNS 根服务器查询
+3. DNS 根服务器响应本地 DNS 服务器，给出对应的顶级域名 DNS 服务器地址，让本地 DNS 服务器去向其查询
+4. 顶级域名 DNS 服务器响应本地 DNS 服务器，给出对应的权威 DNS 域名服务器地址，让本地 DNS 服务器去向其查询
+5. 权威 DNS 服务器查询后将对应的 IP 地址告诉本地 DNS 服务器
+6. 本地 DNS 将 IP 地址返回浏览器
+### 实验步骤
+1. 访问`http://www.smartclass.cn/Default.aspx`
+2. 分析 `HTTP` 请求报文及 `HTTP` 响应报文
+### 网络包的旅途
+1. 用户输入网址
+2. 浏览器解析网址，生成HTTP消息并转交给Socket库
+3. Socket库将收到的HTTP消息作为数据转交给协议栈
+4. TCP按照网络包的长度对数据进行拆分，在每个包前面加上TCP头部并转交给IP
+5. IP在TCP包前面加上IP头部，然后查询MAC地址并加上MAC头部，然后将包转交给网卡驱动
+6. 网卡驱动收到IP发来的包，将其转交给网卡并发出发送指令
+7. 网卡检查以太网的可发送状态，将包转换为电信号通过双绞线发送出去
+8. 服务端的局域网中有防火墙，对进入的包进行检查，判断是否允许通过
+9. Web服务器前面有如果有缓存服务器，会拦截通过防火墙的包如果用户请求的页面已经缓存在服务器上，则代替服务器向用户返回页面数据
+10. 如果请求的页面没有被缓存，缓存服务器会将请求转发给Web服务器
+11. Web服务器收到包后，网卡和网卡驱动会接收这个包并转交给协议栈
+12. 协议栈依次检查IP头部和TCP头部，如果没有问题则取出HTTP的数据块并进行组装
+13. HTTP消息恢复成原始状态，然后通过Socket库转交给Web服务器
+14. Web服务器分析HTTP消息的内容，并根据请求内容将读取的数据返回给客户端
+### 报文分析
+![1](https://bu.dusays.com/2022/11/13/6370f2e0d407f.png)
+#### HTTP报文结构
+![1](https://bu.dusays.com/2022/11/13/6370f173089a1.png)
+#### HTTP请求报文
+##### 数据链路层
+![1](https://bu.dusays.com/2022/11/13/6370f44ce10f8.png)
+##### 网络层
+![2](https://bu.dusays.com/2022/11/13/6370f585c0330.png)
+##### 传输层
+![3](https://bu.dusays.com/2022/11/13/6370f5871b2b2.png)
+##### 应用层
+![4](https://bu.dusays.com/2022/11/13/6370f670b78f0.png)
+```
+Hypertext Transfer Protocol
+    GET /Default.aspx HTTP/1.1\r\n
+    Host: www.smartclass.cn\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42\r\n
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\n
+    Accept-Encoding: gzip, deflate\r\n
+    Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6\r\n
+    Upgrade-Insecure-Requests: 1\r\n
+    \r\n
+    [Full request URI: http://www.smartclass.cn/Default.aspx]
+    [HTTP request 1/14]
+    [Response in frame: 1787]
+    [Next request in frame: 1804]
+```
+1. <u>请求行</u>：由 `请求方法字段`、`URL字段` 和 `HTTP协议版本字段` 组成，如 **GET /Default.aspx HTTP/1.1**
+2. <u>请求头部</u>：关键字/值对组成，每行一对
+	1. <u>Host</u>：请求的主机名
+	2. <u>User-Agent</u>：发出请求的浏览器类型
+	3. <u>Accept</u>：客户端可识别的内容类型列表
+3. <u>空行</u>：最后一个请求头之后是一个空行，发送回车符和换行符，通知服务器以下不再有请求头
+4. <u>请求数据</u>
+#### HTTP响应报文
+##### 传输层
+- TCP 协议会分段传输过大的数据段（Segment）保证传输的性能
+- TCP 协议引入了最大分段大小（Maximum segment size，MSS）这一概念，它是 TCP 数据段能够携带的数据上限。在正常情况下，TCP 连接的 MSS 是 MTU - 40 字节，即 1460 字节
+- 该报文 MSS 值为 1360，数据段分成 8 份从服务端发出，并在客户端经过拼接后被接收
+![1](https://bu.dusays.com/2022/11/13/6370fb4c09aa8.png)
+##### 应用层
+![1](https://bu.dusays.com/2022/11/13/6370fdbf7eb46.png)
+```
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+        [Expert Info (Chat/Sequence): HTTP/1.1 200 OK\r\n]
+            [HTTP/1.1 200 OK\r\n]
+            [Severity level: Chat]
+            [Group: Sequence]
+        Response Version: HTTP/1.1
+        Status Code: 200
+        [Status Code Description: OK]
+        Response Phrase: OK
+    Date: Sun, 13 Nov 2022 13:06:05 GMT\r\n
+    Content-Type: text/html; charset=utf-8\r\n
+    Content-Length: 9696\r\n
+        [Content length: 9696]
+    Connection: keep-alive\r\n
+    Cache-Control: private\r\n
+    Content-Encoding: gzip\r\n
+    Vary: Accept-Encoding\r\n
+    MANUFACTURER: Hanboer\r\n
+    X-AspNet-Version: 4.0.30319\r\n
+    X-UA-Compatible: IE=edge,chrome=1\r\n
+    Access-Control-Allow-Headers: content-type\r\n
+    Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS\r\n
+    Access-Control-Allow-Origin: http://localhost:9527\r\n
+    Access-Control-Allow-Credentials: true\r\n
+    \r\n
+    [HTTP response 1/14]
+    [Time since request: 0.067102000 seconds]
+    [Request in frame: 1776]
+    [Next request in frame: 1804]
+    [Next response in frame: 1806]
+    [Request URI: http://www.smartclass.cn/Webapi/V1/Live/GetPublicLives?csrkToken=0aat6ee1aaks3&IsLiving=true&Sort=StartTime&Order=0&PageSize=8&PageNumber=1&attribute=]
+    Content-encoded entity body (gzip): 9696 bytes -> 40818 bytes
+    File Data: 40818 bytes
+```
+1. <u>状态行</u>：由 `HTTP版本` 、`状态码` 和`原因短语` 组成，如 **HTTP/1.1 200 OK**
+2. <u>响应头部</u>：关键字/值对组成，每行一对
+3. <u>空行</u>：最后一个响应头之后是一个空行，发送回车符和换行符，通知服务器以下不再有响应头
+4. <u>响应正文</u>
 ## 参考
 1. [Wireshark系列之4 捕获过滤器](https://blog.51cto.com/yttitan/1734425)
 2. [网络——Wireshark工具](https://blog.51cto.com/u_13579643/3647795?articleABtest=0)
@@ -557,6 +677,10 @@ Internet Control Message Protocol
 15. [TCP 中的三次握手和四次挥手](https://rgb-24bit.github.io/blog/2019/tcp-connect-manage.html)
 16. [Wireshark配合TCP调试工具理解TCP三次握手和四次挥手过程](https://blog.csdn.net/u014117943/article/details/118520498)
 17. [老生常谈的TCP三次握手和四次挥手，你会了吗？](https://juejin.cn/post/7034547558664011783)
-18. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
+18. [HTTP请求报文和HTTP响应报文](https://www.cnblogs.com/biyeymyhjob/archive/2012/07/28/2612910.html)
+19. [为什么 TCP/IP 协议会拆分数据](https://draveness.me/whys-the-design-tcp-segment-ip-packet/)
+20. [HTTP的曲折：网络请求到层层封装和终端拆分](https://www.pianshen.com/article/86011166321/)
+21. [浅谈http协议（三）：HTTP 报文及其结构](https://segmentfault.com/a/1190000019788537)
+22. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
 
 
