@@ -311,11 +311,175 @@ host 192.168.0.10
 
 ## 利用实验结果分析ICMP协议的报文结构字段定义
 > **ICMP即互联网控制报文协议（Internet Control Message Protocol），网络设备（包括路由器）使用它来发送错误消息和指示与另一个IP 地址通信时成功或失败的操作信息**
-### ICMP询问报文
-#### 实验步骤
-1. 
+<center> 
+	<img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="https://bu.dusays.com/2022/11/12/636fbbc74f13c.png">
+	<br>
+	<div style="color:orange; border-bottom: 1px solid #d9d9d9; 
+	display: inline-block; 
+	color: #999; 
+	padding: 2px;">ICMP报文结构</div> 
+ </center>
 
+### ICMP报文格式
+```
++0------7-------15---------------31
+|  Type | Code  |    Checksum    |
++--------------------------------+
+|          Message Body          |
+|        (Variable length)       |
++--------------------------------+
+```
+### ICMP报文格式解释
+1. <u>Type</u>：占一个字节，标识ICMP报文的类型，可以分为差错报告报文和询问报文两大类
+2. <u>Code</u>：占一个字节，用于进一步区分某种类型中的不同情况
+3. <u>Checksum</u>：占两个字节，检验报文在传输过程中是否出现差错
+### ICMP应用举例
+#### Ping命令
+> **「ping」是用来探测本机与网络中另一主机之间是否可达的命令**
 
+在此次实验中，使用主机A在`cmd`环境下`ping baidu.com`，分析回送请求报文和回送回答报文
+##### 回送请求报文
+![1](https://bu.dusays.com/2022/11/13/63702d8239c61.png)
+```
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4ae9 [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence Number (BE): 626 (0x0272)
+    Sequence Number (LE): 29186 (0x7202)
+    [Response frame: 215]
+    Data (32 bytes)
+        Data: 6162636465666768696a6b6c6d6e6f7071727374757677616263646566676869
+        [Length: 32]
+```
+1. Type的值为 **8**，Code的值为 **0**，表示回显请求
+2. Checksum的值为 **0x4ae9**，这里校验和验证正确
+3. <u>Identifier</u>：识别码，用于区分不同进程的应用。由于Window系统与Linux系统发出的ping报文的字节序不一样，所以需要 **BE** 和 **LE** 两个值，而这两个值所表示的十六进制值（HEX）是相同的。这里的 **BE** 指的是大端字节序，在Linux中使用；**LE**指的是小端字节序，在Windows中使用
+4. <u>Sequence Number</u>：序列号，用于对应请求与响应。这里对于 **BE** 和 **LE** 解释同上。 
+##### 回送回答报文
+![2](https://bu.dusays.com/2022/11/13/63702d83032ff.png)
+```
+Internet Control Message Protocol
+    Type: 0 (Echo (ping) reply)
+    Code: 0
+    Checksum: 0x52e9 [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence Number (BE): 626 (0x0272)
+    Sequence Number (LE): 29186 (0x7202)
+    [Request frame: 213]
+    [Response time: 20.855 ms]
+    Data (32 bytes)
+        Data: 6162636465666768696a6b6c6d6e6f7071727374757677616263646566676869
+        [Length: 32]
+```
+1. Type的值为 **0**，Code的值为 **0**，表示回送回答
+2. Checksum的值为 **0x52e9**，这里校验和验证正确
+3. <u>Identifier</u>：识别码，用于区分不同进程的应用
+4. <u>Sequence Number</u>：序列号，用于对应请求与响应。这里的值 **626** 同上文 **回送请求报文** `Sequence Number` 的值，说明这俩请求和响应是对应的
+#### Tracert命令
+> **「Tracert」是用来显示可能的路由（路径）和测量数据包在 IP 网络中的传输延迟的命令**
+
+在此次实验中，使用主机A在`cmd`环境下`tracert baidu.com`，分析报文
+
+![1](https://bu.dusays.com/2022/11/13/63703bc9a2bf1.png)
+##### 差错报告报文
+ICMP的差错报告报文中，会把收到的需要进行差错报告的IP的数据提取出来作为ICMP报文的数据部分
+
+![2](https://bu.dusays.com/2022/11/13/63703c4b4a1e1.png)
+```
+Internet Protocol Version 4, Src: 192.168.31.248, Dst: 110.242.68.66
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+        0000 00.. = Differentiated Services Codepoint: Default (0)
+        .... ..00 = Explicit Congestion Notification: Not ECN-Capable Transport (0)
+    Total Length: 92
+    Identification: 0x1f2e (7982)
+    000. .... = Flags: 0x0
+        0... .... = Reserved bit: Not set
+        .0.. .... = Don't fragment: Not set
+        ..0. .... = More fragments: Not set
+    ...0 0000 0000 0000 = Fragment Offset: 0
+    Time to Live: 1
+        [Expert Info (Note/Sequence): "Time To Live" only 1]
+            ["Time To Live" only 1]
+            [Severity level: Note]
+            [Group: Sequence]
+    Protocol: ICMP (1)
+    Header Checksum: 0x0000 [validation disabled]
+    [Header checksum status: Unverified]
+    Source Address: 192.168.31.248
+    Destination Address: 110.242.68.66
+
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0xf4e4 [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence Number (BE): 794 (0x031a)
+    Sequence Number (LE): 6659 (0x1a03)
+    [No response seen]
+        [Expert Info (Warning/Sequence): No response seen to ICMP request]
+            [No response seen to ICMP request]
+            [Severity level: Warning]
+            [Group: Sequence]
+    Data (64 bytes)
+        Data: 000000000000000000000000000000000000000000000000000000000000000000000000…
+        [Length: 64]
+```
+![3](https://bu.dusays.com/2022/11/13/63703c4c1fe7e.png)
+```
+Internet Control Message Protocol
+    Type: 11 (Time-to-live exceeded)
+    Code: 0 (Time to live exceeded in transit)
+    Checksum: 0xf4ff [correct]
+    [Checksum Status: Good]
+    Unused: 00000000
+    Internet Protocol Version 4, Src: 192.168.31.248, Dst: 110.242.68.66
+        0100 .... = Version: 4
+        .... 0101 = Header Length: 20 bytes (5)
+        Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+            0000 00.. = Differentiated Services Codepoint: Default (0)
+            .... ..00 = Explicit Congestion Notification: Not ECN-Capable Transport (0)
+        Total Length: 92
+        Identification: 0x1f2e (7982)
+        000. .... = Flags: 0x0
+            0... .... = Reserved bit: Not set
+            .0.. .... = Don't fragment: Not set
+            ..0. .... = More fragments: Not set
+        ...0 0000 0000 0000 = Fragment Offset: 0
+        Time to Live: 1
+            [Expert Info (Note/Sequence): "Time To Live" only 1]
+                ["Time To Live" only 1]
+                [Severity level: Note]
+                [Group: Sequence]
+        Protocol: ICMP (1)
+        Header Checksum: 0x069f [validation disabled]
+        [Header checksum status: Unverified]
+        Source Address: 192.168.31.248
+        Destination Address: 110.242.68.66
+    Internet Control Message Protocol
+        Type: 8 (Echo (ping) request)
+        Code: 0
+        Checksum: 0xf4e4 [unverified] [in ICMP error packet]
+        [Checksum Status: Unverified]
+        Identifier (BE): 1 (0x0001)
+        Identifier (LE): 256 (0x0100)
+        Sequence Number (BE): 794 (0x031a)
+        Sequence Number (LE): 6659 (0x1a03)
+        Data (64 bytes)
+            Data: 000000000000000000000000000000000000000000000000000000000000000000000000…
+            [Length: 64]
+```
+1. Type的值为 **11**，Code的值为 **0**，表示超时报错
+2. 图1的**回送请求报文**出错，图2相对应的**差错报告报文**，把图1报文的IP数据报的首部和数据字段的前8个字节提取出来，作为ICMP报文的数据字段
 ## 参考
 1. [Wireshark系列之4 捕获过滤器](https://blog.51cto.com/yttitan/1734425)
 2. [网络——Wireshark工具](https://blog.51cto.com/u_13579643/3647795?articleABtest=0)
@@ -325,6 +489,9 @@ host 192.168.0.10
 6. [Wireshark简明教程，新手专用，挑实在的讲，不搞花里胡哨](https://bbs.huaweicloud.com/blogs/285673)
 7. [WireShark网络封包抓包工具各个界面介绍](https://blog.51cto.com/u_15688254/5694733)
 8. [实验3.利用Wireshark分析ARP协议](https://codeantenna.com/a/2zI6hbfTIM)
-9. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
+9. [如何计算IP或ICMP协议首部里的checksum字段](https://zhuanlan.zhihu.com/p/364195316)
+10. [带你深入熟悉你所不知道的ICMP](https://blog.51cto.com/ccieh3c/2654283)
+11. [使用Wireshark学习网络协议之ICMP](https://zhaoqqi.github.io/2016/10/05/network-wireshark-arp/)
+12. [Wireshark官方文档](https://www.wireshark.org/docs/wsug_html_chunked/ChapterWork.html)
 
 
