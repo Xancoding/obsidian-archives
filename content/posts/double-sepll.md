@@ -42,7 +42,5 @@ cover:
 
 # 推荐阅读
 - [小鹤双拼](https://flypy.com/)
-- [小鹤入门](https://help.flypy.com/#/xh)
-***
 - [双拼学习记](https://geekplux.com/posts/learn_shuangpin)
 - [双拼这点东西，up居然讲了十分钟——十分钟了解双拼到底是啥](https://www.bilibili.com/video/BV16J411G7YT?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
