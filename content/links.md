@@ -93,6 +93,8 @@
 	2. 在豌豆荚中搜索两步路，下载 v6.7.2版本
 	3. 在应用商店中关闭自动更新
 
+- [GOOGLE地球简易操作制作轨迹，配合六只脚户外导航](https://mp.weixin.qq.com/s/bCp1WXavE7DeweMb9WoDkw)
+
 ## 登山装备清单
 ![mountaineeringEquipment](https://bu.dusays.com/2022/10/30/635e1c4fb1e10.png)
 # B站UP主
