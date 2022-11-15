@@ -1,0 +1,43 @@
+---
+title: "汇编语言" # 标题
+date: 2022-11-15T13:16:12+08:00 # 创建时间
+author: ["Xan"] # 作者
+tags: # 标签
+- Tech
+- 计算机基础
+- 汇编语言
+keywords: # 关键词
+- Tech
+- 计算机基础
+- 汇编语言
+description: "" # 描述
+weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+slug: ""
+draft: false # 是否为草稿
+comments: true # 是否展示评论
+showToc: true # 显示目录
+TocOpen: true # 自动展开目录
+hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
+disableShare: true # 底部不显示分享栏
+showbreadcrumbs: true # 顶部显示当前路径
+cover:
+    image: "" #图片路径 例：posts/tech/123/picture.png
+    caption: "" # 图片底部描述
+    alt: ""
+    relative: false
+---
+
+# 汇编语言是什么？
+> **汇编语言是任何一种用于电子计算机、微处理器、微控制器，或其他可编程器件的低级语言**
+# 推荐阅读
+- [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
+- [汇编语言王爽完整答案](https://max.book118.com/html/2018/0304/155683552.shtm)
+- [《汇编语言 王爽著》课后实验参考答案](https://tinylab.org/assembly/)
+	+ [x] 实验一
+	+ [x] 实验二
+	+ [x] 实验三
+	+ [x] 实验四
+	+ [ ] 实验五
+***
+- [《汇编语言（第4版）》](https://book.douban.com/subject/35038473/)
+{{< douban src="https://book.douban.com/subject/35038473/" >}}

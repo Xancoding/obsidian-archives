@@ -1,10 +1,8 @@
 # CS
 - [CS自学指南](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 - [小林 x 图解计算机基础](https://xiaolincoding.com/)
-
 # Blogs
-- [Stephen Wolfram](https://www.stephenwolfram.com/)
-	- [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
+- [王垠的草稿本](https://yinwang1.wordpress.com/)
 - [杨 飞 自 选 作 品 集](http://www.999kg.com/)
 - [面向信仰编程](https://draveness.me/)
 	- [为什么这么设计](https://draveness.me/whys-the-design/)
