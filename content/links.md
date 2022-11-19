@@ -97,24 +97,31 @@
 
 ## 登山装备清单
 ![mountaineeringEquipment](https://bu.dusays.com/2022/10/30/635e1c4fb1e10.png)
-# B站UP主
-## History 
+# Bilibili 
+## Up主
+### History 
 1. [集思屋](https://space.bilibili.com/1103935173?spm_id_from=333.337.0.0)
 2. [安州牧](https://space.bilibili.com/7481602?spm_id_from=333.337.0.0)
 3. [唠点历史](https://space.bilibili.com/10698584?spm_id_from=333.337.0.0)
 4. [小约翰可汗](https://space.bilibili.com/23947287/?spm_id_from=333.999.0.0)
 5. [历史调研室](https://space.bilibili.com/519872016/?spm_id_from=333.999.0.0)
-6. [傅正_](https://space.bilibili.com/1522003987?spm_id_from=333.337.0.0)
-## Outdoor 
+### Outdoor 
 1. [登山者Black](https://space.bilibili.com/5682935)
 2. [Mew_喵喵](https://space.bilibili.com/480567097/?spm_id_from=333.999.0.0)
 3. [秘密仙人掌](https://space.bilibili.com/441981477/?spm_id_from=333.999.0.0)
-## Cartoon
+4. [徐云流浪中国](https://space.bilibili.com/697166795)
+### Cartoon
 1. [安迪视频](https://space.bilibili.com/357261525?spm_id_from=333.337.0.0)
-2. [动漫作业本](https://space.bilibili.com/488779255?spm_id_from=333.337.search-card.all.click) 海贼王
-3. [chissy](https://space.bilibili.com/19258940/?spm_id_from=333.999.0.0) 探险活宝
-## Sport
+2. [动漫作业本](https://space.bilibili.com/488779255?spm_id_from=333.337.search-card.all.click) 
+3. [chissy](https://space.bilibili.com/19258940/?spm_id_from=333.999.0.0) 
+### Sport
 1. [大李不王](https://space.bilibili.com/497902760?spm_id_from=333.337.0.0)
+### 萌娃
+1. [蹦蹦和蜜糖](https://space.bilibili.com/506397152/?spm_id_from=333.999.0.0)
+2. [蹦蹦和蜜糖的老爸](https://space.bilibili.com/37018985/?spm_id_from=333.999.0.0)
+## 收藏夹
+1. [【街健之路1】街头健身全攻略！新手怎么开始街健？如何变成街健大神？！](https://www.bilibili.com/video/BV1cW411Z7jU/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
+2. [【中英字幕】丛林野食王/荒野厨王.Kings of the Wild](https://www.bilibili.com/video/BV1Fb4y1x755/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 # Community
 - [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
 - [Medium](https://medium.com/) 网络文章发布平台 文章质量高
