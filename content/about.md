@@ -18,6 +18,10 @@
 2. Do not try to change yourself.Work to improve the way you perform.[^2]
 
 [^2]: **不要试图改变自我，因为这样你不大可能成功。但是，你应该努力改进你的工作方式。**
+
+3. All problems in computer science can be solved by another level of indirection.[^3]
+
+[^3]: **计算机科学中的所有问题都可以通过增加一个间接层来解决。**
 # Projects
 ## [Blog](https://github.com/Xancoding/Blog)
 ### 搭建工具
