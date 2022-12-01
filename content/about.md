@@ -22,6 +22,10 @@
 3. All problems in computer science can be solved by another level of indirection.[^3]
 
 [^3]: **计算机科学中的所有问题都可以通过增加一个间接层来解决。**
+
+4. DRY--Don’t Repeat Yourself.[^4]
+
+[^4]: **不要重复自己。（以最小化冗余的方式编写代码）**
 # Projects
 ## [Blog](https://github.com/Xancoding/Blog)
 ### 搭建工具
@@ -61,7 +65,6 @@
 + [x] 特步国人竞速 短裤、背心 —— 闲鱼 259元
 + [x] QINKUNG长袖 M码 —— 闲鱼 78元 
 + [x] QINKUNG短袖 M码 —— 官网 169元
-+ [ ] QINKUNG手套 —— 官网 30元
 + [x] Nike运动帽 679421 —— 闲鱼 110元
 + [x] 飞影PB 国庆配色 260mm —— 闲鱼 450元
 + [x] Nike React Infinity Run 白蓝 260mm —— 闲鱼 271元
@@ -75,11 +78,11 @@
 + [x] Hoka羚羊4 260mm  —— 京东 599元
 + [x] 强氧登山包羚羊36L （2 - 3日短线徒步 ） —— 闲鱼 220元
 + [x] 奈特科尔NITECORE头灯 NU25 —— 闲鱼 133元
-+ [x] outdoor research OR 手套 —— 淘宝 58元
++ [x] outdoor research OR 手套 L码—— 淘宝 58元
 + [x] Outdoor research VERGLAS 雪套 L码 —— 闲鱼 89元
 + [x] ROCLKSOLID 美利奴羊毛保暖内衣套装 M码 —— 淘宝 198元
 + [x] Keith凯斯纯钛饭盒 Ti5328 1000mL —— 闲鱼 179元
-+ [x] Keith凯斯钛杯 Ti3240 350mL —— 闲鱼 79元
++ [x] Keith凯斯钛杯 Ti3240 350mL —— 闲鱼 75元
 + [x] 钛途TiTo纯钛叉勺 —— 淘宝 19元
 + [x] 凯乐石9A攀岩裤KG520220 金鱼黄 170/74A —— 闲鱼 199元
 + [x] 凯乐石远征者pro 三合一冲锋衣 M码 —— 闲鱼 460元
