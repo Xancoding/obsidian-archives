@@ -69,7 +69,7 @@
 # Movies
 + [x] [海洋之歌](http://www.wsscsc.com/play/26699-1-1.html)
 + [ ] 狼行者
-+ [ ] [凯尔经的秘密](https://www.youtube.com/watch?v=oe_JogMlDDw&t=2517s)
++ [x] [凯尔经的秘密](https://www.youtube.com/watch?v=oe_JogMlDDw&t=2517s)
 + [ ] 狐狸与我
 + [ ] 白日梦想家
 # Outdoor
@@ -120,7 +120,6 @@
 ### 萌娃
 1. [蹦蹦和蜜糖](https://space.bilibili.com/506397152/?spm_id_from=333.999.0.0)
 2. [蹦蹦和蜜糖的老爸](https://space.bilibili.com/37018985/?spm_id_from=333.999.0.0)
-3. [小麦的幸福生活](https://space.bilibili.com/513527793/?spm_id_from=333.999.0.0)
 ## 收藏夹
 1. [【街健之路1】街头健身全攻略！新手怎么开始街健？如何变成街健大神？！](https://www.bilibili.com/video/BV1cW411Z7jU/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 2. [【中英字幕】丛林野食王/荒野厨王.Kings of the Wild](https://www.bilibili.com/video/BV1Fb4y1x755/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
