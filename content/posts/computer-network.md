@@ -87,8 +87,11 @@ cover:
 	3. 细线箭头表示异常变迁
 
 ![](https://bu.dusays.com/2022/12/24/63a62dc1498b9.jpg)
+
 3. TCP 报文段格式
-![](https://bu.dusays.com/2022/12/24/63a62e308c7de.png)
+	1. 数据偏移：单位为 4 字节，它指出TCP报文段的数据起始处距离TCP报文段的起始处有多远
+
+![](https://bu.dusays.com/2022/12/24/63a63fe7455be.jpg)
 4. TCP 拥塞控制
 ![](https://bu.dusays.com/2022/12/24/63a62e5505ea2.png)
 5. 三次握手
