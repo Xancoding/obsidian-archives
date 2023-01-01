@@ -62,16 +62,15 @@
 9. **[扫盲操作系统虚拟机[0]：概述](https://program-think.blogspot.com/2012/10/system-vm-0.html)**
 ***
 # Tools
+- [Learning X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/) 基于项目学习编程知识
 - [Exercism](https://exercism.org/tracks) 在线练习编程语言
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
 # Movies
 + [x] [海洋之歌](http://www.wsscsc.com/play/26699-1-1.html)
-+ [ ] 狼行者
 + [x] [凯尔经的秘密](https://www.youtube.com/watch?v=oe_JogMlDDw&t=2517s)
-+ [ ] 狐狸与我
-+ [ ] 白日梦想家
++ [ ] [狼行者](https://www.olevod.com/index.php/vod/play/id/23227/sid/1/nid/1.html)
 # Outdoor
 ## 入门指南
 - [登山者Black](https://space.bilibili.com/5682935)
@@ -102,24 +101,10 @@
 ### History 
 1. [集思屋](https://space.bilibili.com/1103935173?spm_id_from=333.337.0.0)
 2. [唠点历史](https://space.bilibili.com/10698584?spm_id_from=333.337.0.0)
-3. [小约翰可汗](https://space.bilibili.com/23947287/?spm_id_from=333.999.0.0)
-4. [历史调研室](https://space.bilibili.com/519872016/?spm_id_from=333.999.0.0)
 ### Outdoor 
 1. [登山者Black](https://space.bilibili.com/5682935)
 2. [Mew_喵喵](https://space.bilibili.com/480567097/?spm_id_from=333.999.0.0)
 3. [徐云流浪中国](https://space.bilibili.com/697166795)
-### Cartoon
-1. [chissy](https://space.bilibili.com/19258940/?spm_id_from=333.999.0.0) 
-### Sport
-1. [大李不王](https://space.bilibili.com/497902760?spm_id_from=333.337.0.0)
-### Movies 
-1. [阿斗归来了](https://space.bilibili.com/21837784)
-2. [小片片说大片](https://space.bilibili.com/10119428/video)
-3. [切片计划](https://space.bilibili.com/624052719/?spm_id_from=333.999.0.0)
-4. [电影最TOP](https://space.bilibili.com/17819768/?spm_id_from=333.999.0.0)
-### 萌娃
-1. [蹦蹦和蜜糖](https://space.bilibili.com/506397152/?spm_id_from=333.999.0.0)
-2. [蹦蹦和蜜糖的老爸](https://space.bilibili.com/37018985/?spm_id_from=333.999.0.0)
 ## 收藏夹
 1. [【街健之路1】街头健身全攻略！新手怎么开始街健？如何变成街健大神？！](https://www.bilibili.com/video/BV1cW411Z7jU/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 2. [【中英字幕】丛林野食王/荒野厨王.Kings of the Wild](https://www.bilibili.com/video/BV1Fb4y1x755/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
@@ -129,4 +114,4 @@
 - [Buzzing](https://www.buzzing.cc/) 国外社交媒体聚合热榜 中文标题 
 - [HackerNews](https://news.ycombinator.com/) 技术热点话题 新闻社区
 - [小众软件论坛](https://meta.appinn.net/) 分享免费、小巧、有趣、实用软件
-
+- [CodeNews](https://codenews.cc/) 一个专注于【技术发明创造】交流的社区

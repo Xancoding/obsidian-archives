@@ -41,6 +41,7 @@ cover:
 	- `Python` 爬虫
 	- `Everthing` 搜索文件
 # 推荐阅读
+- [IHateRegex](https://ihateregex.io/) 正则可视化工具
 - [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) 正则可视化工具
 - [Regexper](https://regexper.com/) 正则可视化工具
 - [正则可视化](https://wangwl.net/r/vr) 正则可视化工具
