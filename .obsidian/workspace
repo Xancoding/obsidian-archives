@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6d1b9550d1e72ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd5b16a18dcd0131",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life/Finished.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9feb1ab4d25dd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35f95d665247ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d44a19e1addf462f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bd55110e08c1ff7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "csapp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7a3f6f8cbc7f3ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b71d0eab51c518c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9810e666c1211bd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life/Finished.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "bd5b16a18dcd0131",
+  "lastOpenFiles": [
+    "A-Blog/Links.md",
+    "A-Blog/待办Blog待办.md",
+    "A-Blog/Hello World.md",
+    "Life/Finished.md",
+    "Life/CS61A（SICP）.md",
+    "Life/Computer Basics.md",
+    "Life/计算机系统基础(一)——程序的表示、转换与链接.md",
+    "A-Blog/我获取信息的方式.md",
+    "A-Blog/About.md",
+    "Y-ToDo/户外教程.md"
+  ]
+}

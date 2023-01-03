@@ -1,0 +1,29 @@
+{
+  "choices": [
+    {
+      "id": "ccbc0a01-064d-4029-8385-e8f8a075d52b",
+      "name": "新建博客",
+      "type": "Macro",
+      "command": false,
+      "macroId": "05e1a434-a3d6-4ecc-9ff8-216a08f963f0"
+    }
+  ],
+  "macros": [
+    {
+      "name": "新建博客",
+      "id": "05e1a434-a3d6-4ecc-9ff8-216a08f963f0",
+      "commands": [
+        {
+          "name": "NewBlog",
+          "type": "UserScript",
+          "id": "5865d3b9-2d42-46d0-a47a-1a81d8977e0a",
+          "path": "obs_scripts/NewBlog.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

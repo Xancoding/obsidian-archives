@@ -1,0 +1,13 @@
+{
+  "defaultViewMode": "preview",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

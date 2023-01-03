@@ -7,9 +7,7 @@
 2. THINK INDEPENDENTLY
 3. LESS IS MORE
 4. DOING AND READING
-5. 背书一定要大声读出来
-6. 学习三部曲：WHAT HOW WHY
-7. 不要担心错过某条消息——会被你错过的消息，多半不重要，不看也罢；真正重要的消息，你自然不会错过。
+5. 学习三部曲：WHAT HOW WHY
 # Motto
 1. The value of a college education is not the learning of many facts but the training of the mind to think.[^1]
 
@@ -31,6 +29,13 @@
 ### 搭建工具
 - `Hugo & GitHub Pages & Twikoo`
 - `Theme：PaperMod`
+- `Tool：Obsidian`
+### Obsidian 工作流
+1. 打开 `Obsidian` 编辑器，通过 `ctrl + a` 快捷键创建新博客
+2. `ctrl + d`：删除当前文件
+3. `ctrl + t`：打开新标签页
+4. `ctrl + w`：关闭当前标签页
+5. `ctrl + o`：切换或创建文件
 ### 各页面简介
 - `Home：联系方式 & 文章`
 - `Tags：文章标签`
@@ -41,6 +46,7 @@
 - [Sulv's Blog](https://www.sulvblog.cn/)
 - [3rd's Blog](https://333rd.net/)
 - [田少晗的个人博客](https://shaohanyun.top/)
+- [Hugo 博客写作最佳实践](https://blog.zhangyingwei.com/posts/2022m4d11h19m42s28/)
 ## [WarOfWarlock](https://github.com/Xancoding/WarOfWarlock)
 ### 搭建工具
 - `HTML & CSS & JavaScript & Django`
