@@ -29,13 +29,19 @@
 ### 搭建工具
 - `Hugo & GitHub Pages & Twikoo`
 - `Theme：PaperMod`
-- `Tool：Obsidian`
-### Obsidian 工作流
+- `Tool：Obsidian & Git Bash`
+### Tool 常用操作
+#### Obsidian
 1. 打开 `Obsidian` 编辑器，通过 `ctrl + a` 快捷键创建新博客
 2. `ctrl + d`：删除当前文件
 3. `ctrl + t`：打开新标签页
 4. `ctrl + w`：关闭当前标签页
 5. `ctrl + o`：切换或创建文件
+#### Git Bash
+1. 在博客所在文件夹启动 `Git Bash`
+2. `source commit.sh`：将博客文件上传至 `GitHub` 仓库
+3. `source up.sh`：编译静态网站文件，上传至 `GitHub` 仓库
+4. `hugo serve`：在本地查看博客网站，使用浏览器访问 `http://localhost:1313/`
 ### 各页面简介
 - `Home：联系方式 & 文章`
 - `Tags：文章标签`
