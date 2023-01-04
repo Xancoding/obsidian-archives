@@ -27,7 +27,7 @@
 # Projects
 ## [Blog](https://github.com/Xancoding/Blog)
 ### 搭建工具
-- `Hugo & GitHub Pages & Twikoo`
+- `Hugo & GitHub Pages & GitHub Action & Twikoo`
 - `Theme：PaperMod`
 - `Tool：Obsidian & Git Bash`
 ### Tool 常用操作
@@ -48,6 +48,7 @@
 - [3rd's Blog](https://333rd.net/)
 - [田少晗的个人博客](https://shaohanyun.top/)
 - [Hugo 博客写作最佳实践](https://blog.zhangyingwei.com/posts/2022m4d11h19m42s28/)
+- [Hugo + GitHub Action，搭建你的博客自动发布系统](https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/)
 ## [WarOfWarlock](https://github.com/Xancoding/WarOfWarlock)
 ### 搭建工具
 - `HTML & CSS & JavaScript & Django`

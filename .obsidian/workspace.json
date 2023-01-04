@@ -102,22 +102,22 @@
       "canvas:Create new canvas": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "2be157e5266380b4",
   "lastOpenFiles": [
-    "content/posts/acw-web.md",
+    "README.md",
+    "content/about.md",
+    "400 Excalidraw/Drawing 2023-01-04 16.02.29.excalidraw.md",
     "content/posts/2023-01-02.md",
+    "content/links.md",
+    "content/archives.md",
+    "content/posts/acw-web.md",
     "content/posts/acw-linux.md",
     "content/posts/assembly-language.md",
-    "content/posts/blog-drawing.md",
-    "content/posts/acw-django.md",
-    "content/posts/2023-01-04-14-54-43.md",
-    "content/posts/learning-cpp.md",
-    "000 AAA/000 待办清单.md",
-    "content/posts/2023-01-04-08-51-03.md"
+    "content/posts/blog-drawing.md"
   ]
 }
