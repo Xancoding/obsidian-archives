@@ -37,11 +37,6 @@
 3. `ctrl + t`：打开新标签页
 4. `ctrl + w`：关闭当前标签页
 5. `ctrl + o`：切换或创建文件
-#### Git Bash
-1. 在博客所在文件夹启动 `Git Bash`
-2. `source commit.sh`：将博客文件上传至 `GitHub` 仓库
-3. `source up.sh`：编译静态网站文件，上传至 `GitHub` 仓库
-4. `hugo serve`：在本地查看博客网站，使用浏览器访问 `http://localhost:1313/`
 ### 各页面简介
 - `Home：联系方式 & 文章`
 - `Tags：文章标签`
