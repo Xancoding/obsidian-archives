@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b2dcd45dc9ddcb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/assembly-language.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -107,8 +119,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2be157e5266380b4",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/posts/assembly-language.md",
+    "content/about.md",
     "content/posts/2023-01-04-16-20-44.md",
     "content/posts/2023-01-02.md",
     "content/posts/wireshark.md",
@@ -116,8 +130,6 @@
     "000 AAA/000 待办清单.md",
     "100 Blog Drafts/C++ 推荐阅读.md",
     "000 AAA/100 聊天素材.md",
-    "content/about.md",
-    "README.md",
-    "400 Excalidraw/Drawing 2023-01-04 16.02.29.excalidraw.md"
+    "README.md"
   ]
 }
