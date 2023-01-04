@@ -1,3 +1,6 @@
 [submodule "themes/PaperMod"] 
   path = themes/PaperMod 
   url = https://github.com/Xancoding/Blog/tree/main/themes/PaperMod
+[submodule "Xancoding.github.io"]
+	path = Xancoding.github.io
+	url = https://github.com/Xancoding/Xancoding.github.io
