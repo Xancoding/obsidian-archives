@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2be157e5266380b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/about.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b2dcd45dc9ddcb28",
             "type": "leaf",
             "state": {
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +109,8 @@
   },
   "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "content/posts/assembly-language.md",
     "content/about.md",
+    "content/posts/assembly-language.md",
     "content/posts/2023-01-04-16-20-44.md",
     "content/posts/2023-01-02.md",
     "content/posts/wireshark.md",
