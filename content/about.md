@@ -77,6 +77,7 @@
 + [x] 飞影PB 国庆配色 260mm —— 闲鱼 450元
 + [x] Nike React Infinity Run 白蓝 260mm —— 闲鱼 271元
 + [x] 锐步 Energy3 260mm —— 闲鱼 450元
++ [ ] 必迈 紧身衣裤
 
 ## Outdoor 
 + [ ] 三峰出雨衣 15D —— 闲鱼 112元
