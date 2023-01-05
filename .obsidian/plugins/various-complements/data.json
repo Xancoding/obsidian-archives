@@ -90,8 +90,16 @@
     "Life": {
       "Life": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1672820535122
+          "count": 3,
+          "lastUpdated": 1672892177591
+        }
+      }
+    },
+    "Cooking": {
+      "Cooking": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1672892174596
         }
       }
     }
