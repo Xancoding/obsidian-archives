@@ -108,12 +108,12 @@ end
 assume cs:code
 code segment
 
-	mov ax, cs
+	mov ax, code
 	mov ds, ax
 	mov ax, 0020h
 	mov es, ax
 	mov bx, 0
-	mov cx, 17H
+	mov cx, 16H
   s:
 	mov al, [bx]
     mov es:[bx], al
