@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/assembly-language.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/links.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +119,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f2bc0d11d3197173",
+  "active": "b2dcd45dc9ddcb28",
   "lastOpenFiles": [
+    "content/links.md",
     "content/about.md",
     "content/posts/assembly-language.md",
     "content/posts/2023-01-05-12-37-05.md",
@@ -130,7 +130,6 @@
     "content/posts/acw-linux.md",
     "content/posts/2023-01-02.md",
     "content/posts/acw-django.md",
-    "content/posts/wireshark.md",
-    "500 待看/Hugo 博客写作最佳实践.md"
+    "content/posts/wireshark.md"
   ]
 }
