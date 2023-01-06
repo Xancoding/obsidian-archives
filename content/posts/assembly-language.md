@@ -78,7 +78,7 @@ mov sp,0000H
 + [x] 实验三
 （3）PSP 的内容
 ![Snipaste_2023-01-06_16-39-17.png](https://bu.dusays.com/2023/01/06/63b7de3f90329.png)
-+ [ ] 实验四
++ [x] 实验四
 （2）
 ```
 assume cs:code
