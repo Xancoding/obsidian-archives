@@ -79,6 +79,30 @@ mov sp,0000H
 （3）PSP 的内容
 ![Snipaste_2023-01-06_16-39-17.png](https://bu.dusays.com/2023/01/06/63b7de3f90329.png)
 + [ ] 实验四
+（2）
+```
+assume cs:code
+
+code segment
+
+	mov ax, 0020H
+	mov ds, ax        ;(ds) = 0020H 
+
+	mov bx, 0         ;ds:bx 指向 0020:0，即 0:200
+
+	mov cx, 40H       ;循环 64 次
+
+s:  mov ds:[bx], bx   ;((ds) * 16 + bx)) = bx
+	inc bx
+	loop s
+
+	mov ax, 4c00h
+	int 21h
+
+code ends
+
+end
+```
 + [ ] 实验五
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
