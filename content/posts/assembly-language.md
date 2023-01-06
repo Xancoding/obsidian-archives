@@ -59,6 +59,19 @@ mov ax,[0002]
 | mov ds, ax    | 0ff0H | 0105H | 2000H | 2000H | 0000H |
 | mov ax, [0008]| 0ff0H | 0108H | 2000H | C389H | 0000H |
 | mov ax, [0002]| 0ff0H | 010BH | 2000H | EA66H | 0000H |
+## 检测点3.2
+（1）
+```
+mov ax,2000H 
+mov ss,ax
+mov sp,0010H
+```
+（2）
+```
+mov ax,1000H 
+mov ss,ax
+mov sp,0000H 
+```
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
 - [《汇编语言》第三版检测点答案](https://github.com/sanmianti/AssemblyLanguageTest/blob/master/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88.md)
