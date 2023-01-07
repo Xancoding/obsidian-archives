@@ -306,7 +306,55 @@ code ends
 end start 
 ```
 ## 实验六
+```
+assume cs:codesg, ss:stacksg, ds:datasg
 
+stacksg segment 
+	dw 0, 0, 0, 0, 0, 0, 0, 0
+stacksg ends
+
+datasg segment 
+	db '1. display      '
+	db '2. brows        '
+	db '3. replace      '
+	db '4. modify       '
+datasg ends
+
+codesg segment 
+	start:
+			mov ax, stacksg 
+			mov ss, ax
+			mov sp, 16
+
+			mov ax, datasg 
+			mov ds, ax
+			mov bx, 0
+			
+			mov cx, 4
+
+		s0:
+			push cx
+			mov si, 0
+			mov cx, 4
+
+			s: 
+				mov al, [bx+si]
+				and al, 11011111b
+				mov [bx+si], al
+				inc si
+				loop s
+
+			add bx, 16
+			pop cx
+			loop s0
+
+			mov ax, 4c00H
+			int 21H
+			
+codesg ends
+
+end start 
+```
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
 - [《汇编语言》第三版检测点答案](https://github.com/sanmianti/AssemblyLanguageTest/blob/master/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88.md)
