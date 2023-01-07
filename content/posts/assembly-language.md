@@ -260,7 +260,6 @@ start:
 		mov dl, ds:[bx]
 		add dl, es:[bx]
 
-		push ds
 
 		mov ax, 4c00h 
 		int 21h
