@@ -160,6 +160,40 @@ code ends
 
 end start
 ```
+（2）
+```
+assume cs:code, ds:data, ss:stack
+
+data segment 
+		dw 0123H, 0456H
+data ends
+
+stack segment 
+		dw 0, 0
+stack ends
+
+code segment 
+
+start: 
+		mov ax, stack 
+		mov ss, ax
+		mov sp, 16
+		
+		mov ax, data
+		mov ds, ax
+
+		push ds:[0]
+		push ds:[2]
+		pop ds:[2]
+		pop ds:[0]
+
+		mov ax, 4c00h 
+		int 21h
+
+code ends
+
+end start
+```
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
 - [《汇编语言》第三版检测点答案](https://github.com/sanmianti/AssemblyLanguageTest/blob/master/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88.md)
