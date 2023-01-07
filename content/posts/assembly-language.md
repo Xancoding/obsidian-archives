@@ -72,13 +72,11 @@ mov ax,1000H
 mov ss,ax
 mov sp,0000H 
 ```
-# 课后实验
-+ [x] 实验一
-+ [x] 实验二
-+ [x] 实验三
+# 课后实验（部分）
+## 实验三
 （3）PSP 的内容
 ![Snipaste_2023-01-06_16-39-17.png](https://bu.dusays.com/2023/01/06/63b7de3f90329.png)
-+ [x] 实验四
+## 实验四
 （2）
 ```
 assume cs:code
@@ -125,7 +123,7 @@ code segment
 code ends
 end
 ```
-+ [ ] 实验五
+## 实验五
 （1）
 ```
 assume cs:code, ds:data, ss:stack
@@ -271,6 +269,44 @@ code ends
 
 end start
 ```
+（6）
+```
+assume cs:code
+
+a segment 
+	dw 1, 2, 3, 4, 5, 6, 7, 8, 9, 0ah, 0bh, 0ch, 0dh, 0ch, 0dh, 0eh, 0fh, 0ffh
+a ends
+
+b segment 
+	dw 0, 0, 0, 0, 0, 0, 0, 0
+b ends
+
+code segment 
+
+start:
+		mov ax, a
+		mov ds, ax
+
+		mov ax, b
+		mov ss, ax
+		mov sp, 10h
+
+		mov bx, 0
+		mov cx, 8
+
+	s:
+		push [bx]
+		add bx, 2
+		loop s
+
+		mov ax, 4c00h 
+		int 21h
+code ends
+
+end start 
+```
+## 实验六
+
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
 - [《汇编语言》第三版检测点答案](https://github.com/sanmianti/AssemblyLanguageTest/blob/master/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88.md)
