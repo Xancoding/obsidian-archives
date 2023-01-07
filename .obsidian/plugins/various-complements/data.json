@@ -150,6 +150,30 @@
           "lastUpdated": 1673012516462
         }
       }
+    },
+    "segment": {
+      "segment": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1673056915643
+        }
+      }
+    },
+    "stack": {
+      "stack": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673056948830
+        }
+      }
+    },
+    "4c00h": {
+      "4c00h": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673057015681
+        }
+      }
     }
   }
 }
