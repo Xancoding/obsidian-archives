@@ -18,33 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "43555509b9215969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-01-08-17-55-21.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7b8aebe882a1b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-01-05-12-14-06.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-05-12-14-06.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,16 +107,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b7b8aebe882a1b98",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/links.md",
+    "content/posts/assembly-language.md",
     "content/posts/2023-01-08-17-55-21.md",
+    "content/posts/2023-01-05-12-14-06.md",
     "content/posts/acw-django.md",
     "content/posts/2023-01-05-12-37-05.md",
-    "content/posts/2023-01-05-12-14-06.md",
     "content/posts/2023-01-02.md",
     "content/posts/2023-01-04-16-20-44.md",
-    "content/posts/assembly-language.md",
-    "content/links.md",
     "content/about.md",
     "content/posts/acw-linux.md"
   ]
