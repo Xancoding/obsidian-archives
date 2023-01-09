@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-09-15-55-00.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -50,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-09-15-57-30.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-09-15-53-43.md",
+                "file": "content/posts/2023-01-09-15-55-00.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,11 +144,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5c71db03a73b2c64",
+  "active": "7b0de1cf39f56fd3",
   "lastOpenFiles": [
+    "content/posts/2023-01-09-15-57-30.md",
     "content/posts/2023-01-09-15-55-00.md",
     "content/posts/2023-01-09-15-53-43.md",
-    "content/posts/2023-01-09-15-57-30.md",
     "content/posts/assembly-language.md",
     "content/posts/2023-01-05-12-14-06.md",
     "content/posts/2023-01-05-12-37-05.md",
