@@ -18,45 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "5c71db03a73b2c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-01-09-15-53-43.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b0de1cf39f56fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-01-09-15-55-00.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d92b57cd8728c9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-01-09-15-57-30.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-09-15-55-00.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,11 +107,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7b0de1cf39f56fd3",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "content/posts/2023-01-09-15-57-30.md",
-    "content/posts/2023-01-09-15-55-00.md",
     "content/posts/2023-01-09-15-53-43.md",
+    "content/posts/2023-01-09-15-55-00.md",
+    "content/posts/2023-01-09-15-57-30.md",
     "content/posts/assembly-language.md",
     "content/posts/2023-01-05-12-14-06.md",
     "content/posts/2023-01-05-12-37-05.md",
