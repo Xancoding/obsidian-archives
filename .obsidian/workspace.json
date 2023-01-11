@@ -23,8 +23,12 @@
             "id": "1f0f672a4e3f62c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/learning-cpp.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -86,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/assembly-language.md",
+                "file": "content/posts/learning-cpp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +122,8 @@
   },
   "active": "1f0f672a4e3f62c4",
   "lastOpenFiles": [
-    "content/posts/2023-01-11-12-12-24.md",
     "content/posts/assembly-language.md",
+    "content/posts/2023-01-11-12-12-24.md",
     "content/posts/2023-01-09-15-57-30.md",
     "content/posts/2023-01-09-15-53-43.md",
     "content/posts/2023-01-09-15-55-00.md",
