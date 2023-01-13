@@ -1,15 +1,17 @@
 ---
-title: "构建你的数字花园" # 标题
+title: "我输出信息的途径" # 标题
 date: 2022-10-30T15:28:22+08:00 # 创建时间
 author: ["Xan"] # 作者
 tags: # 标签
-- Life
-- 工具
+- Tech
+- Productivity
 - 知识管理
+- 工具
 keywords: # 关键词
-- Life
-- 工具
+- Tech
+- Productivity
 - 知识管理
+- 工具
 description: "" # 描述
 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: ""
@@ -27,6 +29,7 @@ cover:
     relative: false
 ---
 
+# 
 # 推荐阅读
 - [Obsidian](https://obsidian.md/) 
 	1. [Hypothesis 使用小记](https://seviche.cc/2022-05-25-hypothesis#1-%E5%AE%89%E8%A3%85-hypothesis-%E6%8F%92%E4%BB%B6) 在网页上高亮批注，并可同步到 Obsidian

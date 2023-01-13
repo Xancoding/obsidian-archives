@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-01-13-11-19-18.md",
-                "mode": "source",
+                "file": "content/posts/digital-garden.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-13-11-19-18.md",
+                "file": "content/posts/digital-garden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +144,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "393271169966672e",
   "lastOpenFiles": [
+    "content/posts/double-sepll.md",
     "content/posts/get-info.md",
-    "content/posts/2023-01-13-11-19-18.md",
+    "content/posts/helloworld.md",
+    "content/posts/LaTex.md",
     "content/posts/learning-cpp.md",
-    "content/posts/assembly-language.md",
-    "content/posts/2023-01-04-16-20-44.md",
-    "content/posts/2023-01-05-12-14-06.md",
-    "content/posts/2023-01-05-12-37-05.md",
-    "content/posts/2023-01-08-17-55-21.md",
-    "content/posts/2023-01-11-12-12-24.md",
-    "content/posts/2023-01-09-15-57-30.md"
+    "content/posts/linear-algebra.md",
+    "content/posts/linux-network-programming.md",
+    "content/posts/plan.md",
+    "content/posts/os.md",
+    "content/posts/markdown.md"
   ]
 }
