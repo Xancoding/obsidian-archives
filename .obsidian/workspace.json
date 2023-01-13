@@ -50,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/get-info.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/get-info.md",
+                "file": "content/posts/2023-01-13-11-19-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,8 @@
   },
   "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "content/posts/2023-01-13-11-19-18.md",
     "content/posts/get-info.md",
+    "content/posts/2023-01-13-11-19-18.md",
     "content/posts/learning-cpp.md",
     "content/posts/assembly-language.md",
     "content/posts/2023-01-04-16-20-44.md",

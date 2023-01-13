@@ -70,7 +70,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看（当然，并不是每次图书馆都有我想要的书😭）
 # ChatGPT + 搜索引擎
-- `Chrome（需翻墙） & AdblockPlus & uBlacklist | Personal Blocklist`
+- `Chrome（需翻墙） & AdblockPlus & uBlacklist | Personal Blocklist & ChatGPT for Google`
 - **在搜索引擎体验上， Google （强推，体验极佳） > Bing （偶尔用用） >> Baidu （完全不考虑）**
 ## Chrome 浏览器设置
 ### 快捷字词搜索
