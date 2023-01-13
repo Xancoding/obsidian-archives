@@ -122,7 +122,7 @@ Chrome 浏览器简洁的界面深得我心，在安装一部分插件后，搜�
 首先安装该拓展程序：<https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN>
 ![Snipaste_2023-01-13_11-13-13.png](https://bu.dusays.com/2023/01/13/63c0cc66cba50.png)
 之后使用 Google 搜索时，右侧便会自动出现chatGPT的回答，如搜索`C++虚函数是什么？`，就会出现如下所示的结果：
-
+![Snipaste_2023-01-13_11-18-47.png](https://bu.dusays.com/2023/01/13/63c0cda30c70c.png)
 # 推荐阅读
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
 - [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
