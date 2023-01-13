@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/get-info.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/time-management.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/get-info.md",
+                "file": "content/posts/time-management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,14 +156,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8000283931fbdd3f",
+  "active": "17c37e00012087b3",
   "lastOpenFiles": [
+    "content/posts/digital-garden.md",
+    "content/posts/get-info.md",
     "content/posts/self-study.md",
     "content/posts/Vimium.md",
     "content/posts/plan.md",
     "content/posts/time-management.md",
-    "content/posts/digital-garden.md",
-    "content/posts/get-info.md",
     "content/posts/sicp.md",
     "content/posts/regular-expression.md",
     "content/posts/principles-of-computer-composition.md",

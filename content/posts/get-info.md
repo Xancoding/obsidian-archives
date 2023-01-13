@@ -14,7 +14,7 @@ keywords: # 关键词
 - Search Engine
 - 工具
 description: "" # 描述
-weight: 2 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+weight: 10 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: ""
 draft: false # 是否为草稿
 comments: true # 是否展示评论
@@ -126,7 +126,7 @@ Chrome 浏览器简洁的界面深得我心，在安装一部分插件后，搜�
 ### Vimium
 **Vimium是一款Chrome插件，它提供了类Vim操作来控制浏览器网页。熟练掌握后，可以脱离鼠标，只使用键盘浏览页面**  
 
-这个插件我已经有一篇[详细的博客文章](https://xancoding.cn/posts/vimium/)进行更为详细的讲解了，这里就不再展开来说了
+这个插件我已经有一篇[文章]()进行更为详细的讲解了，这里就不再展开来说了
 # 推荐阅读
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
 - [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
