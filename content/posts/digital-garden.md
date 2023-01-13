@@ -44,8 +44,10 @@ cover:
 - `flomo 浮墨笔记`
 在日常生活中，有碰到想法和灵感需要记录的时候，我会使用它进行一个快速的记录。以及在想回顾时，可以方便知晓过去的想法。  
 ![Snipaste_2023-01-13_13-42-13.png](https://bu.dusays.com/2023/01/13/63c0ef3e0c721.png)
+# 信息暂存
+- `语雀`  
 
-
+我会将
 # 推荐阅读
 - [什么是 Zettelkasten 卡片盒笔记法？](https://www.zhihu.com/question/384309878/answer/2713962647)
 - [卢曼：与卡片盒交流](https://mp.weixin.qq.com/s?__biz=MzA5MzUzODA1OA==&mid=2247483947&idx=1&sn=2cccb76ee58ddd11541d91c4b283b594&chksm=905d104ea72a9958d71c70313d5a4799641aa903e62f32ac1038ec5fb8c903fc7db36c261d26&scene=178&cur_album_id=1477367917246726144#rd)
