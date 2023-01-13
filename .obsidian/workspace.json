@@ -38,13 +38,12 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/time-management.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/time-management.md",
+                "file": "content/posts/get-info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,11 +131,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "17c37e00012087b3",
+  "active": "8000283931fbdd3f",
   "lastOpenFiles": [
+    "content/posts/time-management.md",
     "content/posts/plan.md",
     "content/posts/self-study.md",
-    "content/posts/time-management.md",
     "content/posts/digital-garden.md",
     "content/posts/get-info.md",
     "content/posts/Vimium.md",
