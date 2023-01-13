@@ -119,8 +119,9 @@ Chrome 浏览器简洁的界面深得我心，在安装一部分插件后，搜�
 #### Personal Blocklist
 使用方法和 `uBlacklist` 差不多，目前使用来看效果不错
 ### ChatGPT for Google 
-首先安装该tuo'zh
-![Snipaste_2023-01-13_11-12-00.png](https://bu.dusays.com/2023/01/13/63c0cc07a775f.png)
+首先安装该拓展程序：<https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN>
+![Snipaste_2023-01-13_11-13-13.png](https://bu.dusays.com/2023/01/13/63c0cc66cba50.png)
+之后使用 Google 搜索时，右侧便会zi
 
 # 推荐阅读
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
