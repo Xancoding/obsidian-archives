@@ -47,7 +47,8 @@ cover:
 # 信息暂存
 - `语雀`  
 
-我会将
+我会将部分的信息暂存在语雀中，记录下来，在需要用的时候再去语雀上找来用
+
 # 推荐阅读
 - [什么是 Zettelkasten 卡片盒笔记法？](https://www.zhihu.com/question/384309878/answer/2713962647)
 - [卢曼：与卡片盒交流](https://mp.weixin.qq.com/s?__biz=MzA5MzUzODA1OA==&mid=2247483947&idx=1&sn=2cccb76ee58ddd11541d91c4b283b594&chksm=905d104ea72a9958d71c70313d5a4799641aa903e62f32ac1038ec5fb8c903fc7db36c261d26&scene=178&cur_album_id=1477367917246726144#rd)
