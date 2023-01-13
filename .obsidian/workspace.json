@@ -54,6 +54,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "407b58f540006fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Vimium.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -146,15 +158,15 @@
   },
   "active": "8000283931fbdd3f",
   "lastOpenFiles": [
+    "content/posts/Vimium.md",
+    "content/posts/get-info.md",
     "content/posts/time-management.md",
     "content/posts/plan.md",
-    "content/posts/Vimium.md",
     "content/posts/sicp.md",
     "content/posts/self-study.md",
     "content/posts/regular-expression.md",
     "content/posts/principles-of-computer-composition.md",
     "content/posts/os.md",
-    "content/posts/assembly-language.md",
-    "content/posts/get-info.md"
+    "content/posts/assembly-language.md"
   ]
 }

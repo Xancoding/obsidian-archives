@@ -70,7 +70,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看（当然，并不是每次图书馆都有我想要的书😭）
 # ChatGPT + 搜索引擎
-- `Chrome（需翻墙） & AdblockPlus & uBlacklist | Personal Blocklist & ChatGPT for Google`
+- `Chrome（需翻墙） & AdblockPlus & uBlacklist | Personal Blocklist & ChatGPT for Google & Vimium`
 - **在搜索引擎体验上， Google （强推，体验极佳） > Bing （偶尔用用） >> Baidu （完全不考虑）**
 ## Chrome 浏览器设置
 ### 快捷字词搜索
@@ -124,7 +124,9 @@ Chrome 浏览器简洁的界面深得我心，在安装一部分插件后，搜�
 之后使用 Google 搜索时，右侧便会自动出现chatGPT的回答，如搜索`C++虚函数是什么？`，就会出现如下所示的结果：
 ![Snipaste_2023-01-13_11-18-47.png](https://bu.dusays.com/2023/01/13/63c0cda30c70c.png)
 ### Vimium
+**Vimium是一款Chrome插件，它提供了类Vim操作来控制浏览器网页。熟练掌握后，可以脱离鼠标，只使用键盘浏览页面**  
 
+这个插件我已经有一篇[详细的博客文章]()进行更为详细的讲解了，这里就不再展开来
 # 推荐阅读
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
 - [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
