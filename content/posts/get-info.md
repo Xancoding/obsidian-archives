@@ -69,7 +69,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 如果找不到EPUB格式的书籍，我会存 PDF 格式的，然后在 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) 上阅读
 
 不过，相比于电子书，我其实还是更喜欢纸质书的阅读体验。所以，我也会隔段时间便去拿着自己的书单，去学校的图书馆找书看（当然，并不是每次图书馆都有我想要的书😭）
-# 搜索引擎
+# ChatGPT + 搜索引擎
 - `Chrome（需翻墙） & AdblockPlus & uBlacklist | Personal Blocklist`
 - **在搜索引擎体验上， Google （强推，体验极佳） > Bing （偶尔用用） >> Baidu （完全不考虑）**
 ## Chrome 浏览器设置
@@ -118,8 +118,7 @@ Chrome 浏览器简洁的界面深得我心，在安装一部分插件后，搜�
 2022-11-14 更新：不知道是为什么，最近一段时间这个插件失效了
 #### Personal Blocklist
 使用方法和 `uBlacklist` 差不多，目前使用来看效果不错
-# chatGPT
-
+### 
 # 推荐阅读
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
 - [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
