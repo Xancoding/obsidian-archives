@@ -118,6 +118,8 @@ Chrome 浏览器简洁的界面深得我心，在安装一部分插件后，搜�
 2022-11-14 更新：不知道是为什么，最近一段时间这个插件失效了
 #### Personal Blocklist
 使用方法和 `uBlacklist` 差不多，目前使用来看效果不错
+# chatGPT
+
 # 推荐阅读
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
 - [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
