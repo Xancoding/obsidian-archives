@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "393271169966672e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/digital-garden.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8000283931fbdd3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/posts/get-info.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "393271169966672e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/digital-garden.md",
                 "mode": "source",
                 "source": true
               }
@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/plan.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Vimium.md",
+                "file": "content/posts/self-study.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/get-info.md",
+                "file": "content/posts/self-study.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +156,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8000283931fbdd3f",
+  "active": "407b58f540006fa9",
   "lastOpenFiles": [
     "content/posts/Vimium.md",
-    "content/posts/get-info.md",
-    "content/posts/time-management.md",
     "content/posts/plan.md",
+    "content/posts/time-management.md",
+    "content/posts/digital-garden.md",
+    "content/posts/get-info.md",
     "content/posts/sicp.md",
     "content/posts/self-study.md",
     "content/posts/regular-expression.md",
     "content/posts/principles-of-computer-composition.md",
-    "content/posts/os.md",
-    "content/posts/assembly-language.md"
+    "content/posts/os.md"
   ]
 }
