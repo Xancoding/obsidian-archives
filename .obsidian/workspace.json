@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/get-info.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/self-study.md",
+                "file": "content/posts/get-info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +155,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "407b58f540006fa9",
+  "active": "8000283931fbdd3f",
   "lastOpenFiles": [
+    "content/posts/self-study.md",
     "content/posts/Vimium.md",
     "content/posts/plan.md",
     "content/posts/time-management.md",
     "content/posts/digital-garden.md",
     "content/posts/get-info.md",
     "content/posts/sicp.md",
-    "content/posts/self-study.md",
     "content/posts/regular-expression.md",
     "content/posts/principles-of-computer-composition.md",
     "content/posts/os.md"
