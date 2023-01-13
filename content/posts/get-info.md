@@ -35,7 +35,7 @@ cover:
 > **整个互联网正在充斥着流量内容，而我们得学会如何从垃圾中找到金子**
 > 
 > **获取信息的方式最好是主动的，摆脱算法和机器的喂养，自己去挖掘有价值的信息**
-# RSS
+# 博客
 - `Inoreader & RSSHub Radar`
 ## 什么是RSS?
 RSS 英文全称为 Really Simple Syndication，即简易资讯聚合。其实叫什么并不重要，我们只用知道它是一个**能让你在一个地方订阅**各种感兴趣网站的工具。
@@ -53,7 +53,7 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 
 ![RSSHub Radar](https://bu.dusays.com/2022/10/30/635e1cf8e7955.png)
 
-我使用RSS主要用来订阅我感兴趣的个人博客，我订阅的博客网站在 `Links` 页面下的 [Blog](https://xancoding.cn/links/#blogs) 那一栏。
+我通过使用RSS来订阅我感兴趣的个人博客，我订阅的博客网站在 `Links` 页面下的 [Blog](https://xancoding.cn/links/#blogs) 那一栏。
 # 播客
 - `小宇宙`
 
