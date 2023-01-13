@@ -14,7 +14,7 @@ keywords: # 关键词
 - Search Engine
 - 工具
 description: "" # 描述
-weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+weight: 1 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: ""
 draft: false # 是否为草稿
 comments: true # 是否展示评论
@@ -123,6 +123,8 @@ Chrome 浏览器简洁的界面深得我心，在安装一部分插件后，搜�
 ![Snipaste_2023-01-13_11-13-13.png](https://bu.dusays.com/2023/01/13/63c0cc66cba50.png)
 之后使用 Google 搜索时，右侧便会自动出现chatGPT的回答，如搜索`C++虚函数是什么？`，就会出现如下所示的结果：
 ![Snipaste_2023-01-13_11-18-47.png](https://bu.dusays.com/2023/01/13/63c0cda30c70c.png)
+### Vimium
+
 # 推荐阅读
 - [知道RSS的人越少，我就越希望它能被人知道！](https://zhuanlan.zhihu.com/p/349349861)   
 - [RSS 二十年](https://mp.weixin.qq.com/s/VUhz2Tg08UqYSAZB6nU9MQ)  
