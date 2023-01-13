@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "17c37e00012087b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/time-management.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/digital-garden.md",
+                "file": "content/posts/get-info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +156,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "393271169966672e",
+  "active": "8000283931fbdd3f",
   "lastOpenFiles": [
-    "content/posts/double-sepll.md",
+    "content/posts/time-management.md",
+    "content/posts/digital-garden.md",
     "content/posts/get-info.md",
+    "content/posts/double-sepll.md",
     "content/posts/helloworld.md",
     "content/posts/LaTex.md",
     "content/posts/learning-cpp.md",
     "content/posts/linear-algebra.md",
     "content/posts/linux-network-programming.md",
-    "content/posts/plan.md",
-    "content/posts/os.md",
-    "content/posts/markdown.md"
+    "content/posts/plan.md"
   ]
 }
