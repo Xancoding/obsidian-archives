@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/get-info.md",
+                "file": "content/posts/time-management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,13 +132,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8000283931fbdd3f",
+  "active": "17c37e00012087b3",
   "lastOpenFiles": [
+    "content/posts/get-info.md",
     "content/posts/time-management.md",
     "content/posts/plan.md",
     "content/posts/self-study.md",
     "content/posts/digital-garden.md",
-    "content/posts/get-info.md",
     "content/posts/Vimium.md",
     "content/posts/sicp.md",
     "content/posts/regular-expression.md",
