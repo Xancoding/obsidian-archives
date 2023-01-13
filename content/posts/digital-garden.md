@@ -36,7 +36,10 @@ cover:
 - `Obsidian`
 我的笔记记录工作，都是在 `obsidian` 上完成的，现在也是建立起了一个很方便的工作流，是我可以只用思考要写什么内容，其余的步骤已经可以完全交给自动化来完成了，诸如同步到`github`、编译博客的源文件再发表等等
 ### Obsidian 插件推荐
-#### 
+#### Hypothes.is
+在日常浏览网页内容时，可以对感兴趣的内容进行高亮批注，并可自动同步到 Obsidian
+
+[Hypothesis 使用小记](https://seviche.cc/2022-05-25-hypothesis#1-%E5%AE%89%E8%A3%85-hypothesis-%E6%8F%92%E4%BB%B6) 
 # 灵感与想法
 - `flomo 浮墨笔记`
 在日常生活中，有碰到想法和灵感需要记录的时候，我会使用它进行一个快速的记录。以及在想回顾时，可以方便知晓过去的想法。  
@@ -44,10 +47,6 @@ cover:
 
 
 # 推荐阅读
-- [Obsidian](https://obsidian.md/) 
-	1. [Hypothesis 使用小记](https://seviche.cc/2022-05-25-hypothesis#1-%E5%AE%89%E8%A3%85-hypothesis-%E6%8F%92%E4%BB%B6) 在网页上高亮批注，并可同步到 Obsidian
-- [语雀](https://www.yuque.com/)
-***
 - [什么是 Zettelkasten 卡片盒笔记法？](https://www.zhihu.com/question/384309878/answer/2713962647)
 - [卢曼：与卡片盒交流](https://mp.weixin.qq.com/s?__biz=MzA5MzUzODA1OA==&mid=2247483947&idx=1&sn=2cccb76ee58ddd11541d91c4b283b594&chksm=905d104ea72a9958d71c70313d5a4799641aa903e62f32ac1038ec5fb8c903fc7db36c261d26&scene=178&cur_album_id=1477367917246726144#rd)
 - [我的知识管理工具和经验](https://catcoding.me/p/my-notes-taking-tools-and-experience/)
