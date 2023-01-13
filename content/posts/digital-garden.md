@@ -29,7 +29,8 @@ cover:
     relative: false
 ---
 
-# 
+# 个人网站
+
 # 推荐阅读
 - [Obsidian](https://obsidian.md/) 
 	1. [Hypothesis 使用小记](https://seviche.cc/2022-05-25-hypothesis#1-%E5%AE%89%E8%A3%85-hypothesis-%E6%8F%92%E4%BB%B6) 在网页上高亮批注，并可同步到 Obsidian
