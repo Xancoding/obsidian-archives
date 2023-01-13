@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/digital-garden.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "393271169966672e",
   "lastOpenFiles": [
     "content/posts/get-info.md",
     "content/posts/digital-garden.md",

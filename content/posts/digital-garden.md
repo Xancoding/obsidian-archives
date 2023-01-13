@@ -38,7 +38,9 @@ cover:
 # 灵感与想法
 - `语雀 & flomo 浮墨笔记`
 ## flomo 浮墨笔记
-在每日思考的时候，you'peng'dao
+在日常生活中，有碰到想法和灵感需要记录的时候，我会使用它进行一个快速的记录  
+![Snipaste_2023-01-13_13-42-13.png](https://bu.dusays.com/2023/01/13/63c0ef3e0c721.png)
+
 
 # 推荐阅读
 - [Obsidian](https://obsidian.md/) 
