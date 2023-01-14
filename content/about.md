@@ -172,6 +172,9 @@
 5. 臀围 93cm
 ![W020140804575490157571.jpg](https://bu.dusays.com/2023/01/14/63c257e529c6d.jpg)
 
+# Trackpad Repair
+1. 预计会需要3~5天时间
+2. 触控板、键盘、c面是一体报价，800左右
 # Fitness program
 > **采取三分化训练模式，意思是三天以内训练全身，中间也可以比较自由的加入休息日**
 ## Day 1：Chest & Triceps
