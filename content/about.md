@@ -25,7 +25,7 @@
 
 [^4]: **不要重复自己。（以最小化冗余的方式编写代码）**
 # Projects
-## [Blog](https://github.com/Xancoding/Blog)
+## [Blog](https://github.com/Xancoding/Xancoding.github.io)
 ### 搭建工具
 - `Hugo & GitHub Pages & GitHub Action & Twikoo`
 - `Theme：PaperMod`
