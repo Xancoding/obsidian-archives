@@ -46,3 +46,4 @@ cover:
 
 # 推荐阅读
 - [小鹤双拼](https://flypy.com/)
+- [小鹤入门](https://help.flypy.com/#/xh)
