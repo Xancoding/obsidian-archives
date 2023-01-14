@@ -80,6 +80,10 @@ test
 ## 引用
 ![NeatReader-1673689679672.png](https://bu.dusays.com/2023/01/14/63c27a5f1c3b1.png)
 
+# 排版技巧
+## 关于空格
+建议`中文`和`英文`之间加空格，`中/英文`和`数字`之间也要加空格  
+
 # 推荐阅读
 - [Markdown - All You Need to Know](http://haoeric.github.io/markdown-grammar/#fnref:1)
 - [Markdown 官方教程](https://markdown.com.cn/)
