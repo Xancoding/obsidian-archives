@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-14-14-49-34.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "6072a648dd1b0b60",
   "lastOpenFiles": [
     "content/posts/assembly-language.md",
     "content/posts/2023-01-14-14-49-34.md",
