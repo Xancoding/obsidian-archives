@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/markdown.md",
+                "file": "000 AAA/000 待办清单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +120,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03fbb93e911be860",
+  "active": "b38705f15b6fbc67",
   "lastOpenFiles": [
-    "000 AAA/000 待办清单.md",
     "content/posts/markdown.md",
+    "000 AAA/000 待办清单.md",
     "content/posts/get-info.md",
     "content/posts/2023-01-05-12-37-05.md",
     "content/posts/2023-01-02.md",
