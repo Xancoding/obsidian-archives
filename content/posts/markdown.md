@@ -83,10 +83,14 @@ test
 # 排版技巧
 ## 关于空格
 建议`中文`和`英文`之间加空格，`中/英文`和`数字`之间也要加空格  
+### 加空格的情况
+英文标点符号与后面的字符之间需要加空格，与前面的字符之间不需要加空格：  
+`More ways to shop:Visit an Apple Store, call 1-800-MY-APPLE, or find a reseller`
 
 当在中文、英文中使用`＞`标识路径时，两边都需要加空格：  
-Erase data and settings in **Settings > General > Reset > Erase all Content and Settings**  
-抹掉所有内容和设置的操作步骤：**设置 > 通用 > 还原 > 抹掉所有内容和设置**
+`Erase data and settings in Settings > General > Reset > Erase all Content and Settings`  
+`抹掉所有内容和设置的操作步骤：设置 > 通用 > 还原 > 抹掉所有内容和设置`
+### 不加空格的情况
 # 推荐阅读
 - [Markdown - All You Need to Know](http://haoeric.github.io/markdown-grammar/#fnref:1)
 - [Markdown 官方教程](https://markdown.com.cn/)
