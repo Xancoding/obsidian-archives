@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7732bdc7c1255949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/get-info.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/get-info.md",
+                "file": "content/posts/markdown.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +107,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7732bdc7c1255949",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/posts/get-info.md",
     "content/posts/2023-01-05-12-37-05.md",
     "content/posts/2023-01-02.md",
     "content/posts/assembly-language.md",
@@ -130,7 +118,6 @@
     "content/posts/digital-garden.md",
     "content/posts/2023-01-14-14-49-34.md",
     "000 AAA/100 聊天素材.md",
-    "000 AAA/000 待办清单.md",
-    "content/posts/os.md"
+    "000 AAA/000 待办清单.md"
   ]
 }
