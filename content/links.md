@@ -99,6 +99,11 @@
 
 ## 登山装备清单
 ![mountaineeringEquipment](https://bu.dusays.com/2022/10/30/635e1c4fb1e10.png)
+## 海外代购
+在淘宝上搜亚马逊代购，然后把衣服链接发给他，他会计算价格
+![image.png](https://bu.dusays.com/2023/01/14/63c243c4af274.png)
+
+
 # Bilibili 
 ## Up主
 ### History 
