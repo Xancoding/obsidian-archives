@@ -91,8 +91,8 @@
 	- [两步路使用教学｜烛逢](https://www.bilibili.com/video/BV1Mi4y117Zc/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 
 - 两步路路网
-	1. 下载豌豆荚
-	2. 在豌豆荚中搜索两步路，下载 v6.7.2版本
+	1. 访问🔗<https://www.wandoujia.com/apps/514093/history>
+	2. 下载 6.6.1 版本
 	3. 在应用商店中关闭自动更新
 
 - [GOOGLE地球简易操作制作轨迹，配合六只脚户外导航](https://mp.weixin.qq.com/s/bCp1WXavE7DeweMb9WoDkw)

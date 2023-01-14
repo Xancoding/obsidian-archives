@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/links.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/links.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "b9a849a9b00e6c77",
   "lastOpenFiles": [
+    "content/about.md",
     "content/archives.md",
     "content/posts/acw-django.md",
     "content/posts/acw-web.md",
@@ -117,7 +118,6 @@
     "content/posts/2023-01-09-15-55-00.md",
     "content/posts/2023-01-09-15-57-30.md",
     "content/posts/2023-01-09-15-53-43.md",
-    "content/posts/digital-garden.md",
-    "content/posts/get-info.md"
+    "content/posts/digital-garden.md"
   ]
 }
