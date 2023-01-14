@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/get-info.md",
                 "mode": "preview",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/get-info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
   },
   "active": "7732bdc7c1255949",
   "lastOpenFiles": [
+    "content/posts/2023-01-05-12-37-05.md",
+    "content/posts/2023-01-02.md",
+    "content/posts/assembly-language.md",
+    "content/about.md",
     "content/posts/markdown.md",
     "content/posts/digital-garden.md",
-    "content/about.md",
     "content/posts/2023-01-14-14-49-34.md",
     "000 AAA/100 聊天素材.md",
     "000 AAA/000 待办清单.md",
-    "content/posts/assembly-language.md",
-    "content/posts/os.md",
-    "content/posts/2023-01-14-14-08-57.md",
-    "content/posts/plan.md"
+    "content/posts/os.md"
   ]
 }

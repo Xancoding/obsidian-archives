@@ -3,7 +3,7 @@
 
 𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠, 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐚𝐧𝐝 𝐏𝐬𝐲𝐜𝐡𝐨𝐥𝐨𝐠𝐲.
 
-[ENFJ-A 人格](https://www.16personalities.com/profiles/2fb2622dae5d6)
+[ENFJ-A](https://www.16personalities.com/profiles/2fb2622dae5d6)
 # Life Insights
 1. THINK MORE
 2. THINK INDEPENDENTLY
