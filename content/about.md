@@ -2,6 +2,8 @@
 𝑯𝒊, 𝑰'𝒎 ✨ [𝐗𝐚𝐧](https://xancoding.cn/) ✨,𝐚 𝐂𝐒 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐍𝐂𝐄𝐏𝐔.
 
 𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠, 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐚𝐧𝐝 𝐏𝐬𝐲𝐜𝐡𝐨𝐥𝐨𝐠𝐲.
+
+[ENFJ-A 人格](https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC)
 # Life Insights
 1. THINK MORE
 2. THINK INDEPENDENTLY
