@@ -91,6 +91,16 @@ test
 `Erase data and settings in Settings > General > Reset > Erase all Content and Settings`  
 `抹掉所有内容和设置的操作步骤：设置 > 通用 > 还原 > 抹掉所有内容和设置`
 ### 不加空格的情况
+中文标点符号和数字、中文、英文之间不需要添加空格
+
+数字和百分号之间不需要添加空格
+
+数字和单位符号之间不需要添加空格
+
+英文和数字组合成的名字之间不需要添加空格
+
+当`/`表示“或”、“路径”时，与前后的字符之间均不加空格：
+
 # 推荐阅读
 - [Markdown - All You Need to Know](http://haoeric.github.io/markdown-grammar/#fnref:1)
 - [Markdown 官方教程](https://markdown.com.cn/)
