@@ -1,12 +1,4 @@
 {
-  "quickadd:runQuickAdd": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "editor:delete-paragraph": [],
   "app:delete-file": [
     {
@@ -22,6 +14,14 @@
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }

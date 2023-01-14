@@ -32,7 +32,7 @@
 - `Tool：Obsidian & Git Bash`
 ### Tool 常用操作
 #### Obsidian
-1. 打开 `Obsidian` 编辑器，通过 `ctrl + a` 快捷键创建新博客
+1. 打开 `Obsidian` 编辑器，通过 `ctrl + s` 快捷键创建新博客
 2. `ctrl + d`：删除当前文件
 3. `ctrl + t`：打开新标签页
 4. `ctrl + w`：关闭当前标签页
