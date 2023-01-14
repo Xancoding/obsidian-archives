@@ -80,6 +80,11 @@ cover:
 ![NeatReader-1673687488276.png](https://bu.dusays.com/2023/01/14/63c271cd41342.png)
 ## 代码块
 1. 很多Shell命令都要粘贴到终端中去执行，因此最好避免在Shell命令中使用任何换行操作；可以在行尾使用一个`\`，这样既能避免命令换行，又能提高源码的可读性
+2. 建议不要在没有输出内容的Shell命令前加`$`，在有输出内容的Shell命令前加上`$`
+```shell
+$ echo "test"
+test
+```
 
 # 推荐阅读
 - [Markdown - All You Need to Know](http://haoeric.github.io/markdown-grammar/#fnref:1)
