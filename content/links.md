@@ -100,7 +100,7 @@
 ## 登山装备清单
 ![mountaineeringEquipment](https://bu.dusays.com/2022/10/30/635e1c4fb1e10.png)
 ## 海外代购
-在淘宝上搜亚马逊代购，然后把衣服链接发给他，他会计算价格
+在淘宝上搜亚马逊代购，然后把[衣服链接](https://www.amazon.com/Amazon-Essentials-Stretch-Long-Sleeve-Pullover/dp/B07FLWRP2K/ref=sr_1_52?crid=30CWS1VUYTRFU&dchild=1&keywords=amazon%2Bessentials%2Blong%2Bsleeve%2Bshirt%2Bmen&qid=1621000634&sprefix=amazon%2Bessentials%2Blong%2Caps%2C443&sr=8-52&th=1&psc=1)发给他，他会计算价格
 ![image.png](https://bu.dusays.com/2023/01/14/63c243c4af274.png)
 
 
