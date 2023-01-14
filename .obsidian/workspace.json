@@ -152,12 +152,12 @@
         "y": 448,
         "width": 1292,
         "height": 823,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d44a19e1addf462f",
+  "active": "6072a648dd1b0b60",
   "lastOpenFiles": [
     "000 AAA/000 待办清单.md",
     "content/posts/2023-01-14-14-49-34.md",
