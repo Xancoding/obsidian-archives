@@ -80,6 +80,10 @@ test
 ## 引用
 ![NeatReader-1673689679672.png](https://bu.dusays.com/2023/01/14/63c27a5f1c3b1.png)
 
+## 锚点
+锚点，也称为书签，用来标记文档的特定位置，使用锚点可以跳转到当前文档或其他文档中指定的标记位置  
+
+[锚点描述]
 # 排版技巧
 ## 关于空格
 建议`中文`和`英文`之间加空格，`中/英文`和`数字`之间也要加空格  
@@ -100,7 +104,12 @@ test
 英文和数字组合成的名字之间不需要添加空格
 
 当`/`表示“或”、“路径”时，与前后的字符之间均不加空格：
+`小明精通“Python/Java/Go/Swift”的Hello Word打印语法`  
+`/Volumes/warehouse/README.md`
 
+货币符号后不加空格
+
+负号后不加空格
 # 推荐阅读
 - [Markdown - All You Need to Know](http://haoeric.github.io/markdown-grammar/#fnref:1)
 - [Markdown 官方教程](https://markdown.com.cn/)
