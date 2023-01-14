@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卡特兰",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4716a16cb3adc1bb",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
     "content/posts/2023-01-14-14-49-34.md",
     "000 AAA/100 聊天素材.md",
