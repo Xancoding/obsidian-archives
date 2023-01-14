@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6deb32f56f6a9ec1",
+            "id": "e9cc5a2b6d684aa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/double-sepll.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/double-sepll.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +102,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "e9cc5a2b6d684aa9",
   "lastOpenFiles": [
+    "content/posts/linux-network-programming.md",
+    "content/posts/2023-01-05-12-37-05.md",
+    "content/posts/double-sepll.md",
     "content/posts/markdown.md",
     "content/posts/2023-01-14-21-19-01.md",
-    "content/posts/double-sepll.md",
     "000 AAA/000 待办清单.md",
     "content/posts/get-info.md",
-    "content/posts/2023-01-05-12-37-05.md",
     "content/posts/2023-01-02.md",
     "content/posts/assembly-language.md",
-    "content/about.md",
-    "content/posts/digital-garden.md"
+    "content/about.md"
   ]
 }
