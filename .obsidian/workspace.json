@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03fbb93e911be860",
+            "id": "7c862dafcd73c287",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/markdown.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b38705f15b6fbc67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 AAA/000 待办清单.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/markdown.md",
+                "file": "000 AAA/000 待办清单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03fbb93e911be860",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "000 AAA/000 待办清单.md",
     "content/posts/markdown.md",
