@@ -41,7 +41,7 @@ cover:
 在日常浏览网页内容时，可以对感兴趣的内容进行高亮批注，并可自动同步到 Obsidian
 
 [Hypothesis 使用小记](https://seviche.cc/2022-05-25-hypothesis#1-%E5%AE%89%E8%A3%85-hypothesis-%E6%8F%92%E4%BB%B6) 
-### 简单的幻灯片演示
+#### 简单的幻灯片演示
 [用obsidian做ppt【玩转Obsidian的保姆级教程】](https://zhuanlan.zhihu.com/p/412523896)
 # 灵感与想法
 - `flomo 浮墨笔记`  
