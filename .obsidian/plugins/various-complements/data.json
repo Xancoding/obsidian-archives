@@ -258,8 +258,8 @@
     "Tech": {
       "Tech": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1673676563460
+          "count": 3,
+          "lastUpdated": 1673757902691
         }
       }
     },
@@ -284,6 +284,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1673689878520
+        }
+      }
+    },
+    "Productivity": {
+      "Productivity": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1673757909240
         }
       }
     }

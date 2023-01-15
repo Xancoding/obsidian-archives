@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/2023-01-15-12-42-38.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +119,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "49febaeefa310c4d",
   "lastOpenFiles": [
+    "content/about.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2023-01-04-16-20-44.md",
     "content/posts/get-info.md",
@@ -130,7 +130,6 @@
     "content/posts/double-sepll.md",
     "content/posts/markdown.md",
     "content/posts/2023-01-14-21-19-01.md",
-    "000 AAA/000 待办清单.md",
-    "content/posts/2023-01-02.md"
+    "000 AAA/000 待办清单.md"
   ]
 }
