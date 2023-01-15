@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "23c24fbe1c64a343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/acw-django.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "来自",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/acw-django.md",
+                "file": "content/posts/2023-01-15-12-42-38.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +107,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "49febaeefa310c4d",
   "lastOpenFiles": [
-    "content/posts/acw-linux.md",
     "content/posts/acw-web.md",
+    "content/posts/acw-django.md",
+    "content/posts/acw-linux.md",
     "content/posts/assembly-language.md",
     "content/posts/blog-drawing.md",
     "content/posts/computer-network.md",
     "content/posts/get-info.md",
     "content/posts/helloworld.md",
     "content/posts/double-sepll.md",
-    "content/posts/digital-garden.md",
-    "content/posts/data-structures-and-algorithms.md"
+    "content/posts/digital-garden.md"
   ]
 }
