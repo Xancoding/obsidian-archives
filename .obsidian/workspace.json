@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-15-12-42-38.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/acw-django.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "来自",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-15-12-42-38.md",
+                "file": "content/posts/acw-django.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +121,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "49febaeefa310c4d",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
-    "content/about.md",
-    "content/posts/2023-01-15-12-42-38.md",
-    "content/posts/2023-01-04-16-20-44.md",
+    "content/posts/acw-linux.md",
+    "content/posts/acw-web.md",
+    "content/posts/assembly-language.md",
+    "content/posts/blog-drawing.md",
+    "content/posts/computer-network.md",
     "content/posts/get-info.md",
-    "content/posts/linux-network-programming.md",
-    "content/posts/2023-01-05-12-37-05.md",
+    "content/posts/helloworld.md",
     "content/posts/double-sepll.md",
-    "content/posts/markdown.md",
-    "content/posts/2023-01-14-21-19-01.md",
-    "000 AAA/000 待办清单.md"
+    "content/posts/digital-garden.md",
+    "content/posts/data-structures-and-algorithms.md"
   ]
 }
