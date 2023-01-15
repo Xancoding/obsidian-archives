@@ -60,9 +60,9 @@ RSS的核心是**资讯聚合**，由**用户自己决定信息源**。我们可
 播客也是一个很好的信息源，可以在做一些不用🧠的事时听，适合用来拓宽自己的知识面，对一些自己之前完全没有接触过的领域做一个初步的了解，抑或是单纯用以放松也不错。我的使用场景通常是在吃饭或是上下课的路上。  
 我目前在使用的播客软件是[小宇宙](https://www.xiaoyuzhoufm.com/)，体验不错。
 # 书籍
-- `Neat Reader & Sumatra PDF & 微信读书 & Z-Library & LoreFree & 学校图书馆`
+- `Neat Reader & Sumatra PDF & Jiumo Search 鸠摩搜索 & 微信读书 & Z-Library & LoreFree & 学校图书馆`
 
-`Neat Reader` 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) or [LoreFree](https://lorefree.com/) 上搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 [Neat Reader](https://www.neat-reader.com/) 阅读。
+`Neat Reader` 是一款`EPUB`阅读器，用以阅读EPUB格式的电子书，体验感不错。我会在 [Z-Library](https://zh.z-lib.org/) or [LoreFree](https://lorefree.com/)  or [Jiumo Search 鸠摩搜索](https://www.jiumodiary.com/) 上搜索得到我想要看的书的EPUB格式的电子书后，存在本地文件上，通过 [Neat Reader](https://www.neat-reader.com/) 阅读。
 
 ![neatReader](https://bu.dusays.com/2022/10/30/635e1cf8284ec.png)
 
