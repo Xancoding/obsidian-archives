@@ -294,6 +294,22 @@
           "lastUpdated": 1673757909240
         }
       }
+    },
+    "upload": {
+      "upload": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673760513872
+        }
+      }
+    },
+    "Plugin": {
+      "Plugin": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673760516708
+        }
+      }
     }
   }
 }
