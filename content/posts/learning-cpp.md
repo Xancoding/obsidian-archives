@@ -2182,3 +2182,6 @@ MyString& MyString::operator=(const MyString& source)
     return *this;
 }
 ```
+# 对象关系简介
+## Composition vs aggregation vs association summary
+下面是一个汇总表，可帮助您记住组合、聚合和关联之间的区别：

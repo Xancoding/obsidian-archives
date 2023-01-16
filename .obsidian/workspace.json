@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6f4b53f899ffcf9",
+            "id": "eb2cbcf59e15b113",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/LaTex.md",
-                "mode": "preview",
+                "file": "content/posts/learning-cpp.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/LaTex.md",
+                "file": "content/posts/learning-cpp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "eb2cbcf59e15b113",
   "lastOpenFiles": [
+    "content/posts/LaTex.md",
     "content/posts/learning-cpp.md",
     "100 Blog Drafts/C++ 推荐阅读.md",
     "content/posts/2023-01-15-12-42-38.md",
@@ -117,7 +118,6 @@
     "content/posts/assembly-language.md",
     "content/posts/blog-drawing.md",
     "content/posts/double-sepll.md",
-    "content/posts/database.md",
-    "content/posts/computer-system-fundamentals.md"
+    "content/posts/database.md"
   ]
 }
