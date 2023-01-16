@@ -39,6 +39,7 @@ cover:
 ***
 - [LaTeX 新手上路指南](https://zhuanlan.zhihu.com/p/433710726)
 - [TeX Live 安装与 LaTeX 基础知识普及](https://www.bilibili.com/video/BV1T7411G7RV?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
+- [LaTeX-TeXlive和TeXstudio的下载、安装配置及使用](https://zhuanlan.zhihu.com/p/138586028)
 ***
 - [【LaTeX】新手教程：从入门到日常使用](https://zhuanlan.zhihu.com/p/456055339)
 - [【LaTeX】针对萌新自学者的入门教程](https://zhuanlan.zhihu.com/p/521649367)

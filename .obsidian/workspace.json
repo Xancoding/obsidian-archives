@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/learning-cpp.md",
+                "file": "content/posts/LaTex.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/learning-cpp.md",
+                "file": "content/posts/LaTex.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d6f4b53f899ffcf9",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/posts/learning-cpp.md",
     "100 Blog Drafts/C++ 推荐阅读.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/get-info.md",
@@ -117,7 +118,6 @@
     "content/posts/blog-drawing.md",
     "content/posts/double-sepll.md",
     "content/posts/database.md",
-    "content/posts/computer-system-fundamentals.md",
-    "content/posts/computer-network.md"
+    "content/posts/computer-system-fundamentals.md"
   ]
 }
