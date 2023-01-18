@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/learning-cpp.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "eb2cbcf59e15b113",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "content/posts/2023-01-04-16-20-44.md",
     "content/posts/learning-cpp.md",
