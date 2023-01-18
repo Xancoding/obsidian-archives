@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d0e2924a92f01c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-01-18-12-29-46.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/learning-cpp.md",
+                "file": "content/posts/2023-01-18-12-29-46.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +120,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "d0e2924a92f01c55",
   "lastOpenFiles": [
-    "content/posts/2023-01-04-16-20-44.md",
     "content/posts/learning-cpp.md",
+    "content/posts/2023-01-04-16-20-44.md",
     "content/posts/2023-01-05-12-14-06.md",
     "content/posts/2023-01-05-12-37-05.md",
     "content/posts/2023-01-08-17-55-21.md",

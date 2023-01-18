@@ -90,8 +90,8 @@
     "Life": {
       "Life": {
         "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1673702423915
+          "count": 12,
+          "lastUpdated": 1674016210603
         }
       }
     },
@@ -316,6 +316,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1673760633345
+        }
+      }
+    },
+    "Sports": {
+      "Sports": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1674016213396
         }
       }
     }
