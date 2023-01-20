@@ -400,7 +400,13 @@ start:
 		ov es:[di+2], ax
 		mov byte ptr es:[di+4], 20h
 
-		mov ax, [si+84]
+		mov ax, [si+84]   ; 写入公司总收入
+		mov es:[di+5], ax
+		mov ax, [si+86]
+		mov es:[di+7], ax
+		mov byte ptr es:[di+9], 20h
+
+		
 
 
 
