@@ -186,22 +186,19 @@ int main()
 
 如果你想最大限度地提高可移植性，你应该只使用 0 或 EXIT_SUCCESS 来指示成功终止，或者使用 EXIT_FAILURE 来指示不成功终止
 ## include 头文件顺序
-如果你的头文件写得正确并且`#include`了他们需要的一切，那么包含的顺序应该无关紧要
+在 C++ 中，头文件的顺序通常应该遵循以下顺序：
 
-现在考虑以下场景：假设 header A 需要 header  B 的声明，但忘记包含它。在我们的代码文件中，如果我们在 header  A 之前包含 header  B，我们的代码仍然可以编译！这是因为编译器会先编译 B 中的所有声明，然后再编译 A 中依赖于这些声明的代码
+1.  C 标准库头文件（如 <stdio.h>）
+2.  C++ 标准库头文件（如 <iostream>）
+3.  第三方库头文件（如 Boost）
+4.  项目特定的头文件（如自定义的头文件）
 
-但是，如果我们首先包含 header  A，那么编译器会报错，因为 A 的代码将在编译器看到 B 的声明之前编译。这实际上是更可取的，因为错误已经浮出水面，然后我们可以修复它.
-
-为了最大限度地提高编译器标记缺少包含的机会，请按以下方式命令您的`#includes`：
-1. The paired header file
-2. Other headers from your project
-3. 3rd party library headers
-4. Standard library headers
+这样的顺序可以避免头文件之间的依赖关系问题，同时也可以更快地查找问题。
 
 The headers for each grouping should be sorted alphabetically（按字母顺序排序）.
 
-这样，如果您的某个用户定义的 Header 缺少第 3 方库或标准库 Header 的`#include`，则更有可能导致编译错误，因此您可以修复它
-#### Header file best practices
+这个顺序并不是强制的，主要取决于项目的需要和编程风
+## Header file best practices
 1. 始终 include header guards
 2. 不要在头文件中定义变量和函数（全局常量是一个例外）
 3. 为头文件指定与其关联的源文件相同的名称（例如，grades.h 与 grades.cpp 配对）
