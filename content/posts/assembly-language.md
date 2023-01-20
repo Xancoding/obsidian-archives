@@ -394,11 +394,13 @@ start:
 		mov cx, 21        ; 21 年的 21 个字符串
 
 	s:
-		mov ax, [si]
+		mov ax, [si]      ; 写入年份
 		mov es:[di], ax
 		mov ax, [si+2]
 		ov es:[di+2], ax
-		mov by	
+		mov byte ptr es:[di+4], 20h
+
+		mov ax, [si+84]
 
 
 
