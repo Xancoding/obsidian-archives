@@ -233,85 +233,13 @@ int main()
 ```
 
 如果你想最大限度地提高可移植性，你应该只使用 0 或 EXIT_SUCCESS 来指示成功终止，或者使用 EXIT_FAILURE 来指示不成功终止
-## 前向声明和定义
-对于以下每个程序，说明它们是编译失败、链接失败、两者都失败，还是编译和链接成功。如果您不确定，请尝试编译它们！
-```cpp
-#include <iostream>
-int add(int x, int y);
-
-int main()
-{
-    std::cout << "3 + 4 + 5 = " << add(3, 4, 5) << '\n';
-    return 0;
-}
-
-int add(int x, int y)
-{
-    return x + y;
-}
-```
-Doesn’t compile. The compiler will complain that the add() called in main() does not have the same number of parameters as the one that was forward declared.
-
-```cpp
-#include <iostream>
-int add(int x, int y);
-
-int main()
-{
-    std::cout << "3 + 4 + 5 = " << add(3, 4, 5) << '\n';
-    return 0;
-}
-
-int add(int x, int y, int z)
-{
-    return x + y + z;
-}
-```
-
-Doesn’t compile. The compiler will complain that it can’t find a matching add() function that takes 3 arguments, because the add() function that was forward declared only takes 2 arguments.
-
-```cpp
-#include <iostream>
-int add(int x, int y);
-
-int main()
-{
-    std::cout << "3 + 4 = " << add(3, 4) << '\n';
-    return 0;
-}
-
-int add(int x, int y, int z)
-{
-    return x + y + z;
-}
-```
-
-Doesn’t link. The compiler will match the forward declaration of add to the function call to add() in main(). However, no add() function that takes two parameters was ever implemented (we only implemented one that took 3 parameters), so the linker will complain.
-
-```cpp
-#include <iostream>
-int add(int x, int y, int z);
-
-int main()
-{
-    std::cout << "3 + 4 + 5 = " << add(3, 4, 5) << '\n';
-    return 0;
-}
-
-int add(int x, int y, int z)
-{
-    return x + y + z;
-}
-```
-
-Compiles and links. The function call to add() matches the forward declaration, the implemented function also matches.
 ## 具有多个cpp文件的程序
 ### .cpp 文件
 编译器会单独编译每个文件。它不知道其他代码文件的内容，也不记得它从以前编译的代码文件中看到的任何内容。这种有限的可见性和短内存是有意的，因此文件可能具有名称相同的函数或变量而不会相互冲突。
 
 C++ 语言支持"分别编译"（separatecompilation）。也就是说，一个程序所有的内容，可以分成不同的部分分别放在不同的 .cpp 文件里。.cpp 文件里的东西都是相对独立的，在编译（compile）时不需要与其他文件互通，只需要在编译成目标文件后再与其他的目标文件做一次链接（link）就行了。比如，在文件 a.cpp 中定义了一个全局函数 "void a(){}"，而在文件 b.cpp 中需要调用这个函数。即使这样，文件 a.cpp 和文件 b.cpp 并不需要相互知道对方的存在，而是可以分别地对它们进行编译，编译成目标文件之后再链接，整个程序就可以运行了
 
-这是怎么实现的呢？从写程序的角度来讲，很简单。在文件 b.cpp 中，在调用 "void a()" 函数之前，先**声明一下**这个函数 "voida();"，就可以了。这是因为编译器在编译 b.cpp 的时候会生成一个符号表（symbol table），像 "void a()" 这样的看不到定义的符号，就会被存放在这个表中。再进行链接的时候，编译器就会在别的目标文件中去寻找这个符号的定义。一旦找到了，程序也就可以顺利地生成了
+这是怎么实现的呢？从写程序的角度来讲，很简单。在文件 b.cpp 中，在调用 "void a()" 函数之前，先**声明一下**这个函数 "void a();"，就可以了。这是因为编译器在编译 b.cpp 的时候会生成一个符号表（symbol table），像 "void a()" 这样的看不到定义的符号，就会被存放在这个表中。再进行链接的时候，编译器就会在别的目标文件中去寻找这个符号的定义。一旦找到了，程序也就可以顺利地生成了
 ### .h 文件
 考虑一下，如果有一个很常用的函数 "void f() {}"，在整个程序中的许多 .cpp 文件中都会被调用，那么，我们就只需要在一个文件中定义这个函数，而在其他的文件中声明这个函数就可以了。一个函数还好对付，声明起来也就一句话。但是，如果函数多了，比如是一大堆的数学函数，有好几百个，那怎么办？
 
