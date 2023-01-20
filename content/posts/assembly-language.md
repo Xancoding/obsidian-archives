@@ -410,9 +410,18 @@ start:
 		mov es:[di+10], ax
 		mov byte ptr es:[di+12], 20h
 
-		
+		mov dx,[si+86]         		
+	    mov ax,[si+84]         
+        div word ptr es:[di+10]   
+        mov es:[di+13],ax         
+        mov byte ptr es:[di+15],20h
+      			             
+        add si,4
+        add di,16
+        add bx,2 		           
+        loop s		
 
-
+		mov a
 
 codesg ends
 
