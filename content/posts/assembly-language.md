@@ -381,9 +381,15 @@ table ends
 
 codesg segment 
 
+start:
+		mov ax, data
+		mov ds, ax
+		sub si, si
+
+		mov 
 codesg ends
 
-end
+end start
 ```
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
