@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/assembly-language.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "88b2bda9a1fa6a2a",
   "lastOpenFiles": [
     "content/posts/learning-cpp.md",
     "000 AAA/000 待办清单.md",
