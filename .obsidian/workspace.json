@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dcecf08ae1e0331d",
+        "id": "f67b59d6ac31a104",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2cbcf59e15b113",
+            "id": "d87c77448d196d8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/learning-cpp.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/learning-cpp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,11 +102,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "eb2cbcf59e15b113",
+  "active": "d87c77448d196d8d",
   "lastOpenFiles": [
+    "content/posts/learning-cpp.md",
     "000 AAA/000 待办清单.md",
     "100 Blog Drafts/C++ 推荐阅读.md",
-    "content/posts/learning-cpp.md",
     "content/links.md",
     "content/about.md",
     "content/posts/2023-01-18-12-29-46.md",
