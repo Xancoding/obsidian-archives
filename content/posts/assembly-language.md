@@ -416,9 +416,9 @@ start:
         mov es:[di+13], ax         
         mov byte ptr es:[di+15], 20h
       			             
-        add si,4
-        add di,16
-        add bx,2 		           
+        add si, 4          ; 
+        add di, 16         ; table 偏移量
+        add bx, 2 		           
         loop s		
 
 		mov ax, 4c00h 
