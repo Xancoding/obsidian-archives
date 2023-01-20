@@ -406,9 +406,11 @@ start:
 		mov es:[di+7], ax
 		mov byte ptr es:[di+9], 20h
 
+		sub si, bx
 		mov ax, [si+168]   ; 写入雇员人数
 		mov es:[di+10], ax
 		mov byte ptr es:[di+12], 20h
+		add si, bx
 
 		mov dx, [si+86]    ; 写入人均收入		
 	    mov ax, [si+84]         
@@ -416,9 +418,9 @@ start:
         mov es:[di+13], ax         
         mov byte ptr es:[di+15], 20h
       			             
-        add si, 4          ; 
+        add si, 4          ; data 年份偏移量
         add di, 16         ; table 偏移量
-        add bx, 2 		           
+        add bx, 2 		   ; data 雇员偏移量        
         loop s		
 
 		mov ax, 4c00h 
