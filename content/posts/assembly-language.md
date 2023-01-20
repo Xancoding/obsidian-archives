@@ -406,11 +406,11 @@ start:
 		mov es:[di+7], ax
 		mov byte ptr es:[di+9], 20h
 
-		mov ax, [si+168]
+		mov ax, [si+168]   ; 写入雇员人数
 		mov es:[di+10], ax
-		mov 
+		mov byte ptr es:[di+12], 20h
 
-
+		
 
 
 
