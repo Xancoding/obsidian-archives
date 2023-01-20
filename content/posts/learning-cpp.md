@@ -193,7 +193,10 @@ std::cout << 3 + 4
 
 许多编辑器都有一个内置功能（或插件/扩展），可以在给定的列（例如 80 个字符）处显示一行（称为“列指南”），因此您可以轻松查看行何时变得太长
 
-**Clion column guide** : File > Settings > Editor > Code Style > General > 在 "Visual guides" 矩形框中键入 80 并应用更改
+```
+Clion column guide : File > Settings > Editor > Code Style > General > 在 "Visual guides" 矩形框中键入 80 并应用更改
+```
+
 2. 使用空格通过对齐值或注释或在代码块之间添加间距来使您的代码更易于阅读
 ```
 cost          = 57;
