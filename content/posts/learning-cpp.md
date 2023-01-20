@@ -188,16 +188,16 @@ int main()
 ## include 头文件顺序
 在 C++ 中，头文件的顺序通常应该遵循以下顺序：
 
-1.  C 标准库头文件（如 <stdio.h>）
-2.  C++ 标准库头文件（如 <iostream>）
-3.  第三方库头文件（如 Boost）
+1.  C 标准库头文件（如 `<stdio.h>`）
+2.  C++ 标准库头文件（如 `<iostream>`）
+3.  第三方库头文件（如 `Boost`）
 4.  项目特定的头文件（如自定义的头文件）
 
 这样的顺序可以避免头文件之间的依赖关系问题，同时也可以更快地查找问题。
 
 The headers for each grouping should be sorted alphabetically（按字母顺序排序）.
 
-这个顺序并不是强制的，主要取决于项目的需要和编程风
+这个顺序并不是强制的，主要取决于项目的需要和编程风格。
 ## Header file best practices
 1. 始终 include header guards
 2. 不要在头文件中定义变量和函数（全局常量是一个例外）
