@@ -418,9 +418,9 @@ start:
         mov es:[di+13], ax         
         mov byte ptr es:[di+15], 20h
       			             
-        add si, 4          ; data 年份偏移量
+        add si, 4          ; data 年份偏移量（年份 4 字节  收入 4 字节）
         add di, 16         ; table 偏移量
-        add bx, 2 		   ; data 雇员偏移量        
+        add bx, 2 		   ; data 雇员偏移量（雇员 2 字节）        
         loop s		
 
 		mov ax, 4c00h 
