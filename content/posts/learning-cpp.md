@@ -207,42 +207,7 @@ The headers for each grouping should be sorted alphabetically（按字母顺序�
 6. 您编写的每个 header 都应该自行编译（它应该`#include` 它需要的每个依赖项）
 7. 仅 `#include` 您需要的内容（不要仅仅因为可以就包含所有内容）
 8. 不要`#include` .cpp 文件
-## 命名冲突和命名空间介绍
-### 命名冲突
-大多数命名冲突发生在两种情况下：
-
-两个（或更多）同名函数（或全局变量）被引入到属于同一程序的不同文件中。这将导致**链接器错误**
-
-两个（或更多）同名函数（或全局变量）被引入到同一个文件中。这将导致**编译器错误**
-### 命名空间
-**命名空间**是一个区域，允许您在其中声明名称以消除歧义。命名空间为在其中声明的名称提供一个作用域区域（称为命名空间作用域）——这仅仅意味着在命名空间内声明的任何名称都不会被误认为是其他作用域中的相同名称
-
-**命名空间**通常用于对大型项目中的相关标识符进行分组，以帮助确保它们不会无意中与其他标识符发生冲突。例如，如果您将所有数学函数放在一个名为 math 的命名空间中，那么您的数学函数将不会与 math 命名空间之外的同名函数发生冲突
-
-在 C++ 中，任何未在类、函数或命名空间内定义的名称都被视为隐式定义的命名空间的一部分，称为**全局命名空间**（有时也称为全局范围）
-
-只有声明和定义语句可以出现在全局命名空间中。这意味着我们可以在全局命名空间中定义变量，尽管通常应该避免这种情况。这也意味着其他类型的语句（例如表达式语句）不能放在全局命名空间中（全局变量的初始化器是一个例外）：
-```cpp
-#include <iostream> // handled by preprocessor
-
-// All of the following statements are part of the global namespace
-void foo();    // okay: function forward declaration in the global namespace
-int x;         // compiles but strongly discouraged: uninitialized variable definition in the global namespace
-int y { 5 };   // compiles but discouraged: variable definition with initializer in the global namespace
-x = 5;         // compile error: executable statements are not allowed in the global namespace
-
-int main()     // okay: function definition in the global namespace
-{
-    return 0;
-}
-
-void goo();    // okay: another function forward declaration in the global namespace
-```
-
-在最初设计 C++ 时，C++ 标准库中的所有标识符（包括 std::cin 和 std::cout）都可以在没有 std:: 前缀的情况下使用（它们是全局命名空间的一部分）。但是，这意味着标准库中的任何标识符都可能与您为自己的标识符选择的任何名称（也在全局命名空间中定义）发生冲突。当您#include 标准库中的新文件时，正在运行的代码可能会突然出现命名冲突。或者更糟的是，在一个版本的 C++ 下编译的程序可能无法在未来的 C++ 版本下编译，因为引入标准库的新标识符可能与已经编写的代码发生命名冲突。因此，C++ 将标准库中的所有功能移动到名为“std”（标准的缩写）的命名空间中
-
-std::cout 的名字并不是真正的 std::cout。它实际上只是 cout，而 std 是标识符 cout 所属的命名空间的名称。因为 cout 是在 std 命名空间中定义的，所以名称 cout 不会与我们在全局命名空间中创建的任何名为 cout 的对象或函数发生冲突
-## 预处理器简介
+## 预处理器
 在编译之前，代码文件会经历一个称为翻译的阶段。翻译阶段会发生很多事情，让您的代码准备好进行编译（如果您好奇，可以在此处找到翻译阶段列表）。应用了翻译的代码文件称为翻译单元
 
 最值得注意的翻译阶段涉及预处理器。预处理器最好被认为是一个单独的程序，它可以处理每个代码文件中的文本
