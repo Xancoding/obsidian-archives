@@ -388,7 +388,7 @@ start:
 
 		mov ax, table
 		mov es, ax
-		sub, di, di
+		sub di, di
 
 		sub bx, bx
 		mov cx, 21        ; 21 年的 21 个字符串
@@ -396,7 +396,9 @@ start:
 	s:
 		mov ax, [si]
 		mov es:[di], ax
-			
+		mov ax, [si+2]
+		ov es:[di+2], ax
+		mov by	
 
 
 
