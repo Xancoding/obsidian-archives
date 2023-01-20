@@ -4,6 +4,7 @@
 - [小林 x 图解计算机基础](https://xiaolincoding.com/)
 - [后端开发核心知识](https://github.com/linw7/Skill-Tree)
 # Blogs
+- [产品沉思录 ProductThinking](https://pmthinking.com/)
 - [认知偏差知识手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
 - [王垠的草稿本](https://yinwang1.wordpress.com/)
 - [杨 飞 自 选 作 品 集](http://www.999kg.com/)
