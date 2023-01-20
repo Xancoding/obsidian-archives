@@ -386,7 +386,22 @@ start:
 		mov ds, ax
 		sub si, si
 
-		mov 
+		mov ax, table
+		mov es, ax
+		sub, di, di
+
+		sub bx, bx
+		mov cx, 21        ; 21 年的 21 个字符串
+
+	s:
+		mov ax, [si]
+		mov es:[di], ax
+			
+
+
+
+
+
 codesg ends
 
 end start
