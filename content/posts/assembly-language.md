@@ -404,7 +404,39 @@ code ends
 
 end start
 ```
-## 
+## 检测点14.1
+（1）
+```
+assume cs:code
+
+code segment
+start:
+    mov al, 2    ; (al)=2，2 号单元
+    out 70h, al  ; 选中端口 70h 的 2 号单元
+    in  al, 71h  ; 从端口 71h 读出 2 号单元，送入 al
+
+    mov ax, 4c00h
+    int 21h
+code ends
+
+end start
+```
+（2）
+```
+assume cs:code
+
+code segment
+start:
+    mov al,2    ; (al) = 2，2 号单元
+    out 70h,al  ; 将 al 送入端口 70h，选中 2 号单元
+    mov al,0    ; (al) = 0，写入端口
+    out 71h,al  ; 将 (al)=0 写入到 71h 的 2 号单元
+    mov ax,4c00h
+    int 21h
+code ends
+
+end start
+```
 # 课后实验（部分）
 ## 实验 3
 （3）PSP 的内容
