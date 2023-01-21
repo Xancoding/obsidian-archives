@@ -159,6 +159,13 @@ start:mov ax, 2000H
 code ends
 end start
 ```
+## 检测点10.1
+```
+...
+mov ax, 1000H
+...
+mov ax, 0000H 
+```
 # 课后实验（部分）
 ## 实验 3
 （3）PSP 的内容
