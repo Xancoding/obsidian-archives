@@ -438,6 +438,24 @@ code ends
 
 end start
 ```
+## 检测点14.2
+```
+assume cs:code
+
+code segment
+start:
+    mov bx, ax
+    shl ax, 1    ; (ax)=(ax)*2
+    mov cl, 3    ; 移动次数大于 1 必须放到 cl
+    shl bx, cl   ; (bx)=(ax)*8
+    add ax, bx   ; (ax)=(ax)*8+(ax)*2
+    
+    mov 4c00h
+    int 21h
+code ends
+
+end start
+```
 # 课后实验（部分）
 ## 实验 3
 （3）PSP 的内容
