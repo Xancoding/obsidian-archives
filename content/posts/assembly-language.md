@@ -225,7 +225,7 @@ code segment
 			mov sp, 16
 			mov word ptr ss:[0], offset s    ; 标号 s 的偏移地址移至 ss:[0]
 			mov ss:[2], cs
-			call dword ptr ss:[0]            ; (IP)=(ss:[0])=offset s    (CS)=(ss:[2])=(CS)  
+			call dword ptr ss:[0]            ; (IP)=(ss:[0])=offset s  (CS)=(ss:[2])=(CS)  
 			nop
 		s:	mov ax, offset s                 ; 
 			sub ax, ss:[0cH]
