@@ -307,8 +307,10 @@ jmpnp:  push bp
 		mov bp, sp
 		add [bp+2], bx
 		pop bp
-		iret 
+		iret
+		 
 jmpnpend:
+		nop
 
 ```
 # 课后实验（部分）
@@ -713,6 +715,7 @@ end start
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
 - [《汇编语言》第三版检测点答案](https://github.com/sanmianti/AssemblyLanguageTest/blob/master/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88.md)
+- [《汇编语言》（第 3 版）的检测点和实验的解答与说明](https://hansimov.gitbook.io/asm-lang/)
 - [《汇编语言 王爽著》课后实验参考答案](https://tinylab.org/assembly/)
 ***
 - [《汇编语言（第4版）》](https://book.douban.com/subject/35038473/)
