@@ -147,7 +147,7 @@ start:mov ax, 2000H
 
 	s:	mov cl, [bx]
 			mov ch, 0
-			
+			inc cx        ; loop 命令会先执行 (cx)=(cx)-1
 			inc bx
 			loop s
 
