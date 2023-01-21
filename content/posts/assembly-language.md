@@ -303,6 +303,12 @@ Flag 寄存器：0000 0000 0100 0101
 （2）
 `7ch` 中断例程如下：
 ```
+jmpnp:  push bp
+		mov bp, sp
+		add [bp+2], bx
+		pop bp
+		iret 
+jmpnpend:
 
 ```
 # 课后实验（部分）
