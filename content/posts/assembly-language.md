@@ -101,11 +101,15 @@ code segment
     start:  mov ax, data
             mov ds, ax
             mov bx, 0
-            mov [bx], 
-            mov [bx+2], 
+            mov [bx], bx        ; 将 bx 段寄存器中的 0 送入，默认是 字 格式
+            mov [bx+2], cs
             jum dword ptr ds:[0]
 code ends
 end start
+```
+（3）
+```
+CS 
 ```
 # 课后实验（部分）
 ## 实验 3
