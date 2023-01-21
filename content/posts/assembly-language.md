@@ -228,7 +228,7 @@ code segment
 			call dword ptr ss:[0]            ; (IP)=(ss:[0])=offset s  (CS)=(ss:[2])=(CS)  
 			nop
 		s:	mov ax, offset s                 
-			sub ax, ss:[0cH]                 ; (ss:[0cH])=nop的偏移地址
+			sub ax, ss:[0cH]                 ; (ss:[0cH])= nop 指令 的偏移地址
 			mov bx, cs
 			sub bx, ss:[0eH]                 ; (ss:[0eH])=(CS)
 			mov ax, 4c00h
@@ -240,8 +240,8 @@ end start
 ```
 上述程序执行后，`ax` 和 `bx` 的数值为：
 ```
-(ax)=
-(bx)=
+(ax)=0001H
+(bx)=0000H
 ```
 # 课后实验（部分）
 ## 实验 3
