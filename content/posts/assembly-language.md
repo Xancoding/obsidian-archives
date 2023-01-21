@@ -195,7 +195,7 @@ code segment
 			mov sp, 16
 			mov ds, ax
 			mov ax, 0
-			call word ptr ds:[0eh]    ; 
+			call word ptr ds:[0eh]    ; IP 此时指向的是 第一个 inc ax
 			inc ax
 			inc ax
 			inc ax
@@ -205,7 +205,10 @@ code segment
 code ends
 
 end start
-
+```
+上述程序执行后，`ax`中的数值：
+```
+(ax)=
 ```
 # 课后实验（部分）
 ## 实验 3
