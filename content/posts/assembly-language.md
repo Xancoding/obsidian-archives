@@ -75,7 +75,37 @@ mov sp,0000H
 ## 检测点9.1
 （1）
 ```
+assume cs:code
 
+data segment
+  db 0, 0, 0    ; 第一个字节可以取8位任意值
+data ends
+
+code segment
+  start:mov ax, data
+        mov ds, ax
+        mov bx, 0
+        jmp word ptr [bx+1]
+code ends
+end start
+```
+（2）
+```
+assume cs:code
+
+data segment
+    dd 12345678H
+data ends
+
+code segment
+    start:  mov ax, data
+            mov ds, ax
+            mov bx, 0
+            mov [bx], 
+            mov [bx+2], 
+            jum dword ptr ds:[0]
+code ends
+end start
 ```
 # 课后实验（部分）
 ## 实验 3
