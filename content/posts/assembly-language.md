@@ -179,6 +179,34 @@ mov ax, 0000H
 ```
 (ax)=6+(ss:[bp])=6+5=000BH
 ```
+## 检测点10.5
+（1）
+```
+assume cs:code
+
+stack segment
+	dw 8 dup (0)
+stack ends
+
+code segment
+
+	start:	mov ax, stack
+			mov ss, ax
+			mov sp, 16
+			mov ds, ax
+			mov ax, 0
+			call word ptr ds:[0eh]    ; 
+			inc ax
+			inc ax
+			inc ax
+			mov ax, 4c00h
+			int 21h
+
+code ends
+
+end start
+
+```
 # 课后实验（部分）
 ## 实验 3
 （3）PSP 的内容
