@@ -427,11 +427,12 @@ assume cs:code
 
 code segment
 start:
-    mov al,2    ; (al) = 2，2 号单元
-    out 70h,al  ; 将 al 送入端口 70h，选中 2 号单元
-    mov al,0    ; (al) = 0，写入端口
-    out 71h,al  ; 将 (al)=0 写入到 71h 的 2 号单元
-    mov ax,4c00h
+    mov al, 2    ; (al) = 2，2 号单元
+    out 70h, al  ; 将 al 送入端口 70h，选中 2 号单元
+    mov al, 0    ; (al) = 0，写入端口
+    out 71h, al  ; 将 (al)=0 写入到 71h 的 2 号单元
+    
+    mov ax, 4c00h
     int 21h
 code ends
 
