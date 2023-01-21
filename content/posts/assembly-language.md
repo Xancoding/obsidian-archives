@@ -304,19 +304,105 @@ Flag 寄存器：0000 0000 0100 0101
 用 7ch 中断例程完成 **jmp near ptr s** 指令的功能，用 bx 向中断例程传送转移位移。
 
 应用举例：在屏幕的笫 12 行，显示 data 段中以 0 结尾的宇符串 。
+```
+assume cs:code
 
+data segment
+
+db 'conversation',0
+
+data ends
+
+code segment
+
+start: mov ax,data
+
+mov ds,ax
+
+mov si,0
+
+mov ax,0b800h
+
+mov es,ax
+
+mov di,12*160
+
+s: cmp byte ptr [si],0
+
+je ok ; 如果是 0 跳出循环
+
+mov al,[si]
+
+mov es:[di],al
+
+inc si
+
+add di,2
+
+mov bx,offset s-offset ok ; 设置从标号 ok 到标号 s 的转移位移
+
+int 7ch ; 转移到标号 s 处
+
+ok: mov ax,4c00h
+
+int 21h
+
+code ends
+
+end start
+```
 
 `7ch` 中断例程如下：
 ```
-jmpnp:  push bp
-		mov bp, sp
-		add [bp+2], bx
-		pop bp
-		iret
-		 
-jmpnpend:
-		nop
+lp:
+    push bp         ; 将 bp 这个 ss 栈的偏址保存
+    mov bp, sp      ; 将当前栈顶指针值送入到 bp
+    add [bp+2], bx  ; 修改 ss 栈中的从栈顶向下第 2 个单元的值
+lpret:
+    pop bp          ; 恢复 bp 值
+    iret            ; 返回到调用处
+```
+将 7cH 代码写入 0:200H 的装载程序如下：
+```
+assume cs:code
 
+code segment
+start:      ; 7cH 中断例程的安装程序
+            mov ax, cs
+            mov ds, ax
+            mov si, offset lp   ; 将 ds:si 指向源地址（captial 的机器码）
+            mov ax, 0000H
+            mov es, ax
+            mov di, 200H        ; 将 es:di 指向目的地址（0:200H 向量表中）
+            mov cx, offset lpend - offset lp    ; 设置传输长度
+            cld             ; 传输方向为正
+            rep movsb       ; 字节传输
+            ; 设置中断向量表，使 7cH 条目中断向量指向 0000:200H
+            mov ax, 0000H
+            mov es, ax
+            mov word ptr es:[7cH*4], 200H
+            mov word ptr es:[7cH*4+2], 0000H
+            mov ax, 4c00H
+            int 21H
+;-----------
+; 装载的例程：7cH
+; 功能：int 7cH 实现和 jmp near ptr s 指令相同的功能
+; 入口参数：bx 相对地址偏移量
+; 返回值：无
+;-----------
+lp:
+    push bp         ; 将 bp 这个 ss 栈的偏址保存
+    mov bp, sp      ; 将当前栈顶指针值送入到 bp
+    add [bp+2], bx  ; 修改 ss 栈中的从栈顶向下第 2 个单元的值
+lpret:
+    pop bp          ; 恢复 bp 值
+    iret            ; 返回到调用处。
+lpend:
+    nop             ; 代码段结尾，便于计算 7cH 例程的长度。   
+
+code ends
+
+end start
 ```
 # 课后实验（部分）
 ## 实验 3
