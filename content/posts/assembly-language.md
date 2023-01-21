@@ -518,7 +518,32 @@ codesg ends
 end start
 ```
 ## 实验 8
-
+```assu
+assume cs:code
+code segment
+    mov ax, 4C00H
+    int 21H
+    start:
+        mov ax, 0000H
+        s:
+            nop
+            nop
+            mov di, offset s
+            mov si, offset s2
+            mov ax, cs:[si]
+            mov cs:[di], ax
+        s0:
+            jmp short s
+        s1:
+            mov ax, 0000H
+            int 21H
+            mov ax, 0000H
+        s2:
+            jmp short s1
+            nop
+code ends
+end start
+```
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
 - [《汇编语言》第三版检测点答案](https://github.com/sanmianti/AssemblyLanguageTest/blob/master/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88.md)
