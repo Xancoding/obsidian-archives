@@ -518,29 +518,36 @@ codesg ends
 end start
 ```
 ## 实验 8
-```assu
+```
 assume cs:code
 code segment
-    mov ax, 4C00H
+
+	mov ax, 4C00H
     int 21H
+    
     start:
-        mov ax, 0000H
+	        mov ax, 0000H
         s:
             nop
             nop
-            mov di, offset s
+            
+            mov di, offset s        ; 标号 s 后的两个空操作被 "jmp short s1" 覆盖
             mov si, offset s2
             mov ax, cs:[si]
             mov cs:[di], ax
+        
         s0:
             jmp short s
+        
         s1:
             mov ax, 0000H
             int 21H
             mov ax, 0000H
+        
         s2:
             jmp short s1
             nop
+
 code ends
 end start
 ```
