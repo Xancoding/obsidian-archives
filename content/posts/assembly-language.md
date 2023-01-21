@@ -112,6 +112,28 @@ end start
 (CS) = 0006H
 (IP) = 00BEH
 ``` 
+## 检测点9.2
+```
+assume cs:code
+
+code segment
+    start:  mov ax, 2000H
+            mov ds, ax
+            mov bx, 0
+
+        s:  mov ch, 0
+			mov cl, [bx]
+			jcxz ok
+            jmp short s
+
+        ok: mov ds, bx
+
+            mov ax, 4c00h
+            int 21h
+
+code ends
+end start
+```
 # 课后实验（部分）
 ## 实验 3
 （3）PSP 的内容
