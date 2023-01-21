@@ -528,7 +528,7 @@ code segment
     start:
 	        mov ax, 0000H
         s:
-            nop
+            nop                     ; 跳到它的末尾之前的 10 个字节处，刚好是 mov ax, 4c00h 
             nop
             
             mov di, offset s        ; 标号 s 后的两个空操作被 "jmp short s1" 的机器码覆盖
@@ -545,7 +545,7 @@ code segment
             mov ax, 0000H
         
         s2:
-            jmp short s1           ; 它的功能：跳到它的末尾之前的 10 个zi'jie
+            jmp short s1           ; 它的功能：跳到它的末尾之前的 10 个字节处（offset s1 - offset s2+2）
             nop
 
 code ends
