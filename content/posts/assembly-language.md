@@ -195,7 +195,7 @@ code segment
 			mov sp, 16
 			mov ds, ax
 			mov ax, 0
-			call word ptr ds:[0eh]    ; IP 此时指向的是 第一个 inc ax
+			call word ptr ds:[0eh]    ; CS:IP 此时指向的是 第一个 inc ax
 			inc ax
 			inc ax
 			inc ax
@@ -208,7 +208,40 @@ end start
 ```
 上述程序执行后，`ax`中的数值：
 ```
+(ax)=3
+```
+（2）
+```
+assume cs:code
+
+data segment
+	dw 8 dup (0)
+data ends
+
+code segment
+
+	start:	mov ax, data
+			mov ss, ax
+			mov sp, 16
+			mov word ptr ss:[0], offset s
+			mov ss:[2], cs
+			call dword ptr ss:[0]
+			nop
+		s:	mov ax, offset s
+			sub ax, ss:[0cH]
+			mov bx, cs
+			sub bx, ss:[0eH]
+			mov ax, 4c00h
+			int 21h
+
+code ends
+
+end start
+```
+上述程序执行后，`ax` 和 `bx` 的数值为：
+```
 (ax)=
+(bx)=
 ```
 # 课后实验（部分）
 ## 实验 3
