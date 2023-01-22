@@ -8,27 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96f9849f7669add0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/assembly-language.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "86f3f6a3251085c6",
+            "id": "afa5824972538b55",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "86f3f6a3251085c6",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "content/posts/assembly-language.md",
     "content/links.md",
