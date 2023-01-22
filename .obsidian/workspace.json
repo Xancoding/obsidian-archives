@@ -14,12 +14,21 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/assembly-language.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "86f3f6a3251085c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,11 +115,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "96f9849f7669add0",
+  "active": "86f3f6a3251085c6",
   "lastOpenFiles": [
+    "content/posts/assembly-language.md",
     "content/links.md",
     "content/about.md",
-    "content/posts/assembly-language.md",
     "000 AAA/000 待办清单.md",
     "000 AAA/生日.md",
     "content/posts/learning-cpp.md",

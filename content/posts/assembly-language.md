@@ -920,6 +920,12 @@ end start
 # 课程设计
 ## 课程设计 1
 ## 课程设计 2
+# 综合研究
+## 研究试验 1 搭建一个精简的 C 语言开发环境
+## 研究试验 2 使用寄存器
+## 研究试验 3 使用内存空间
+## 研究试验 4 不用 main 函数编程
+## 研究试验 5 函数如何接受不定数量的参数
 # 推荐阅读
 - [Win10下配置汇编语言 （王爽）实验环境](https://www.bilibili.com/video/BV1Gf4y1w75t/?vd_source=ae16ff6478eb15c1b87880540263910b)
 - [《汇编语言》第三版检测点答案](https://github.com/sanmianti/AssemblyLanguageTest/blob/master/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88.md)
