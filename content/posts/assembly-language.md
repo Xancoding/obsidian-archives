@@ -487,6 +487,26 @@ cli ; 屏蔽任何（可屏蔽）中断
 
 sti ; 解除屏蔽（可屏蔽）中断
 ```
+## 检测点16.1
+```
+assume cs:code
+code segment
+    a dw 1,2,3,4,5,6,7,8    ; code:[0] ~ code:[15]
+    b dd 0                  ; code:[16]~ code:[19]
+start:
+    mov si,0
+    mov cx,8
+s:  mov ax,a[si]            ; 将 a 中偏移量为 si 的内存单元按字送入 ax
+    add word ptr b[0],ax    ; 与 bx 的低字相加
+    adc word ptr b[2],0     ; 与 bx 的高字相加
+    add si,2                ; ax 单位为字，因此偏移 2 个字节，偏移量的单位是字节
+    loop s
+
+    mov ax,4c00h
+    int 21h
+code ends
+end start
+```
 # 课后实验（部分）
 ## 实验 3
 （3）PSP 的内容
