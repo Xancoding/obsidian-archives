@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afa5824972538b55",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "573b0eac88c3e361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-23-22-40-47.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +109,7 @@
   },
   "active": "573b0eac88c3e361",
   "lastOpenFiles": [
+    "content/posts/2023-01-23-22-40-47.md",
     "content/posts/2023-01-02.md",
     "content/posts/assembly-language.md",
     "content/links.md",
@@ -126,7 +118,6 @@
     "000 AAA/生日.md",
     "content/posts/learning-cpp.md",
     "100 Blog Drafts/C++ 推荐阅读.md",
-    "content/posts/2023-01-18-12-29-46.md",
-    "content/posts/2023-01-04-16-20-44.md"
+    "content/posts/2023-01-18-12-29-46.md"
   ]
 }
