@@ -47,22 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "第三层：网络层；确定地址和路由选择；packet（包），又叫做分组": {
-      "第三层：网络层；确定地址和路由选择；packet（包），又叫做分组": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671831868849
-        }
-      }
-    },
-    "以太网帧长度上下限": {
-      "以太网帧长度上下限": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671832556746
-        }
-      }
-    },
     "Serializable": {
       "Serializable": {
         "currentFile": {
@@ -90,8 +74,8 @@
     "Life": {
       "Life": {
         "frontMatter": {
-          "count": 12,
-          "lastUpdated": 1674016210603
+          "count": 13,
+          "lastUpdated": 1674702917034
         }
       }
     },
