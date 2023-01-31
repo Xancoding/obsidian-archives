@@ -47,43 +47,19 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Serializable": {
-      "Serializable": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672281937549
-        }
-      }
-    },
-    "serializable": {
-      "serializable": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672281775326
-        }
-      }
-    },
-    "externalizable接口包含": {
-      "externalizable接口包含": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672281946690
-        }
-      }
-    },
     "Life": {
       "Life": {
         "frontMatter": {
-          "count": 15,
-          "lastUpdated": 1674729608050
+          "count": 17,
+          "lastUpdated": 1675074564387
         }
       }
     },
     "Cooking": {
       "Cooking": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1673410367595
+          "count": 5,
+          "lastUpdated": 1675074568422
         }
       }
     },
