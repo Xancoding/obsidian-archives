@@ -26,6 +26,10 @@
 4. DRY--Don’t Repeat Yourself.[^4]
 
 [^4]: **不要重复自己。（以最小化冗余的方式编写代码）**
+
+5. Avoid premature optimization.[^5]
+
+[^5]: **不要进行不成熟的优化**
 # Projects
 ## [Blog](https://github.com/Xancoding/Xancoding.github.io)
 ### 搭建工具
