@@ -38,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-14-14-49-34.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-14-14-49-34.md",
+                "file": "content/posts/2023-02-01-19-37-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,10 +133,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3115dcb08bcc0875",
+  "active": "c148811ee26a450c",
   "lastOpenFiles": [
-    "content/posts/2023-02-01-19-37-09.md",
     "content/posts/2023-01-14-14-49-34.md",
+    "content/posts/2023-02-01-19-37-09.md",
     "content/posts/2023-01-14-14-08-57.md",
     "content/posts/os.md",
     "content/posts/double-sepll.md",
