@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "45041d9ac37db26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/links.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "钱钱",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,13 +70,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-14-14-08-57.md",
+                "file": "content/links.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +120,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2a1fcf35b5bd6d59",
+  "active": "45041d9ac37db26a",
   "lastOpenFiles": [
-    "content/posts/2023-02-01-19-37-09.md",
+    "content/about.md",
+    "content/archives.md",
     "content/posts/2023-01-14-14-08-57.md",
+    "content/posts/2023-02-01-19-37-09.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-01-31-16-48-23.md",
     "content/posts/2023-01-14-14-49-34.md",
     "content/posts/os.md",
     "content/posts/double-sepll.md",
-    "content/posts/get-info.md",
-    "content/links.md",
-    "content/archives.md"
+    "content/posts/get-info.md"
   ]
 }

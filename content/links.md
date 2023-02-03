@@ -9,7 +9,7 @@
 - [HANSIMOV](https://hansimov.github.io/)
 - [产品沉思录 ProductThinking](https://pmthinking.com/)
 - [认知偏差知识手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
-- [王垠的草稿本](https://yinwang1.wordpress.com/)
+- [垠的备忘录](https://yinwang1.substack.com/)
 - [杨 飞 自 选 作 品 集](http://www.999kg.com/)
 - [面向信仰编程](https://draveness.me/)
 	- [为什么这么设计](https://draveness.me/whys-the-design/)
