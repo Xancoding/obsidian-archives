@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "45041d9ac37db26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/links.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,17 +107,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "2a1fcf35b5bd6d59",
   "lastOpenFiles": [
+    "content/links.md",
+    "content/posts/2023-01-14-14-08-57.md",
     "content/about.md",
     "content/archives.md",
-    "content/posts/2023-01-14-14-08-57.md",
     "content/posts/2023-02-01-19-37-09.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-01-31-16-48-23.md",
     "content/posts/2023-01-14-14-49-34.md",
     "content/posts/os.md",
-    "content/posts/double-sepll.md",
-    "content/posts/get-info.md"
+    "content/posts/double-sepll.md"
   ]
 }
