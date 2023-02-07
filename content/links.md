@@ -6,6 +6,8 @@
 	- [图解系统](https://xiaolincoding.com/os/)
 - [后端开发核心知识](https://github.com/linw7/Skill-Tree)
 # Blogs
+- [Geminiplanet](https://geminiplanet.cn/)
+	- [就业经验分享](https://geminiplanet.cn/employment/)
 - [HANSIMOV](https://hansimov.github.io/)
 - [产品沉思录 ProductThinking](https://pmthinking.com/)
 - [认知偏差知识手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
