@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Web/Web.md",
-                "mode": "source",
+                "file": "200 Web/未命名.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Web/Web.md",
+                "file": "200 Web/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +107,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
-    "200 Web/未命名.md",
     "200 Web/Web.md",
+    "200 Web/未命名.md",
     "content/links.md",
     "content/search.md",
     "content/archives.md",
