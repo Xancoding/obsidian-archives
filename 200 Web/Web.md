@@ -34,3 +34,9 @@ flex布局：11m43s
 
 [flex布局](https://www.acwing.com/blog/content/16284)
 [响应式布局](https://www.acwing.com/blog/content/16285/)
+
+在熵权法的灵敏度分析中，每个因素的灵敏度系数可以通过以下公式计算：
+
+$S_j = \frac{|\omega_j - \omega_j'|}{\omega_j} \times 100%$
+
+其中，$S_j$ 表示第 $j$ 个指标的灵敏度系数；$W_j$ 表示原始数据集下第 $j$ 个指标的权重；$W_j^{\prime}$ 表示对第 $j$ 个指标进行变化范围内的调整后，重新计算的权重；$|\cdot|$ 表示绝对值。
