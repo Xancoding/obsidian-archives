@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93aa5be4d2b4a065",
+            "id": "f9fd2b2d4cc79def",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "200 Web/Web.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -107,8 +107,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "93aa5be4d2b4a065",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "200 Web/未命名.md",
+    "200 Web/Web.md",
     "content/links.md",
     "content/search.md",
     "content/archives.md",
@@ -116,8 +118,6 @@
     "content/posts/2023-01-02.md",
     "content/posts/2023-02-11-11-50-37.md",
     "content/posts/acw-django.md",
-    "content/posts/2023-02-01-19-37-09.md",
-    "content/posts/2023-01-30-18-29-05.md",
-    "content/posts/2023-01-29-20-45-11.md"
+    "content/posts/2023-02-01-19-37-09.md"
   ]
 }
