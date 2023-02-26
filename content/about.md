@@ -64,7 +64,6 @@
 - [AcWing Django框架课](https://www.acwing.com/activity/content/punch_the_clock/72/)
 # Equipment
 ## Electronic product
-+ [ ] PHILIPS 飞利浦台灯 品慧二代66137 —— 京东 179元
 + [x] 三星SAMSUNG 64G U盘 —— 京东 88元
 + [x] 联想拯救者 R7000 —— 京东 6199元
 + [x] 微星 MSI 23.8英寸显示器 —— 京东 833 元
