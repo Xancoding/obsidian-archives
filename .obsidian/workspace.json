@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/assembly-language.md",
-                "mode": "preview",
+                "file": "content/posts/os.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/assembly-language.md",
+                "file": "content/posts/os.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,20 @@
   },
   "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/posts/plan.md",
+    "content/posts/regular-expression.md",
+    "content/posts/self-study.md",
+    "content/posts/database.md",
+    "content/posts/computer-network.md",
+    "content/posts/computer-system-fundamentals.md",
+    "content/posts/linux-network-programming.md",
+    "content/posts/assembly-language.md",
+    "content/posts/blog-drawing.md",
+    "content/posts/digital-garden.md",
+    "content/posts/get-info.md",
+    "content/posts/wireshark.md",
+    "content/posts/os.md",
+    "content/posts/markdown.md",
     "content/about.md",
     "content/archives.md",
     "content/links.md",

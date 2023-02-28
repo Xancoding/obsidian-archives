@@ -27,6 +27,10 @@ cover:
     relative: false
 ---
 
+# 重难点
+1. 创建文件系统是指在一个磁盘分区或设备上创建一个文件系统，以便在上面存储文件
+2. 
+# 推荐阅读
 -  [NJU操作系统](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788)
 	-  [操作系统：设计与实现 (2022 春季学期)](http://jyywiki.cn/OS/2022/)
 - [【精校中英字幕】2015 CMU 15-213 CSAPP 深入理解计算机系统](https://www.bilibili.com/video/BV1iW411d7hd?p=1&vd_source=ae16ff6478eb15c1b87880540263910b)
