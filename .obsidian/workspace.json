@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/os.md",
+                "file": "content/posts/2023-01-31-16-48-23.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/os.md",
+                "file": "content/posts/2023-01-31-16-48-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,9 @@
   },
   "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/posts/2023-02-01-19-37-09.md",
+    "content/posts/2023-02-11-11-50-37.md",
+    "content/posts/os.md",
     "content/posts/plan.md",
     "content/posts/regular-expression.md",
     "content/posts/self-study.md",
@@ -121,7 +124,6 @@
     "content/posts/digital-garden.md",
     "content/posts/get-info.md",
     "content/posts/wireshark.md",
-    "content/posts/os.md",
     "content/posts/markdown.md",
     "content/about.md",
     "content/archives.md",
@@ -130,8 +132,6 @@
     "200 Web/未命名.md",
     "content/search.md",
     "content/posts/2023-01-02.md",
-    "content/posts/2023-02-11-11-50-37.md",
-    "content/posts/acw-django.md",
-    "content/posts/2023-02-01-19-37-09.md"
+    "content/posts/acw-django.md"
   ]
 }
