@@ -74,11 +74,6 @@
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
-# Movies
-+ [x] [海洋之歌](http://www.wsscsc.com/play/26699-1-1.html)
-+ [x] [凯尔经的秘密](https://www.youtube.com/watch?v=oe_JogMlDDw&t=2517s)
-+ [x] [狼行者](https://www.olevod.com/index.php/vod/play/id/23227/sid/1/nid/1.html)
-+ [x] [何以为家](https://xiaoheimi.net/index.php/vod/play/id/19925/sid/1/nid/1.html)
 # Outdoor
 ## 入门指南
 - [登山者Black](https://space.bilibili.com/5682935)
