@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/links.md",
+                "file": "content/posts/assembly-language.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/links.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/links.md",
     "content/about.md",
     "content/posts/wireshark.md",
     "content/posts/LaTex.md",
@@ -133,7 +134,6 @@
     "content/posts/digital-garden.md",
     "content/posts/get-info.md",
     "content/posts/markdown.md",
-    "content/archives.md",
-    "content/links.md"
+    "content/archives.md"
   ]
 }
