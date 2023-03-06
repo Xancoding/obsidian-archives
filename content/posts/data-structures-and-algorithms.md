@@ -31,7 +31,10 @@ cover:
 ## 递推式的计算
 ### 主定理
 主定理是递推式求解技巧中的一种，它适用于递归式具有更一般形式的情况。主定理包括三种情况：
-
+![Snipaste_2023-03-06_14-39-21.png](https://bu.dusays.com/2023/03/06/64058b31aa255.png)
+### 主方法
+主方法是递推式求解技巧中的一种，它适用于递归式具有特定形式的情况。主方法包括三种情况：
+![Snipaste_2023-03-06_14-41-07.png](https://bu.dusays.com/2023/03/06/64058b3396120.png)
 # 推荐阅读
 - [数据结构与算法 | 我的笔记](https://github.com/Xancoding/Data-Structures-and-Algorithms)
 ***
