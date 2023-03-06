@@ -38,7 +38,7 @@ $$T(n) = aT(n/b) + f(n)$$
     
 2.  如果 $f(n) = \Theta(n^{\log_b(a)})$，那么 $T(n) = \Theta(n^{\log_b(a)} \log n)$
     
-3.  如果 $f(n) > \Omega(n^{\log_b(a)})$，且对于某个常数 $c < 1$ 和所有足够大的 $n$ 都有 $af(n/b) \le cf(n)$，那么 $T(n) = \Theta(f(n))$。
+3.  如果 $f(n) > \Omega(n^{\log_b(a)})$，那么 $T(n) = \Theta(f(n))$。
     
 
 这里的比较指的是数量级的大小
