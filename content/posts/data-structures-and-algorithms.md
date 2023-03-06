@@ -27,7 +27,9 @@ cover:
     relative: false
 ---
 
-
+# 递推式的计算
+## 主方法
+## 主定理
 # 推荐阅读
 - [数据结构与算法 | 我的笔记](https://github.com/Xancoding/Data-Structures-and-Algorithms)
 ***
