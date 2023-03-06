@@ -33,7 +33,7 @@ cover:
 $$T(n) = aT(n/b) + f(n)$$
 
 假设分解问题和合并子问题的过程需要常数时间 $d$，那么主定理的公式如下：
-
+### 易记（不严谨）
 1.  如果 $f(n) < O(n^{\log_b(a)})$，那么 $T(n) = \Theta(n^{\log_b(a)})$
     
 2.  如果 $f(n) = \Theta(n^{\log_b(a)})$，那么 $T(n) = \Theta(n^{\log_b(a)} \log n)$
@@ -42,6 +42,15 @@ $$T(n) = aT(n/b) + f(n)$$
     
 
 这里的比较指的是数量级的大小
+### 严谨
+1.  如果 $f(n) = O(n^{\log_b(a - \epsilon)})$，那么 $T(n) = \Theta(n^{\log_b(a)})$
+    
+2.  如果 $f(n) = \Theta(n^{\log_b(a)})$，那么 $T(n) = \Theta(n^{\log_b(a)} \log n)$
+    
+3.  如果 $f(n) = \Omega(n^{\log_b(a + \epsilon)})$，且对于某个常数 $c < 1$ 和所有足够大的 $n$ 都有 $af(n/b) \le cf(n)$，那么 $T(n) = \Theta(f(n))$。
+    
+
+其中 $\epsilon > 0$ 是任意小的正数。这里的 $O$、$\Theta$ 和 $\Omega$ 表示渐进符号。
 # 推荐阅读
 - [数据结构与算法 | 我的笔记](https://github.com/Xancoding/Data-Structures-and-Algorithms)
 ***
