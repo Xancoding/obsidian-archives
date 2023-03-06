@@ -29,7 +29,9 @@ cover:
 
 # 算法复杂度分析
 ## 递推式的计算
-### z
+### 主定理
+主定理是递推式求解技巧中的一种，它适用于递归式具有更一般形式的情况。主定理包括三种情况：
+
 # 推荐阅读
 - [数据结构与算法 | 我的笔记](https://github.com/Xancoding/Data-Structures-and-Algorithms)
 ***
