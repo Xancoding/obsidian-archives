@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/data-structures-and-algorithms.md",
-                "mode": "preview",
+                "file": "content/posts/os.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/data-structures-and-algorithms.md",
+                "file": "content/posts/os.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
+    "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-03-05-18-41-23.md",
     "content/posts/digital-garden.md",
     "content/posts/os.md",
@@ -133,7 +134,6 @@
     "content/posts/computer-system-fundamentals.md",
     "content/posts/linux-network-programming.md",
     "content/posts/blog-drawing.md",
-    "content/posts/get-info.md",
-    "content/posts/markdown.md"
+    "content/posts/get-info.md"
   ]
 }
