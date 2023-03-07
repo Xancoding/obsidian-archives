@@ -69,6 +69,13 @@ mutex：互斥信号量，初值为 1
 ```
 Producer 
 
+while(true)
+{
+	P(empty);
+	P(mutex);
+	将产品放入缓冲区 buffer(in);
+	in = (in + 1) % N; 
+}
 
 ```
 # 推荐阅读
