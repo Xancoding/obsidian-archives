@@ -27,7 +27,15 @@ cover:
     relative: false
 ---
 
-# 信号量
+# 记录型信号量
+```
+S：xin'hao'l
+
+P(S) {
+	S.value--;
+	if (S.value < 0)
+}
+```
 # 经典的进程同步问题
 ## 生产者--消费者
 ### 分析
