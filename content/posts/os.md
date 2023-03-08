@@ -67,7 +67,7 @@ mutex：互斥信号量，初值为 1
 ```
 
 ```
-Producer 
+Producer 生产者进程
 
 while(true)
 {
@@ -75,8 +75,23 @@ while(true)
 	P(mutex);
 	将产品放入缓冲区 buffer(in);
 	in = (in + 1) % N; 
+	V(mutex);
+	V(full);
 }
+```
 
+```
+Consumer 消费者进程
+
+while(true)
+{
+	P(full);
+	P(mutex);
+	从缓冲区取出一个产品 buffer(out);
+	out = (out + 1) % N;
+	V(mutex);
+	V(empty);
+}
 ```
 # 推荐阅读
 -  [NJU操作系统](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788)
