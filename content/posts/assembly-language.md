@@ -39,7 +39,7 @@ cover:
 4. MOV 寄存器，段寄存器：MOV AX，DS
 ---
 ~~1. MOV 段寄存器，立即数~~
-2. MOV 段寄存器，寄存器：MOV DS, BX
+2. MOV 段寄存器，寄存器：MOV DS, AX
 3. MOV 段寄存器，内存单元：MOV DS, [0]
 4. MOV 段寄存器，段寄存器：MOV DS，CS
 ---
