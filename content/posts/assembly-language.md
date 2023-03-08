@@ -33,15 +33,16 @@ cover:
 ## MOV 指令
 - 寄存器、段寄存器、内存单元、立即数
 ---
-1. MOV 寄存器， 立即数：MOV AX, 8
-2. MOV 寄存器， 寄存器：MOV AX, BX
-3. MOV 寄存器， 内存单元：MOV AX, [0]
+1. MOV 寄存器，立即数：MOV AX, 8
+2. MOV 寄存器，寄存器：MOV AX, BX
+3. MOV 寄存器，内存单元：MOV AX, [0]
 4. MOV 寄存器，段寄存器：MOV AX，DS
 ---
 1. MOV 内存单元，寄存器：MOV [0]，AX
-2. MOV 内存单元，duan
+2. MOV 内存单元，段寄存器：MOV [0], CS
+3. MOV  内存单元，
 ---
-1. MOV 段寄存器， 寄存器：MOV DS, AX
+1. MOV 段寄存器，寄存器：MOV DS, AX
 2. 
 # 检测点答案（部分）
 ## 检测点2.1 
