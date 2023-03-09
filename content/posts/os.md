@@ -202,15 +202,21 @@ while (true) {
 ```scss
 Enter：进入进程
 while (true) {
-	
+	P(mutex);
 	if(count > 0) {
-		count--;  // 登记内容
+		count--;  
+		登记登记表
+	} else {
+		
 	}
 }
 
 Leave：离开进程
 while(true) {
-	
+	P(mutex);
+	count++;
+	撤销登记表
+	P(mutex);
 }
 ```
 # 推荐阅读
