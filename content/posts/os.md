@@ -200,10 +200,17 @@ while (true) {
 - count：整型变量，初始值为100，用于记录阅览室未使用的座位数
 - mutex：计数信号量，初始值为1，用于互斥访问登记表
 ```scss
+Enter：进入进程
 while (true) {
+	
 	if(count > 0) {
-		
+		count--;  // 登记内容
 	}
+}
+
+Leave：离开进程
+while(true) {
+	
 }
 ```
 # 推荐阅读
