@@ -156,20 +156,22 @@ while (true) {
 读者：
 ```scss
 while (true) {
+
   P(rmutex); // 保证对计数器的互斥访问
   readcount++; // 有一个读者进入临界区
   if (readcount == 1) { // 如果是第一个读者
     P(wmutex); // 请求写访问权，禁止写者同时写入
   }
   V(rmutex); // 释放对计数器的访问
-  P(read); // 等待资源可用
+  
   read_data(); // 读操作
-  P(mutex); // 保证对计数器的互斥访问
-  readers--; // 有一个读者离开临界区
+
+  P(rmutex); // 保证对计数器的互斥访问
+  readcount--; // 有一个读者离开临界区
   if (readers == 0) { // 如果是最后一个读者
-    V(write); // 释放写访问权
+    V(wmutex); // 释放写访问权
   }
-  V(mutex); // 释放对计数器的访问
+  V(rmutex); // 释放对计数器的访问
 }
 ```
 
