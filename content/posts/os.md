@@ -107,11 +107,31 @@ while (true) {
 
 理发师过程： 
 ```scss
-while (true) { 
-	P(customers); // 等待有顾客到来 P(mutex); // 占用顾客数量计数信号量 customer = dequeue(); // 从顾客队列中取出一个顾客 V(mutex); // 释放顾客数量计数信号量 cut_hair(customer); // 为顾客理发 V(barber); // 理发师空闲，释放互斥信号量 }
+while (true) {
+    P(customers);  // 等待有顾客到来
+    P(mutex);  // 占用顾客数量计数信号量
+    customer = dequeue();  // 从顾客队列中取出一个顾客
+    V(mutex);  // 释放顾客数量计数信号量
+    cut_hair(customer);  // 为顾客理发
+    V(barber);  // 理发
 ```
 顾客过程： 
+```scss
+while (true) {
+    P(mutex);  // 占用顾客数量计数信号量
+    if (customers < chairs) {  // 如果有空椅子
+        enqueue(customer);  // 排队等待理发
+        V(customers);  // 增加等待的顾客数量
+        V(mutex);  // 释放顾客数量计数信号量
+        P(barber);  // 等待理发师空闲
+        get_haircut(customer);  // 接受理发师的服务
+    } else {  // 如果没有空椅子，离开
+        V(mutex);  // 释放顾客数量计数信号量
+        leave(customer);  // 离开理发店
+    }
+}
 
+```
 
 在这个过程中，P操作表示进程占用一个信号量资源，V操作表示进程释放一个信号量资源。对于互斥信号量barber和mutex，每次只有一个进程可以占用资源，以保证对理发师和顾客队列的互斥访问。对于计数信号量customers，它是一个等待队列，顾客通过占用和释放信号量来加入和离开等待队列，而理发师则通过占用和释放信号量来控制顾客的理发顺序。
 ## 读者--写者问题
