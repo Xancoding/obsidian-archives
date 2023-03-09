@@ -106,72 +106,17 @@ while (true) {
 
 ### 解决办法
 
-解决理发师问题的一种常见方法是使用同步工具来实现顾客和理发师之间的协作。以下是一种解决方案：
+经典的解决方法是使用信号量机制实现同步。定义以下信号量：
 
-1.  定义两个互斥量：chair_mutex用于保护等待椅子，barber_mutex用于保护理发师工作区域。
-2.  定义两个信号量：waiting_chairs表示等待椅子的数量，barber_chair表示理发师工作区域的状态，初始值为0。
-3.  当一个顾客到来时，尝试获取chair_mutex互斥量，如果等待椅子还有剩余，就将等待椅子数量减1，释放chair_mutex互斥量，并等待barber_chair信号量。
-4.  当理发师完成理发后，从等待区选择一个顾客，将该顾客移出等待区，进入理发师工作区域，然后释放barber_chair信号量，让顾客得到服务。
-5.  当一个顾客离开时，释放chair_mutex互斥量，并将等待椅子数量加1。
+customers：计数信号量，初始值为0，表示等待理发的顾客数量。 barber：互斥信号量，初始值为1，用于控制理发师的访问。 mutex：互斥信号量，初始值为1，用于保护customers计数信号量的互斥访问。
 
-需要注意的是，这种解决方案可以遵循以下两个原则，从而避免死锁和饥饿：
+理发师过程： 
+```spss
 
--   等待顾客的顺序符合FIFO（先进先出）原则。
--   理发师选择顾客的顺序符合FIFO原则。
-
-以下是基于同步工具的理发师问题的解决方案的伪代码实现：
-```java
-const int N = 5; // 等待椅子的数量
-Semaphore chair_mutex = 1; // 等待椅子互斥量
-Semaphore barber_mutex = 1; // 理发师工作区域互斥量
-Semaphore waiting_chairs = N; // 等待椅子的信号量
-Semaphore barber_chair = 0; // 理发师工作区域的信号量
-
-// 顾客线程函数
-void customer() {
-while (true) {
-    // 尝试获取等待椅子互斥量
-    chair_mutex.acquire();
-    if (waiting_chairs > 0) {
-        // 如果还有等待椅子，就坐下等待理发
-        waiting_chairs--;
-        // 释放等待椅子互斥量
-        chair_mutex.release();
-        // 等待理发师工作区域的信号量
-        barber_chair.acquire();
-        // 等到理发，然后离开
-        get_haircut();
-        leave();
-    } else {
-        // 如果没有等待椅子，就离开理发店
-        chair_mutex.release();
-        leave();
-    }
-}
-
-// 理发师线程函数
-void barber() {
-    while (true) {
-        // 尝试获取理发师工作区域互斥量
-        barber_mutex.acquire();
-        if (waiting_chairs < N) {
-            // 如果有顾客在等待，就选择一个顾客进行理发
-            waiting_chairs++;
-            // 释放理发师工作区域信号量
-            barber_chair.release();
-            // 释放理发师工作区域互斥量
-            barber_mutex.release();
-            // 进行理发
-            cut_hair();
-        } else {
-            // 如果没有顾客在等待，就放松理发师工作区域的互斥量
-            barber_mutex.release();
-            // 等待一段时间
-            rest();
-        }
-    }
-}
 ```
+顾客过程： 
+
+在这个过程中，P操作表示进程占用一个信号量资源，V操作表示进程释放一个信号量资源。对于互斥信号量barber和mutex，每次只有一个进程可以占用资源，以保证对理发师和顾客队列的互斥访问。对于计数信号量customers，它是一个等待队列，顾客通过占用和释放信号量来加入和离开等待队列，而理发师则通过占用和释放信号量来控制顾客的理发顺序。
 ## 哲学家就餐问题
 ### 问题描述
 在一个圆形餐桌上坐着N个哲学家，每个哲学家面前有一盘食物和一只叉子。这些哲学家只有在同时拿到自己面前的两个叉子时才能进食。每个哲学家都有两个邻居，因此有N个叉子。
