@@ -772,6 +772,7 @@ code ends
 
 end start 
 ```
+![Snipaste_2023-03-08_13-03-28.png](https://bu.dusays.com/2023/03/08/6408178cb4cfb.png)
 ## 实验 6
 ```
 assume cs:codesg, ss:stacksg, ds:datasg
