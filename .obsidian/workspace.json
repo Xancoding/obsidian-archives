@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "aafa3b9dbfcbfc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/assembly-language.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/os.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +120,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "aafa3b9dbfcbfc6a",
   "lastOpenFiles": [
-    "content/posts/assembly-language.md",
     "content/posts/os.md",
+    "content/posts/assembly-language.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-03-05-18-41-23.md",
     "content/posts/digital-garden.md",
