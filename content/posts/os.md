@@ -200,23 +200,26 @@ while (true) {
 - count：整型变量，初始值为100，用于记录阅览室的空闲座位数
 - mutex：计数信号量，初始值为1，用于互斥访问登记表
 ```scss
-Enter：进入进程
+
 while (true) {
+	// 进入阅览室
 	P(mutex);
 	if(count > 0) {
 		count--;  
 		登记登记表
 	} 
 	V(mutex);
-}
 
-Leave：离开进程
-while(true) {
+	read();    // 进行阅读
+
+	// 离开阅览室
 	P(mutex);
 	count++;
 	撤销登记表
 	V(mutex);
+	
 }
+
 ```
 # 推荐阅读
 -  [NJU操作系统](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788)
