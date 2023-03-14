@@ -207,10 +207,14 @@ while (true) {
 	if(count > 0) {
 		count--;  
 		登记登记表
+
+		read(); 
+		
+
 	} 
 	V(mutex);
 
-	read();    // 进行阅读
+	  
 
 	// 离开阅览室
 	P(mutex);
