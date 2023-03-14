@@ -47,22 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Life": {
-      "Life": {
-        "frontMatter": {
-          "count": 20,
-          "lastUpdated": 1676087461717
-        }
-      }
-    },
-    "Cooking": {
-      "Cooking": {
-        "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1675748852965
-        }
-      }
-    },
     "Tech": {
       "Tech": {
         "frontMatter": {
@@ -116,6 +100,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678335908365
+        }
+      }
+    },
+    "内存单元，立即数": {
+      "内存单元，立即数": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678768386931
         }
       }
     }
