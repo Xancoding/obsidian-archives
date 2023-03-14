@@ -202,12 +202,14 @@ while (true) {
 ```scss
 
 while (true) {
-	// 进入阅览室
-	P(mutex);
-	if(count > 0) {
+	
+	if(count > 0) 
+	{
+		P(mutex);
 		count--;  
 		登记登记表
-
+		V(mutex);
+		
 		read(); 
 		
 
