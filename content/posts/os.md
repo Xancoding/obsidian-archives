@@ -205,11 +205,15 @@ while (true) {
 	P(count);
 	P(mutex);
 	查登记表，置某座位为占用；
-	P(mutex);
+	V(mutex);
 	......
-	read()
+	read();
+	......
+	P(mutex);
+	查登记表，置某座位为空；
+	V(mutex);
+	V(count);
 }
-
 ```
 # 推荐阅读
 -  [NJU操作系统](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788)

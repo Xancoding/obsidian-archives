@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/os.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f9fd2b2d4cc79def",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "content/posts/assembly-language.md",
     "content/posts/os.md",
