@@ -211,19 +211,14 @@ while (true) {
 		V(mutex);
 		
 		read(); 
-		
+
+		P(mutex);
+		count++;
+		撤销登记表
+		V(mutex);
 
 	} 
-	V(mutex);
-
-	  
-
-	// 离开阅览室
-	P(mutex);
-	count++;
-	撤销登记表
-	V(mutex);
-	
+		
 }
 
 ```
