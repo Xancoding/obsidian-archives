@@ -50,6 +50,7 @@ cover:
 ---
 ![d3d1cd5ac957ba3f5ca72f8b77f8ce5.jpg](https://bu.dusays.com/2023/03/10/640ae7a051629.jpg)
 ## 内存单元寻址
+- BP默认段前缀为 SS、其他的默认段前缀为 DS
 1. 直接寻址：[idata]
 2. 寄存器间接寻址：[BX | BP | SI | DI]
 3. 寄存器相对寻址：[BX | BP | SI | DI + idata]
@@ -57,7 +58,9 @@ cover:
 5. 相对基址变址寻址：[BX | BP + SI | DI + idata]
 ## 寄存器
 ### 通用寄存器
-AX\
+AX、BX、CX、DX、BP、SP、SI、DI
+### 段寄存器
+DS、SS、CS、ES
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
