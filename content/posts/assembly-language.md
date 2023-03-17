@@ -914,7 +914,8 @@ codesg ends
 
 end start
 ```
-### 自己写的
+### Write by myself
+
 ## 实验 8
 ```
 assume cs:code
