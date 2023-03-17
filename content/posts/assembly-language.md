@@ -840,6 +840,7 @@ codesg ends
 end start 
 ```
 ## 实验 7
+### 参考
 ```
 assume cs:codesg,ds:data,es:table
 
@@ -913,6 +914,7 @@ codesg ends
 
 end start
 ```
+### 自己写的
 ## 实验 8
 ```
 assume cs:code

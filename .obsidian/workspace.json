@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/assembly-language.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -120,7 +120,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "36c5b975c4acd38d",
   "lastOpenFiles": [
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/double-sepll.md",
