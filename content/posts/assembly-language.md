@@ -987,6 +987,9 @@ s:
 codesg ends 
 end start
 ```
+### 运行结果
+![汇编语言.png](https://bu.dusays.com/2023/03/17/6414503018641.png)
+
 ## 实验 8
 ```
 assume cs:code
