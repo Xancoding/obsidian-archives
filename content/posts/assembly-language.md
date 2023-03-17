@@ -57,7 +57,7 @@ cover:
 4. 基址变址寻址：[BX | BP + SI | DI]
 5. 相对基址变址寻址：[BX | BP + SI | DI + idata]
 
-一般来说，我们可以用 [bx+idata+si] 的方式来访问jie
+一般来说，我们可以用 [bx+idata+si] 的方式来访问结构体中的数据。用 bx 定位整个结构体，用 idata 定位结构体中的某一个数据项，用 si 定位数据项中的每个元素。为此，汇编语言提供了更为贴切的书写方式，如：[bx].idata、[bx].idata[si]、
 ## 寄存器
 ### 通用寄存器
 AX、BX、CX、DX、BP、SP、SI、DI
