@@ -43,7 +43,7 @@ cover:
 3. MOV 段寄存器，内存单元：MOV DS, [0]（允许，但不建议）
 4. ~~MOV 段寄存器，段寄存器~~
 ---
-1. ~~MOV 内存单元，立即数~~
+1. MOV 内存单元，立即数：MOV [0], 1
 2. MOV 内存单元，寄存器：MOV [0], BX
 3. ~~MOV 内存单元，内存单元~~
 4. MOV 内存单元，段寄存器：MOV [0]，DS（允许，但不建议）
@@ -56,6 +56,8 @@ cover:
 3. 寄存器相对寻址：[BX | BP | SI | DI + idata]
 4. 基址变址寻址：[BX | BP + SI | DI]
 5. 相对基址变址寻址：[BX | BP + SI | DI + idata]
+
+一般来说，我们可以用 [bx+idata+si] 的方式来访问jie
 ## 寄存器
 ### 通用寄存器
 AX、BX、CX、DX、BP、SP、SI、DI
