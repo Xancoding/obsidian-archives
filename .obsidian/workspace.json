@@ -109,6 +109,8 @@
   },
   "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
+    "static/img/Headshot/007.jpg",
+    "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg",
     "content/posts/assembly-language.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/double-sepll.md",
@@ -133,7 +135,6 @@
     "content/posts/regular-expression.md",
     "content/posts/self-study.md",
     "content/posts/database.md",
-    "content/posts/computer-system-fundamentals.md",
-    "content/posts/linux-network-programming.md"
+    "content/posts/computer-system-fundamentals.md"
   ]
 }
