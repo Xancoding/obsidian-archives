@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/plan.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f9fd2b2d4cc79def",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "content/posts/2023-01-02.md",
     "content/posts/2023-01-04-16-20-44.md",

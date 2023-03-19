@@ -132,3 +132,5 @@ cover:
 -   所有模块可能涉及到的操作系统、数据结构的知识
 
 # 考证时间表
+![699ddbba825b3ebcc4d3abab3f381b8.jpg](https://bu.dusays.com/2023/03/19/6416815c4182d.jpg)
+![8fadaa5baa16232713c17ca7a0d462d.jpg](https://bu.dusays.com/2023/03/19/6416815daad2d.jpg)
