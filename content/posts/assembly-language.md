@@ -64,6 +64,10 @@ AX、BX、CX、DX、BP、SP、SI、DI
 ### 段寄存器
 DS、SS、CS、ES
 ## 转移指令的原理
+1. 依据位移进行转移的 jmp 指令
+2. 依据位移进行转移的 jmp 指令
+3. zhuan'yi'di'zh
+![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
 
 # 检测点答案（部分）
 ## 检测点2.1 
