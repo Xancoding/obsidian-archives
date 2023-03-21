@@ -159,7 +159,7 @@ code segment
 			mov cl, [bx]
 			jcxz ok
 			inc bx
-            jmp short s
+			jmp short s
 
         ok: mov ds, bx
 
@@ -175,21 +175,24 @@ assume cs:code
 
 code segment
 
-start:mov ax, 2000H
-			mov ds, ax
-			mov bx, 0
+start:
+		mov ax, 2000H
+		mov ds, ax
+		mov bx, 0
 
-	s:	mov cl, [bx]
-			mov ch, 0
-			inc cx        ; loop 命令会先执行 (cx)=(cx)-1，再判断(cx)?=0
-			inc bx
-			loop s
+s:	
+		mov cl, [bx]
+		mov ch, 0
+		inc cx        ; loop 命令会先执行 (cx)=(cx)-1，再判断(cx)?=0
+		inc bx
+		loop s
 
-	ok:	dec bx
-			mov dx, bx
+ok:	
+		dec bx
+		mov dx, bx
 
-			mov ax, 4c00h
-			int 21h
+		mov ax, 4c00h
+		int 21h
 code ends
 end start
 ```
