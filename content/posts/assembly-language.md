@@ -63,6 +63,9 @@ START:
     MOV AX, 4c00H
     INT 21H
 
+; 功能：
+; 参数：
+; 返回：
 SUB1 PROC
     ...
     RET
