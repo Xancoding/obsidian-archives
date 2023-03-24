@@ -30,7 +30,23 @@ cover:
 # 汇编语言是什么？
 > **汇编语言是任何一种用于电子计算机、微处理器、微控制器，或其他可编程器件的低级语言**
 
-# 汇编da'm
+# 汇编代码格式
+## 
+```
+ASSUME CS:CODE, DS:DATA
+
+DATA SEGMENT
+  STR1 DB 1, 2, 3, 4
+DATA ENDS
+
+CODE SEGMENT
+START:
+
+
+CODE ENDS
+
+END START
+```
 # 部分知识点
 ## MOV 指令
 - 寄存器、段寄存器、内存单元、立即数
