@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "875f93ecae363b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-03-26-19-25-13.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-52.md",
+                "file": "content/posts/2023-03-26-19-25-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +120,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f9fd2b2d4cc79def",
+  "active": "875f93ecae363b0b",
   "lastOpenFiles": [
-    "content/posts/learning-cpp.md",
+    "content/posts/2023-03-26-19-25-13.md",
     "content/posts/2023-03-25-08-24-52.md",
+    "content/posts/learning-cpp.md",
     "content/posts/assembly-language.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/computer-system-fundamentals.md",
@@ -135,7 +148,6 @@
     "content/posts/2023-01-04-16-20-44.md",
     "content/posts/2023-01-05-12-14-06.md",
     "content/posts/2023-01-05-12-37-05.md",
-    "content/posts/2023-01-08-17-55-21.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
