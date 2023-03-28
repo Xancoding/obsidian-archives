@@ -146,6 +146,10 @@ DS、SS、CS、ES
 6. 段间转移（32位）（CS:IP）：转移地址在**内存**中的 jmp 指令
 ![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
 
+## 
+
+![image.png](https://bu.dusays.com/2023/03/28/64226ad3e37cd.png)
+
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
