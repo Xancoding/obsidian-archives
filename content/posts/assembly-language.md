@@ -146,10 +146,10 @@ DS、SS、CS、ES
 6. 段间转移（32位）（CS:IP）：转移地址在**内存**中的 jmp 指令
 ![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
 
-## 
-
-![image.png](https://bu.dusays.com/2023/03/28/64226ad3e37cd.png)
-![image.png](https://bu.dusays.com/2023/03/28/64226b91ae54a.png)
+## CMP 指令 与 标志寄存器
+![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
+![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
+![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
 
 # 检测点答案（部分）
 ## 检测点2.1 
