@@ -92,6 +92,8 @@ cover:
 ## 逻辑电路
 - 异或：$n$ 个数做异或运算，若有奇数个 $1$ ，则输出 $1$
 # 推荐阅读
+1. [# 原码、反码、补码](https://zhuanlan.zhihu.com/p/118432554)
+***
 - [计算机系统基础(一)——程序的表示、转换与链接](https://www.bilibili.com/video/BV1gx411n7aG/?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
 - [计算机系统基础(二)——异常、中断和输入/输出](https://www.bilibili.com/video/BV1Xx411E7qn/?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
 - [计算机系统基础(三)——程序的执行和存储访问](https://www.bilibili.com/video/BV1jE411874k/?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
