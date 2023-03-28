@@ -149,6 +149,7 @@ DS、SS、CS、ES
 ## 
 
 ![image.png](https://bu.dusays.com/2023/03/28/64226ad3e37cd.png)
+![image.png](https://bu.dusays.com/2023/03/28/64226b91ae54a.png)
 
 # 检测点答案（部分）
 ## 检测点2.1 
