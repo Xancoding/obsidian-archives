@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/computer-system-fundamentals.md",
-                "mode": "preview",
+                "file": "content/posts/2023-03-14-13-19-12.md",
+                "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "635417547ed2b2a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/computer-system-fundamentals.md",
+                "file": "content/posts/2023-03-14-13-19-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,14 +115,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
+    "content/posts/2023-03-25-08-24-52.md",
+    "content/posts/2023-03-26-19-25-13.md",
+    "content/posts/acw-django.md",
+    "content/posts/computer-system-fundamentals.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/digital-garden.md",
     "content/posts/get-info.md",
     "content/posts/LaTex.md",
-    "content/posts/2023-03-25-08-24-52.md",
-    "content/posts/computer-system-fundamentals.md",
     "content/posts/computer-network.md",
     "content/posts/blog-drawing.md",
     "content/posts/regular-expression.md",
@@ -130,11 +140,9 @@
     "content/posts/Vimium.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/assembly-language.md",
-    "content/posts/acw-django.md",
     "content/posts/acw-web.md",
     "content/posts/database.md",
     "content/posts/2023-02-28-20-18-14.md",
-    "content/posts/2023-03-26-19-25-13.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
