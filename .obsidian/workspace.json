@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "d1cd29d56da8a8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/computer-system-fundamentals.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/computer-system-fundamentals.md",
+                "file": "content/posts/2023-03-25-08-24-52.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +107,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d1cd29d56da8a8f9",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/posts/computer-system-fundamentals.md",
     "content/posts/computer-network.md",
     "content/posts/blog-drawing.md",
     "content/posts/regular-expression.md",
@@ -145,7 +133,6 @@
     "content/posts/2023-02-28-20-18-14.md",
     "content/posts/2023-03-26-19-25-13.md",
     "content/posts/learning-cpp.md",
-    "content/posts/computer-system-fundamentals.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/LaTex.md",
     "static/img/Headshot/007.jpg",
