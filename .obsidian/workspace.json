@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3de211079dd6992b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/assembly-language.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/assembly-language.md",
+                "file": "content/posts/2023-03-14-13-19-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +107,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3de211079dd6992b",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "content/posts/2023-03-14-13-19-12.md",
     "content/posts/assembly-language.md",
+    "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-03-26-19-25-13.md",
     "content/posts/acw-django.md",
