@@ -103,6 +103,25 @@ SUB1 ENDP         ; 过程结束
 CODE ENDS
 END MAIN
 ```
+## IF 条件语句的汇编实现框架
+```
+cmp a, b
+jOP true
+jmp next
+true:
+	s1
+next:
+	...
+```
+## IF-ELSE 条件语句的汇编实现框架 
+```
+cmp a, b
+jOP true
+jmp false
+true:
+	s1
+	jmp next
+```
 # 部分知识点
 ## MOV 指令
 - 寄存器、段寄存器、内存单元、立即数
