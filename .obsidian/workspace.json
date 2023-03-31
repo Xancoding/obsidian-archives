@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2cff2bcec48b782b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/assembly-language.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-03-14-13-19-12.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +120,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "2cff2bcec48b782b",
   "lastOpenFiles": [
+    "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-03-26-19-25-13.md",
     "content/posts/acw-django.md",
@@ -130,7 +144,6 @@
     "content/posts/plan.md",
     "content/posts/self-study.md",
     "content/posts/Vimium.md",
-    "content/posts/2023-03-14-13-19-12.md",
     "content/posts/assembly-language.md",
     "content/posts/acw-web.md",
     "content/posts/database.md",
