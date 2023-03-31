@@ -177,6 +177,8 @@ DS、SS、CS、ES
 ![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
 
+## 标志寄存器结构图
+![image.png](https://bu.dusays.com/2023/03/31/64266b721b208.png)
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
