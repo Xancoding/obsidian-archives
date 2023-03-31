@@ -118,9 +118,16 @@ next:
 cmp a, b
 jOP true
 jmp false
+
 true:
 	s1
 	jmp next
+
+false:
+	s2
+
+next:
+	
 ```
 # 部分知识点
 ## MOV 指令
