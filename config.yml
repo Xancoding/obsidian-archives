@@ -60,7 +60,7 @@ params:
 
   ShowToc: true # 显示目录
   TocOpen: true # 自动展开目录
- 
+
   DateFormat: "2006-01-02"
   ShowFullTextinRSS: true
   ShowBreadCrumbs: true
