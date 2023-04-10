@@ -55,30 +55,6 @@
         }
       }
     },
-    "模糊子集交运算：": {
-      "模糊子集交运算：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678013662644
-        }
-      }
-    },
-    "操作的定义": {
-      "操作的定义": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678194853447
-        }
-      }
-    },
-    "while": {
-      "while": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678195201678
-        }
-      }
-    },
     "寄存器：0000": {
       "寄存器：0000": {
         "currentFile": {
@@ -92,14 +68,6 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1678768653276
-        }
-      }
-    },
-    "readcount。": {
-      "readcount。": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678335908365
         }
       }
     },
@@ -212,6 +180,14 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1680429668231
+        }
+      }
+    },
+    "大数定律和中心极限定理": {
+      "大数定律和中心极限定理": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681105393308
         }
       }
     }
