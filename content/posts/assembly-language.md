@@ -35,10 +35,10 @@ cover:
 2. 一个段的最大长度是 64KB -- IP 寄存器长度为 16 位，$2^{16} = 64$ 
 3. ![image.png](https://bu.dusays.com/2023/04/18/643e9450302b8.png) -- A
 4. ![image.png](https://bu.dusays.com/2023/04/18/643e9514cc0f9.png) -- D
-5. ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
-
-
-
+5. 
+# DOS 系统中 .EXE 文件中程序的加载过程
+![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
+![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
 # 汇编代码格式
 ## 1
 ```
