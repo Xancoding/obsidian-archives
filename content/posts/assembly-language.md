@@ -34,7 +34,8 @@ cover:
 1. 一个段的起始地址必定是 16 的倍数 -- CS * 10H
 2. 一个段的最大长度是 64KB -- IP 寄存器长度为 16 位，$2^{16} = 64$ 
 3. ![image.png](https://bu.dusays.com/2023/04/18/643e9450302b8.png) -- A
-4. 
+4. ⚠️upload failed, check dev console
+
 
 
 # 汇编代码格式
