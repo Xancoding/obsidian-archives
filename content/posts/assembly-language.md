@@ -156,7 +156,7 @@ next:
 3. ~~MOV 内存单元，内存单元~~
 4. MOV 内存单元，段寄存器：MOV [0]，DS（允许，但不建议）
 ---
-![d3d1cd5ac957ba3f5ca72f8b77f8ce5.jpg](https://bu.dusays.com/2023/03/10/640ae7a051629.jpg)
+![image.png](https://bu.dusays.com/2023/04/18/643e95fcf0ea5.png)
 ## 内存单元寻址
 - BP默认段前缀为 SS、其他的默认段前缀为 DS
 1. 直接寻址：[idata]
