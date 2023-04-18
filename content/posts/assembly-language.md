@@ -36,6 +36,7 @@ cover:
 3. ![image.png](https://bu.dusays.com/2023/04/18/643e9450302b8.png) -- A
 4. ![image.png](https://bu.dusays.com/2023/04/18/643e9514cc0f9.png) -- D
 5. 在汇编源程序中，数据不能以字母开头，所以要在前面加 0，如 0FFF0H
+6. 在汇编源程序中，指令 **mov ax, [0]** 被编译器当作指令 mov ax, 0
 # DOS 系统中 .EXE 文件中程序的加载过程
 ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
 ![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
