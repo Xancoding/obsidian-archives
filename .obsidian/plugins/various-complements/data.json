@@ -55,70 +55,6 @@
         }
       }
     },
-    "寄存器：0000": {
-      "寄存器：0000": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678768595908
-        }
-      }
-    },
-    "段寄存器中的": {
-      "段寄存器中的": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678768653276
-        }
-      }
-    },
-    "内存单元，立即数": {
-      "内存单元，立即数": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678768386931
-        }
-      }
-    },
-    "0-1分布": {
-      "0-1分布": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678777150420
-        }
-      }
-    },
-    "超几何分布": {
-      "超几何分布": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678779240432
-        }
-      }
-    },
-    "的分布律为：": {
-      "的分布律为：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678779312912
-        }
-      }
-    },
-    "的概率密度为：": {
-      "的概率密度为：": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678882758672
-        }
-      }
-    },
-    "为常数，且": {
-      "为常数，且": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678939812900
-        }
-      }
-    },
     "离散型随机变量的分布函数": {
       "离散型随机变量的分布函数": {
         "currentFile": {
@@ -188,6 +124,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681105393308
+        }
+      }
+    },
+    "部分知识点": {
+      "部分知识点": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681822284437
         }
       }
     }
