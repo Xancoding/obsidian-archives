@@ -142,6 +142,9 @@ false:
 next:
 	
 ```
+## 程序框架
+![image.png](https://bu.dusays.com/2023/04/18/643ea60830801.png)
+
 # 部分知识点
 ## MOV 指令
 - 寄存器、段寄存器、内存单元、立即数
