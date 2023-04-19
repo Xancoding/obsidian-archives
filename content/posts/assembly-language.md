@@ -180,8 +180,11 @@ next:
 ### JMP 指令 -- 无条件转移指令
 #### 依据位移进行转移的 JMP 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f3eaf0f6fc.png)
-#### 依据目的地址进行转移的 JMP 指令
+![image.png](https://bu.dusays.com/2023/04/19/643f3f99070e3.png)
+
+#### 转移的目的地址在指令中的 JMP 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f3f3b832b2.png)
+#### 转移的目的地址在寄存器中的 JMP 指令
 
 #### 总结
 - **Label：标号**
