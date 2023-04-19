@@ -46,6 +46,13 @@ cover:
 9. mov、push、pop等指令的执行对标志寄存器没有影响
 10. CF 标志 -- 无符号数 进位或借位
 11. OF 标志 -- 有符号数 溢出
+12. 内中断
+	- CPU 内部产生如下情况时
+		1. 除法错误
+		2. 单步执行
+		3. 执行 into 指令
+		4. 执行 int 指令
+13. 
 # DOS 系统中 .EXE 文件中程序的加载过程
 ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
 ![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
