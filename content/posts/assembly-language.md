@@ -267,8 +267,13 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f771887302.png)
 
 ### IN 和 OUT 指令 -- 端口读写指令
+![image.png](https://bu.dusays.com/2023/04/19/643f7bc3c4d3e.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f7bd147ec3.png)
 
-### SHL 和 SHR 指令 -- 移位指令
+### 移位指令
+![image.png](https://bu.dusays.com/2023/04/19/643f7bf613c90.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f7c0d0dc83.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f7c22225a1.png)
 
 ### 汇总
 ![image.png](https://bu.dusays.com/2023/04/19/643f778506def.png)
