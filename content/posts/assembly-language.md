@@ -148,7 +148,8 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/18/643ea60830801.png)
 
 # 部分知识点
-## MOV 指令
+## 指令
+### MOV 指令
 - 寄存器、段寄存器、内存单元、立即数
 ---
 1. MOV 寄存器，立即数：MOV AX, 8
@@ -167,6 +168,13 @@ next:
 4. MOV 内存单元，段寄存器：MOV [0]，DS（允许，但不建议）
 ---
 ![image.png](https://bu.dusays.com/2023/04/18/643e95fcf0ea5.png)
+### DIV 指令
+
+### CMP 指令 与 标志寄存器
+![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
+![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
+![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
+
 ## 内存单元寻址
 - BP默认段前缀为 SS、其他的默认段前缀为 DS
 1. 直接寻址：[idata]
@@ -198,10 +206,6 @@ DS、SS、CS、ES
 6. 段间转移（32位）（CS:IP）：转移地址在**内存**中的 jmp 指令
 ![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
 
-## CMP 指令 与 标志寄存器
-![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
-![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
-![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
 
 ## 标志寄存器结构图
 ![image.png](https://bu.dusays.com/2023/03/31/64266b721b208.png)
