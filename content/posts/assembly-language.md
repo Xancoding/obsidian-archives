@@ -151,6 +151,8 @@ next:
 ## 程序框架
 ![image.png](https://bu.dusays.com/2023/04/18/643ea60830801.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f43f018901.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f47b58b60d.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f47a624644.png)
 
 # 部分知识点
 ## 指令
