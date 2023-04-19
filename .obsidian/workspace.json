@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4a1a60729a3c6ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-03-14-13-19-12.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/assembly-language.md",
+                "file": "content/posts/2023-03-14-13-19-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,13 +120,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f9fd2b2d4cc79def",
+  "active": "4a1a60729a3c6ee7",
   "lastOpenFiles": [
-    "content/posts/2023-03-14-13-19-12.md",
-    "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-03-26-19-25-13.md",
+    "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-03-31-08-14-16.md",
     "content/posts/2023-04-02-18-00-40.md",
+    "content/posts/assembly-language.md",
+    "content/posts/2023-03-14-13-19-12.md",
     "content/posts/acw-django.md",
     "content/posts/2023-03-05-18-41-23.md",
     "content/posts/2023-02-28-20-18-14.md",
@@ -134,7 +148,6 @@
     "content/posts/2023-01-14-14-49-34.md",
     "content/posts/2023-01-14-21-19-01.md",
     "content/posts/2023-01-18-12-29-46.md",
-    "content/posts/2023-01-23-22-40-47.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
