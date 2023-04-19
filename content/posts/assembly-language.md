@@ -42,6 +42,7 @@ cover:
 	1. Debug 将 **[idata]** 解释为 一个内存单元
 	2. 编译器将 **[idata]** 解释为 **idata**
 7. 根据位移进行转换的 汇编指令 方便了程序段在内存中的浮动装配
+8. 如果在源程序中出现了转移范围超界（gen）的问题在编译的时候，编译器将报错
 # DOS 系统中 .EXE 文件中程序的加载过程
 ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
 ![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
