@@ -201,6 +201,10 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f3ad6b8c50.png)
 ![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
 ### JCXZ 指令 -- 有条件转移指令
+![image.png](https://bu.dusays.com/2023/04/19/643f4180d36f8.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f41af1bc94.png)
+### LOOP 指令 -- 循环指令
+![image.png](https://bu.dusays.com/2023/04/19/643f41daf1a0d.png)
 
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
