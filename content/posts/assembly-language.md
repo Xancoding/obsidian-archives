@@ -154,6 +154,9 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f47b58b60d.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f47a624644.png)
 
+## 保存和恢复寄存器
+![image.png](https://bu.dusays.com/2023/04/19/643f4839770e3.png)
+
 # 部分知识点
 ## 指令
 ### MOV 指令 -- 数据传送指令
