@@ -250,6 +250,9 @@ next:
 ![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
 ### 检测比较结果的条件转移指令
+![image.png](https://bu.dusays.com/2023/04/19/643f74b7d80e1.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f74c70eb14.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f74dd86945.png)
 
 ## 操作符
 ### DUP
