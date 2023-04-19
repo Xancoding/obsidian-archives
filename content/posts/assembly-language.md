@@ -170,11 +170,17 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/18/643e95fcf0ea5.png)
 ### DIV 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f37f2224ac.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f380d73019.png)
 
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
+
+## 操作符
+### DUP
+![image.png](https://bu.dusays.com/2023/04/19/643f3867b741f.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f387d73b66.png)
 
 ## 内存单元寻址
 - BP默认段前缀为 SS、其他的默认段前缀为 DS
