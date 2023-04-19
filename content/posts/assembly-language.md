@@ -257,7 +257,10 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f74b7d80e1.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f74c70eb14.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f74dd86945.png)
-### 
+### DF 标志和串传送指令
+![image.png](https://bu.dusays.com/2023/04/19/643f7667aca5e.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f7679a6678.png)
+
 ## 操作符
 ### DUP
 ![image.png](https://bu.dusays.com/2023/04/19/643f3867b741f.png)
