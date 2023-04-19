@@ -307,6 +307,7 @@ DS、SS、CS、ES
 4. PUSH CS
 5. PUSH IP
 6. `(IP)=(N*4)`，`CS=(N*4+2)`
+![image.png](https://bu.dusays.com/2023/04/19/643f7a516567d.png)
 
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
