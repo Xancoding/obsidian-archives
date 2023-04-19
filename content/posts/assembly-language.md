@@ -181,6 +181,7 @@ next:
 #### 依据位移进行转移的 JMP 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f3eaf0f6fc.png)
 #### 依据目的地址进行转移的 JMP 指令
+![image.png](https://bu.dusays.com/2023/04/19/643f3f3b832b2.png)
 
 #### 总结
 - **Label：标号**
