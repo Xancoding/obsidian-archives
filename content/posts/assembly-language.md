@@ -266,7 +266,10 @@ next:
 ### PUSHF 和 POPF
 ![image.png](https://bu.dusays.com/2023/04/19/643f771887302.png)
 
-### IN 和 OUT 
+### IN 和 OUT 指令 -- 端口读写指令
+
+### SHL 和 SHR 指令 -- 移位指令
+
 ### 汇总
 ![image.png](https://bu.dusays.com/2023/04/19/643f778506def.png)
 
