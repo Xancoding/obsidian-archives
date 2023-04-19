@@ -236,6 +236,9 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f462f51dc9.png)
 
 ### ADC 指令 -- 带进位加法指令
+![image.png](https://bu.dusays.com/2023/04/19/643f7347c83c6.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f735f35f06.png)
+### SBB 指令 -- 待借位减法指令
 
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
