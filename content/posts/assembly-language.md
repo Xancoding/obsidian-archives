@@ -269,7 +269,6 @@ next:
 ### IN 和 OUT 指令 -- 端口读写指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f7bc3c4d3e.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f7bd147ec3.png)
-
 ### 移位指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f7bf613c90.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f7c0d0dc83.png)
@@ -320,7 +319,9 @@ DS、SS、CS、ES
 5. PUSH IP
 6. `(IP)=(N*4)`，`CS=(N*4+2)`
 ![image.png](https://bu.dusays.com/2023/04/19/643f7a516567d.png)
-
+## 软件中断
+![image.png](https://bu.dusays.com/2023/04/19/643f7cf641ae1.png)
+## 硬件z'g'h
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
 
