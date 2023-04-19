@@ -149,7 +149,7 @@ next:
 
 # 部分知识点
 ## 指令
-### MOV 指令
+### MOV 指令 -- 数据传送指令
 - 寄存器、段寄存器、内存单元、立即数
 ---
 1. MOV 寄存器，立即数：MOV AX, 8
@@ -181,6 +181,7 @@ next:
 ### DUP
 ![image.png](https://bu.dusays.com/2023/04/19/643f3867b741f.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f387d73b66.png)
+### offset 
 
 ## 内存单元寻址
 - BP默认段前缀为 SS、其他的默认段前缀为 DS
