@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-03-14-13-19-12.md",
+                "file": "content/posts/assembly-language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +121,8 @@
   },
   "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-03-14-13-19-12.md",
+    "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-03-26-19-25-13.md",
     "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-03-31-08-14-16.md",
