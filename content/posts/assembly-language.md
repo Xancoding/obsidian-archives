@@ -306,8 +306,8 @@ DS、SS、CS、ES
 3. TF=0，IF=0
 4. PUSH CS
 5. PUSH IP
-6. (IP)=(N*4)，`CS=(N*4+2)`
-7. 
+6. `(IP)=(N*4)`，`CS=(N*4+2)`
+
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
 
