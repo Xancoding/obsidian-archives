@@ -187,6 +187,8 @@ next:
 #### 转移的目的地址在寄存器中的 JMP 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f4014623e4.png)
 #### 转移的目的地址在内存单元中的 JMP 指令
+![image.png](https://bu.dusays.com/2023/04/19/643f40b86ebdd.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f40d33bb81.png)
 
 #### 总结
 - **Label：标号**
