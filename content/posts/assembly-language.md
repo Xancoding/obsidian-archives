@@ -181,6 +181,10 @@ next:
 AX、BX、CX、DX、BP、SP、SI、DI
 ### 段寄存器
 DS、SS、CS、ES
+## 寻址方式
+![Uploading file...w6rw3]()
+
+
 ## 转移指令的原理
 1. 段内段转移（8位）（IP）：依据**位移**进行转移的 jmp 指令
 2. 段内近转移（16位）（IP）依据**位移**进行转移的 jmp 指令
