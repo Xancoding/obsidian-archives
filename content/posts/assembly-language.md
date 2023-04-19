@@ -79,9 +79,9 @@ START:
     MOV AX, 4c00H
     INT 21H
 
-; 功能：
-; 参数：
-; 返回：
+; 功能：计算 N 的 3 次方
+; 参数：(bx) = N
+; 返回：(dx:ax) = N^3
 SUB1 PROC
     ...
     RET
