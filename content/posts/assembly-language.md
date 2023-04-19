@@ -267,6 +267,7 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f771887302.png)
 
 ### 汇总
+![image.png](https://bu.dusays.com/2023/04/19/643f778506def.png)
 
 ## 操作符
 ### DUP
@@ -299,6 +300,9 @@ DS、SS、CS、ES
 
 ## 标志寄存器结构图
 ![image.png](https://bu.dusays.com/2023/03/31/64266b721b208.png)
+# 基本算法
+![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
+
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
