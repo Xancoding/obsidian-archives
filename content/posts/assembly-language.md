@@ -33,8 +33,10 @@ cover:
 # 部分知识点 
 1. 一个段的起始地址必定是 16 的倍数 -- CS * 10H
 2. 一个段的最大长度是 64KB -- IP 寄存器长度为 16 位，$2^{16} = 64$ 
-3. ![image.png](https://bu.dusays.com/2023/04/18/643e9450302b8.png) -- A
-4. ![image.png](https://bu.dusays.com/2023/04/18/643e9514cc0f9.png) -- D
+3. A
+	- ![image.png](https://bu.dusays.com/2023/04/18/643e9450302b8.png) 
+4. D
+	- ![image.png](https://bu.dusays.com/2023/04/18/643e9514cc0f9.png)
 5. 在汇编源程序中，数据不能以字母开头，所以要在前面加 0，如 0FFF0H
 6. 在汇编源程序中，指令 **mov ax, [0]** 被编译器当作指令 **mov ax, 0** 处理
 	1. Debug 将 **[idata]** 解释为 一个内存单元
