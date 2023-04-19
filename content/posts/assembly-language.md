@@ -55,8 +55,9 @@ cover:
 13. 外中断 
 	1. 可屏蔽中断
 		- 来自于CPU外部，中断类型码通过数据总线送入 CPU
+		- 几乎所有由外设引发的外中断，都是可屏蔽中断
 	2. 不可屏蔽中断
-		- 几乎所有由外设引发的外中断，都是
+
 # DOS 系统中 .EXE 文件中程序的加载过程
 ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
 ![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
