@@ -41,7 +41,7 @@ cover:
 6. 在汇编源程序中，指令 **mov ax, [0]** 被编译器当作指令 **mov ax, 0** 处理
 	1. Debug 将 **[idata]** 解释为 一个内存单元
 	2. 编译器将 **[idata]** 解释为 **idata**
-7. 
+7. 根据位移进行转换的 汇编指令 方便了程序段在内存中的浮动装配
 # DOS 系统中 .EXE 文件中程序的加载过程
 ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
 ![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
@@ -205,6 +205,7 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f41af1bc94.png)
 ### LOOP 指令 -- 循环指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f41daf1a0d.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f41ee63b73.png)
 
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
