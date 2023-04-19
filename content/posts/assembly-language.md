@@ -266,6 +266,7 @@ next:
 ### PUSHF 和 POPF
 ![image.png](https://bu.dusays.com/2023/04/19/643f771887302.png)
 
+### IN 和 OUT 
 ### 汇总
 ![image.png](https://bu.dusays.com/2023/04/19/643f778506def.png)
 
