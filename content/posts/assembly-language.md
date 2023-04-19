@@ -175,16 +175,19 @@ next:
 4. 基址变址寻址：[BX | BP + SI | DI]
 5. 相对基址变址寻址：[BX | BP + SI | DI + idata]
 
-一般来说，我们可以用 [bx+idata+si] 的方式来访问结构体中的数据。用 bx 定位整个结构体，用 idata 定位结构体中的某一个数据项，用 si 定位数据项中的每个元素。为此，汇编语言提供了更为贴切的书写方式，如：[bx].idata、[bx].idata[si]、
+一般来说，我们可以用 [bx+idata+si] 的方式来访问结构体中的数据。用 bx 定位整个结构体，用 idata 定位结构体中的某一个数据项，用 si 定位数据项中的每个元素。为此，汇编语言提供了更为贴切的书写方式，如：[bx].idata、[bx].idata[si]
+![Snipaste_2023-04-19_08-26-20.png](https://bu.dusays.com/2023/04/19/643f35ca2136b.png)
+
 ## 寄存器
 ### 通用寄存器
 AX、BX、CX、DX、BP、SP、SI、DI
 ### 段寄存器
 DS、SS、CS、ES
 ## 寻址方式
+![Snipaste_2023-04-19_08-24-19.png](https://bu.dusays.com/2023/04/19/643f35f1dfc30.png)
 ## 操作数的长度
-
-
+![Snipaste_2023-04-19_08-25-20.png](https://bu.dusays.com/2023/04/19/643f35f8034cb.png)
+![Snipaste_2023-04-19_08-25-20.png](https://bu.dusays.com/2023/04/19/643f35f8b89be.png)
 ## 转移指令的原理
 1. 段内段转移（8位）（IP）：依据**位移**进行转移的 jmp 指令
 2. 段内近转移（16位）（IP）依据**位移**进行转移的 jmp 指令
