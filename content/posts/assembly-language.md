@@ -46,7 +46,7 @@ cover:
 # DOS 系统中 .EXE 文件中程序的加载过程
 ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
 ![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
-# 汇编代码格式
+# 程序设计框架
 ## 1
 ```
 ASSUME CS:CODE, DS:DATA
@@ -63,7 +63,7 @@ CODE ENDS
 
 END START
 ```
-## 2
+## 子程序she'j
 ```
 ASSUME CS:CODE, DS:DATA
 
@@ -209,6 +209,7 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f41ee63b73.png)
 
 ### CALL 和 RRET指令 -- 转移指令
+![image.png](https://bu.dusays.com/2023/04/19/643f43768ae64.png)
 
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
