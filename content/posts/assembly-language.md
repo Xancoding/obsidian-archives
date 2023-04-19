@@ -175,7 +175,7 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f3c051b5b4.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f3c422de8c.png)
 
-### DIV 指令
+### DIV 指令 -- 无符号除法指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f37f2224ac.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f380d73019.png)
 
@@ -211,6 +211,9 @@ next:
 
 ### CALL 和 RRET指令 -- 转移指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f43768ae64.png)
+
+### MUL 指令 -- 无符号乘法指令
+![image.png](https://bu.dusays.com/2023/04/19/643f462f51dc9.png)
 
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
