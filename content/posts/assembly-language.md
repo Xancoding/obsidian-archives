@@ -172,6 +172,14 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f37f2224ac.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f380d73019.png)
 
+### JMP 指令 -- 转移指令
+1. 段内段转移（8位）（IP）：依据**位移**进行转移的 jmp 指令
+2. 段内近转移（16位）（IP）依据**位移**进行转移的 jmp 指令
+3. 段内转移（16位）（IP）：转移地址在**寄存器**中的 jmp 指令
+4. 段内转移（16位）（IP）：转移地址在**内存**中的 jmp 指令
+5. 段间远转移（32位）（CS:IP）：转移的目的地址在**指令**中的 jmp 指令
+6. 段间转移（32位）（CS:IP）：转移地址在**内存**中的 jmp 指令
+![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
@@ -205,15 +213,6 @@ DS、SS、CS、ES
 ## 操作数的长度
 ![image.png](https://bu.dusays.com/2023/04/19/643f36bb8c1a2.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f36d1751cc.png)
-
-## 转移指令的原理
-1. 段内段转移（8位）（IP）：依据**位移**进行转移的 jmp 指令
-2. 段内近转移（16位）（IP）依据**位移**进行转移的 jmp 指令
-3. 段内转移（16位）（IP）：转移地址在**寄存器**中的 jmp 指令
-4. 段内转移（16位）（IP）：转移地址在**内存**中的 jmp 指令
-5. 段间远转移（32位）（CS:IP）：转移的目的地址在**指令**中的 jmp 指令
-6. 段间转移（32位）（CS:IP）：转移地址在**内存**中的 jmp 指令
-![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
 
 ## 标志寄存器结构图
 ![image.png](https://bu.dusays.com/2023/03/31/64266b721b208.png)
