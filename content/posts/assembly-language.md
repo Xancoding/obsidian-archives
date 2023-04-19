@@ -260,7 +260,10 @@ next:
 ### DF 标志和串传送指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f7667aca5e.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f7679a6678.png)
-
+![image.png](https://bu.dusays.com/2023/04/19/643f76ac1bb6b.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f76d5c0355.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f76edbae71.png)
+### PUSHFｂｅ
 ## 操作符
 ### DUP
 ![image.png](https://bu.dusays.com/2023/04/19/643f3867b741f.png)
