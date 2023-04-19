@@ -168,6 +168,10 @@ next:
 4. MOV 内存单元，段寄存器：MOV [0]，DS（允许，但不建议）
 ---
 ![image.png](https://bu.dusays.com/2023/04/18/643e95fcf0ea5.png)
+### AND 和 OR 指令
+![image.png](https://bu.dusays.com/2023/04/19/643f3bf566173.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f3c051b5b4.png)
+
 ### DIV 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f37f2224ac.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f380d73019.png)
