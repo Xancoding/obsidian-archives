@@ -302,8 +302,12 @@ DS、SS、CS、ES
 ![image.png](https://bu.dusays.com/2023/03/31/64266b721b208.png)
 ## 中断过程
 1. 取得中断类型码 N
-2. PUSHF TF=0，IF=0
-3. 
+2. PUSHF 
+3. TF=0，IF=0
+4. PUSH CS
+5. PUSH IP
+6. (IP)=(N*4)，`CS=(N*4+2)`
+7. 
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
 
