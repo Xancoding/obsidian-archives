@@ -161,7 +161,8 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f6f0ae937b.png)
 #### 内存空间传递 -- 参数较多
 ![image.png](https://bu.dusays.com/2023/04/19/643f6f6c221b7.png)
-
+![image.png](https://bu.dusays.com/2023/04/19/643f6f996a4ed.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f6faf891c3.png)
 ### 保存和恢复寄存器
 ![image.png](https://bu.dusays.com/2023/04/19/643f4839770e3.png)
 
