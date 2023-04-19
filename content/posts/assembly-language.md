@@ -171,6 +171,7 @@ next:
 ### AND 和 OR 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f3bf566173.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f3c051b5b4.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f3c422de8c.png)
 
 ### DIV 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f37f2224ac.png)
