@@ -239,8 +239,13 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f7347c83c6.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f735f35f06.png)
 ### SBB 指令 -- 待借位减法指令
+![image.png](https://bu.dusays.com/2023/04/19/643f73d2792a2.png)
 
-### CMP 指令 与 标志寄存器
+### CMP 指令 -- 比较指令
+#### CMP 指令
+![image.png](https://bu.dusays.com/2023/04/19/643f7416c2343.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f742cdb35d.png)
+#### 
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
