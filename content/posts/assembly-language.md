@@ -47,7 +47,7 @@ cover:
 ![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
 ![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
 # 程序设计框架
-## 1
+## 主程序设计框架
 ```
 ASSUME CS:CODE, DS:DATA
 
@@ -63,7 +63,7 @@ CODE ENDS
 
 END START
 ```
-## 子程序she'j
+## 子程序设计框架 1
 ```
 ASSUME CS:CODE, DS:DATA
 
@@ -91,7 +91,7 @@ CODE ENDS
 
 END START
 ```
-## 3
+## 子程序设计框架 2
 ```
 ; 调用程序和过程在同一代码段中，则使用NEAR属性
 ; 调用程序和过程在不同代码段中，则使用FAR属性
@@ -147,6 +147,7 @@ next:
 ```
 ## 程序框架
 ![image.png](https://bu.dusays.com/2023/04/18/643ea60830801.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f43f018901.png)
 
 # 部分知识点
 ## 指令
