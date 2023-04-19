@@ -169,6 +169,7 @@ next:
 ---
 ![image.png](https://bu.dusays.com/2023/04/18/643e95fcf0ea5.png)
 ### DIV 指令
+![image.png](https://bu.dusays.com/2023/04/19/643f37f2224ac.png)
 
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
@@ -205,7 +206,6 @@ DS、SS、CS、ES
 5. 段间远转移（32位）（CS:IP）：转移的目的地址在**指令**中的 jmp 指令
 6. 段间转移（32位）（CS:IP）：转移地址在**内存**中的 jmp 指令
 ![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
-
 
 ## 标志寄存器结构图
 ![image.png](https://bu.dusays.com/2023/03/31/64266b721b208.png)
