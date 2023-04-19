@@ -135,6 +135,8 @@ true:
 next:
 	...
 ```
+![image.png](https://bu.dusays.com/2023/04/19/643f75d885707.png)
+
 ## IF-ELSE 条件语句的汇编实现框架 
 ```
 cmp a, b
@@ -151,6 +153,8 @@ false:
 next:
 	
 ```
+![image.png](https://bu.dusays.com/2023/04/19/643f75ee849f8.png)
+
 ## 程序框架
 ![image.png](https://bu.dusays.com/2023/04/18/643ea60830801.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f43f018901.png)
