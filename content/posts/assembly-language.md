@@ -58,9 +58,6 @@ cover:
 		- 几乎所有由外设引发的外中断，都是可屏蔽中断。比如说键盘输入发生时, 相关芯片向CPU发出可屏蔽中断信息
 	2. 不可屏蔽中断
 
-# DOS 系统中 .EXE 文件中程序的加载过程
-![image.png](https://bu.dusays.com/2023/04/18/643ea136bcf84.png)
-![image.png](https://bu.dusays.com/2023/04/18/643ea14453a38.png)
 # 程序设计框架
 ## 主程序设计框架
 ```
@@ -186,6 +183,9 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f4839770e3.png)
 
 # 部分知识点
+## DOS 系统中 .EXE 文件中程序的加载过程
+![image.png](https://bu.dusays.com/2023/04/19/643f8024b6309.png)
+![image.png](https://bu.dusays.com/2023/04/19/643f803b14b63.png)
 ## 指令
 ### MOV 指令 -- 数据传送指令
 - 寄存器、段寄存器、内存单元、立即数
