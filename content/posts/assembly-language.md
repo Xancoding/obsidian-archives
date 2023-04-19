@@ -263,7 +263,11 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f76ac1bb6b.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f76d5c0355.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f76edbae71.png)
-### PUSHFｂｅ
+### PUSHF 和 POPF
+![image.png](https://bu.dusays.com/2023/04/19/643f771887302.png)
+
+### 汇总
+
 ## 操作符
 ### DUP
 ![image.png](https://bu.dusays.com/2023/04/19/643f3867b741f.png)
