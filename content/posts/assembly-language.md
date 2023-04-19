@@ -321,7 +321,9 @@ DS、SS、CS、ES
 ![image.png](https://bu.dusays.com/2023/04/19/643f7a516567d.png)
 ## 软件中断
 ![image.png](https://bu.dusays.com/2023/04/19/643f7cf641ae1.png)
-## 硬件z'g'h
+## 硬件中断
+![image.png](https://bu.dusays.com/2023/04/19/643f7d2aaf373.png)
+
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
 
