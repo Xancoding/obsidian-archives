@@ -235,6 +235,8 @@ next:
 ### MUL 指令 -- 无符号乘法指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f462f51dc9.png)
 
+### ADC 指令 -- 带进位加法指令
+
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
