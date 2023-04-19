@@ -245,7 +245,7 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f41daf1a0d.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f41ee63b73.png)
 
-### CALL 和 RRET指令 -- 转移指令
+### CALL 和 RET指令 -- 转移指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f43768ae64.png)
 
 ### MUL 指令 -- 无符号乘法指令
