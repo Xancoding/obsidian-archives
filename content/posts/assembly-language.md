@@ -182,6 +182,7 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f3867b741f.png)
 ![image.png](https://bu.dusays.com/2023/04/19/643f387d73b66.png)
 ### offset 
+![image.png](https://bu.dusays.com/2023/04/19/643f39a1ed1db.png)
 
 ## 内存单元寻址
 - BP默认段前缀为 SS、其他的默认段前缀为 DS
