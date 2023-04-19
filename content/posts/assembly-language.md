@@ -200,6 +200,8 @@ next:
 6. 段间转移（32位）（CS:IP）：转移地址在**内存**中的 JMP 指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f3ad6b8c50.png)
 ![5798aee6df9f1b2c11bb9ce45699eba.jpg](https://bu.dusays.com/2023/03/21/641932d706e80.jpg)
+### JCXZ 指令 -- 有条件转移指令
+
 ### CMP 指令 与 标志寄存器
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
