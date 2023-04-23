@@ -387,6 +387,7 @@ end start
 ## MAX MIN AVE
 ### Code
 ```
+; 求最大值、最小值、平均值
 assume cs:code, ds:data
 data segment
     array db 0, 9, 88, 6, 5, 4, 5, 6
