@@ -543,7 +543,9 @@ end start
 ```
 ### Result 
 ![image.png](https://bu.dusays.com/2023/04/23/6444fd8ad447b.png)
-## 
+## 斐波那契数列前 20 项
+### Code
+### Result 
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
