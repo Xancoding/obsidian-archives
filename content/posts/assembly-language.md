@@ -339,7 +339,12 @@ DS、SS、CS、ES
 
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
+## SUM
+#### Code
+```
 
+```
+#### Result 
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方

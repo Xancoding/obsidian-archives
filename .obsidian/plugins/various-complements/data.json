@@ -63,38 +63,6 @@
         }
       }
     },
-    "离散型计算方法": {
-      "离散型计算方法": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679302137129
-        }
-      }
-    },
-    "二维离散型随机变量": {
-      "二维离散型随机变量": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679313814288
-        }
-      }
-    },
-    "二维连续型随机变量": {
-      "二维连续型随机变量": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679314531902
-        }
-      }
-    },
-    "二维随机变量": {
-      "二维随机变量": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679564763913
-        }
-      }
-    },
     "功能：int": {
       "功能：int": {
         "currentFile": {
@@ -156,6 +124,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681882598303
+        }
+      }
+    },
+    "Codesg": {
+      "Codesg": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682240009606
         }
       }
     }
