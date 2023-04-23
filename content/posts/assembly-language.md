@@ -494,6 +494,56 @@ end start
 ### Result 
 ![image.png](https://bu.dusays.com/2023/04/23/6444f81b00398.png)
 ## COUNT
+### Code
+```
+; 找出符合条件数据并进行统计--以统计负数为例
+assume cs:code, ds:data
+data segment
+    array db 2, -3, 5, -7, 6, -9, -5, 8
+    count db 0  ; 统计负数个数
+data ends
+
+code segment
+start:
+    mov ax, data
+    mov ds, ax
+
+    call func
+
+    mov ax, 4c00h
+    int 21h
+
+; 功能：统计数组中负数的个数
+; 输入：array
+; 输出：count
+func proc
+    mov cx, 8
+    mov si, 0
+    mov di, 0
+
+    mov bl, 0  ; 统计个数
+s:
+    mov al, array[si]
+    cmp al, 0
+    jl true  ; array[si] < 0
+    jmp next
+
+true:
+    inc bl
+
+next:
+    inc si
+    loop s
+
+    mov count[di], bl
+    ret
+func endp
+code ends
+end start
+```
+### Result 
+![image.png](https://bu.dusays.com/2023/04/23/6444fd8ad447b.png)
+## 
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
