@@ -264,7 +264,7 @@ next:
 ![image.png](https://bu.dusays.com/2023/04/19/643f742cdb35d.png)
 #### 无符号数比较结果 && 有符号数比较结果
 ![image.png](https://bu.dusays.com/2023/03/28/64226ba3202ba.png)
-![image.png](https://bu.dusays.com/2023/03/28/64226be60d58e.png)
+![image.png](https://bu.dusays.com/2023/04/23/6444e66ef2b19.png)
 ![image.png](https://bu.dusays.com/2023/03/28/64226bfbc0fe5.png)
 ### 检测比较结果的条件转移指令
 ![image.png](https://bu.dusays.com/2023/04/19/643f74b7d80e1.png)
