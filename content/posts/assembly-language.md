@@ -340,7 +340,7 @@ DS、SS、CS、ES
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
 ## SUM
-#### Code
+### Code
 ```
 ; 数组累加
 assume cs:code, ds:data
@@ -381,8 +381,11 @@ sum endp
 code ends
 end start
 ```
-#### Result 
+### Result 
 ![image.png](https://bu.dusays.com/2023/04/23/6444f2b8cc7d5.png)
+
+## MAX MIN AVE
+### Code
 
 # 检测点答案（部分）
 ## 检测点2.1 
