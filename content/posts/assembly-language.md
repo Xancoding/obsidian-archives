@@ -346,7 +346,7 @@ DS、SS、CS、ES
 assume cs:code, ds:data
 data segment
     array db 16, 16, 36, 46, 56, 66, 76, 86
-    result dw 0
+    result dw 0  ; 398--018EH
 data ends
 
 code segment
@@ -361,7 +361,7 @@ start:
 
 ; 功能：array 数组求和
 ; 参数：array
-; 返回：result 例--398--018EH
+; 返回：result 
 sum proc 
     mov cx, 8  ; 循环 8 次
     mov si, 0  ; 源地址
@@ -491,7 +491,7 @@ end start
 ```
 ### Result 
 ![image.png](https://bu.dusays.com/2023/04/23/6444f81b00398.png)
-## 
+## COUNT
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
