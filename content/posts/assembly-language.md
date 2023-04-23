@@ -562,7 +562,8 @@ start:
     mov ax, 4c00h
     int 21h
 
-
+; 功能：求斐波那契数列前 20 项
+; 输出：array
 func proc
     mov cx, 18
     mov si, 0
