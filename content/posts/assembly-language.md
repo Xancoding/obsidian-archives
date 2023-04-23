@@ -341,7 +341,7 @@ DS、SS、CS、ES
 
 # 基本算法
 ![image.png](https://bu.dusays.com/2023/04/19/643f77ac427a2.png)
-## SUM
+## 数组累加
 ### Code
 ```
 ; 数组累加
@@ -386,7 +386,7 @@ end start
 ### Result 
 ![image.png](https://bu.dusays.com/2023/04/23/6444f2b8cc7d5.png)
 
-## MAX MIN AVE
+## 求最大值、最小值、平均值
 ### Code
 ```
 ; 求最大值、最小值、平均值
@@ -493,7 +493,7 @@ end start
 ```
 ### Result 
 ![image.png](https://bu.dusays.com/2023/04/23/6444f81b00398.png)
-## COUNT
+## 找出符合条件数据并进行统计--以统计负数为例
 ### Code
 ```
 ; 找出符合条件数据并进行统计--以统计负数为例
@@ -545,7 +545,52 @@ end start
 ![image.png](https://bu.dusays.com/2023/04/23/6444fd8ad447b.png)
 ## 斐波那契数列前 20 项
 ### Code
+```
+; 求斐波那契数列前 20 项
+assume cs:code, ds:data
+data segment
+    array dw 20 dup(0)
+data ends
+
+code segment
+start:
+    mov ax, data
+    mov ds, ax
+
+    call func
+
+    mov ax, 4c00h
+    int 21h
+
+
+func proc
+    mov cx, 18
+    mov si, 0
+
+    ; fib[1]=1 && fib[2]=1
+    mov word ptr array[si], 1
+    add si, 2
+    mov word ptr array[si], 1
+    add si, 2
+
+s:
+    mov ax, array[si-2]
+    add ax, array[si-4]
+    
+    mov array[si], ax
+    add si, 2
+    loop s
+
+    ret
+func endp
+code ends
+end start
+
+```
 ### Result 
+![image.png](https://bu.dusays.com/2023/04/23/6445010be0549.png)
+
+
 # 检测点答案（部分）
 ## 检测点2.1 
 （2）最多使用 4 条指令，编程计算 2 的 4 次方
