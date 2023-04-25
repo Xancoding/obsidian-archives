@@ -641,7 +641,7 @@ func segment
 ; 输出：array_sort
 func1 proc far
     mov si, 0
-    mov cx, 7  ; 外层循环 8 次
+    mov cx, 7  ; 外层循环 7 次
 
     mov ah, 0
 outer:  
