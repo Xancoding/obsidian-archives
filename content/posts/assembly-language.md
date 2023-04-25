@@ -640,7 +640,7 @@ func segment
 ; 参数：array
 ; 输出：array_sort
 func1 proc far
-    mov si, 0
+    mov si, 0  
     mov cx, 7  ; 外层循环 7 次
 
     mov ah, 0
@@ -649,7 +649,7 @@ outer:
 
     push cx
     mov cx, 7
-    sub cx, si
+    sub cx, si         ; 内层循环 7 - si 次
     mov bp, si         ; bp=si+1-->内层循环j
     inc bp
 inner:
