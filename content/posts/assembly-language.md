@@ -664,6 +664,7 @@ true:
 next:
     inc bp
     loop inner
+    
     pop cx
 
     mov al, array[si]
