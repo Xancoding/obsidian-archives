@@ -102,12 +102,11 @@
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
     "400 Excalidraw/状态机.excalidraw",
     "200 Web/JS框架——React&VUE.md",
