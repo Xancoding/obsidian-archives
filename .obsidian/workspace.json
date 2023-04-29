@@ -11,8 +11,12 @@
             "id": "f9fd2b2d4cc79def",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-04-30-01-10-03.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2023-04-30-01-10-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +109,9 @@
   },
   "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "400 Excalidraw/状态机.excalidraw",
     "200 Web/JS框架——React&VUE.md",
     "400 Excalidraw/JSClass.excalidraw",
-    "400 Excalidraw/状态机.excalidraw",
     "content/posts/2023-04-30-01-10-03.md",
     "content/posts/2023-04-24-14-17-46.md",
     "content/posts/2023-03-31-08-14-16.md",
@@ -131,7 +136,6 @@
     "content/posts/2023-01-02.md",
     "content/posts/2023-01-04-16-20-44.md",
     "content/posts/2023-01-05-12-14-06.md",
-    "content/posts/2023-01-05-12-37-05.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
