@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9fd2b2d4cc79def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/acw-web.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a7e743eb658eb6fd",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,11 +118,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "a7e743eb658eb6fd",
   "lastOpenFiles": [
-    "content/links.md",
-    "content/about.md",
     "content/posts/acw-web.md",
+    "content/about.md",
+    "content/links.md",
     "content/archives.md",
     "content/search.md",
     "content/posts/2023-04-30-09-33-08.md",
