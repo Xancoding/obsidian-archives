@@ -106,14 +106,15 @@ cover:
 - [图解网络 | 小林coding](https://xiaolincoding.com/network/)
 - **[Stanford CS144 Lab Assignment 学习笔记 | ViXbob的博客](https://vixbob.moe/25.html)**
 ***
-- [《网络是怎样连接的》](https://book.douban.com/subject/26941639/)
-- [《图解 HTTP》](https://book.douban.com/subject/25863515/)
-- [《图解TCP/IP（第5版）》](https://book.douban.com/subject/24737674/)
-- [《计算机网络（第8版）》](https://book.douban.com/subject/35498120/)
-- [《计算机网络：自顶向下方法》](https://book.douban.com/subject/30280001/)
+- [x] [《网络是怎样连接的》](https://book.douban.com/subject/26941639/)
+- [x] [《图解 HTTP》](https://book.douban.com/subject/25863515/)
+- [x] [《图解TCP/IP（第5版）》](https://book.douban.com/subject/24737674/)
+- [x] [《计算机网络（第8版）》](https://book.douban.com/subject/35498120/)
+- [x] [《计算机网络：自顶向下方法》](https://book.douban.com/subject/30280001/)
 - [《TCP/IP详解 卷1：协议》](https://book.douban.com/subject/1088054/)
-- [《Wireshark网络分析就这么简单》](https://book.douban.com/subject/26268767/)
-- [《Wireshark网络分析的艺术》](https://book.douban.com/subject/26710788/)
+- [x] [《Wireshark网络分析就这么简单》](https://book.douban.com/subject/26268767/)
+- [ ] [《Wireshark网络分析的艺术》](https://book.douban.com/subject/26710788/)
+
 {{< douban src="https://book.douban.com/subject/26941639/" >}}
 {{< douban src="https://book.douban.com/subject/25863515/" >}}
 {{< douban src="https://book.douban.com/subject/24737674/" >}}
