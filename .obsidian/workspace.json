@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "2adde7417b8dc89f",
+            "id": "a6590f8e1eeb6856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-04-30-09-33-08.md",
-                "mode": "source",
+                "file": "content/posts/2023-04-30-09-20-35.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-33-08.md",
+                "file": "content/posts/2023-04-30-09-20-35.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,13 +119,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2adde7417b8dc89f",
+  "active": "a6590f8e1eeb6856",
   "lastOpenFiles": [
     "content/about.md",
-    "content/posts/2023-04-30-09-33-08.md",
-    "content/posts/2023-04-30-09-25-28.md",
-    "content/posts/acw-django.md",
     "content/posts/2023-04-30-09-20-35.md",
+    "content/posts/2023-04-30-09-25-28.md",
+    "content/posts/2023-04-30-09-33-08.md",
+    "content/posts/acw-django.md",
     "content/links.md",
     "content/posts/2023-04-30-01-10-03.md",
     "content/archives.md",
