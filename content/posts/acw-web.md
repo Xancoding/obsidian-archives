@@ -45,6 +45,8 @@ cover:
 	- [Vue 入门](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 	- [Canvas 教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
 ***
+
+***
 - `VSCode` 自动生成缺省的 `HTML` 代码框架
 ```HTML
 <!DOCTYPE html>
