@@ -25,37 +25,8 @@
 
 [^5]: **不要进行不成熟的优化**
 # Projects
-## [Blog](https://github.com/Xancoding/Xancoding.github.io)
-### 搭建工具
-- `Hugo & GitHub Pages & GitHub Action & Twikoo`
-- `Theme：PaperMod`
-- `Tool：Obsidian & Git Bash`
-### Tool 常用操作
-#### Obsidian
-1. 打开 `Obsidian` 编辑器，通过 `ctrl + s` 快捷键创建新博客
-2. `ctrl + d`：删除当前文件
-3. `ctrl + t`：打开新标签页
-4. `ctrl + w`：关闭当前标签页
-5. `ctrl + o`：切换或创建文件
-6. `ctrl + e`：切换预览与编辑模式
-### 各页面简介
-- `Home：联系方式 & 文章`
-- `Tags：文章标签`
-- `Archives：文章归档`
-- `About：作者简介 & 博客简介`
-- `Search：搜索文章`
-### 参考资料
-- [Sulv's Blog](https://www.sulvblog.cn/)
-- [3rd's Blog](https://333rd.net/)
-- [田少晗的个人博客](https://shaohanyun.top/)
-- [Hugo 博客写作最佳实践](https://blog.zhangyingwei.com/posts/2022m4d11h19m42s28/)
-- [Hugo + GitHub Action，搭建你的博客自动发布系统](https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/)
-## [WarOfWarlock](https://github.com/Xancoding/WarOfWarlock)
-### 搭建工具
-- `HTML & CSS & JavaScript & Django`
-### 参考资料
-- [AcWing Django 框架课 | Colopen's blog](https://www.colopen-blog.com/Engineer/acw_django/)
-- [AcWing Django框架课](https://www.acwing.com/activity/content/punch_the_clock/72/)
+
+
 
 # 宿舍备药
 ## 运动损伤

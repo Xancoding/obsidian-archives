@@ -6,13 +6,13 @@ tags: # 标签
 - Tech
 - AcWing
 - Django
-- Project
+- Projects
 - 新技能
 keywords: # 关键词
 - Tech
 - AcWing
 - Django
-- Project
+- Projects
 - 新技能
 description: "" # 描述
 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
@@ -34,6 +34,12 @@ cover:
 - [AcWing Django 框架课 | Colopen's blog](https://www.colopen-blog.com/Engineer/acw_django/)
 - [AcWing Django 框架课](https://www.acwing.com/activity/content/punch_the_clock/72/)
 ***
+## [WarOfWarlock](https://github.com/Xancoding/WarOfWarlock)
+### 搭建工具
+- `HTML & CSS & JavaScript & Django`
+### 参考资料
+- [AcWing Django 框架课 | Colopen's blog](https://www.colopen-blog.com/Engineer/acw_django/)
+- [AcWing Django框架课](https://www.acwing.com/activity/content/punch_the_clock/72/)
 # Django 项目创建
 - [2.1上课笔记 | 栎](https://www.acwing.com/solution/content/72577/)
 - [2.1上课笔记 | Andrew1729](https://www.acwing.com/solution/content/73097/)
