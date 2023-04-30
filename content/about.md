@@ -4,12 +4,6 @@
 𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠, 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐚𝐧𝐝 𝐏𝐬𝐲𝐜𝐡𝐨𝐥𝐨𝐠𝐲.
 
 [ENFJ-A](https://www.16personalities.com/profiles/2fb2622dae5d6)
-# Life Insights
-1. THINK MORE
-2. THINK INDEPENDENTLY
-3. LESS IS MORE
-4. DOING AND READING
-5. 学习三部曲：WHAT HOW WHY
 # Motto
 1. The value of a college education is not the learning of many facts but the training of the mind to think.[^1]
 
@@ -62,17 +56,6 @@
 ### 参考资料
 - [AcWing Django 框架课 | Colopen's blog](https://www.colopen-blog.com/Engineer/acw_django/)
 - [AcWing Django框架课](https://www.acwing.com/activity/content/punch_the_clock/72/)
-# Equipment
-## Electronic product
-+ [x] 三星SAMSUNG 64G U盘 —— 京东 88元
-+ [x] 联想拯救者 R7000 —— 京东 6199元
-+ [x] 微星 MSI 23.8英寸显示器 —— 京东 833 元
-+ [x] 漫步者 W820NB 头戴式蓝牙耳机 —— 京东 299 元
-+ [x] 小米显示器挂灯 —— 京东 199元
-+ [x] RK100 有线/蓝牙/无线2.4G三模机械键盘 —— 京东 229元
-+ [x] SAMSUNG 64GB U盘 —— 京东 87 元
-+ [x] 小米充电宝 20000mAh 22.5W —— 京东 149元
-+ [x] 小米 原装二合一数据线 1m —— 京东 27元
 
 # 宿舍备药
 ## 运动损伤
