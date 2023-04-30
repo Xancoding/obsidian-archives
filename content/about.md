@@ -3,7 +3,7 @@
 
 𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠, 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐚𝐧𝐝 𝐏𝐬𝐲𝐜𝐡𝐨𝐥𝐨𝐠𝐲.
 
-[ENFJ-A](https://www.16personalities.com/profiles/2fb2622dae5d6)
+A [ENFJ-A](https://www.16personalities.com/profiles/2fb2622dae5d6)
 # Motto
 1. The value of a college education is not the learning of many facts but the training of the mind to think.[^1]
 
