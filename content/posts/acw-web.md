@@ -45,7 +45,9 @@ cover:
 	- [Vue 入门](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 	- [Canvas 教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
 ***
-
+1. [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
+2. [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
+3. [Game-icons](https://game-icons.net/) 游戏图标在线存储库
 ***
 - `VSCode` 自动生成缺省的 `HTML` 代码框架
 ```HTML

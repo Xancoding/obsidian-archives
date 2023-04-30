@@ -68,13 +68,6 @@
 8. **[扫盲 HTTPS 和 SSL/TLS 协议[0]：引子](https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html)**
 9. **[扫盲操作系统虚拟机[0]：概述](https://program-think.blogspot.com/2012/10/system-vm-0.html)**
 ***
-# Tools
-- [Learning X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/) 基于项目学习编程知识
-- [Exercism](https://exercism.org/tracks) 在线练习编程语言
-- [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
-- [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
-- [Game-icons](https://game-icons.net/) 游戏图标在线存储库
-
 # Community
 - [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
 - [Medium](https://medium.com/) 网络文章发布平台 文章质量高

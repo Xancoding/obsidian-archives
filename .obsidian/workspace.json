@@ -14,19 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/acw-web.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b55af84f59892b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/about.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-04-30-09-33-08.md",
+                "file": "content/about.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-33-08.md",
+                "file": "content/about.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,13 +119,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "a7e743eb658eb6fd",
   "lastOpenFiles": [
-    "content/posts/2023-04-30-09-43-30.md",
+    "content/archives.md",
+    "content/links.md",
+    "content/search.md",
+    "content/posts/acw-web.md",
     "content/about.md",
     "content/posts/2023-04-30-09-33-08.md",
-    "content/posts/acw-web.md",
-    "content/links.md",
+    "content/posts/2023-04-30-09-43-30.md",
     "content/posts/2023-04-30-09-39-00.md",
     "content/posts/2023-04-30-09-48-57.md",
     "content/posts/acw-django.md",
@@ -147,7 +137,6 @@
     "content/posts/2023-04-30-09-25-28.md",
     "content/posts/Vimium.md",
     "content/posts/wireshark.md",
-    "content/archives.md",
     "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-04-24-14-17-46.md",
     "content/posts/os.md",
@@ -160,7 +149,6 @@
     "200 Web/JS框架——React&VUE.md",
     "400 Excalidraw/JSClass.excalidraw",
     "content/posts/2023-03-31-08-14-16.md",
-    "content/posts/2023-03-26-19-25-13.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
