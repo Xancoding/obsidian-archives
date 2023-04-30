@@ -5,6 +5,7 @@
 	- [图解网络](https://xiaolincoding.com/network/)
 	- [图解系统](https://xiaolincoding.com/os/)
 - [后端开发核心知识](https://github.com/linw7/Skill-Tree)
+- [A project based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/?Project%5Bmenu%5D%5Bmain_language%5D=C%2FC%2B%2B)
 # Blogs
 - [Geminiplanet](https://geminiplanet.cn/)
 	- [就业经验分享](https://geminiplanet.cn/employment/)
@@ -75,4 +76,4 @@
 - [HackerNews](https://news.ycombinator.com/) 技术热点话题 新闻社区
 - [小众软件论坛](https://meta.appinn.net/) 分享免费、小巧、有趣、实用软件
 - [CodeNews](https://codenews.cc/) 一个专注于【技术发明创造】交流的社区
-- [HelloGitHub](https://hellogithub.com/) 一个分享有趣、 入门级开源项目的平台
+- [HelloGitHub](https://hellogithub.com/) 一个分享有趣、 入门级开源项目的平台z
