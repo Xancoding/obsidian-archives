@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/2023-04-30-09-20-35.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +118,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
-    "content/posts/2023-04-30-09-20-35.md",
+    "content/about.md",
     "content/links.md",
+    "content/posts/2023-04-30-09-20-35.md",
     "content/archives.md",
     "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-04-24-14-17-46.md",
@@ -148,7 +148,6 @@
     "content/posts/2023-02-28-20-18-14.md",
     "content/posts/2023-01-29-20-45-11.md",
     "content/posts/2023-01-30-18-29-05.md",
-    "content/posts/2023-01-31-16-48-23.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]

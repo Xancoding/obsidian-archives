@@ -74,35 +74,6 @@
 - [怪异英文生成器](https://www.dute.org/weird-fonts) 生成比较好看的英文字体，支持复制粘贴
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
-# Outdoor
-## 入门指南
-- [登山者Black](https://space.bilibili.com/5682935)
-	- [户外运动安全手册（上）](https://www.bilibili.com/video/BV1qe411x7gc/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [户外运动安全手册（下）](https://www.bilibili.com/video/BV1rf4y1U7FZ/?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [洋葱式穿着/户外运动穿什么](https://www.bilibili.com/video/BV1xE411j77f/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [户外必备10要素--可能拯救你生命的十件户外必需品](https://www.bilibili.com/video/BV14U4y1577f/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [户外装备选购终极指南](https://www.bilibili.com/video/BV18z411h7Wq/?vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [户外急救/户外医疗包](https://www.bilibili.com/video/BV1ft4y1Q7nh/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
-
-- [烛逢](https://space.bilibili.com/604006215)
-	- [户外运动三层穿衣法 | 烛逢](https://www.bilibili.com/video/BV1CQ4y1v7qo/?spm_id_from=333.788&vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [在野外找路-六只脚｜烛逢](https://www.bilibili.com/video/BV1Tr4y1C7XT/?spm_id_from=333.788&vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [六只脚进阶篇 | 烛逢](https://www.bilibili.com/video/BV1af4y1T7dK/?spm_id_from=333.788&vd_source=ae16ff6478eb15c1b87880540263910b)
-	- [两步路使用教学｜烛逢](https://www.bilibili.com/video/BV1Mi4y117Zc/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
-
-- 两步路路网
-	1. 访问🔗<https://www.wandoujia.com/apps/514093/history>
-	2. 下载 6.6.1 版本
-	3. 在应用商店中关闭自动更新
-
-- [GOOGLE地球简易操作制作轨迹，配合六只脚户外导航](https://mp.weixin.qq.com/s/bCp1WXavE7DeweMb9WoDkw)
-
-## 登山装备清单
-![mountaineeringEquipment](https://bu.dusays.com/2022/10/30/635e1c4fb1e10.png)
-## 海外代购
-在淘宝上搜亚马逊代购，然后把[衣服链接](https://www.amazon.com/Amazon-Essentials-Stretch-Long-Sleeve-Pullover/dp/B07FLWRP2K/ref=sr_1_52?crid=30CWS1VUYTRFU&dchild=1&keywords=amazon%2Bessentials%2Blong%2Bsleeve%2Bshirt%2Bmen&qid=1621000634&sprefix=amazon%2Bessentials%2Blong%2Caps%2C443&sr=8-52&th=1&psc=1)发给他，他会计算价格
-![image.png](https://bu.dusays.com/2023/01/14/63c243c4af274.png)
-
 
 # Bilibili 
 ## Up主
