@@ -224,10 +224,10 @@ while (true) {
 	-  [操作系统：设计与实现 (2022 春季学期)](http://jyywiki.cn/OS/2022/)
 - [【精校中英字幕】2015 CMU 15-213 CSAPP 深入理解计算机系统](https://www.bilibili.com/video/BV1iW411d7hd?p=1&vd_source=ae16ff6478eb15c1b87880540263910b)
 ***
-- [《操作系统导论》](https://book.douban.com/subject/33463930/)
-- [《现代操作系统》（原书第4版）](https://book.douban.com/subject/27096665/)
-- [《操作系统:精髓与设计原理》](https://book.douban.com/subject/5064311/)
-- **[《深入理解计算机系统（原书第3版）》CSAPP](https://book.douban.com/subject/26912767/)**
+- [x] [《操作系统导论》](https://book.douban.com/subject/33463930/)
+- [x]  [《现代操作系统》（原书第4版）](https://book.douban.com/subject/27096665/)
+- [x] [《操作系统:精髓与设计原理》](https://book.douban.com/subject/5064311/)
+- [ ] **[《深入理解计算机系统（原书第3版）》CSAPP](https://book.douban.com/subject/26912767/)**
 	- **计算机组成 + 操作系统 + 汇编 + C语言 + Linux系统编程**
 {{< douban src="https://book.douban.com/subject/33463930/" >}}
 {{< douban src="https://book.douban.com/subject/27096665/" >}}

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/computer-network.md",
-                "mode": "source",
+                "file": "content/posts/os.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/computer-network.md",
+                "file": "content/posts/os.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +108,12 @@
   },
   "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
+    "content/posts/computer-system-fundamentals.md",
+    "content/posts/data-structures-and-algorithms.md",
+    "content/posts/computer-network.md",
     "content/posts/2023-04-30-01-10-03.md",
     "content/posts/acw-django.md",
     "content/posts/2023-04-30-09-06-18.md",
-    "content/posts/computer-network.md",
     "content/posts/double-sepll.md",
     "400 Excalidraw/状态机.excalidraw",
     "200 Web/JS框架——React&VUE.md",
@@ -131,8 +133,6 @@
     "content/posts/2023-01-31-16-48-23.md",
     "content/posts/assembly-language.md",
     "content/posts/blog-drawing.md",
-    "content/posts/computer-system-fundamentals.md",
-    "content/posts/data-structures-and-algorithms.md",
     "content/posts/learning-cpp.md",
     "content/posts/2023-01-02.md",
     "content/posts/2023-01-04-16-20-44.md",

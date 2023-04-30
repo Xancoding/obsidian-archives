@@ -111,9 +111,9 @@ cover:
 - [x] [《图解TCP/IP（第5版）》](https://book.douban.com/subject/24737674/)
 - [x] [《计算机网络（第8版）》](https://book.douban.com/subject/35498120/)
 - [x] [《计算机网络：自顶向下方法》](https://book.douban.com/subject/30280001/)
-- [《TCP/IP详解 卷1：协议》](https://book.douban.com/subject/1088054/)
+- [ ] [《TCP/IP详解 卷1：协议》](https://book.douban.com/subject/1088054/)
 - [x] [《Wireshark网络分析就这么简单》](https://book.douban.com/subject/26268767/)
-- [ ] [《Wireshark网络分析的艺术》](https://book.douban.com/subject/26710788/)
+- [x] [《Wireshark网络分析的艺术》](https://book.douban.com/subject/26710788/)
 
 {{< douban src="https://book.douban.com/subject/26941639/" >}}
 {{< douban src="https://book.douban.com/subject/25863515/" >}}
