@@ -166,6 +166,14 @@
           "lastUpdated": 1682596710020
         }
       }
+    },
+    "Hobby": {
+      "Hobby": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682818211299
+        }
+      }
     }
   }
 }
