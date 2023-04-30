@@ -75,16 +75,6 @@
 - [Color Hunt](https://colorhunt.co/) 设计师和艺术家的调色板
 - [Game-icons](https://game-icons.net/) 游戏图标在线存储库
 
-# Bilibili 
-## Up主
-### History 
-1. [集思屋](https://space.bilibili.com/1103935173?spm_id_from=333.337.0.0)
-2. [唠点历史](https://space.bilibili.com/10698584?spm_id_from=333.337.0.0)
-### Outdoor 
-1. [登山者Black](https://space.bilibili.com/5682935)
-2. [Mew_喵喵](https://space.bilibili.com/480567097/?spm_id_from=333.999.0.0)
-3. [徐云流浪中国](https://space.bilibili.com/697166795)
-
 # Community
 - [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
 - [Medium](https://medium.com/) 网络文章发布平台 文章质量高
