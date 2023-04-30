@@ -84,9 +84,7 @@
 1. [登山者Black](https://space.bilibili.com/5682935)
 2. [Mew_喵喵](https://space.bilibili.com/480567097/?spm_id_from=333.999.0.0)
 3. [徐云流浪中国](https://space.bilibili.com/697166795)
-## 收藏夹
-1. [【街健之路1】街头健身全攻略！新手怎么开始街健？如何变成街健大神？！](https://www.bilibili.com/video/BV1cW411Z7jU/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
-2. [【中英字幕】丛林野食王/荒野厨王.Kings of the Wild](https://www.bilibili.com/video/BV1Fb4y1x755/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
+
 # Community
 - [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
 - [Medium](https://medium.com/) 网络文章发布平台 文章质量高

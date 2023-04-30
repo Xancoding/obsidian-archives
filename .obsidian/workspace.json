@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-04-30-09-39-00.md",
-                "mode": "source",
+                "file": "content/links.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -38,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-04-30-09-43-30.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a7e743eb658eb6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-04-30-09-33-08.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-39-00.md",
+                "file": "content/links.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,24 +142,24 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
     "content/posts/2023-04-30-09-43-30.md",
-    "content/posts/2023-04-30-09-48-57.md",
     "content/about.md",
-    "content/posts/acw-django.md",
+    "content/posts/2023-04-30-09-33-08.md",
     "content/posts/2023-04-30-09-39-00.md",
-    "content/posts/Vimium.md",
-    "content/posts/wireshark.md",
+    "content/posts/2023-04-30-09-48-57.md",
+    "content/links.md",
+    "content/posts/acw-django.md",
+    "content/posts/acw-linux.md",
+    "content/posts/2023-04-30-01-10-03.md",
     "content/posts/2023-04-30-09-20-35.md",
     "content/posts/2023-04-30-09-25-28.md",
-    "content/posts/2023-04-30-09-33-08.md",
-    "content/links.md",
-    "content/posts/2023-04-30-01-10-03.md",
+    "content/posts/Vimium.md",
+    "content/posts/wireshark.md",
     "content/archives.md",
     "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-04-24-14-17-46.md",
-    "content/posts/acw-linux.md",
     "content/posts/os.md",
     "content/posts/computer-system-fundamentals.md",
     "content/posts/data-structures-and-algorithms.md",
