@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/about.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-20-35.md",
+                "file": "content/about.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +118,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a6590f8e1eeb6856",
+  "active": "f9fd2b2d4cc79def",
   "lastOpenFiles": [
-    "content/about.md",
     "content/posts/2023-04-30-09-20-35.md",
+    "content/about.md",
     "content/posts/2023-04-30-09-25-28.md",
     "content/posts/2023-04-30-09-33-08.md",
     "content/posts/acw-django.md",
