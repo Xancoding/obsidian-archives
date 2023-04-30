@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/acw-django.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/acw-django.md",
+                "file": "content/posts/2023-04-30-09-43-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,11 +131,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f9fd2b2d4cc79def",
+  "active": "fafeec4b4990f0db",
   "lastOpenFiles": [
+    "content/posts/acw-django.md",
     "content/about.md",
     "content/posts/2023-04-30-09-43-30.md",
-    "content/posts/acw-django.md",
     "content/posts/2023-04-30-09-39-00.md",
     "content/posts/Vimium.md",
     "content/posts/wireshark.md",

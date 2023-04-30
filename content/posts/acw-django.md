@@ -1,5 +1,5 @@
 ---
-title: "AcWing Django 框架课" # 标题
+title: "WarOfWarlock--AcWing Django 框架课" # 标题
 date: 2022-10-29T18:23:59+08:00 # 创建时间
 author: ["Xan"] # 作者
 tags: # 标签
