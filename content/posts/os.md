@@ -51,6 +51,54 @@ g++ main.cpp -o program
 这样就生成了可执行文件 `program`，可以直接运行。在这种情况下，所有的代码都在一个文件中，编译器可以直接看到所有的代码，进行必要的优化，生成更高效的代码。
 ## 编译或汇编时
 这种情况下，我们将程序拆分成多个源文件，并在编译或汇编时进行链接。例如，我们有两个源文件 `add.cpp` 和 `main.cpp`：
+```
+// add.cpp
+int add(int a, int b) {
+    return a + b;
+}
+```
+```
+// main.cpp
+#include <iostream>
+
+int add(int a, int b);
+
+int main() {
+    int a = 1, b = 2;
+    std::cout << add(a, b) << std::endl;
+    return 0;
+}
+```
+在编译时，我们需要先将每个源文件编译成目标文件，然后再将它们链接在一起生成可执行文件。例如，我们可以这样编译和链接：
+```
+g++ -c add.cpp -o add.o
+g++ -c main.cpp -o main.o
+g++ add.o main.o -o program
+```
+这样也会生成可执行文件 `program`。在这种情况下，编译器只能看到单个源文件中的代码，无法对整个程序进行优化，因此可能会生成一些冗余的代码。但是，由于目标文件已经生成，后续的编译速度会更快。
+## 加载模块产生时
+这种情况下，我们将程序编译成目标文件，并在运行时再进行链接。例如，我们有两个源文件 `add.cpp` 和 `main.cpp`：
+```
+// add.cpp
+int add(int a, int b) {
+    return a + b;
+}
+```
+```
+// main.cpp
+#include <iostream>
+
+extern int add(int a, int b);
+
+int main() {
+    int a = 1, b = 2;
+    std::cout << add(a, b) << std::endl;
+    return 0;
+}
+```
+
+
+
 
 
 # 记录型信号量
