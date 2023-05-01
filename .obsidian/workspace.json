@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/links.md",
-                "mode": "preview",
+                "file": "content/posts/os.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/links.md",
+                "file": "content/posts/os.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +108,9 @@
   },
   "active": "8f9474d27d9d2d76",
   "lastOpenFiles": [
+    "content/links.md",
     "content/posts/2023-04-30-09-48-57.md",
     "content/about.md",
-    "content/links.md",
     "content/posts/acw-web.md",
     "content/archives.md",
     "content/search.md",
