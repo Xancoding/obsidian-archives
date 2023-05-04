@@ -1073,7 +1073,7 @@ success
 5.  `docker attach my_docker_server`：进入创建的`docker容器`（服务器）
 6.  `adduser acs`：创建`acs`用户
 7.  `usermod -aG sudo acs`：为`acs`用户分配`sudo`权限
-8.  `scp .bashrc .vimrc .tmux.conf django`：将本地服务器的`bash`&`vim`&`tmux`配置文件传至`docker 容器`
+8.  `scp .bashrc .vimrc .tmux.conf django:`：将本地服务器的`bash`&`vim`&`tmux`配置文件传至`docker 容器`
 ### Docker项目迁移
 第一步，登录容器，关闭所有运行中的任务 
 
