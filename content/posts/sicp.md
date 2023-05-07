@@ -33,6 +33,7 @@ cover:
 > **学习 SICP 之于编程就像学习 学习 本身**
 > 
 > **学习 SICP 的目的是为了学会 控制大型系统复杂度 的技术**
+
 # 推荐阅读
 - [【计算机程序的构造和解释】精译【UC Berkeley 公开课-CS61A (Spring 2021)】-中英双语字幕](https://www.bilibili.com/video/BV1v64y1Q78o/?p=5&vd_source=ae16ff6478eb15c1b87880540263910b)
 ***
