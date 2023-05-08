@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-08-17-40-44.md",
+                "file": "content/links.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-08-17-40-44.md",
+                "file": "content/links.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,8 @@
   },
   "active": "8f9474d27d9d2d76",
   "lastOpenFiles": [
-    "content/posts/sicp.md",
     "content/posts/2023-05-08-17-40-44.md",
+    "content/posts/sicp.md",
     "content/posts/acw-linux.md",
     "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-03-26-19-25-13.md",
