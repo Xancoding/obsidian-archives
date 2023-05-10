@@ -44,8 +44,7 @@ cover:
 - [《Bash 脚本教程》](https://wangdoc.com/bash/)
 - [第 1 讲 - 课程概览与 Shell | The missing semester of your CS education](https://missing-semester-cn.github.io/2020/course-shell/)
 - [第 2 讲 - Shell 工具和脚本 | The missing semester of your CS education](https://missing-semester-cn.github.io/2020/shell-tools/)
-- [终极 Shell——ZSH](https://zhuanlan.zhihu.com/p/19556676)
-- [快速入门 zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [# 优雅简洁的zim美化你的zsh终端，媲美甚至超越 ohmyzsh](https://www.bilibili.com/video/BV1Bg411m7ND/?spm_id_from=333.337.search-card.all.click&vd_source=ae16ff6478eb15c1b87880540263910b)
 ***
 ### Shell是什么？
 - `Shell` 是我们通过命令行与操作系统沟通的 `程序`，是个 `命令行解释器`
