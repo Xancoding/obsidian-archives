@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-52.md",
+                "file": "content/posts/data-structures-and-algorithms.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-52.md",
+                "file": "content/posts/data-structures-and-algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "8f9474d27d9d2d76",
   "lastOpenFiles": [
+    "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-04-30-09-25-28.md",
     "content/posts/2023-04-30-09-39-00.md",
     "content/posts/2023-04-30-09-43-30.md",
@@ -128,7 +129,6 @@
     "content/posts/acw-linux.md",
     "content/links.md",
     "content/posts/sicp.md",
-    "content/posts/2023-03-25-08-24-52.md",
     "content/posts/2023-03-26-19-25-13.md",
     "content/posts/2023-03-31-08-14-16.md",
     "content/posts/2023-04-24-14-17-46.md",
