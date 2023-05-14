@@ -61,6 +61,11 @@ $$T(n) = aT(n/b) + f(n)$$
 - NP-hard问题（NPH，NP-Hard）是指那些至少和NP问题一样难的问题。也就是说，如果存在一个多项式时间算法能够解决一个NP-hard问题，那么所有的NP问题都可以在多项式时间内解决。需要注意的是，NP-hard问题并不一定是NP问题，它们可能不具备在多项式时间内验证解的正确性的性质。
 
 总之，NP完全问题和NP-hard问题都属于计算复杂度理论中难以解决的问题。它们之间的区别在于，NP完全问题既可以在多项式时间内验证解的正确性，又至少和其他NP问题一样难；而NP-hard问题只需满足后者的条件。
+# 回溯法
+![回溯法.jpg](https://bu.dusays.com/2023/05/12/645e4ab203f4e.jpg)
+# 分支限界法
+![分支限界法.jpg](https://bu.dusays.com/2023/05/12/645e4abaac35f.jpg)
+
 # 推荐阅读
 - [数据结构与算法 | 我的笔记](https://github.com/Xancoding/Data-Structures-and-Algorithms)
 ***
