@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "情感",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "8f9474d27d9d2d76",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
