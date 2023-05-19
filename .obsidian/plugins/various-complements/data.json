@@ -71,46 +71,6 @@
         }
       }
     },
-    "大数定律和中心极限定理": {
-      "大数定律和中心极限定理": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681105393308
-        }
-      }
-    },
-    "部分知识点": {
-      "部分知识点": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681822284437
-        }
-      }
-    },
-    "Offset": {
-      "Offset": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681865043067
-        }
-      }
-    },
-    "PUSHF": {
-      "PUSHF": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681881181512
-        }
-      }
-    },
-    "内部产生如下情况时jiang": {
-      "内部产生如下情况时jiang": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681882598303
-        }
-      }
-    },
     "Codesg": {
       "Codesg": {
         "currentFile": {
@@ -180,6 +140,14 @@
         "frontMatter": {
           "count": 3,
           "lastUpdated": 1683538875106
+        }
+      }
+    },
+    "分支限界法": {
+      "分支限界法": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684505817988
         }
       }
     }
