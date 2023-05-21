@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b814f1dd593802a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-05-22-07-27-21.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/data-structures-and-algorithms.md",
+                "file": "content/posts/2023-05-22-07-27-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +127,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f4f7e4c0974b3e30",
+  "active": "b814f1dd593802a1",
   "lastOpenFiles": [
+    "content/posts/2023-05-22-07-27-21.md",
+    "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-05-08-17-40-44.md",
-    "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-02-01-19-37-09.md",
     "content/posts/2023-02-11-11-50-37.md",
     "content/posts/2023-02-28-20-18-14.md",
@@ -141,7 +155,6 @@
     "content/posts/2023-01-26-18-39-46.md",
     "content/posts/2023-01-26-11-14-40.md",
     "content/posts/2023-01-23-22-40-47.md",
-    "content/posts/2023-01-18-12-29-46.md",
     "400 Excalidraw/状态机.excalidraw",
     "400 Excalidraw/JSClass.excalidraw",
     "static/img/Headshot/007.jpg",
