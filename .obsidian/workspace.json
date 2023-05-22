@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0040802a6a498733",
+        "id": "3bc0f0c431626568",
         "type": "tabs",
         "children": [
           {
-            "id": "f4f7e4c0974b3e30",
+            "id": "9c119bb521fa1365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/posts/data-structures-and-algorithms.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "情感",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,10 +114,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f4f7e4c0974b3e30",
+  "active": "9c119bb521fa1365",
   "lastOpenFiles": [
-    "content/posts/2023-05-21-07-27-21.md",
     "content/posts/data-structures-and-algorithms.md",
+    "content/posts/2023-05-21-07-27-21.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/2023-02-01-19-37-09.md",
