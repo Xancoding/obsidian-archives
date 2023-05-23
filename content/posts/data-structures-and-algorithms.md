@@ -59,6 +59,7 @@ cover:
 ![image.png](https://bu.dusays.com/2023/05/23/646c1b43c5556.png)
 ![image.png](https://bu.dusays.com/2023/05/23/646c1b6b42fce.png)
 ![image.png](https://bu.dusays.com/2023/05/23/646c1c3d7d8a9.png)
+![image.png](https://bu.dusays.com/2023/05/23/646c1cf33acc5.png)
 
 **有重叠子问题并不是动态规划的必要条件**：
 这是正确的。动态规划算法的核心思想是将一个大问题分解成许多小问题，并使用这些小问题的解来构建大问题的解。通常情况下，这些小问题是相互独立的，但是如果它们之间存在重叠，也就是说它们具有相同的子问题，那么动态规划算法可以利用这些重叠来避免重复计算，从而提高效率。  
