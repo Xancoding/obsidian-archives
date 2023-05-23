@@ -112,6 +112,8 @@ cover:
 
 分支限界法在问题的解空间树中，按 **广度优先** 策略，从根结点出发搜索解空间树
 ![image.png](https://bu.dusays.com/2023/05/23/646c21c925f65.png)
+![image.png](https://bu.dusays.com/2023/05/23/646c2872318d4.png)
+![image.png](https://bu.dusays.com/2023/05/23/646c288c5076e.png)
 
 # 递推式的计算
 ## 主定理
