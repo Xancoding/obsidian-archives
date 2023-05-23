@@ -105,6 +105,11 @@ cover:
 回溯法的效率不依赖于 **确定解空间的时间**
 
 **剪枝函数** 函数是回溯法中为避免无效搜索采取的策略
+
+![image.png](https://bu.dusays.com/2023/05/23/646c2fc2cc365.png)
+![image.png](https://bu.dusays.com/2023/05/23/646c2ff5b080d.png)
+![image.png](https://bu.dusays.com/2023/05/23/646c3004577e2.png)
+
 # 分支限界法 
 限重 15
 ![image.png](https://bu.dusays.com/2023/05/19/646784c7b5b5f.png)
