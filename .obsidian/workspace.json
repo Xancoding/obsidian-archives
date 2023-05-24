@@ -11,10 +11,8 @@
             "id": "ce8ea2929f2f1295",
             "type": "leaf",
             "state": {
-              "type": "epub",
-              "state": {
-                "file": "BOOKS/暗时间.epub"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOKS/暗时间.epub",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,18 +111,18 @@
   },
   "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
-    "BOOKS/C++/Effective C++.epub",
-    "BOOKS/C++",
-    "BOOKS/新建文件夹",
-    "BOOKS/MySQL实战45讲/01.基础架构：一条SQL查询语句是如何执行的？.pdf",
-    "BOOKS/Linux高性能服务器编程.epub",
-    "BOOKS/Linux高性能服务器编程.md",
-    "BOOKS/labuladong的算法小抄.epub",
-    "BOOKS/鸟哥的LINUX私房菜.epub",
+    "BOOKS/Life/码农翻身.epub",
+    "BOOKS/Life/联邦党人文集.epub",
+    "BOOKS/Life/你的灯亮着吗？.epub",
+    "BOOKS/Life/富爸爸穷爸爸.epub",
+    "BOOKS/Life/非暴力沟通.epub",
+    "BOOKS/Life/房思琪的初恋乐园.epub",
+    "BOOKS/Life/反乌托邦三部曲（《1984》+《我们》+《美丽新世界》）.epub",
+    "BOOKS/Life/黑客与画家.epub",
+    "BOOKS/Life/蛤蟆先生去看心理医生.epub",
     "BOOKS/暗时间.epub",
-    "BOOKS/黑客与画家.epub",
-    "BOOKS/苦难辉煌.epub",
-    "BOOKS/架构整洁之道.epub",
+    "BOOKS/Life/被讨厌的勇气.epub",
+    "BOOKS/Linux高性能服务器编程.md",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-05-21-07-27-21.md",
