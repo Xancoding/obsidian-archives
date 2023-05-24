@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -111,17 +111,17 @@
   },
   "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
-    "BOOKS/Linux C++/鸟哥的LINUX私房菜.epub",
-    "BOOKS/Life&Tech/码农翻身.epub",
-    "BOOKS/Life/小狗钱钱.epub",
-    "BOOKS/Linux C++/Linux高性能服务器编程.epub",
-    "BOOKS/Linux C++/Linux C 一站式学习.epub",
-    "BOOKS/Linux C++",
-    "BOOKS/Linux C/Linux高性能服务器编程.epub",
-    "BOOKS/Linux C/Linux C 一站式学习.epub",
-    "BOOKS/Linux C",
+    "BOOKS/Python/Python自然语言处理.pdf",
+    "BOOKS/Python/SICP in Python.epub",
+    "BOOKS/Python/SICP in Python 中文版.epub",
+    "BOOKS/Python",
     "BOOKS/新建文件夹",
-    "BOOKS/Life/影响力.epub",
+    "BOOKS/Life/苦难辉煌.epub",
+    "BOOKS/Life/解读基金——我的投资观与实践.epub",
+    "BOOKS/MySQL/MySQL实战45讲/结束语.点线网面一起构建MySQL知识网络.pdf",
+    "BOOKS/MySQL/MySQL实战45讲/开篇词.这一次，让我们一起来搞懂MySQL.pdf",
+    "BOOKS/MySQL/MySQL实战45讲/直播回顾.林晓斌：我的 MySQL 心路历程.pdf",
+    "BOOKS/MySQL/MySQL实战45讲/45.自增id用完怎么办？.pdf",
     "BOOKS/Linux高性能服务器编程.md",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
