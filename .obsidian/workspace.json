@@ -11,9 +11,9 @@
             "id": "9c119bb521fa1365",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "epub",
               "state": {
-                "file": "BOOKS/Python自然语言处理.pdf"
+                "file": "BOOKS/了不起的Markdown.epub"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOKS/Python自然语言处理.pdf",
+                "file": "BOOKS/了不起的Markdown.epub",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,10 @@
   },
   "active": "9c119bb521fa1365",
   "lastOpenFiles": [
-    "content/posts/2023-05-08-17-40-44.md",
+    "BOOKS/解读基金——我的投资观与实践.epub",
+    "BOOKS/被讨厌的勇气.epub",
     "BOOKS/Python自然语言处理.pdf",
+    "content/posts/2023-05-08-17-40-44.md",
     "BOOKS/STL源码剖析.pdf",
     "BOOKS/MySQL实战45讲/01.基础架构：一条SQL查询语句是如何执行的？.pdf",
     "BOOKS/MySQL实战45讲/开篇词.这一次，让我们一起来搞懂MySQL.pdf",
@@ -124,7 +126,6 @@
     "BOOKS/MySQL实战45讲/45.自增id用完怎么办？.pdf",
     "BOOKS/MySQL实战45讲/42.grant之后要跟着flush privileges吗？.pdf",
     "BOOKS/MySQL实战45讲/44.答疑文章（三）：说一说这些好问题.pdf",
-    "BOOKS/MySQL实战45讲/43.要不要使用分区表？.pdf",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-05-21-07-27-21.md",
     "content/posts/2023-03-14-13-19-12.md",
