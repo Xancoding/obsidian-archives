@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3bc0f0c431626568",
+        "id": "07d4950555fb43e1",
         "type": "tabs",
         "children": [
           {
-            "id": "9c119bb521fa1365",
+            "id": "46a13675f9f055a1",
             "type": "leaf",
             "state": {
-              "type": "epub",
-              "state": {
-                "file": "BOOKS/labuladong的算法小抄.epub"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOKS/labuladong的算法小抄.epub",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +109,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9c119bb521fa1365",
+  "active": "46a13675f9f055a1",
   "lastOpenFiles": [
+    "BOOKS/Linux高性能服务器编程.epub",
+    "BOOKS/Linux高性能服务器编程.md",
+    "BOOKS/labuladong的算法小抄.epub",
     "BOOKS/鸟哥的LINUX私房菜.epub",
     "BOOKS/暗时间.epub",
     "BOOKS/黑客与画家.epub",
@@ -122,9 +122,6 @@
     "BOOKS/富爸爸穷爸爸.epub",
     "BOOKS/蛤蟆先生去看心理医生.epub",
     "BOOKS/被讨厌的勇气.epub",
-    "BOOKS/Wireshark网络分析的艺术.epub",
-    "BOOKS/Wireshark网络分析就这么简单.epub",
-    "BOOKS/MySQL实战45讲/02.日志系统：一条SQL更新语句是如何执行的？.pdf",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-05-21-07-27-21.md",
@@ -149,7 +146,6 @@
     "content/posts/2023-01-30-18-29-05.md",
     "content/posts/2023-01-29-20-45-11.md",
     "content/posts/2023-01-26-18-39-46.md",
-    "content/posts/2023-01-26-11-14-40.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
