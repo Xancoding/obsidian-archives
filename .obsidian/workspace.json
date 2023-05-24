@@ -11,9 +11,11 @@
             "id": "ce8ea2929f2f1295",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "BOOKS/Python/Python自然语言处理.pdf"
+                "file": "content/posts/2023-05-21-07-27-21.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOKS/Python/Python自然语言处理.pdf",
+                "file": "content/posts/2023-05-21-07-27-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +114,19 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ce8ea2929f2f1295",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "BOOKS/Python/SICP in Python.epub",
-    "BOOKS/Python/Python自然语言处理.pdf",
+    "content/posts/acw-django.md",
+    "content/posts/assembly-language.md",
+    "content/posts/acw-web.md",
+    "content/posts/acw-linux.md",
+    "content/posts/2023-05-21-07-27-21.md",
+    "content/posts/wireshark.md",
     "content/about.md",
+    "content/search.md",
+    "BOOKS/MySQL/MySQL实战45讲/01.基础架构：一条SQL查询语句是如何执行的？.pdf",
+    "BOOKS/Python/Python自然语言处理.pdf",
+    "BOOKS/Python/SICP in Python.epub",
     "content/posts/digital-garden.md",
     "BOOKS/计算机网络/Wireshark网络分析的艺术.epub",
     "BOOKS/计算机网络/图解HTTP.epub",
@@ -125,12 +135,9 @@
     "BOOKS/Others/正则表达式必知必会.epub",
     "BOOKS/Others/了不起的Markdown.epub",
     "BOOKS/Others/labuladong的算法小抄.epub",
-    "BOOKS/Others/代码整洁之道.epub",
-    "BOOKS/Others/架构整洁之道.epub",
     "BOOKS/Linux高性能服务器编程.md",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
-    "content/posts/2023-05-21-07-27-21.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-02-01-19-37-09.md",
     "content/posts/2023-02-11-11-50-37.md",
@@ -145,11 +152,6 @@
     "content/posts/2023-04-30-09-20-35.md",
     "content/posts/2023-04-30-09-25-28.md",
     "content/posts/2023-04-30-09-33-08.md",
-    "content/posts/2023-04-30-09-43-30.md",
-    "content/posts/2023-04-30-09-39-00.md",
-    "content/posts/2023-04-30-09-48-57.md",
-    "content/posts/2023-01-31-16-48-23.md",
-    "content/posts/2023-01-30-18-29-05.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
