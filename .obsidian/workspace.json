@@ -11,11 +11,9 @@
             "id": "ce8ea2929f2f1295",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "content/posts/digital-garden.md",
-                "mode": "source",
-                "source": true
+                "file": "BOOKS/Python/Python自然语言处理.pdf"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/digital-garden.md",
+                "file": "BOOKS/Python/Python自然语言处理.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +115,7 @@
   "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
     "content/about.md",
+    "content/posts/digital-garden.md",
     "BOOKS/计算机网络/Wireshark网络分析的艺术.epub",
     "BOOKS/计算机网络/图解HTTP.epub",
     "BOOKS/操作系统/现代操作系统.epub",
@@ -152,7 +150,6 @@
     "content/posts/2023-01-31-16-48-23.md",
     "content/posts/2023-01-30-18-29-05.md",
     "content/posts/2023-01-29-20-45-11.md",
-    "content/posts/2023-01-26-18-39-46.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]

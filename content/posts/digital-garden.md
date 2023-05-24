@@ -43,7 +43,8 @@ cover:
 [Hypothesis 使用小记](https://seviche.cc/2022-05-25-hypothesis#1-%E5%AE%89%E8%A3%85-hypothesis-%E6%8F%92%E4%BB%B6) 
 #### 简单的幻灯片演示
 [用obsidian做ppt【玩转Obsidian的保姆级教程】](https://zhuanlan.zhihu.com/p/412523896)
-#### 
+#### EPUB Reader 
+在 `Obsidian` 中可以阅读 `Epub` 电子书
 # 灵感与想法
 - `flomo 浮墨笔记`  
 
