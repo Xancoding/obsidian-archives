@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "07d4950555fb43e1",
+        "id": "fb9874a743e75885",
         "type": "tabs",
         "children": [
           {
-            "id": "46a13675f9f055a1",
+            "id": "ce8ea2929f2f1295",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "epub",
+              "state": {
+                "file": "BOOKS/暗时间.epub"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BOOKS/暗时间.epub",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +112,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "46a13675f9f055a1",
+  "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
+    "BOOKS/C++/Effective C++.epub",
+    "BOOKS/C++",
+    "BOOKS/新建文件夹",
+    "BOOKS/MySQL实战45讲/01.基础架构：一条SQL查询语句是如何执行的？.pdf",
     "BOOKS/Linux高性能服务器编程.epub",
     "BOOKS/Linux高性能服务器编程.md",
     "BOOKS/labuladong的算法小抄.epub",
@@ -119,9 +126,6 @@
     "BOOKS/黑客与画家.epub",
     "BOOKS/苦难辉煌.epub",
     "BOOKS/架构整洁之道.epub",
-    "BOOKS/富爸爸穷爸爸.epub",
-    "BOOKS/蛤蟆先生去看心理医生.epub",
-    "BOOKS/被讨厌的勇气.epub",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-05-21-07-27-21.md",
