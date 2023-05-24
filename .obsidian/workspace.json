@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/data-structures-and-algorithms.md",
-                "mode": "preview",
+                "file": "content/posts/2023-05-08-17-40-44.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/data-structures-and-algorithms.md",
+                "file": "content/posts/2023-05-08-17-40-44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
