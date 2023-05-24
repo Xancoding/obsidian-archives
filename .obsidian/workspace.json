@@ -11,8 +11,12 @@
             "id": "ce8ea2929f2f1295",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/digital-garden.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/digital-garden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +117,17 @@
   },
   "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
-    "BOOKS/Python/Python自然语言处理.pdf",
-    "BOOKS/Python/SICP in Python.epub",
-    "BOOKS/Python/SICP in Python 中文版.epub",
-    "BOOKS/Python",
-    "BOOKS/新建文件夹",
-    "BOOKS/Life/苦难辉煌.epub",
-    "BOOKS/Life/解读基金——我的投资观与实践.epub",
-    "BOOKS/MySQL/MySQL实战45讲/结束语.点线网面一起构建MySQL知识网络.pdf",
-    "BOOKS/MySQL/MySQL实战45讲/开篇词.这一次，让我们一起来搞懂MySQL.pdf",
-    "BOOKS/MySQL/MySQL实战45讲/直播回顾.林晓斌：我的 MySQL 心路历程.pdf",
-    "BOOKS/MySQL/MySQL实战45讲/45.自增id用完怎么办？.pdf",
+    "content/about.md",
+    "BOOKS/计算机网络/Wireshark网络分析的艺术.epub",
+    "BOOKS/计算机网络/图解HTTP.epub",
+    "BOOKS/操作系统/现代操作系统.epub",
+    "BOOKS/Others/精通正则表达式（第3版）.epub",
+    "BOOKS/Others/正则表达式必知必会.epub",
+    "BOOKS/Others/了不起的Markdown.epub",
+    "BOOKS/Others/labuladong的算法小抄.epub",
+    "BOOKS/Others/代码整洁之道.epub",
+    "BOOKS/Others/架构整洁之道.epub",
+    "BOOKS/Others",
     "BOOKS/Linux高性能服务器编程.md",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
