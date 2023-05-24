@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-08-17-40-44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9c119bb521fa1365",
+  "active": "18085e80dec426a6",
   "lastOpenFiles": [
+    "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
     "content/posts/2023-05-21-07-27-21.md",
     "content/posts/2023-03-14-13-19-12.md",
-    "content/posts/2023-05-08-17-40-44.md",
     "content/posts/2023-02-01-19-37-09.md",
     "content/posts/2023-02-11-11-50-37.md",
     "content/posts/2023-02-28-20-18-14.md",
