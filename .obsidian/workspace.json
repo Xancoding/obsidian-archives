@@ -114,6 +114,8 @@
   },
   "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
+    "BOOKS/Python/SICP in Python.epub",
+    "BOOKS/Python/Python自然语言处理.pdf",
     "content/about.md",
     "content/posts/digital-garden.md",
     "BOOKS/计算机网络/Wireshark网络分析的艺术.epub",
@@ -125,7 +127,6 @@
     "BOOKS/Others/labuladong的算法小抄.epub",
     "BOOKS/Others/代码整洁之道.epub",
     "BOOKS/Others/架构整洁之道.epub",
-    "BOOKS/Others",
     "BOOKS/Linux高性能服务器编程.md",
     "content/posts/2023-05-08-17-40-44.md",
     "content/posts/data-structures-and-algorithms.md",
@@ -149,7 +150,6 @@
     "content/posts/2023-04-30-09-48-57.md",
     "content/posts/2023-01-31-16-48-23.md",
     "content/posts/2023-01-30-18-29-05.md",
-    "content/posts/2023-01-29-20-45-11.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
