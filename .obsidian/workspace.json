@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-18-12-29-48.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-04-30-09-43-31.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-18-12-29-48.md",
+                "file": "content/posts/2023-04-30-09-43-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,10 +128,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ce8ea2929f2f1295",
+  "active": "584c9348a1c77f16",
   "lastOpenFiles": [
-    "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-01-18-12-29-48.md",
+    "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-01-23-22-40-50.md",
     "content/posts/2023-01-26-11-14-43.md",
     "content/posts/2023-05-21-07-27-22.md",
