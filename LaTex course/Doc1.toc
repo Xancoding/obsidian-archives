@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{ii}{}%
+\contentsline {section}{\numberline {2}Methods}{ii}{}%
+\contentsline {subsection}{\numberline {2.1}Stage 1}{ii}{}%
+\contentsline {subsection}{\numberline {2.2}Stage 2}{ii}{}%
+\contentsline {section}{\numberline {3}Result}{ii}{}%
+\contentsline {section}{\numberline {4}List}{ii}{}%
+\contentsline {section}{\numberline {5}Tabular}{iii}{}%
+\contentsline {section}{\numberline {6}Formula}{iii}{}%
