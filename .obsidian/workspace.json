@@ -18,6 +18,14 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3b22b6aa63a09d9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -65,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,9 +125,9 @@
   },
   "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
+    "content/posts/2023-05-21-07-27-22.md",
     "LaTex course/lena.png",
     "LaTex course/Doc1.pdf",
-    "content/posts/2023-05-21-07-27-22.md",
     "content/search.md",
     "README.md",
     "content/about.md",
