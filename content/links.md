@@ -10,9 +10,6 @@
 	- [# 别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 	- [# 提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 # Blogs
-- [Owen 的博客](https://www.owenyoung.com/)
-	- [收集发人深省的话](https://www.owenyoung.com/quotes/)
-	- [探索互联网上高质量的内容](https://www.owenyoung.com/sources/)
 - [程序员的喵](https://catcoding.me/)
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [编程随想的博客](https://program-think.blogspot.com/)
@@ -70,5 +67,4 @@
 - [Buzzing](https://www.buzzing.cc/) 国外社交媒体聚合热榜 中文标题 
 - [HackerNews](https://news.ycombinator.com/) 技术热点话题 新闻社区
 - [小众软件论坛](https://meta.appinn.net/) 分享免费、小巧、有趣、实用软件
-- [CodeNews](https://codenews.cc/) 一个专注于【技术发明创造】交流的社区
 - [HelloGitHub](https://hellogithub.com/) 一个分享有趣、 入门级开源项目的平台z
