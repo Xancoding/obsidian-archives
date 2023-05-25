@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9874a743e75885",
+        "id": "db74081057f010b4",
         "type": "tabs",
         "children": [
           {
-            "id": "584c9348a1c77f16",
+            "id": "b6efbfd81dbd0bd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/links.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/links.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +109,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "584c9348a1c77f16",
+  "active": "b6efbfd81dbd0bd5",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "content/posts/2023-05-21-07-27-22.md",
+    "content/links.md",
     "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2023-01-23-22-40-50.md",
     "content/posts/2023-01-26-11-14-43.md",
-    "content/posts/2023-05-21-07-27-22.md",
-    "content/links.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-16-14-23-58.md",
     "layouts/shortcodes/galleries.html",
@@ -145,7 +141,6 @@
     "content/posts/acw-django.md",
     "content/posts/assembly-language.md",
     "content/posts/acw-web.md",
-    "content/posts/acw-linux.md",
     "BOOKS/MySQL/MySQL实战45讲/01.基础架构：一条SQL查询语句是如何执行的？.pdf",
     "BOOKS/Python/Python自然语言处理.pdf",
     "BOOKS/Python/SICP in Python.epub",
