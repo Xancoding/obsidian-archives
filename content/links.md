@@ -61,10 +61,3 @@
 8. **[扫盲 HTTPS 和 SSL/TLS 协议[0]：引子](https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html)**
 9. **[扫盲操作系统虚拟机[0]：概述](https://program-think.blogspot.com/2012/10/system-vm-0.html)**
 ***
-# Community
-- [V2EX](https://www.v2ex.com/) 面向程序员、极客人群的分享交流社区
-- [Medium](https://medium.com/) 网络文章发布平台 文章质量高
-- [Buzzing](https://www.buzzing.cc/) 国外社交媒体聚合热榜 中文标题 
-- [HackerNews](https://news.ycombinator.com/) 技术热点话题 新闻社区
-- [小众软件论坛](https://meta.appinn.net/) 分享免费、小巧、有趣、实用软件
-- [HelloGitHub](https://hellogithub.com/) 一个分享有趣、 入门级开源项目的平台z
