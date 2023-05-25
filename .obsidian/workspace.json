@@ -11,9 +11,11 @@
             "id": "ce8ea2929f2f1295",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "LaTex course/lena.png"
+                "file": "content/posts/2023-05-21-07-27-22.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex course/lena.png",
+                "file": "content/posts/2023-05-21-07-27-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +114,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
-    "LaTex course/Doc1.pdf",
     "LaTex course/lena.png",
+    "LaTex course/Doc1.pdf",
     "content/posts/2023-05-21-07-27-22.md",
     "content/search.md",
     "README.md",
@@ -148,7 +150,6 @@
     "BOOKS/Others/精通正则表达式（第3版）.epub",
     "BOOKS/Others/正则表达式必知必会.epub",
     "BOOKS/Others/了不起的Markdown.epub",
-    "BOOKS/Others/labuladong的算法小抄.epub",
     "BOOKS/Linux高性能服务器编程.md",
     "content/posts/2023-05-08-17-40-44.md",
     "static/img/Headshot/007.jpg",
