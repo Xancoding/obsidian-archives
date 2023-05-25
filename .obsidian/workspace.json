@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "584c9348a1c77f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-04-30-09-43-31.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "唐山",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-21-07-27-22.md",
+                "file": "content/posts/2023-04-30-09-43-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,20 +127,22 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ce8ea2929f2f1295",
+  "active": "584c9348a1c77f16",
   "lastOpenFiles": [
+    "content/links.md",
+    "content/posts/2022-10-12-22-42-04.md",
+    "content/posts/2022-10-16-14-23-58.md",
+    "content/posts/2023-05-21-07-27-22.md",
+    "layouts/shortcodes/galleries.html",
     "layouts/shortcodes/gallery.html~",
     "content/posts/2023-04-30-09-43-31.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-11-15-12-04-42.md",
-    "content/posts/2023-05-21-07-27-22.md",
     "LaTex course/lena.png",
     "LaTex course/Doc1.pdf",
     "content/search.md",
     "README.md",
     "content/about.md",
     "content/archives.md",
-    "content/links.md",
     "content/posts/2022-10-18-18-34-30.md",
     "content/posts/2023-03-14-13-19-15.md",
     "content/posts/2023-02-28-20-18-17.md",
@@ -152,8 +166,6 @@
     "BOOKS/计算机网络/图解HTTP.epub",
     "BOOKS/操作系统/现代操作系统.epub",
     "BOOKS/Others/精通正则表达式（第3版）.epub",
-    "BOOKS/Others/正则表达式必知必会.epub",
-    "BOOKS/Others/了不起的Markdown.epub",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
