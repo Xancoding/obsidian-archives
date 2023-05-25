@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-21-07-27-22.md",
-                "mode": "preview",
+                "file": "content/posts/2023-04-30-09-43-31.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Blog",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-21-07-27-22.md",
+                "file": "content/posts/2023-04-30-09-43-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
