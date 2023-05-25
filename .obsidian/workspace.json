@@ -117,6 +117,7 @@
   },
   "active": "ce8ea2929f2f1295",
   "lastOpenFiles": [
+    "layouts/shortcodes/gallery.html~",
     "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-11-15-12-04-42.md",
@@ -153,7 +154,6 @@
     "BOOKS/Others/精通正则表达式（第3版）.epub",
     "BOOKS/Others/正则表达式必知必会.epub",
     "BOOKS/Others/了不起的Markdown.epub",
-    "BOOKS/Linux高性能服务器编程.md",
     "static/img/Headshot/007.jpg",
     "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
   ]
