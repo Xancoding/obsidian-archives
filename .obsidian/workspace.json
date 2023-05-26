@@ -11,8 +11,12 @@
             "id": "b6efbfd81dbd0bd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-04-30-09-43-31.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Blog",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2023-04-30-09-43-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
