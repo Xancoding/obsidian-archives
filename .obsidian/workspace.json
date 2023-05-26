@@ -11,8 +11,12 @@
             "id": "b6efbfd81dbd0bd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-04-30-01-10-21.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2023-04-30-01-10-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +116,12 @@
   },
   "active": "b6efbfd81dbd0bd5",
   "lastOpenFiles": [
+    "content/posts/2023-04-30-09-20-36.md",
+    "content/posts/2023-04-30-09-43-31.md",
+    "content/posts/2023-04-30-09-39-00.md",
+    "content/posts/2023-05-21-07-27-22.md",
     "人工智能知识点.md",
     "未命名.canvas",
-    "content/posts/2023-04-30-09-43-31.md",
-    "content/posts/2023-05-21-07-27-22.md",
     "content/links.md",
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2023-01-23-22-40-50.md",
@@ -140,7 +147,6 @@
     "content/posts/2023-01-14-14-49-34.md",
     "content/posts/2023-01-31-10-47-00.md",
     "content/posts/acw-django.md",
-    "content/posts/assembly-language.md",
     "BOOKS/MySQL/MySQL实战45讲/01.基础架构：一条SQL查询语句是如何执行的？.pdf",
     "BOOKS/Python/Python自然语言处理.pdf",
     "BOOKS/Python/SICP in Python.epub",
