@@ -66,56 +66,8 @@
     "Sports": {
       "Sports": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1684711674299
-        }
-      }
-    },
-    "Codesg": {
-      "Codesg": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1682260086025
-        }
-      }
-    },
-    "Result": {
-      "Result": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1682243846037
-        }
-      }
-    },
-    "Priority_queue优先队列": {
-      "Priority_queue优先队列": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682317558780
-        }
-      }
-    },
-    "输出结果：": {
-      "输出结果：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682321137017
-        }
-      }
-    },
-    "点估计与矩估计": {
-      "点估计与矩估计": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682340150158
-        }
-      }
-    },
-    "深度学习是一种基于神经网络的机器学习技术，通过多层神经网络的构建和训练，可以实现对大规模数据的高效处理和分析。深度学习已经在计算机视觉、自然语言处理、语音识别等领域取得了重大突破，成为人工智能领域的重要分支。": {
-      "深度学习是一种基于神经网络的机器学习技术，通过多层神经网络的构建和训练，可以实现对大规模数据的高效处理和分析。深度学习已经在计算机视觉、自然语言处理、语音识别等领域取得了重大突破，成为人工智能领域的重要分支。": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682596710020
+          "count": 4,
+          "lastUpdated": 1685265200885
         }
       }
     },
@@ -148,6 +100,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1684505817988
+        }
+      }
+    },
+    "Life": {
+      "Life": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685265198336
         }
       }
     }
