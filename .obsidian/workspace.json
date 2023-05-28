@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-28-18-28-55.md",
-                "mode": "source",
+                "file": "content/posts/2023-05-28-18-20-45.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-28-18-28-55.md",
+                "file": "content/posts/2023-05-28-18-20-45.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,8 @@
   },
   "active": "b6efbfd81dbd0bd5",
   "lastOpenFiles": [
-    "content/posts/2023-05-28-18-20-45.md",
     "content/posts/2023-05-28-18-28-55.md",
+    "content/posts/2023-05-28-18-20-45.md",
     "content/posts/2023-05-28-18-16-39.md",
     "content/posts/2023-05-28-17-57-01.md",
     "content/posts/2023-05-28-17-13-05.md",
