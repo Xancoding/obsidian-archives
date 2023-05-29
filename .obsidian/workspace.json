@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6efbfd81dbd0bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-01-15-12-42-38.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e747be57a29c2302",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "电脑",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-15-12-42-38.md",
+                "file": "content/posts/2022-11-20-22-11-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +114,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b6efbfd81dbd0bd5",
+  "active": "e747be57a29c2302",
   "lastOpenFiles": [
+    "content/posts/2022-10-14-16-07-09.md",
+    "content/posts/2022-11-14-15-56-45.md",
+    "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-05-28-18-28-55.md",
@@ -152,9 +142,6 @@
     "content/posts/2023-02-11-11-50-40.md",
     "content/posts/2023-02-01-19-37-10.md",
     "content/posts/2023-01-31-16-48-25.md",
-    "content/posts/2023-01-26-11-14-43.md",
-    "content/posts/2023-01-23-22-40-50.md",
-    "content/posts/2023-01-18-12-29-48.md",
     "未命名.canvas",
     "layouts/shortcodes/galleries.html",
     "layouts/shortcodes/gallery.html~",
