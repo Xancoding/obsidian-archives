@@ -82,16 +82,16 @@
     "Projects": {
       "Projects": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682819142731
+          "count": 2,
+          "lastUpdated": 1685352294036
         }
       }
     },
     "Tech": {
       "Tech": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1683538875106
+          "count": 4,
+          "lastUpdated": 1685352301928
         }
       }
     },
@@ -124,6 +124,22 @@
         "frontMatter": {
           "count": 3,
           "lastUpdated": 1685342802123
+        }
+      }
+    },
+    "C++": {
+      "C++": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685352291675
+        }
+      }
+    },
+    "Search": {
+      "Search": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685352308526
         }
       }
     }
