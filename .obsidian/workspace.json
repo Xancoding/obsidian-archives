@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-04-24-14-17-47.md",
-                "mode": "preview",
+                "file": "content/posts/2023-05-29-17-24-38.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-24-14-17-47.md",
+                "file": "content/posts/2023-05-29-17-24-38.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +116,8 @@
   },
   "active": "e747be57a29c2302",
   "lastOpenFiles": [
-    "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2023-04-24-14-17-47.md",
+    "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2022-11-20-22-11-28.md",
     "content/posts/2022-10-14-16-07-09.md",
