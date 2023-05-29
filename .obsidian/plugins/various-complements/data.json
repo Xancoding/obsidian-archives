@@ -150,6 +150,22 @@
           "lastUpdated": 1685352516979
         }
       }
+    },
+    "debug": {
+      "debug": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685355992588
+        }
+      }
+    },
+    "release": {
+      "release": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685355997730
+        }
+      }
     }
   }
 }
