@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-29-12-54-17.md",
-                "mode": "source",
+                "file": "content/posts/2023-03-14-13-19-15.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "深度学习",
+                "query": "概率",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-29-12-54-17.md",
+                "file": "content/posts/2023-03-14-13-19-15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,8 @@
   "active": "dd728280678c43b3",
   "lastOpenFiles": [
     "content/posts/2023-05-29-17-24-38.md",
+    "content/posts/2023-05-28-18-28-55.md",
+    "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2023-03-25-08-24-56.md",
     "public/tags/projects/page/1/index.html",
     "public/tags/projects/page/1",
@@ -136,14 +139,12 @@
     "public/img/Headshot/001.jpg",
     "public/img/Headshot/002.jpg",
     "content/posts/2023-04-24-14-17-47.md",
-    "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2022-11-20-22-11-28.md",
     "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-12-22-42-04.md",
-    "content/posts/2023-05-28-18-28-55.md",
     "content/posts/2023-03-26-19-25-14.md",
     "content/posts/2023-05-28-18-20-45.md",
     "content/posts/2023-05-28-18-16-39.md",
