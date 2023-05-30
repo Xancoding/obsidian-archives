@@ -3,6 +3,7 @@
   "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "prefix",
   "fuzzyMatch": true,
+  "minFuzzyMatchScore": 0.5,
   "matchingWithoutEmoji": true,
   "treatAccentDiacriticsAsAlphabeticCharacters": false,
   "maxNumberOfSuggestions": 5,
@@ -53,10 +54,12 @@
     "beforeRegExp": "",
     "after": ""
   },
+  "frontMatterKeyForExclusionInternalLink": "",
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
   "intelligentSuggestionPrioritization": {
+    "historyFilePath": "",
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
@@ -68,14 +71,6 @@
         "frontMatter": {
           "count": 7,
           "lastUpdated": 1685269254955
-        }
-      }
-    },
-    "Hobby": {
-      "Hobby": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1682818762812
         }
       }
     },
