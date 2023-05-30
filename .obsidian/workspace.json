@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "概率",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "dd728280678c43b3",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2023-05-28-18-28-55.md",
