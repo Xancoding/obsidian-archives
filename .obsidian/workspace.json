@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-56.md",
-                "mode": "preview",
+                "file": "content/posts/2023-03-14-13-19-12.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "概率论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-56.md",
+                "file": "content/posts/2023-03-14-13-19-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +116,15 @@
   },
   "active": "bc8bd331d027a0bd",
   "lastOpenFiles": [
-    "content/posts/2023-05-31-09-00-39.md",
+    "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2023-03-25-08-24-56.md",
+    "content/posts/2023-05-31-09-00-39.md",
     "content/posts/2023-05-28-17-50-50.md",
     "content/posts/2023-05-28-17-57-01.md",
     "content/posts/2023-05-28-18-16-39.md",
     "content/posts/2023-05-28-18-20-45.md",
     "content/posts/2023-05-28-18-28-55.md",
     "content/posts/2023-05-29-12-54-17.md",
-    "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2022-10-30-15-28-22.md",
     "public/tags/projects/page/1/index.html",
