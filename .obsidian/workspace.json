@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "af569a87aa4241ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2022-11-15-12-04-42.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "操作系统",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-06-01-13-33-45.md",
+                "file": "content/posts/2022-11-15-12-04-42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +127,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bc8bd331d027a0bd",
+  "active": "af569a87aa4241ff",
   "lastOpenFiles": [
-    "content/posts/2022-11-15-12-04-42.md",
     "content/posts/2023-06-01-13-33-45.md",
+    "content/posts/2022-11-15-12-04-42.md",
     "content/posts/2023-05-31-09-00-39.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-04-30-09-39-00.md",
