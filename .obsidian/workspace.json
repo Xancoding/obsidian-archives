@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-56.md",
-                "mode": "preview",
+                "file": "content/posts/2023-03-26-19-25-14.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GNN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-56.md",
+                "file": "content/posts/2023-03-26-19-25-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +115,14 @@
   },
   "active": "bc8bd331d027a0bd",
   "lastOpenFiles": [
-    "content/posts/2023-06-01-13-33-45.md",
+    "content/posts/2023-03-25-08-24-56.md",
     "content/posts/2023-04-30-09-39-00.md",
     "content/posts/2022-11-15-12-04-42.md",
+    "content/posts/2023-06-01-13-33-45.md",
     "content/posts/2023-05-31-09-00-39.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-04-30-09-25-28.md",
     "content/posts/2023-05-29-17-24-38.md",
-    "content/posts/2023-03-25-08-24-56.md",
     "content/posts/2023-05-28-17-50-50.md",
     "content/posts/2023-05-28-17-57-01.md",
     "content/posts/2023-05-28-18-16-39.md",
