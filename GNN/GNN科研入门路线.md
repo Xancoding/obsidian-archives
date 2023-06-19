@@ -86,20 +86,6 @@ https://github.com/graphdeeplearning/benchmarking-gnns
 
 
 
-# 科研社群计划
-
-第一季：2022年10月23日——2023年1月23日
-
-学习方式：参与者分享精读的论文或项目
-
-安排：每周周六一次研讨会（共12期）
-
-QQ群   217540361
-
-Slack    **https://join.slack.com/t/paper4gnn/shared_invite/zt-1iaccqxqu-y4kjo6FeGWLN4OqYzjvG1g**
-
-
-
 
 
 
