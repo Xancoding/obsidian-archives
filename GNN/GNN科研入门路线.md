@@ -30,12 +30,6 @@ https://github.com/thunlp/GNNPapers
 
 # 基础理论研究
 
-https://openreview.net/pdf?id=YWNAX0caEjI
-
-https://openreview.net/pdf?id=uxgg9o7bI_3
-
-https://openreview.net/pdf?id=oh4TirnfSem
-
 ## 常用数据集
 
 🎈https://github.com/DGraphXinye/DGraphFin_baseline
