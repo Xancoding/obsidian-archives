@@ -19,33 +19,6 @@ https://arxiv.org/pdf/2002.11867.pdf
 
 
 
-最新
-https://arxiv.org/pdf/2202.07114.pdf
-
-https://github.com/thunlp/GNNPapers
-
-
-
-
-
-# 基础理论研究
-
-## 常用数据集
-
-🎈https://github.com/DGraphXinye/DGraphFin_baseline
-
-🔑 Cora
-
-🔑 Citeseer
-
-🔑 PubMed
-
-总结：模型研究，可以精读一些经典的GNN模型
-
-
-
-
-
 # 应用研究
 
 ## 场景
