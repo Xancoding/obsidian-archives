@@ -30,6 +30,7 @@ https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-
 
 
 ## 项目
+先去把项目看一遍，再去把项目动手敲一遍
 
 https://github.com/jwwthu/GNN4Traffic
 
