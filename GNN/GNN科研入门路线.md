@@ -23,7 +23,7 @@ https://arxiv.org/pdf/2002.11867.pdf
 
 ## 场景
 
-🍕交通流量预测、基于社交网络的推荐系统、组合优化、 物理|化学、药物开发、视觉推理
+🍕**交通流量预测、基于社交网络的推荐系统**、组合优化、 物理|化学、药物开发、视觉推理
 
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18
 
