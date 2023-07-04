@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计算机组成",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,12 +115,13 @@
   },
   "active": "351e6a61d0976ba9",
   "lastOpenFiles": [
+    "content/posts/2023-05-31-09-00-39.md",
+    "content/posts/2022-11-15-12-47-32.md",
     "content/posts/2022-10-17-12-55-19.md",
     "content/posts/2022-10-14-17-02-41.md",
     "content/posts/2022-10-17-12-54-56.md",
     "content/posts/2022-11-15-12-50-59.md",
     "content/posts/2022-10-12-07-27-58.md",
-    "content/posts/2023-05-31-09-00-39.md",
     "content/posts/2022-12-15-08-38-27.md",
     "content/posts/2023-06-30-17-40-02.md",
     "content/posts/2023-05-08-17-40-45.md",
@@ -141,7 +141,6 @@
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-05-28-18-28-55.md",
-    "content/posts/2023-05-28-18-20-45.md",
     "GNN",
     "public/tags/projects/page/1/index.html",
     "public/tags/projects/page/1",
