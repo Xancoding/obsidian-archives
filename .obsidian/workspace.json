@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-29-17-24-38.md",
+                "file": "GNN/GNN完整学习路线.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-29-17-24-38.md",
+                "file": "GNN/GNN完整学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,9 @@
   },
   "active": "351e6a61d0976ba9",
   "lastOpenFiles": [
-    "content/posts/2023-07-04-21-24-36.md",
+    "GNN/GNN科研入门路线.md",
     "content/posts/2023-05-29-17-24-38.md",
+    "content/posts/2023-07-04-21-24-36.md",
     "content/posts/2023-03-14-13-19-12.md",
     "content/posts/2023-06-01-13-33-45.md",
     "content/posts/2022-11-15-12-47-32.md",
@@ -140,7 +141,6 @@
     "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2023-01-15-12-42-38.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "GNN",
     "public/tags/projects/page/1/index.html",
     "public/tags/projects/page/1",
