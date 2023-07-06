@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2022-11-12-11-38-21.md",
-                "mode": "preview",
+                "file": "未命名/2022-10-18-18-34-30.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-11-12-11-38-21.md",
+                "file": "未命名/2022-10-18-18-34-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "351e6a61d0976ba9",
   "lastOpenFiles": [
+    "content/posts/2022-11-12-11-38-21.md",
     "content/posts/2023-01-31-16-48-25.md",
     "content/posts/2023-02-01-19-37-10.md",
     "content/posts/2023-01-14-14-49-35.md",
@@ -140,7 +141,6 @@
     "content/posts/2023-05-21-07-27-22.md",
     "content/posts/2023-05-28-17-50-50.md",
     "content/posts/2023-05-28-17-13-05.md",
-    "content/posts/2023-04-30-09-43-31.md",
     "未命名",
     "temporary",
     "GNN",
