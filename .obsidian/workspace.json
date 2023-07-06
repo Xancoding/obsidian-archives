@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e1babdfd7ba54945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2022-10-14-16-07-09.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-14-16-07-09.md",
+                "file": "content/posts/2023-05-08-17-40-45.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +113,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e1babdfd7ba54945",
+  "active": "351e6a61d0976ba9",
   "lastOpenFiles": [
+    "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2023-01-14-14-49-35.md",
     "content/links.md",
     "content/about.md",
@@ -142,7 +130,6 @@
     "content/posts/2023-04-30-09-39-00.md",
     "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2022-10-30-15-28-22.md",
-    "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-10-12-22-42-04.md",
