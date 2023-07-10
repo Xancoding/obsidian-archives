@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-08-17-40-45.md",
+                "file": "content/posts/2022-10-16-14-23-58.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "douban",
+                "query": "SSH 免密登录",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-08-17-40-45.md",
+                "file": "content/posts/2022-10-16-14-23-58.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +116,11 @@
   },
   "active": "351e6a61d0976ba9",
   "lastOpenFiles": [
+    "content/posts/2023-05-08-17-40-45.md",
     "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2023-01-14-14-49-35.md",
     "content/links.md",
     "content/about.md",
-    "content/posts/2023-05-08-17-40-45.md",
     "content/posts/2023-06-30-17-40-02.md",
     "content/posts/2023-05-31-09-00-39.md",
     "content/posts/2023-04-24-14-17-47.md",
