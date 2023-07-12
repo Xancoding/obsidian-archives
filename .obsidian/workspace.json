@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ea6d3ecf595536ee",
+        "id": "c65cb2aa4e787a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "351e6a61d0976ba9",
+            "id": "a74b060feec60ed0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-03-25-08-24-56.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a49d7e1e587f3a8a",
-            "type": "leaf",
-            "state": {
-              "type": "epub",
-              "state": {
-                "file": "BOOKS/C++/后台开发：核心技术与应用实践.epub"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOKS/C++/后台开发：核心技术与应用实践.epub",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,11 +108,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a49d7e1e587f3a8a",
+  "active": "a74b060feec60ed0",
   "lastOpenFiles": [
-    "BOOKS/C++/Effective C++.epub",
+    "BOOKS/C++/STL源码剖析.pdf",
     "content/posts/2023-03-25-08-24-56.md",
     "BOOKS/C++/后台开发：核心技术与应用实践.epub",
+    "BOOKS/C++/Effective C++.epub",
     "BOOKS/C++/Unconfirmed 592917.crdownload",
     "content/posts/2023-05-28-17-50-50.md",
     "content/posts/2023-05-21-07-27-22.md",
@@ -150,7 +135,6 @@
     "content/posts/2023-05-08-17-40-45.md",
     "BOOKS/机器学习吴恩达.pdf",
     "BOOKS/机器学习周志华.pdf",
-    "BOOKS/C++/STL源码剖析.pdf",
     "BOOKS/Linux C++/Linux高性能服务器编程.epub",
     "content/posts/2022-11-20-22-11-28.md",
     "content/posts/2022-10-12-22-42-04.md",
@@ -161,7 +145,6 @@
     "未命名",
     "temporary",
     "GNN",
-    "public/tags/projects/page/1/index.html",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
