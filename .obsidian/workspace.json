@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a49d7e1e587f3a8a",
+            "type": "leaf",
+            "state": {
+              "type": "epub",
+              "state": {
+                "file": "BOOKS/C++/后台开发：核心技术与应用实践.epub"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-03-25-08-24-56.md",
+                "file": "BOOKS/C++/后台开发：核心技术与应用实践.epub",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +124,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "351e6a61d0976ba9",
+  "active": "a49d7e1e587f3a8a",
   "lastOpenFiles": [
+    "BOOKS/C++/Effective C++.epub",
+    "content/posts/2023-03-25-08-24-56.md",
+    "BOOKS/C++/后台开发：核心技术与应用实践.epub",
+    "BOOKS/C++/Unconfirmed 592917.crdownload",
     "content/posts/2023-05-28-17-50-50.md",
     "content/posts/2023-05-21-07-27-22.md",
     "content/posts/2023-05-28-18-16-39.md",
@@ -126,7 +140,6 @@
     "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-04-30-09-39-00.md",
-    "content/posts/2023-03-25-08-24-56.md",
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2023-06-30-17-40-02.md",
     "content/posts/2023-05-31-09-00-39.md",
@@ -145,13 +158,10 @@
     "content/links.md",
     "content/about.md",
     "content/posts/2023-05-28-18-20-45.md",
-    "content/posts/2023-05-28-17-57-01.md",
     "未命名",
     "temporary",
     "GNN",
     "public/tags/projects/page/1/index.html",
-    "public/tags/projects/page/1",
-    "public/tags/projects/page",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
