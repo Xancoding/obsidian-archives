@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2022-11-11-20-39-13.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -115,6 +115,9 @@
   },
   "active": "a74b060feec60ed0",
   "lastOpenFiles": [
+    "content/posts/2023-03-31-08-14-17.md",
+    "content/posts/2022-11-15-21-37-17.md",
+    "content/posts/2022-11-11-20-39-13.md",
     "content/posts/2023-02-28-20-18-17.md",
     "content/posts/2023-01-31-16-48-25.md",
     "content/posts/2023-02-01-19-37-10.md",
@@ -144,9 +147,6 @@
     "BOOKS/C++/Effective C++.epub",
     "BOOKS/C++/Unconfirmed 592917.crdownload",
     "content/posts/2023-05-28-17-50-50.md",
-    "content/posts/2023-05-21-07-27-22.md",
-    "content/posts/2023-05-28-18-16-39.md",
-    "content/posts/2023-05-28-18-28-55.md",
     "BOOKS/机器学习吴恩达.pdf",
     "BOOKS/机器学习周志华.pdf",
     "BOOKS/Linux C++/Linux高性能服务器编程.epub",
