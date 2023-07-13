@@ -1,8 +1,5 @@
 # CS
 - <https://www.learncpp.com/>
-- Gitbook
-	- [Tools](https://tools.xancoding.cn/)
-	- [CS Resource](https://cs.xancoding.cn/)
 - [CS自学指南](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 - [小林 x 图解计算机基础](https://xiaolincoding.com/)
 	- [图解网络](https://xiaolincoding.com/network/)
