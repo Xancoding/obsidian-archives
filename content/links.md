@@ -5,10 +5,6 @@
 	- [图解网络](https://xiaolincoding.com/network/)
 	- [图解系统](https://xiaolincoding.com/os/)
 - [后端开发核心知识](https://github.com/linw7/Skill-Tree)
-- [A project based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/?Project%5Bmenu%5D%5Bmain_language%5D=C%2FC%2B%2B)
-- How to ask questions
-	- [# 别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
-	- [# 提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 # Blogs
 - [程序员的喵](https://catcoding.me/)
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
