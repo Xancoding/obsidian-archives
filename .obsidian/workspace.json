@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-07-16-15-08-36.md",
-                "mode": "preview",
+                "file": "content/posts/2023-07-16-19-11-01.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-07-16-15-08-36.md",
+                "file": "content/posts/2023-07-16-19-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +116,11 @@
   "active": "d8e98a51e0369692",
   "lastOpenFiles": [
     "content/posts/2023-07-16-14-53-00.md",
+    "content/posts/2023-05-29-17-24-38.md",
+    "content/posts/2023-07-16-19-11-01.md",
     "content/posts/2023-07-16-15-08-36.md",
     "content/posts/2023-01-23-22-40-50.md",
     "content/posts/2022-10-29-18-23-59.md",
-    "content/posts/2023-05-29-17-24-38.md",
     "BOOKS/AI/统计学习方法(李航).pdf",
     "BOOKS/AI/神经网络与深度学习.pdf",
     "BOOKS/AI/机器学习周志华.pdf",
@@ -146,7 +147,6 @@
     "content/posts/2023-05-28-17-57-01.md",
     "content/posts/2023-05-21-07-27-22.md",
     "content/posts/2023-05-28-17-50-50.md",
-    "content/posts/2023-05-28-17-13-05.md",
     "BOOKS/神经网络与深度学习.pdf",
     "BOOKS/Unconfirmed 168885.crdownload",
     "BOOKS/C++/STL源码剖析.pdf",
