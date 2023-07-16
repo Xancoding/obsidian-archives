@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-29-17-24-38.md",
-                "mode": "preview",
+                "file": "content/posts/2023-07-16-14-53-00.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-05-29-17-24-38.md",
+                "file": "content/posts/2023-07-16-14-53-00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "a74b060feec60ed0",
   "lastOpenFiles": [
+    "content/posts/2023-05-29-17-24-38.md",
+    "content/posts/2023-07-16-14-53-00.md",
     "BOOKS/AI/统计学习方法(李航).pdf",
     "BOOKS/AI/神经网络与深度学习.pdf",
     "BOOKS/AI/机器学习周志华.pdf",
@@ -123,7 +125,6 @@
     "BOOKS/新建文件夹",
     "content/posts/2022-11-15-12-54-07.md",
     "content/posts/2023-04-24-14-17-47.md",
-    "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2023-03-25-08-24-56.md",
@@ -150,7 +151,6 @@
     "BOOKS/Unconfirmed 168885.crdownload",
     "BOOKS/C++/STL源码剖析.pdf",
     "BOOKS/C++/后台开发：核心技术与应用实践.epub",
-    "BOOKS/C++/Effective C++.epub",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
