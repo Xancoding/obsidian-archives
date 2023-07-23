@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-07-23-09-27-00.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "年度计划",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
