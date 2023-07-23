@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-07-23-09-23-15.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -115,11 +115,12 @@
   },
   "active": "d8e98a51e0369692",
   "lastOpenFiles": [
+    "content/posts/2023-07-23-09-27-00.md",
+    "content/posts/2023-07-23-09-23-15.md",
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2023-07-23-09-22-03.md",
     "content/posts/2023-07-23-09-20-44.md",
     "content/posts/2023-03-25-08-24-56.md",
-    "content/posts/2023-07-23-09-23-15.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2023-07-16-14-53-00.md",
@@ -146,7 +147,6 @@
     "BOOKS/新建文件夹",
     "content/posts/2022-11-15-12-54-07.md",
     "content/posts/2022-11-12-11-38-21.md",
-    "content/posts/2023-05-31-09-00-39.md",
     "BOOKS/神经网络与深度学习.pdf",
     "BOOKS/Unconfirmed 168885.crdownload",
     "BOOKS/C++/STL源码剖析.pdf",
