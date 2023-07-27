@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-01-14-14-49-35.md",
-                "mode": "source",
+                "file": "content/posts/2023-02-01-19-37-10.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "读书笔记",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-14-14-49-35.md",
+                "file": "content/posts/2023-02-01-19-37-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "d8e98a51e0369692",
   "lastOpenFiles": [
+    "content/posts/2023-01-14-14-49-35.md",
     "content/posts/2022-11-12-11-38-21.md",
     "content/posts/2022-11-15-12-54-07.md",
     "content/posts/2023-04-24-14-17-47.md",
@@ -140,7 +141,6 @@
     "content/search.md",
     "content/about.md",
     "content/posts/2023-07-16-15-08-36.md",
-    "content/posts/2023-01-23-22-40-50.md",
     "BOOKS/AI/统计学习方法(李航).pdf",
     "BOOKS/AI/神经网络与深度学习.pdf",
     "BOOKS/AI/机器学习周志华.pdf",
