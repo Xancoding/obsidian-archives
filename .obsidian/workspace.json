@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -122,8 +121,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1f818ef841c9c783",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "static/fonts/LXGWWenKaiScreenR.ttf",
+    "static/fonts",
+    "static/新建文件夹",
     "LaTex course/lena.png",
     "LaTex course/Doc1.pdf",
     "static/img/Headshot.jpg",
@@ -161,8 +163,6 @@
     "BOOKS/AI/神经网络与深度学习.pdf",
     "BOOKS/AI/机器学习周志华.pdf",
     "BOOKS/AI/机器学习吴恩达.pdf",
-    "BOOKS/AI",
-    "BOOKS/新建文件夹",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
