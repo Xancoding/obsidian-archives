@@ -11,9 +11,11 @@
             "id": "1f818ef841c9c783",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "LaTex course/lena.png"
+                "file": "content/posts/2022-10-30-15-28-22.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex course/lena.png",
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +122,7 @@
   },
   "active": "1f818ef841c9c783",
   "lastOpenFiles": [
+    "LaTex course/lena.png",
     "LaTex course/Doc1.pdf",
     "static/img/Headshot.jpg",
     "未命名.canvas",
@@ -158,14 +161,12 @@
     "BOOKS/AI/机器学习吴恩达.pdf",
     "BOOKS/AI",
     "BOOKS/新建文件夹",
-    "BOOKS/神经网络与深度学习.pdf",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
     "public/img/Headshot/004.jpg",
     "public/img/Headshot/003.jpg",
     "public/img/Headshot/001.jpg",
-    "public/img/Headshot/002.jpg",
-    "LaTex course/lena.png"
+    "public/img/Headshot/002.jpg"
   ]
 }
