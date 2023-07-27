@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2022-10-30-15-28-22.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -109,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
