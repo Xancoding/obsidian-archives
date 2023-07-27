@@ -4,12 +4,12 @@
   "link-favicon",
   "cmenu-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-hypothesis-plugin",
   "quickadd",
   "obsidian-emoji-toolbar",
   "obsidian-git",
   "obsidian-wakatime",
   "obsidian-image-auto-upload-plugin",
   "obsidian-epub-plugin",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "editing-toolbar"
 ]
