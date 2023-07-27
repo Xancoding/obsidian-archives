@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2022-10-30-15-28-22.md",
+                "file": "content/posts/2022-10-14-16-07-09.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "管理时间",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-30-15-28-22.md",
+                "file": "content/posts/2022-10-14-16-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +115,14 @@
   },
   "active": "1f818ef841c9c783",
   "lastOpenFiles": [
-    "BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2022-11-14-15-56-45.md",
+    "content/posts/2023-01-15-12-42-38.md",
+    "BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "BOOKS/算法竞赛进阶指南.pdf",
     "BOOKS/XCPC.jpg",
     "BOOKS/Life/平凡的世界.epub",
-    "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2022-11-15-12-54-07.md",
-    "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-03-25-08-24-56.md",
     "content/posts/2023-07-23-09-20-44.md",
@@ -150,7 +151,6 @@
     "BOOKS/AI",
     "BOOKS/新建文件夹",
     "BOOKS/神经网络与深度学习.pdf",
-    "BOOKS/Unconfirmed 168885.crdownload",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
