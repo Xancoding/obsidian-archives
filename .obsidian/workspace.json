@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2022-10-30-15-28-22.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -114,6 +114,10 @@
   },
   "active": "1f818ef841c9c783",
   "lastOpenFiles": [
+    "BOOKS/算法竞赛进阶指南.pdf",
+    "BOOKS/XCPC.jpg",
+    "BOOKS/Life/平凡的世界.epub",
+    "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2022-11-15-12-54-07.md",
     "content/posts/2023-01-15-12-42-38.md",
@@ -138,8 +142,6 @@
     "content/posts/2023-07-19-14-15-53.md",
     "content/posts/2022-11-15-21-37-17.md",
     "content/posts/2022-11-20-22-11-28.md",
-    "content/links.md",
-    "content/archives.md",
     "BOOKS/AI/统计学习方法(李航).pdf",
     "BOOKS/AI/神经网络与深度学习.pdf",
     "BOOKS/AI/机器学习周志华.pdf",
@@ -149,7 +151,6 @@
     "BOOKS/神经网络与深度学习.pdf",
     "BOOKS/Unconfirmed 168885.crdownload",
     "BOOKS/C++/STL源码剖析.pdf",
-    "BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
@@ -159,7 +160,6 @@
     "public/img/Headshot/002.jpg",
     "未命名.canvas",
     "LaTex course/lena.png",
-    "static/img/Headshot/007.jpg",
-    "static/img/Headshot/v2-163b22c6a36f898bcb05c8a13a3c0f1e_720w.jpg"
+    "static/img/Headshot/007.jpg"
   ]
 }
