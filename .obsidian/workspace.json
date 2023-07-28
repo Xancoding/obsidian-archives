@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-02-28-20-18-17.md",
+                "file": "content/posts/2022-11-15-21-37-17.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计算机xi'tong",
+                "query": "计算机系统基础",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-02-28-20-18-17.md",
+                "file": "content/posts/2022-11-15-21-37-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "232cd12cffc45bd6",
   "lastOpenFiles": [
+    "content/posts/2023-02-28-20-18-17.md",
     "content/posts/2023-05-31-09-00-39.md",
     "content/posts/2023-04-30-01-10-21.md",
     "content/posts/2023-03-31-08-14-17.md",
@@ -144,7 +145,6 @@
     "content/posts/2023-07-23-09-23-15.md",
     "content/posts/2023-07-23-09-22-03.md",
     "content/posts/2023-07-23-09-20-44.md",
-    "content/posts/2023-02-28-20-18-17.md",
     "content/posts/2023-01-31-16-48-25.md",
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2022-10-29-18-23-59.md",
