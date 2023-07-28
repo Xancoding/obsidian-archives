@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-04-30-09-43-31.md",
-                "mode": "preview",
+                "file": "content/posts/2023-02-28-20-18-17.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blog",
+                "query": "总结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-43-31.md",
+                "file": "content/posts/2023-02-28-20-18-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,14 +134,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "232cd12cffc45bd6",
   "lastOpenFiles": [
-    "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2023-01-31-16-48-25.md",
+    "content/posts/2023-05-29-12-54-17.md",
+    "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2023-04-30-09-43-31.md",
+    "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2022-11-14-15-56-45.md",
-    "content/posts/2022-10-29-18-23-59.md",
     "assets/css/extended/fonts.css",
     "static/fonts/LXGWWenKaiScreenR.ttf",
     "static/fonts",
@@ -155,7 +157,6 @@
     "BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "GNN/GNN科研入门路线.md",
     "GNN/GNN完整学习路线.md",
-    "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2022-11-15-12-54-07.md",
     "BOOKS/算法竞赛进阶指南.pdf",
     "BOOKS/XCPC.jpg",
@@ -173,7 +174,6 @@
     "content/posts/2023-05-08-17-40-45.md",
     "content/posts/2023-05-29-17-24-38.md",
     "content/posts/2023-07-16-14-53-00.md",
-    "content/posts/2023-07-16-19-11-01.md",
     "BOOKS/AI/统计学习方法(李航).pdf",
     "BOOKS/AI/神经网络与深度学习.pdf",
     "public/img/Headshot/007.jpg",
