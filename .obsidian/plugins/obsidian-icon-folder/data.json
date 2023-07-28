@@ -6,9 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiBallPenFill",
-      "RiPenNibFill",
-      "RiBook3Fill"
+      "RiAccountCircleLine",
+      "RiProfileFill",
+      "RiSearchEyeLine",
+      "RiLinksLine",
+      "RiBallPenFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,5 +25,7 @@
   "BOOKS": "RiBook3Fill",
   "content": "RiPenNibFill",
   "GNN": "RiBallPenFill",
-  "content/posts": "RiPenNibFill"
+  "content/posts": "RiPenNibFill",
+  "content/links.md": "RiLinksLine",
+  "content/about.md": "RiAccountCircleLine"
 }
