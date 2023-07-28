@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-04-30-09-43-31.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "232cd12cffc45bd6",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "content/posts/2022-11-15-21-37-17.md",
     "content/posts/2022-10-14-16-07-09.md",
