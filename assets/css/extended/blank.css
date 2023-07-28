@@ -5,7 +5,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 
 body {
-    font-family: "LXGW WenKai Screen", monospace;
+    font-family: "LXGW WenKai Screen", "LXGWWenKaiScreenR";
     font-size: 1rem;
     line-height: 1.5;
     margin: 0;
