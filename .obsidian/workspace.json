@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/links.md",
-                "mode": "preview",
+                "file": "content/posts/2022-11-15-12-54-07.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "douban",
+                "query": "c++",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/links.md",
+                "file": "content/posts/2022-11-15-12-54-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +120,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "1f818ef841c9c783",
   "lastOpenFiles": [
-    "content/about.md",
+    "content/posts/2022-11-15-21-37-17.md",
+    "content/posts/2023-04-30-09-43-31.md",
     "content/links.md",
+    "content/about.md",
     "content/search.md",
     "content/archives.md",
     "content/posts/2023-07-23-09-23-15.md",
@@ -132,8 +134,6 @@
     "content/posts/2023-07-23-09-20-44.md",
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2023-07-23-09-27-00.md",
-    "content/posts/2022-11-15-21-37-17.md",
-    "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-04-30-09-48-57.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-14-16-07-09.md",
