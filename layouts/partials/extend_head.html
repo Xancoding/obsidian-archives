@@ -3,8 +3,29 @@
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
 {{- /* Head custom content area end */ -}}
 {{ partial "mathjax.html" . }}
-
-
-<link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css'>
-
-<link rel="stylesheet" href="https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/style.css" />
+<html>
+<head>
+  <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css'>
+  <link rel="stylesheet" href="https://cdn.staticfile.org/lxgw-wenkai-webfont/1.6.0/style.css" />
+  <!-- 没有Lite version, 有需要的可以向cdnjs发pr看看能不能通过-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.1.0/style.css" />
+  <!-- 没有TC version, 有需要的可以向cdnjs发pr看看能不能通过-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.0.0/style.css" />
+  <!-- Screen version -->
+  <link rel="stylesheet" href="https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/style.css" />
+  <style>
+    body {
+      font-family: "LXGW WenKai", sans-serif;
+      /* Lite version */
+      font-family: "LXGW WenKai Lite", sans-serif;
+      /* TC version */
+      font-family: "LXGW WenKai TC", sans-serif;
+      /* Screen version */
+      font-family: "LXGW WenKai Screen", sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <!-- blablabla -->
+</body>
+</html>
