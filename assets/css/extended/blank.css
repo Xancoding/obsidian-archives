@@ -4,12 +4,9 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
 
-/* body {
-    font-family: "LXGW WenKai Lite", "LXGW WenKai Screen";
-    font-size: 1rem;
-    line-height: 1.5;
-    margin: 0;
-} */
+body {
+    font-family: "LXGW WenKai Lite";
+}
 
 pre, code {
   font-family: "LXGW WenKai Lite", monospace;
