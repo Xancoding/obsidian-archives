@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-07-23-09-23-15.md",
+                "file": "content/links.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-07-23-09-23-15.md",
+                "file": "content/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +122,14 @@
   },
   "active": "1f818ef841c9c783",
   "lastOpenFiles": [
+    "content/about.md",
+    "content/search.md",
+    "content/archives.md",
+    "content/posts/2023-07-23-09-23-15.md",
+    "GNN/未命名.canvas",
     "content/posts/2023-07-23-09-22-03.md",
     "content/posts/2023-07-23-09-20-44.md",
     "content/posts/2023-05-29-12-54-17.md",
-    "content/posts/2023-07-23-09-23-15.md",
     "content/posts/2023-07-23-09-27-00.md",
     "content/posts/2022-11-15-21-37-17.md",
     "content/posts/2023-04-30-09-43-31.md",
@@ -154,12 +158,9 @@
     "BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "GNN/GNN科研入门路线.md",
     "GNN/GNN完整学习路线.md",
-    "content/posts/2022-11-15-12-54-07.md",
     "BOOKS/算法竞赛进阶指南.pdf",
     "BOOKS/XCPC.jpg",
     "BOOKS/Life/平凡的世界.epub",
-    "content/posts/2023-04-30-09-33-09.md",
-    "content/posts/2022-11-12-11-38-21.md",
     "BOOKS/AI/统计学习方法(李航).pdf",
     "BOOKS/AI/神经网络与深度学习.pdf",
     "public/img/Headshot/007.jpg",

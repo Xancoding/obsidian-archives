@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBallPenFill",
       "RiPenNibFill",
       "RiBook3Fill"
     ],
@@ -20,5 +21,7 @@
     "iconInTabsEnabled": false
   },
   "BOOKS": "RiBook3Fill",
-  "content": "RiPenNibFill"
+  "content": "RiPenNibFill",
+  "GNN": "RiBallPenFill",
+  "content/posts": "RiPenNibFill"
 }
