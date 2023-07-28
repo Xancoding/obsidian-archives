@@ -5,7 +5,10 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiPenNibFill",
+      "RiBook3Fill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +18,7 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "BOOKS": "RiBook3Fill",
+  "content": "RiPenNibFill"
 }
