@@ -21,5 +21,6 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
   "anuppuccin-theme-settings@@anp-bg-fix": false,
-  "anuppuccin-theme-settings@@anp-hide-borders": false
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": false
 }
