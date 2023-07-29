@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "61e4139eb1163a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2022-10-12-22-42-04.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c++",
+                "query": "Chrome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-07-29-10-50-54.md",
+                "file": "content/posts/2022-10-12-22-42-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,20 +134,20 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1f818ef841c9c783",
+  "active": "61e4139eb1163a38",
   "lastOpenFiles": [
-    "LaTex course/Doc1.synctex(busy)",
+    "content/posts/2023-04-30-09-43-31.md",
+    "content/posts/2023-05-08-17-40-45.md",
+    "content/posts/2023-04-24-14-17-47.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2023-07-29-10-50-54.md",
+    "LaTex course/Doc1.synctex(busy)",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2023-07-23-09-20-44.md",
     "content/posts/2023-07-23-09-22-03.md",
     "content/posts/2023-07-23-09-23-15.md",
     "content/posts/2022-11-15-21-37-17.md",
-    "content/posts/2023-04-30-09-43-31.md",
-    "content/posts/2023-05-08-17-40-45.md",
-    "content/posts/2023-04-24-14-17-47.md",
     "未命名.canvas",
     "content/posts/2023-04-30-09-33-09.md",
     "content/posts/2023-07-23-09-27-00.md",
@@ -162,7 +176,6 @@
     "BOOKS/算法竞赛进阶指南.pdf",
     "BOOKS/XCPC.jpg",
     "BOOKS/Life/平凡的世界.epub",
-    "BOOKS/AI/统计学习方法(李航).pdf",
     "public/img/Headshot/007.jpg",
     "public/img/Headshot/006.jpg",
     "public/img/Headshot/005.jpg",
