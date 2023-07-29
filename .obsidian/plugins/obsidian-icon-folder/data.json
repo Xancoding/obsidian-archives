@@ -22,7 +22,6 @@
     },
     "iconInTabsEnabled": false
   },
-  "BOOKS": "RiBook3Fill",
   "content": "RiPenNibFill",
   "content/posts": "RiPenNibFill",
   "content/about.md": "RiAccountCircleLine",
@@ -30,5 +29,6 @@
   "content/archives.md": "RiInboxArchiveLine",
   "content/search.md": "RiSearchLine",
   "100 GNN": "RiBallPenFill",
-  "200 LaTex course": "RiAppleFill"
+  "200 LaTex course": "RiAppleFill",
+  "000 BOOKS": "RiBook3Fill"
 }
