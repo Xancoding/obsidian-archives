@@ -1,7 +1,8 @@
 # Blogs
-- [程序员的喵](https://catcoding.me/)
-- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
-- [编程随想的博客](https://program-think.blogspot.com/)
+## [程序员的喵](https://catcoding.me/)
+## [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+##  [编程随想的博客](https://program-think.blogspot.com/)
+### 
 	1. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
 	2. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
 	3. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
