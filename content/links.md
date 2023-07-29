@@ -12,6 +12,8 @@
     6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
     7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
 2. [“心智模式”系列：认识你自己——心智模式扫盲介绍](https://program-think.blogspot.com/2010/02/about-mental-model.html)
+	1. [“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】](https://program-think.blogspot.com/2010/04/how-to-attribute-success-failure.html)
+	2. 
 3. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
 4. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
 5. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
