@@ -35,5 +35,6 @@
 - [获取翻墙软件方法大全](https://program-think.blogspot.com/2011/03/how-to-get-gfw-tools.html)
 - [多台电脑如何共享翻墙通道](https://program-think.blogspot.com/2013/01/cross-host-use-gfw-tool.html)
 - [关于 Tor 的常见问题解答](https://program-think.blogspot.com/2013/11/tor-faq.html)
-
+#### 信息安全
+- [如何隐藏你的踪迹，避免跨省追捕（系列）](https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html)
 
