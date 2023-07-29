@@ -11,9 +11,6 @@
     5. [如何成为优秀开发人员[5]：正确地做事（概述）](https://program-think.blogspot.com/2009/02/5.html)
     6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
     7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
-2. [x] [“心智模式”系列：认识你自己——心智模式扫盲介绍](https://program-think.blogspot.com/2010/02/about-mental-model.html)
-    1. [“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】](https://program-think.blogspot.com/2010/04/how-to-attribute-success-failure.html)
-    2. [“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”](https://program-think.blogspot.com/2012/01/stockdale-paradox.html)
 3. [如何挖掘网络资源[0]：为啥要写这个话题？](https://program-think.blogspot.com/2013/03/internet-resource-discovery-0.html)
     1. [如何挖掘网络资源[1]：网站的类型和使用场景](https://program-think.blogspot.com/2013/03/internet-resource-discovery-1.html)
     2. **[如何挖掘网络资源[2]：Google 搜索的基本语法](https://program-think.blogspot.com/2013/03/internet-resource-discovery-2.html)**
@@ -25,9 +22,6 @@
 	4. [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
 	5. [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
 5. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
-6. [为啥俺很少看视频？——兼谈“视频”与“文本”在认知心理学方面的差异](https://program-think.blogspot.com/2017/08/Some-Reasons-to-Watch-Less-Videos.html)
-7. [为啥俺不常用微博？——兼谈时间管理心得](https://program-think.blogspot.com/2012/02/microblog-and-time-management.html)
-8. [为啥俺要写这个博客——动机的自我分析](https://program-think.blogspot.com/2013/04/why-write-blog.html)
 
 ### New fields
 1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
