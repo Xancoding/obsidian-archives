@@ -42,6 +42,7 @@
 2. [书评：《学会提问——批判性思维指南》](https://program-think.blogspot.com/2010/10/book-review-asking-right-questions.html)
 3. [书评：《人月神话》——不朽的软件工程名著](https://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html)
 4.  [书评：《你的灯亮着吗？——找到问题的真正所在》](https://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html)
+5. [书评：《少有人走的路——心智成熟的旅程》](https://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html)
 ### Technology
 1. [如何翻墙？](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)
 2. [扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”](https://program-think.blogspot.com/2014/01/dns.html)
