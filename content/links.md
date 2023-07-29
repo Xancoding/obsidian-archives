@@ -4,20 +4,13 @@
 ##  [编程随想的博客](https://program-think.blogspot.com/)
 ###  Personal growth
 1. [x] [如何成为优秀开发人员[0]：怎样算是优秀的？](https://program-think.blogspot.com/2009/01/0.html)
-    1. [如何成为优秀开发人员[1]：关于兴趣](https://program-think.blogspot.com/2009/01/1.html)
-    2. [如何成为优秀开发人员[2]：关于自学能力](https://program-think.blogspot.com/2009/01/2.html)
-    3. [如何成为优秀开发人员[3]：设定个人发展目标和计划](https://program-think.blogspot.com/2009/01/3.html)
-    4. [如何成为优秀开发人员[4]：做正确的事](https://program-think.blogspot.com/2009/01/4.html)
-    5. [如何成为优秀开发人员[5]：正确地做事（概述）](https://program-think.blogspot.com/2009/02/5.html)
-    6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
-    7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
-4. How to Study
-	1. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
-	2. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
-	3. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
-	4. [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
-	5. [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
-5. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
+2. How to Study
+    1. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
+    2. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
+    3. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
+    4. [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
+    5. [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
+3. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
 
 ### New fields
 1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
