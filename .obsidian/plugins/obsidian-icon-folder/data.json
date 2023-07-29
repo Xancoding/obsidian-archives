@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiSearchLine",
+      "RiInboxArchiveLine",
       "RiLink",
       "RiAccountCircleLine",
-      "RiProfileFill",
-      "RiSearchEyeLine",
-      "RiLinksLine"
+      "RiProfileFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,7 @@
   "GNN": "RiBallPenFill",
   "content/posts": "RiPenNibFill",
   "content/about.md": "RiAccountCircleLine",
-  "content/links.md": "RiLink"
+  "content/links.md": "RiLink",
+  "content/archives.md": "RiInboxArchiveLine",
+  "content/search.md": "RiSearchLine"
 }
