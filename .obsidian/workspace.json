@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-04-02-18-00-40.md",
-                "mode": "preview",
+                "file": "content/posts/2022-10-12-22-42-04.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Get Info",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-02-18-00-40.md",
+                "file": "content/posts/2022-10-12-22-42-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +135,8 @@
   },
   "active": "1f818ef841c9c783",
   "lastOpenFiles": [
-    "content/posts/2022-10-12-07-27-58.md",
     "content/posts/2023-04-02-18-00-40.md",
+    "content/posts/2022-10-12-07-27-58.md",
     "content/posts/2023-04-30-01-10-21.md",
     "content/posts/2023-03-31-08-14-17.md",
     "content/posts/2023-02-28-20-18-17.md",
