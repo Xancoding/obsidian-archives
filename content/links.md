@@ -2,7 +2,16 @@
 ## [程序员的喵](https://catcoding.me/)
 ## [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 ##  [编程随想的博客](https://program-think.blogspot.com/)
-### 
+###  Personal growth
+1. [如何成为优秀开发人员[0]：怎样算是优秀的？](https://program-think.blogspot.com/2009/01/0.html)
+	1. [如何成为优秀开发人员[1]：关于兴趣](https://program-think.blogspot.com/2009/01/1.html)
+	2. [如何成为优秀开发人员[2]：关于自学能力](https://program-think.blogspot.com/2009/01/2.html)
+	3. [如何成为优秀开发人员[3]：设定个人发展目标和计划](https://program-think.blogspot.com/2009/01/3.html)
+	4. [如何成为优秀开发人员[4]：做正确的事](https://program-think.blogspot.com/2009/01/4.html)
+	5. [如何成为优秀开发人员[5]：正确地做事（概述）](https://program-think.blogspot.com/2009/02/5.html)
+	6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
+	7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
+3. [“心智模式”系列：认识你自己——心智模式扫盲介绍](https://program-think.blogspot.com/2010/02/about-mental-model.html)
 1. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
 2. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
 3. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
@@ -17,17 +26,6 @@
 9. [为啥俺不常用微博？——兼谈时间管理心得](https://program-think.blogspot.com/2012/02/microblog-and-time-management.html)
 10. [为啥俺要写这个博客——动机的自我分析](https://program-think.blogspot.com/2013/04/why-write-blog.html)
 11. [如何选择 IT 技术书籍](https://program-think.blogspot.com/2009/01/choose-it-book.html)
-###  Personal growth
-2. [如何成为优秀开发人员[0]：怎样算是优秀的？](https://program-think.blogspot.com/2009/01/0.html)
-	1. [如何成为优秀开发人员[1]：关于兴趣](https://program-think.blogspot.com/2009/01/1.html)
-	2. [如何成为优秀开发人员[2]：关于自学能力](https://program-think.blogspot.com/2009/01/2.html)
-	3. [如何成为优秀开发人员[3]：设定个人发展目标和计划](https://program-think.blogspot.com/2009/01/3.html)
-	4. [如何成为优秀开发人员[4]：做正确的事](https://program-think.blogspot.com/2009/01/4.html)
-	5. [如何成为优秀开发人员[5]：正确地做事（概述）](https://program-think.blogspot.com/2009/02/5.html)
-	6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
-	7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
-3. [“心智模式”系列：认识你自己——心智模式扫盲介绍](https://program-think.blogspot.com/2010/02/about-mental-model.html)
-
 ### New fields
 1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
 	1. [扫盲“社会工程学”[1]：攻击手法之【信息收集】](https://program-think.blogspot.com/2009/05/social-engineering-1-gather-information.html)
@@ -49,6 +47,8 @@
 4. [对比4种强化域名安全的协议——DNSSEC，DNSCrypt，DNS over TLS，DNS over HTTPS](https://program-think.blogspot.com/2018/10/Comparison-of-DNS-Protocols.html)
 5. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html)
 6. [扫盲文件完整性校验——关于散列值和数字签名](https://program-think.blogspot.com/2013/02/file-integrity-check.html)
-7. **[扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”](https://program-think.blogspot.com/2019/09/Netcat-Tricks.html)**
+7. [扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”](https://program-think.blogspot.com/2019/09/Netcat-Tricks.html)
 8. **[扫盲 HTTPS 和 SSL/TLS 协议[0]：引子](https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html)**
 9. **[扫盲操作系统虚拟机[0]：概述](https://program-think.blogspot.com/2012/10/system-vm-0.html)**
+
+
