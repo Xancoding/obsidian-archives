@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "315c4e325c397064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-07-29-13-31-24.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -122,11 +134,11 @@
   },
   "active": "1f818ef841c9c783",
   "lastOpenFiles": [
-    "content/about.md",
-    "content/links.md",
     "content/posts/2023-07-29-13-31-24.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-07-29-13-46-38.md",
+    "content/links.md",
+    "content/about.md",
+    "content/posts/2022-10-12-22-42-04.md",
     "BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
     "BOOKS/算法竞赛/XCPC.jpg",
     "BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
