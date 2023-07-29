@@ -95,17 +95,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "f4458bb1b9104e50",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

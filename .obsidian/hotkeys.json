@@ -32,14 +32,5 @@
       ],
       "key": "X"
     }
-  ],
-  "cmdr:macro-1": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Z"
-    }
   ]
 }
