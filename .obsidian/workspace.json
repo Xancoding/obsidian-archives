@@ -30,6 +30,14 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d85f9c65da840297",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -133,8 +141,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6e7b5172a637b2ba",
+  "active": "933782b71c3b6c75",
   "lastOpenFiles": [
+    "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-07-29-13-31-24.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/links.md",
@@ -151,7 +160,6 @@
     "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2022-10-12-07-27-58.md",
     "content/posts/2023-07-29-10-50-54.md",
-    "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2023-03-25-08-24-56.md",
     "content/posts/2023-04-30-01-10-21.md",
