@@ -17,13 +17,7 @@
 9. [为啥俺不常用微博？——兼谈时间管理心得](https://program-think.blogspot.com/2012/02/microblog-and-time-management.html)
 10. [为啥俺要写这个博客——动机的自我分析](https://program-think.blogspot.com/2013/04/why-write-blog.html)
 11. [如何选择 IT 技术书籍](https://program-think.blogspot.com/2009/01/choose-it-book.html)
-###  
-1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
-	1. [扫盲“社会工程学”[1]：攻击手法之【信息收集】](https://program-think.blogspot.com/2009/05/social-engineering-1-gather-information.html)
-	2. [扫盲“社会工程学”[2]：攻击手法之【假冒身份】](https://program-think.blogspot.com/2009/05/social-engineering-2-pretend.html)
-	3. [扫盲“社会工程学”[3]：攻击手法之【施加影响】](https://program-think.blogspot.com/2009/05/social-engineering-3-influence.html)
-	4. [扫盲“社会工程学”[4]：【综合运用】举例](https://program-think.blogspot.com/2009/06/social-engineering-4-example.html)
-	5. [扫盲“社会工程学”[5]：你该如何【防范】？](https://program-think.blogspot.com/2009/07/social-engineering-5-defend.html)
+###  Personal growth
 2. [如何成为优秀开发人员[0]：怎样算是优秀的？](https://program-think.blogspot.com/2009/01/0.html)
 	1. [如何成为优秀开发人员[1]：关于兴趣](https://program-think.blogspot.com/2009/01/1.html)
 	2. [如何成为优秀开发人员[2]：关于自学能力](https://program-think.blogspot.com/2009/01/2.html)
@@ -33,6 +27,14 @@
 	6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
 	7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
 3. [“心智模式”系列：认识你自己——心智模式扫盲介绍](https://program-think.blogspot.com/2010/02/about-mental-model.html)
+
+### New fields
+1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
+	1. [扫盲“社会工程学”[1]：攻击手法之【信息收集】](https://program-think.blogspot.com/2009/05/social-engineering-1-gather-information.html)
+	2. [扫盲“社会工程学”[2]：攻击手法之【假冒身份】](https://program-think.blogspot.com/2009/05/social-engineering-2-pretend.html)
+	3. [扫盲“社会工程学”[3]：攻击手法之【施加影响】](https://program-think.blogspot.com/2009/05/social-engineering-3-influence.html)
+	4. [扫盲“社会工程学”[4]：【综合运用】举例](https://program-think.blogspot.com/2009/06/social-engineering-4-example.html)
+	5. [扫盲“社会工程学”[5]：你该如何【防范】？](https://program-think.blogspot.com/2009/07/social-engineering-5-defend.html)
 4. [扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”](https://program-think.blogspot.com/2019/08/Monetary-Economics.html)
 5. [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
 ### Reading books
