@@ -25,7 +25,26 @@
           "commandId": "obsidian-hover-editor:convert-active-pane-to-popover"
         }
       ],
-      "name": "悬浮",
+      "name": "悬浮 Style Settings",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-quiet-outline:quiet-outline"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hover-editor:convert-active-pane-to-popover"
+        }
+      ],
+      "name": "悬浮 Quiet Outline",
       "icon": "star",
       "startup": false
     }
@@ -35,7 +54,7 @@
     "statusbar": [],
     "leftRibbon": []
   },
-  "spacing": 8,
+  "spacing": "8",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,

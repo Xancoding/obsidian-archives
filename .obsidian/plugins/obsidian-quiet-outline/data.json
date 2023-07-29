@@ -16,6 +16,6 @@
   "auto_expand": true,
   "regex_search": false,
   "ellipsis": true,
-  "label_direction": "top",
+  "label_direction": "left",
   "drag_modify": false
 }
