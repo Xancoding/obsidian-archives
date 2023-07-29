@@ -19,15 +19,15 @@
     2. **[如何挖掘网络资源[2]：Google 搜索的基本语法](https://program-think.blogspot.com/2013/03/internet-resource-discovery-2.html)**
     3. **[如何挖掘网络资源[3]：解答 Google 搜索的常见问题（FAQs）](https://program-think.blogspot.com/2013/03/internet-resource-discovery-3.html)**
 4. Study
-5. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
-6. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
-7. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
-8. [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
-9. [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
-10. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
-11. [为啥俺很少看视频？——兼谈“视频”与“文本”在认知心理学方面的差异](https://program-think.blogspot.com/2017/08/Some-Reasons-to-Watch-Less-Videos.html)
-12. [为啥俺不常用微博？——兼谈时间管理心得](https://program-think.blogspot.com/2012/02/microblog-and-time-management.html)
-13. [为啥俺要写这个博客——动机的自我分析](https://program-think.blogspot.com/2013/04/why-write-blog.html)
+	1. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
+	2. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
+	3. [如何完善自己的知识结构](https://program-think.blogspot.com/2013/09/knowledge-structure.html)
+	4. [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
+	5. [为什么独立思考这么难？](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html)
+5. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
+6. [为啥俺很少看视频？——兼谈“视频”与“文本”在认知心理学方面的差异](https://program-think.blogspot.com/2017/08/Some-Reasons-to-Watch-Less-Videos.html)
+7. [为啥俺不常用微博？——兼谈时间管理心得](https://program-think.blogspot.com/2012/02/microblog-and-time-management.html)
+8. [为啥俺要写这个博客——动机的自我分析](https://program-think.blogspot.com/2013/04/why-write-blog.html)
 
 ### New fields
 1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
