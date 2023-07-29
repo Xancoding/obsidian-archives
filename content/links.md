@@ -29,14 +29,11 @@
 5. [书评：《你的灯亮着吗？——找到问题的真正所在》](https://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html)
 6. [书评：《少有人走的路——心智成熟的旅程》](https://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html)
 ### Technology
-1. [如何翻墙？](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)
-2. [扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”](https://program-think.blogspot.com/2014/01/dns.html)
-3. [计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”](https://program-think.blogspot.com/2021/03/Computer-Networks-Overview.html)
-4. [对比4种强化域名安全的协议——DNSSEC，DNSCrypt，DNS over TLS，DNS over HTTPS](https://program-think.blogspot.com/2018/10/Comparison-of-DNS-Protocols.html)
-5. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html)
-6. [扫盲文件完整性校验——关于散列值和数字签名](https://program-think.blogspot.com/2013/02/file-integrity-check.html)
-7. [扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”](https://program-think.blogspot.com/2019/09/Netcat-Tricks.html)
-8. [扫盲 HTTPS 和 SSL/TLS 协议[0]：引子](https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html)
-9. [扫盲操作系统虚拟机[0]：概述](https://program-think.blogspot.com/2012/10/system-vm-0.html)
+#### 翻墙技术
+- [如何翻墙（全方位入门扫盲）](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)
+- [常见翻墙问题答疑](https://program-think.blogspot.com/2011/09/gfw-faq.html)
+- [获取翻墙软件方法大全](https://program-think.blogspot.com/2011/03/how-to-get-gfw-tools.html)
+- [多台电脑如何共享翻墙通道](https://program-think.blogspot.com/2013/01/cross-host-use-gfw-tool.html)
+- [关于 Tor 的常见问题解答](https://program-think.blogspot.com/2013/11/tor-faq.html)
 
 
