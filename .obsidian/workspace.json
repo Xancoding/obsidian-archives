@@ -30,14 +30,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "d85f9c65da840297",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -141,7 +133,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "933782b71c3b6c75",
   "lastOpenFiles": [
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-07-29-13-31-24.md",
