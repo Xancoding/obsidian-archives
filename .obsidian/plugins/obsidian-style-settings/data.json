@@ -13,5 +13,6 @@
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-cursor": "pointer",
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
-  "anuppuccin-theme-settings@@anp-toggle-scrollbars": false
+  "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
+  "anuppuccin-theme-settings@@anp-list-toggle": false
 }
