@@ -23,8 +23,12 @@
             "id": "933782b71c3b6c75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2022-10-30-15-28-22.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "时间管理",
+                "query": "Obsi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,16 +134,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "f4458bb1b9104e50",
+  "active": "933782b71c3b6c75",
   "lastOpenFiles": [
+    "content/posts/2023-07-29-13-31-24.md",
+    "content/posts/2022-10-12-22-42-04.md",
     "content/links.md",
     "content/about.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "content/archives.md",
     "content/search.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "content/posts/2023-07-29-13-31-24.md",
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2023-05-08-17-40-45.md",
