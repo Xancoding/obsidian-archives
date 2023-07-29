@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiAppleFill",
       "RiSearchLine",
       "RiInboxArchiveLine",
       "RiLink",
-      "RiAccountCircleLine",
-      "RiProfileFill"
+      "RiAccountCircleLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,10 +24,11 @@
   },
   "BOOKS": "RiBook3Fill",
   "content": "RiPenNibFill",
-  "GNN": "RiBallPenFill",
   "content/posts": "RiPenNibFill",
   "content/about.md": "RiAccountCircleLine",
   "content/links.md": "RiLink",
   "content/archives.md": "RiInboxArchiveLine",
-  "content/search.md": "RiSearchLine"
+  "content/search.md": "RiSearchLine",
+  "100 GNN": "RiBallPenFill",
+  "200 LaTex course": "RiAppleFill"
 }
