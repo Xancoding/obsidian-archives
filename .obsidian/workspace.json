@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-30-15-28-22.md",
+                "file": "content/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "933782b71c3b6c75",
+  "active": "dfe4658818116792",
   "lastOpenFiles": [
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-07-29-13-31-24.md",
