@@ -11,10 +11,6 @@
     5. [如何成为优秀开发人员[5]：正确地做事（概述）](https://program-think.blogspot.com/2009/02/5.html)
     6. [如何成为优秀开发人员[6]：正确地做事（善用工具）](https://program-think.blogspot.com/2009/02/6.html)
     7. [如何成为优秀开发人员[7]：正确地做事（善用自动化）](https://program-think.blogspot.com/2009/02/7.html)
-3. [如何挖掘网络资源[0]：为啥要写这个话题？](https://program-think.blogspot.com/2013/03/internet-resource-discovery-0.html)
-    1. [如何挖掘网络资源[1]：网站的类型和使用场景](https://program-think.blogspot.com/2013/03/internet-resource-discovery-1.html)
-    2. **[如何挖掘网络资源[2]：Google 搜索的基本语法](https://program-think.blogspot.com/2013/03/internet-resource-discovery-2.html)**
-    3. **[如何挖掘网络资源[3]：解答 Google 搜索的常见问题（FAQs）](https://program-think.blogspot.com/2013/03/internet-resource-discovery-3.html)**
 4. Study
 	1. [学习技术的三部曲：WHAT、HOW、WHY](https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html)
 	2. [用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲](https://program-think.blogspot.com/2012/03/think-what-how-why.html)
