@@ -1,6 +1,5 @@
 [
   "various-complements",
-  "link-favicon",
   "cm-editor-syntax-highlight-obsidian",
   "quickadd",
   "obsidian-emoji-toolbar",
@@ -12,5 +11,7 @@
   "editing-toolbar",
   "obsidian-quiet-outline",
   "obsidian-style-settings",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "link-favicon",
+  "obsidian-system-dark-mode"
 ]
