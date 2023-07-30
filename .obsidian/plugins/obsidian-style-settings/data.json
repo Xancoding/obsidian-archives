@@ -45,5 +45,7 @@
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": true,
   "anuppuccin-theme-settings@@anp-file-label-align": "0",
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false,
-  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab"
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
+  "anuppuccin-theme-settings@@anp-table-toggle": false,
+  "anuppuccin-theme-settings@@anp-table-width": false
 }
