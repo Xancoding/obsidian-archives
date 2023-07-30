@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiInternetarchive",
       "SiBookstack",
       "📚",
       "SiLibrarything",
-      "SiLatexWhite",
-      "SiApple"
+      "SiLatexWhite"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,6 @@
   "000 BOOKS": "SiBookstack",
   "300 Project": "SiElectron",
   "100 LaTex course": "SiLatexWhite",
-  "200 Research": "SiApple"
+  "200 Research": "SiApple",
+  "400 Archives": "SiInternetarchive"
 }
