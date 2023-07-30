@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8df8c93f2628e12",
+            "id": "aa14fa0fe035e3ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Project/基于OpenAI API自建ChatGPT.md",
-                "mode": "source",
+                "file": "content/links.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Project/基于OpenAI API自建ChatGPT.md",
+                "file": "content/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,11 +120,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c8df8c93f2628e12",
+  "active": "aa14fa0fe035e3ef",
   "lastOpenFiles": [
+    "300 Project/基于OpenAI API自建ChatGPT.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/links.md",
-    "300 Project/基于OpenAI API自建ChatGPT.md",
     "300 Project",
     "100 GNN/Untitled.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
