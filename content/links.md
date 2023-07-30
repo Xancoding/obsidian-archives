@@ -37,5 +37,9 @@
 - [关于 Tor 的常见问题解答](https://program-think.blogspot.com/2013/11/tor-faq.html)
 #### 信息安全
 - [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html)
+	1. 翻墙术
+	2. 匿名术
+	3. 分布式
+	4. 密码学
 - [如何隐藏你的踪迹，避免跨省追捕（系列）](https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html)
 
