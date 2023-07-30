@@ -35,5 +35,8 @@
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
   "anuppuccin-theme-settings@@bold-weight": "600",
   "anuppuccin-theme-settings@@anp-font-preview-wt": "400",
-  "anuppuccin-theme-settings@@anp-header-margin-toggle": false
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
+  "anuppuccin-theme-settings@@anp-background-image-toggle": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false
 }
