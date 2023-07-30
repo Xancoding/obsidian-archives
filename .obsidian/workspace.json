@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -122,8 +121,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "aa14fa0fe035e3ef",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "Untitled",
     "300 Project/基于OpenAI API自建ChatGPT.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/links.md",
@@ -157,7 +157,6 @@
     "content/posts/2023-02-28-20-18-17.md",
     "content/posts/2023-01-31-16-48-25.md",
     "content/posts/2023-04-30-09-48-57.md",
-    "content/posts/2023-04-30-09-25-28.md",
     "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
     "000 BOOKS/算法竞赛",
     "BOOKS/新建文件夹",
