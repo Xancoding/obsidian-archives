@@ -13,12 +13,7 @@
 3. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
 
 ### New fields
-1. [扫盲“社会工程学”[0]：基本常识](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)
-	1. [扫盲“社会工程学”[1]：攻击手法之【信息收集】](https://program-think.blogspot.com/2009/05/social-engineering-1-gather-information.html)
-	2. [扫盲“社会工程学”[2]：攻击手法之【假冒身份】](https://program-think.blogspot.com/2009/05/social-engineering-2-pretend.html)
-	3. [扫盲“社会工程学”[3]：攻击手法之【施加影响】](https://program-think.blogspot.com/2009/05/social-engineering-3-influence.html)
-	4. [扫盲“社会工程学”[4]：【综合运用】举例](https://program-think.blogspot.com/2009/06/social-engineering-4-example.html)
-	5. [扫盲“社会工程学”[5]：你该如何【防范】？](https://program-think.blogspot.com/2009/07/social-engineering-5-defend.html)
+
 4. [扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”](https://program-think.blogspot.com/2019/08/Monetary-Economics.html)
 5. [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
 ### Reading books
