@@ -30,5 +30,6 @@
   "anuppuccin-theme-settings@@anp-custom-checkboxes": false,
   "anuppuccin-theme-settings@@anp-speech-bubble": false,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
-  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "none"
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "none",
+  "anuppuccin-theme-settings@@anp-toggle-preview": false
 }
