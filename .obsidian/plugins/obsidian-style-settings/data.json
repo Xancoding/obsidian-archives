@@ -24,5 +24,6 @@
   "anuppuccin-theme-settings@@anp-hide-borders": false,
   "anuppuccin-theme-settings@@anp-decoration-toggle": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
-  "anuppuccin-theme-settings@@anp-tooltip-toggle": false
+  "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight"
 }
