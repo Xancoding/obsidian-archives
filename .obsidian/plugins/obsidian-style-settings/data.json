@@ -27,7 +27,7 @@
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
-  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": false,
   "anuppuccin-theme-settings@@anp-speech-bubble": false,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
   "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "none",
