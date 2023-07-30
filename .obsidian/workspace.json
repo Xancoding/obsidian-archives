@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -120,7 +121,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dfe4658818116792",
+  "active": "69fa009a26839670",
   "lastOpenFiles": [
     "100 GNN/Untitled.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
