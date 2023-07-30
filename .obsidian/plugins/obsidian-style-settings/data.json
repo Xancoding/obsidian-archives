@@ -8,7 +8,7 @@
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": false,
-  "anuppuccin-theme-settings@@anp-status-bar-select": "none",
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
   "anuppuccin-theme-settings@@anp-cursor": "pointer",
@@ -44,5 +44,6 @@
   "anuppuccin-theme-settings@@anp-floating-header": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": true,
   "anuppuccin-theme-settings@@anp-file-label-align": "0",
-  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab"
 }
