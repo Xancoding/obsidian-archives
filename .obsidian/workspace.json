@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c8df8c93f2628e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Project/ChatGPT.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/links.md",
+                "file": "300 Project/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,11 +133,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "c8df8c93f2628e12",
   "lastOpenFiles": [
-    "Untitled",
-    "100 GNN/Untitled.md",
     "content/links.md",
+    "300 Project/ChatGPT.md",
+    "300 Project",
+    "100 GNN/Untitled.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
     "000 BOOKS/算法竞赛/XCPC.jpg",
     "000 BOOKS/Life&Tech/暗时间.epub",
@@ -160,7 +174,6 @@
     "BOOKS/新建文件夹",
     "BOOKS/新快捷方式.lnk",
     "000 BOOKS/自我探索/5%的改变.epub",
-    "000 BOOKS/自我探索/自卑与超越.epub",
     "GNN/未命名.canvas",
     "200 LaTex course/lena.png",
     "static/img/Headshot.jpg",
