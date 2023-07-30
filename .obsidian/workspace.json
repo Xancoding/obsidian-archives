@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Project/ChatGPT.md",
+                "file": "300 Project/基于OpenAI API自建ChatGPT.md",
                 "mode": "source",
                 "source": true
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 264.5
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Project/ChatGPT.md",
+                "file": "300 Project/基于OpenAI API自建ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,10 +133,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c8df8c93f2628e12",
+  "active": "7a4c84ff515817f8",
   "lastOpenFiles": [
     "content/links.md",
-    "300 Project/ChatGPT.md",
+    "300 Project/基于OpenAI API自建ChatGPT.md",
     "300 Project",
     "100 GNN/Untitled.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
