@@ -27,7 +27,7 @@
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
-  "anuppuccin-theme-settings@@anp-custom-checkboxes": false,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
   "anuppuccin-theme-settings@@anp-speech-bubble": false,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
   "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "none",
@@ -50,5 +50,7 @@
   "anuppuccin-theme-settings@@anp-table-width": false,
   "anuppuccin-theme-settings@@anp-disable-newtab-align": false,
   "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
-  "anuppuccin-theme-settings@@anp-safari-tab-animated": false
+  "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
+  "anuppuccin-theme-settings@@anp-callout-select": "none",
+  "anuppuccin-theme-settings@@anp-callout-fold-position": "0"
 }
