@@ -28,18 +28,5 @@
 4. [书评：《人月神话》——不朽的软件工程名著](https://program-think.blogspot.com/2009/03/book-review-mythical-man-month.html)
 5. [书评：《你的灯亮着吗？——找到问题的真正所在》](https://program-think.blogspot.com/2009/07/book-review-are-your-lights-on.html)
 6. [书评：《少有人走的路——心智成熟的旅程》](https://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html)
-### Technology
-#### 翻墙技术
-- [如何翻墙（全方位入门扫盲）](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)
-- [常见翻墙问题答疑](https://program-think.blogspot.com/2011/09/gfw-faq.html)
-- [获取翻墙软件方法大全](https://program-think.blogspot.com/2011/03/how-to-get-gfw-tools.html)
-- [多台电脑如何共享翻墙通道](https://program-think.blogspot.com/2013/01/cross-host-use-gfw-tool.html)
-- [关于 Tor 的常见问题解答](https://program-think.blogspot.com/2013/11/tor-faq.html)
-#### 信息安全
-- [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html)
-	1. 翻墙术
-	2. 匿名术
-	3. 分布式
-	4. 密码学
-- [如何隐藏你的踪迹，避免跨省追捕（系列）](https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html)
+
 

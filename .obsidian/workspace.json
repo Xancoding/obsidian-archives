@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "03a23dafc52c2bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 Archives/Technology.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/links.md",
+                "file": "400 Archives/Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,12 +134,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "03a23dafc52c2bd8",
   "lastOpenFiles": [
+    "content/links.md",
+    "400 Archives/Technology.md",
     "400 Archives",
     "300 Project/基于OpenAI API自建ChatGPT.md",
     "content/posts/2022-10-12-22-42-04.md",
-    "content/links.md",
     "300 Project",
     "100 GNN/Untitled.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
@@ -161,7 +175,6 @@
     "000 BOOKS/算法竞赛",
     "BOOKS/新建文件夹",
     "BOOKS/新快捷方式.lnk",
-    "000 BOOKS/自我探索/5%的改变.epub",
     "GNN/未命名.canvas",
     "100 LaTex course/lena.png",
     "static/img/Headshot.jpg",
