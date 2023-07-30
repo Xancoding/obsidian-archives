@@ -13,9 +13,8 @@
 3. [什么是【真正的】兴趣爱好？以及它有啥好处？](https://program-think.blogspot.com/2015/12/Hobbies-and-Interests.html)
 
 ### New fields
-
-4. [扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”](https://program-think.blogspot.com/2019/08/Monetary-Economics.html)
-5. [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
+1. [扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”](https://program-think.blogspot.com/2019/08/Monetary-Economics.html)
+2. [博弈论入门教程——从基本概念到具体案例](https://program-think.blogspot.com/2020/11/Game-Theory.html)
 ### Reading books
 1. [如何选择 IT 技术书籍](https://program-think.blogspot.com/2009/01/choose-it-book.html)
 2. [《如何阅读一本书》——书评及内容纲要](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
