@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfe4658818116792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Project/基于OpenAI API自建ChatGPT.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c8df8c93f2628e12",
             "type": "leaf",
             "state": {
@@ -132,7 +120,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "c8df8c93f2628e12",
   "lastOpenFiles": [
     "content/posts/2022-10-12-22-42-04.md",
     "content/links.md",
