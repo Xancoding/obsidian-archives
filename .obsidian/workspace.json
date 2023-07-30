@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/Technology.md",
+                "file": "400 Archives/编程随想Technology.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/Technology.md",
+                "file": "400 Archives/编程随想Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
   "active": "03a23dafc52c2bd8",
   "lastOpenFiles": [
     "content/links.md",
-    "400 Archives/Technology.md",
+    "400 Archives/编程随想Technology.md",
     "400 Archives",
     "300 Project/基于OpenAI API自建ChatGPT.md",
     "content/posts/2022-10-12-22-42-04.md",
