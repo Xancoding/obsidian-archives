@@ -11,11 +11,9 @@
             "id": "dfe4658818116792",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "epub",
               "state": {
-                "file": "100 GNN/Untitled.md",
-                "mode": "source",
-                "source": true
+                "file": "000 BOOKS/Life&Tech/码农翻身.epub"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 GNN/Untitled.md",
+                "file": "000 BOOKS/Life&Tech/码农翻身.epub",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +120,9 @@
   },
   "active": "dfe4658818116792",
   "lastOpenFiles": [
-    "content/posts/2022-10-30-15-28-22.md",
+    "000 BOOKS/AI/神经网络与深度学习.pdf",
     "100 GNN/Untitled.md",
+    "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-03-25-08-24-56.md",
@@ -149,7 +148,6 @@
     "content/posts/2023-01-31-16-48-25.md",
     "content/posts/2023-04-30-09-48-57.md",
     "content/posts/2023-04-30-09-25-28.md",
-    "content/posts/2023-04-30-09-20-36.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
     "000 BOOKS/算法竞赛/XCPC.jpg",
     "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
