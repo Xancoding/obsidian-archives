@@ -5,7 +5,7 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
-  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": false,
   "anuppuccin-theme-settings@@anp-status-bar-select": "none",

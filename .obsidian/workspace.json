@@ -11,9 +11,9 @@
             "id": "dfe4658818116792",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "pdf",
               "state": {
-                "file": "000 BOOKS/Life&Tech/码农翻身.epub"
+                "file": "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 BOOKS/Life&Tech/码农翻身.epub",
+                "file": "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,9 @@
   },
   "active": "dfe4658818116792",
   "lastOpenFiles": [
+    "000 BOOKS/算法竞赛/XCPC.jpg",
+    "000 BOOKS/Life&Tech/暗时间.epub",
+    "000 BOOKS/Life&Tech/码农翻身.epub",
     "000 BOOKS/AI/神经网络与深度学习.pdf",
     "100 GNN/Untitled.md",
     "content/posts/2022-10-30-15-28-22.md",
@@ -149,16 +152,12 @@
     "content/posts/2023-04-30-09-48-57.md",
     "content/posts/2023-04-30-09-25-28.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
-    "000 BOOKS/算法竞赛/XCPC.jpg",
     "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
     "000 BOOKS/算法竞赛",
     "BOOKS/新建文件夹",
     "BOOKS/新快捷方式.lnk",
     "000 BOOKS/自我探索/5%的改变.epub",
     "000 BOOKS/自我探索/自卑与超越.epub",
-    "000 BOOKS/自我探索",
-    "BOOKS/5%的改变.epub",
-    "BOOKS/Unconfirmed 473317.crdownload",
     "GNN/未命名.canvas",
     "200 LaTex course/lena.png",
     "static/img/Headshot.jpg",
