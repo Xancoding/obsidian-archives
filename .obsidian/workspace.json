@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/Research.md",
+                "file": "content/posts/2023-01-31-16-48-25.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "总结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/Research.md",
+                "file": "content/posts/2023-01-31-16-48-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,13 +122,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "2655edb75292e334",
   "lastOpenFiles": [
+    "content/posts/2023-07-31-09-47-50.md",
+    "content/posts/2023-01-31-16-48-25.md",
+    "200 Research/Research.md",
     "400 Archives/编程随想Technology.md",
     "300 Project/XChat.md",
     "100 LaTex course/Doc1.pdf",
     "100 LaTex course/lena.png",
-    "200 Research/Research.md",
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2023-07-29-13-31-24.md",
     "content/posts/2022-10-12-22-42-04.md",
@@ -158,7 +161,6 @@
     "content/posts/2023-04-24-14-17-47.md",
     "content/posts/2023-04-30-01-10-21.md",
     "content/posts/2023-03-31-08-14-17.md",
-    "content/posts/2023-02-28-20-18-17.md",
     "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
     "000 BOOKS/算法竞赛",
     "BOOKS/新建文件夹",
