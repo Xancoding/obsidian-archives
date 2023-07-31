@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-01-15-12-42-38.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-01-15-12-42-38.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,12 +146,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8ef58c8b9ff4c045",
+  "active": "68bb04ae87faff06",
   "lastOpenFiles": [
+    "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-07-29-10-50-54.md",
-    "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2023-07-29-13-46-38.md",
     "content/posts/2023-07-31-09-47-50.md",
