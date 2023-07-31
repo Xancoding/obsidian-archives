@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/综合测评.md",
+                "file": "300 Project/XChat.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/综合测评.md",
+                "file": "300 Project/XChat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,9 @@
   },
   "active": "8ef58c8b9ff4c045",
   "lastOpenFiles": [
-    "content/posts/2023-01-31-16-48-25.md",
+    "400 Archives/School.md",
     "400 Archives/综合测评.md",
+    "content/posts/2023-01-31-16-48-25.md",
     "content/posts/2023-07-31-09-47-50.md",
     "200 Research/Research.md",
     "400 Archives/编程随想Technology.md",
@@ -172,7 +173,6 @@
     "content/posts/2022-10-14-16-07-09.md",
     "content/posts/2023-05-08-17-40-45.md",
     "content/posts/2023-04-24-14-17-47.md",
-    "content/posts/2023-04-30-01-10-21.md",
     "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
     "000 BOOKS/算法竞赛",
     "BOOKS/新建文件夹",
