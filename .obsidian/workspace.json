@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8ef58c8b9ff4c045",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
     "400 Archives/School.md",
     "400 Archives/综合测评.md",
