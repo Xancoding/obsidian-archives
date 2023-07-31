@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Project/README.md.md",
+                "file": "300 Project/Requirement.txt.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Project/README.md.md",
+                "file": "300 Project/Requirement.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,9 @@
   },
   "active": "2655edb75292e334",
   "lastOpenFiles": [
-    "300 Project/XChat.md",
     "300 Project/README.md.md",
+    "300 Project/Requirement.txt.md",
+    "300 Project/XChat.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2023-07-31-09-47-50.md",
     "content/posts/2023-01-31-16-48-25.md",
@@ -159,7 +160,6 @@
     "content/search.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "content/posts/2022-10-14-16-07-09.md",
     "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
     "000 BOOKS/算法竞赛",
     "BOOKS/新建文件夹",
