@@ -1,6 +1,7 @@
 # Run
 ## Requirement 
 1. Python 3.8
-2. OpenAI
-3. Gradio
-4. 
+2. k
+3. OpenAI
+4. Gradio
+5. 
