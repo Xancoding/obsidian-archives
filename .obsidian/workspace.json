@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/100 机器学习相关基础知识.md",
-                "mode": "source",
+                "file": "200 Research/000 图表.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/100 机器学习相关基础知识.md",
+                "file": "200 Research/000 图表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,12 @@
   },
   "active": "43e6b710b2351fe1",
   "lastOpenFiles": [
-    "200 Research/GNN完整学习路线.md",
+    "200 Research/000 学习资料.md",
+    "200 Research/000 图表.md",
+    "200 Research/GNN科研入门路线.md",
     "200 Research/000 研究方向.md",
     "200 Research/100 机器学习相关基础知识.md",
-    "200 Research/000 学习资料.md",
-    "200 Research/GNN科研入门路线.md",
+    "200 Research/GNN完整学习路线.md",
     "content/posts/2023-07-31-09-47-50.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2023-07-29-13-46-38.md",
@@ -163,7 +164,6 @@
     "100 LaTex course/Doc1.pdf",
     "100 LaTex course/lena.png",
     "content/about.md",
-    "content/links.md",
     "400 Archives",
     "300 Project",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
