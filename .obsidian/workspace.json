@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-07-29-13-46-38.md",
-                "mode": "preview",
+                "file": "400 Archives/AcademicGPT.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "89fd14b0b97af5c8",
+            "id": "8fa3e3fce6055db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Project/XChat.md",
+                "file": "content/posts/2023-07-29-13-46-38.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-07-29-13-46-38.md",
+                "file": "400 Archives/AcademicGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,13 +136,14 @@
   },
   "active": "7a51d494f2a75e13",
   "lastOpenFiles": [
-    "300 Project/XChat.md",
     "content/posts/2023-07-29-13-46-38.md",
     "content/posts/2023-01-15-12-42-38.md",
-    "content/posts/2022-10-29-18-23-59.md",
-    "content/posts/2022-10-14-16-07-09.md",
+    "400 Archives/AcademicGPT.md",
+    "300 Project/XChat.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-12-07-27-58.md",
+    "content/posts/2022-10-29-18-23-59.md",
+    "content/posts/2022-10-14-16-07-09.md",
     "200 Research/000 研究方向.md",
     "300 Project/Requirement.txt.md",
     "200 Research/000 学习资料.md",
@@ -160,7 +162,6 @@
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2023-07-29-13-31-24.md",
     "content/posts/2022-10-30-15-28-22.md",
-    "content/posts/2023-01-31-16-48-25.md",
     "100 LaTex course/Doc1.pdf",
     "100 LaTex course/lena.png",
     "400 Archives",
