@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "6d1b9550d1e72ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c32bbc29d26bbfac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a51d494f2a75e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-07-29-13-46-38.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "89fd14b0b97af5c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Project/XChat.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9feb1ab4d25dd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35f95d665247ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d44a19e1addf462f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bd55110e08c1ff7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Outside",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f119850be0418c7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "c7a3f6f8cbc7f3ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b71d0eab51c518c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9810e666c1211bd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "300 Project/XChat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbb188f5da4aa05a",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "89fd14b0b97af5c8",
+  "lastOpenFiles": [
+    "content/posts/2023-07-29-13-46-38.md",
+    "content/posts/2023-01-15-12-42-38.md",
+    "content/posts/2022-10-29-18-23-59.md",
+    "content/posts/2022-10-14-16-07-09.md",
+    "content/posts/2022-10-12-22-42-04.md",
+    "content/posts/2022-10-12-07-27-58.md",
+    "200 Research/000 研究方向.md",
+    "300 Project/Requirement.txt.md",
+    "200 Research/000 学习资料.md",
+    "200 Research/000 图表.md",
+    "200 Research/GNN科研入门路线.md",
+    "200 Research/100 机器学习相关基础知识.md",
+    "200 Research/GNN完整学习路线.md",
+    "content/posts/2023-07-31-09-47-50.md",
+    "400 Archives/School.md",
+    "400 Archives/综合测评.md",
+    "400 Archives/编程随想Technology.md",
+    "300 Project/XChat.md",
+    "300 Project/README.md.md",
+    "400 Archives/Birthday.md",
+    "content/posts/2023-04-02-18-00-40.md",
+    "content/posts/2023-07-29-10-50-54.md",
+    "content/posts/2022-11-14-15-56-45.md",
+    "content/posts/2023-07-29-13-31-24.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2023-01-31-16-48-25.md",
+    "100 LaTex course/Doc1.pdf",
+    "100 LaTex course/lena.png",
+    "400 Archives",
+    "300 Project",
+    "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
+    "000 BOOKS/算法竞赛/XCPC.jpg",
+    "000 BOOKS/Life&Tech/暗时间.epub",
+    "000 BOOKS/Life&Tech/码农翻身.epub",
+    "000 BOOKS/AI/神经网络与深度学习.pdf",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
+    "000 BOOKS/算法竞赛",
+    "BOOKS/新建文件夹",
+    "GNN/未命名.canvas",
+    "static/img/Headshot.jpg",
+    "BOOKS/XCPC.jpg",
+    "public/img/Headshot/007.jpg",
+    "public/img/Headshot/006.jpg",
+    "public/img/Headshot/005.jpg",
+    "public/img/Headshot/004.jpg",
+    "public/img/Headshot/003.jpg",
+    "public/img/Headshot/001.jpg"
+  ]
+}
