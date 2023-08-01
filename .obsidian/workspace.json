@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/GNN完整学习路线.md",
-                "mode": "preview",
+                "file": "200 Research/Research.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/GNN完整学习路线.md",
+                "file": "200 Research/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,8 @@
   },
   "active": "43e6b710b2351fe1",
   "lastOpenFiles": [
+    "200 Research/研究方向.md",
+    "200 Research/GNN科研入门路线.md",
     "200 Research/Research.md",
     "200 Research/GNN完整学习路线.md",
     "content/posts/2023-07-31-09-47-50.md",
@@ -164,13 +166,11 @@
     "archetypes/default.md",
     "400 Archives",
     "300 Project",
-    "100 GNN/Untitled.md",
     "000 BOOKS/算法竞赛/算法竞赛进阶指南.pdf",
     "000 BOOKS/算法竞赛/XCPC.jpg",
     "000 BOOKS/Life&Tech/暗时间.epub",
     "000 BOOKS/Life&Tech/码农翻身.epub",
     "000 BOOKS/AI/神经网络与深度学习.pdf",
-    "content/posts/2022-10-29-18-23-59.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "000 BOOKS/算法竞赛/[Tutorial] A Way to Practice Competitive Programming.pdf",
