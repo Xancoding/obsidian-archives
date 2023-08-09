@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/8 月.md",
-                "mode": "preview",
+                "file": "content/posts/2023-08-09-09-25-09.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "content/posts/2023-08-09-09-25-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,11 +123,12 @@
   },
   "active": "7a51d494f2a75e13",
   "lastOpenFiles": [
+    "400 Archives/8 月.md",
+    "content/posts/2023-08-09-09-25-09.md",
     "400 Archives/Birthday.md",
     "400 Archives/综合测评.md",
     "400 Archives/编程随想Technology.md",
     "400 Archives/School.md",
-    "400 Archives/8 月.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-01-15-12-42-38.md",
@@ -150,7 +151,6 @@
     "content/posts/2022-10-14-16-07-09.md",
     "200 Research/000 研究方向.md",
     "200 Research/000 学习资料.md",
-    "200 Research/000 图表.md",
     "100 LaTex course/Doc1.pdf",
     "100 LaTex course/lena.png",
     "400 Archives",
