@@ -12,3 +12,10 @@ url: 'https://www.cnblogs.com/nickchen121/p/11686958.html'
 ## Highlights
 - B-线性代数-距离公式汇总
 
+
+- Tags:
+
+- B-概率论-熵和信息增益
+
+- B-概率论-熵和信息增益
+
