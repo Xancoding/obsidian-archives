@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/如何找模型？.md",
+                "file": "200 Research/如何定基准模型？.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/如何找模型？.md",
+                "file": "200 Research/如何定基准模型？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
   "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
     "200 Research/100 机器学习相关基础知识.md",
-    "200 Research/如何找模型？.md",
+    "200 Research/如何定基准模型？.md",
     "200 Research/000 图表.md",
     "400 Archives/8 月.md",
     "500 Hypothesis/B-概率论-常见的概率分布模型 - 水论文的程序猿 - 博客园.md",
