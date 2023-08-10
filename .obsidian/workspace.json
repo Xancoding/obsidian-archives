@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "200 Research/000 学习资料.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "200 Research/000 学习资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
+    "400 Archives/8 月.md",
     "000 BOOKS/ML/机器学习西瓜书.pdf",
     "000 BOOKS/ML/机器学习西瓜书🍉.pdf",
     "000 BOOKS/ML/机器学习西瓜书🍉周志华.pdf",
@@ -134,14 +135,12 @@
     "000 BOOKS/ML",
     "000 BOOKS/AI/统计学习方法(李航).pdf",
     "000 BOOKS/AI/神经网络与深度学习.pdf",
-    "000 BOOKS/AI/机器学习吴恩达.pdf",
     "200 Research/GNN科研入门路线.md",
     "200 Research/GNN完整学习路线.md",
     "200 Research/如何定基准模型？.md",
     "200 Research/000 学习资料.md",
     "200 Research/100 机器学习相关基础知识.md",
     "200 Research/000 图表.md",
-    "400 Archives/8 月.md",
     "500 Hypothesis/B-概率论-常见的概率分布模型 - 水论文的程序猿 - 博客园.md",
     "400 Archives/Birthday.md",
     "500 Hypothesis/人工智能从入门到放弃-Sklearn实战（目录） - 水论文的程序猿 - 博客园.md",
