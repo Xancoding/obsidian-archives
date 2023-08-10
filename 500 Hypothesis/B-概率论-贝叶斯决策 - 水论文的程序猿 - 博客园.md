@@ -23,3 +23,8 @@ url: 'https://www.cnblogs.com/nickchen121/p/11686765.html'
 
 - 标准化常量，也可以理解成一般情况下B发生的概率
 
+
+- Tags:
+
+- 似然度，A假设条件成立的情况发生B的概率
+
