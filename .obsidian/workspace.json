@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
+                "file": "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
+                "file": "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +122,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "7a51d494f2a75e13",
   "lastOpenFiles": [
+    "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
     "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
     "400 Archives/8 月.md",
-    "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",
