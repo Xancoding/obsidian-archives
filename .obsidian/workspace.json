@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/000 研究方向.md",
+                "file": "200 Research/如何定基准模型？.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "综述",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/000 研究方向.md",
+                "file": "200 Research/如何定基准模型？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +125,17 @@
   },
   "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
+    "400 Archives/8 月.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "200 Research/如何定基准模型？.md",
+    "200 Research/000 学习资料.md",
+    "200 Research/000 研究方向.md",
     "200 Research/入门过程.md",
     "000 BOOKS/ML/深度学习-花书.pdf",
     "000 BOOKS/ML/Deep-Learning花书-《深度学习》-中文版.pdf",
     "000 BOOKS/ML/机器学习-吴恩达.pdf",
     "000 BOOKS/ML/图解深度学习.pdf",
     "000 BOOKS/ML/机器学习-西瓜书.pdf",
-    "400 Archives/8 月.md",
-    "200 Research/如何定基准模型？.md",
-    "200 Research/000 学习资料.md",
     "000 BOOKS/ML/机器学习西瓜书.pdf",
     "000 BOOKS/ML/机器学习西瓜书🍉.pdf",
     "000 BOOKS/ML/机器学习西瓜书🍉周志华.pdf",
@@ -147,7 +150,6 @@
     "500 Hypothesis/人工智能从入门到放弃-Sklearn实战（目录） - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/B-概率论-贝叶斯决策 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/导师不敢和你说的水论文隐藏技巧，只教你水论文 - 水论文的程序猿 - 博客园.md",
-    "content/posts/2022-10-30-15-28-22.md",
     "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/B-概率论-极大似然估计 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/A-08 拉格朗日对偶性 - 水论文的程序猿 - 博客园.md",
