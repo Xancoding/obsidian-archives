@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
+                "file": "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
+                "file": "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
   },
   "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
-    "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
+    "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
     "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2022-10-30-15-28-22.md",
