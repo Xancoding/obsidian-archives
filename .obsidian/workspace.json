@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/8 月.md",
-                "mode": "preview",
+                "file": "200 Research/如何找模型？.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "200 Research/如何找模型？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,10 +124,13 @@
   },
   "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
+    "200 Research/100 机器学习相关基础知识.md",
+    "200 Research/如何找模型？.md",
+    "200 Research/000 图表.md",
+    "400 Archives/8 月.md",
     "500 Hypothesis/B-概率论-常见的概率分布模型 - 水论文的程序猿 - 博客园.md",
     "400 Archives/Birthday.md",
     "500 Hypothesis/人工智能从入门到放弃-Sklearn实战（目录） - 水论文的程序猿 - 博客园.md",
-    "400 Archives/8 月.md",
     "500 Hypothesis/B-概率论-贝叶斯决策 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/导师不敢和你说的水论文隐藏技巧，只教你水论文 - 水论文的程序猿 - 博客园.md",
     "content/posts/2022-10-30-15-28-22.md",
@@ -161,9 +164,6 @@
     "000 BOOKS/Life/影响力.epub",
     "000 BOOKS/Life/情绪急救.epub",
     "000 BOOKS/Life/可能性的艺术.epub",
-    "400 Archives/综合测评.md",
-    "400 Archives/编程随想Technology.md",
-    "400 Archives/School.md",
     "000 BOOKS/C++/STL源码剖析.pdf",
     "000 BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "100 LaTex course/Doc1.pdf",
