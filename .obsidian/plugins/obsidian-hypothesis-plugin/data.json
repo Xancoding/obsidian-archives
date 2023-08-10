@@ -8,9 +8,25 @@
   "autoSyncInterval": 2,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 0,
-    "totalHighlights": 0
+    "totalArticles": 2,
+    "totalHighlights": 9
   },
-  "groups": [],
-  "useDomainFolders": false
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    },
+    {
+      "id": "mZmgJy78",
+      "name": "Digital Garden",
+      "public": false,
+      "type": "private",
+      "selected": true
+    }
+  ],
+  "useDomainFolders": false,
+  "lastSyncDate": "2023-08-10T02:51:43.404Z"
 }

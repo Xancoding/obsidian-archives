@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Chrome",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,14 +122,26 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "7a51d494f2a75e13",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
+    "400 Archives/8 月.md",
+    "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
+    "static/img/Headshot/003.jpg",
+    "static/img/Headshot/002.jpg",
+    "static/img/Headshot/004.jpg",
+    "static/img/Headshot/005.jpg",
+    "static/img/Headshot/007.jpg",
+    "static/img/Headshot/008.jpg",
+    "static/img/wechat.jpg",
+    "static/img/Headshot.jpg",
+    "static/img/Headshot/001.jpg",
+    "archetypes/default.md",
     "content/posts/2022-10-30-15-28-22.md",
     "500 Hypothesis",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-07-29-13-46-38.md",
     "content/posts/2023-01-15-12-42-38.md",
-    "400 Archives/8 月.md",
     "content/posts/2023-08-09-09-25-09.md",
     "000 BOOKS/Linux C++/Linux C 一站式学习.epub",
     "000 BOOKS/Life/影响力.epub",
@@ -154,23 +166,12 @@
     "000 BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "content/posts/2022-10-12-07-27-58.md",
     "content/posts/2022-10-29-18-23-59.md",
-    "content/posts/2022-10-14-16-07-09.md",
-    "200 Research/000 研究方向.md",
     "100 LaTex course/Doc1.pdf",
     "100 LaTex course/lena.png",
     "400 Archives",
     "300 Project",
-    "000 BOOKS/算法竞赛/XCPC.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
-    "GNN/未命名.canvas",
-    "static/img/Headshot.jpg",
-    "BOOKS/XCPC.jpg",
-    "public/img/Headshot/007.jpg",
-    "public/img/Headshot/006.jpg",
-    "public/img/Headshot/005.jpg",
-    "public/img/Headshot/004.jpg",
-    "public/img/Headshot/003.jpg",
-    "public/img/Headshot/001.jpg"
+    "GNN/未命名.canvas"
   ]
 }
