@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
+                "file": "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
+                "file": "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,10 @@
   },
   "active": "7a51d494f2a75e13",
   "lastOpenFiles": [
-    "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
     "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
+    "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
     "400 Archives/8 月.md",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
@@ -137,7 +139,6 @@
     "static/img/Headshot.jpg",
     "static/img/Headshot/001.jpg",
     "archetypes/default.md",
-    "content/posts/2022-10-30-15-28-22.md",
     "500 Hypothesis",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-07-29-13-46-38.md",
@@ -165,7 +166,6 @@
     "000 BOOKS/C++/STL源码剖析.pdf",
     "000 BOOKS/C++/后台开发：核心技术与应用实践.epub",
     "content/posts/2022-10-12-07-27-58.md",
-    "content/posts/2022-10-29-18-23-59.md",
     "100 LaTex course/Doc1.pdf",
     "100 LaTex course/lena.png",
     "400 Archives",
