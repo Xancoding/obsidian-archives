@@ -19,3 +19,10 @@ url: 'https://www.cnblogs.com/nickchen121/p/11686958.html'
 
 - B-概率论-熵和信息增益
 
+
+- Tags:
+
+- B-线性代数-范数
+
+- B-概率论-贝叶斯决策
+
