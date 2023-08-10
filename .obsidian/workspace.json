@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7a51d494f2a75e13",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
     "content/posts/2023-08-09-09-25-09.md",
     "000 BOOKS/Linux C++/Linux C 一站式学习.epub",
