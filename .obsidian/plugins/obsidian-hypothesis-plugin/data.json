@@ -5,7 +5,7 @@
   "isConnected": true,
   "template": "{% if is_new_article %}# {{title}}\n## Metadata\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #source/article🗞{% endif %}\n- Tags:\n{% if is_new_article -%}## Highlights{%- endif %}\n{% for highlight in highlights -%}- {{highlight.text}}\n{% if highlight.tags | length %}   - Tags: {% for tag in highlight.tags -%}#{{tag| replace(\" \", \"-\")}} {%- endfor %}{%- endif %}\n{% if highlight.annotation %}   - Annotation: {{highlight.annotation}}{%- endif -%}{%- endfor -%}\n",
   "syncOnBoot": true,
-  "autoSyncInterval": 0,
+  "autoSyncInterval": 2,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
     "totalArticles": 0,
