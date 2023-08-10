@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2aaf4b009eeba717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2022-11-02-15-49-03.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +136,11 @@
   },
   "active": "7a51d494f2a75e13",
   "lastOpenFiles": [
-    "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
-    "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
+    "content/posts/2022-11-02-15-49-03.md",
+    "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2022-10-30-15-28-22.md",
+    "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
+    "500 Hypothesis/A-01 最小二乘法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
     "400 Archives/8 月.md",
     "static/img/Headshot/003.jpg",
@@ -152,7 +166,6 @@
     "400 Archives/综合测评.md",
     "400 Archives/编程随想Technology.md",
     "400 Archives/School.md",
-    "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2023-07-29-10-50-54.md",
     "content/posts/2023-07-31-09-47-50.md",
     "content/posts/2023-08-01-15-23-39.md",
@@ -165,7 +178,6 @@
     "400 Archives/AcademicGPT.md",
     "000 BOOKS/C++/STL源码剖析.pdf",
     "000 BOOKS/C++/后台开发：核心技术与应用实践.epub",
-    "content/posts/2022-10-12-07-27-58.md",
     "100 LaTex course/Doc1.pdf",
     "100 LaTex course/lena.png",
     "400 Archives",
