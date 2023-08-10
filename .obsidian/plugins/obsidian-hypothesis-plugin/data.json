@@ -9,7 +9,7 @@
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
     "totalArticles": 4,
-    "totalHighlights": 24
+    "totalHighlights": 25
   },
   "groups": [
     {
@@ -28,5 +28,5 @@
     }
   ],
   "useDomainFolders": false,
-  "lastSyncDate": "2023-08-10T04:18:35.443Z"
+  "lastSyncDate": "2023-08-10T04:20:36.023Z"
 }
