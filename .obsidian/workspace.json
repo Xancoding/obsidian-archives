@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/GNN科研入门路线.md",
+                "file": "400 Archives/8 月.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/GNN科研入门路线.md",
+                "file": "400 Archives/8 月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
+    "200 Research/GNN科研入门路线.md",
     "200 Research/GNN完整学习路线.md",
     "200 Research/如何定基准模型？.md",
     "200 Research/000 学习资料.md",
@@ -159,7 +160,6 @@
     "archetypes/default.md",
     "500 Hypothesis",
     "content/posts/2022-10-12-22-42-04.md",
-    "content/posts/2023-07-29-13-46-38.md",
     "000 BOOKS/Linux C++/Linux C 一站式学习.epub",
     "000 BOOKS/Life/影响力.epub",
     "000 BOOKS/Life/情绪急救.epub",
