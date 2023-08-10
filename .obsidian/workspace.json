@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "fc1a230ccac716ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2022-10-12-22-42-04.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chrome",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-12-22-42-04.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +121,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fc1a230ccac716ef",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "content/posts/2023-07-29-13-46-38.md",
     "content/posts/2022-10-12-22-42-04.md",
+    "content/posts/2023-07-29-13-46-38.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-01-15-12-42-38.md",
     "400 Archives/8 月.md",
