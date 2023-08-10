@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/GNN完整学习路线.md",
-                "mode": "preview",
+                "file": "600 Workout/Expense.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Workout/饮食计划.md",
+                "file": "600 Workout/Expense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +134,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c8cd7d6f3ee05457",
+  "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
-    "600 Workout/Expense.md",
-    "600 Workout/饮食计划.md",
     "200 Research/GNN完整学习路线.md",
+    "600 Workout/饮食计划.md",
+    "600 Workout/Expense.md",
     "600 健身/Untitled.canvas",
     "600 Workout",
     "200 Research/100 机器学习相关基础知识.md",
