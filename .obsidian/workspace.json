@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/如何定基准模型？.md",
+                "file": "200 Research/000 研究方向.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "综述",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/如何定基准模型？.md",
+                "file": "200 Research/000 研究方向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,12 +124,12 @@
   },
   "active": "2aaf4b009eeba717",
   "lastOpenFiles": [
+    "200 Research/000 学习资料.md",
+    "200 Research/入门过程.md",
+    "200 Research/如何定基准模型？.md",
     "400 Archives/8 月.md",
     "content/posts/2022-10-30-15-28-22.md",
-    "200 Research/如何定基准模型？.md",
-    "200 Research/000 学习资料.md",
     "200 Research/000 研究方向.md",
-    "200 Research/入门过程.md",
     "000 BOOKS/ML/深度学习-花书.pdf",
     "000 BOOKS/ML/Deep-Learning花书-《深度学习》-中文版.pdf",
     "000 BOOKS/ML/机器学习-吴恩达.pdf",
