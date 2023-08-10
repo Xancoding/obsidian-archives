@@ -28,3 +28,10 @@ url: 'https://www.cnblogs.com/nickchen121/p/11686765.html'
 
 - 似然度，A假设条件成立的情况发生B的概率
 
+
+- Tags:
+
+- 简写的贝叶斯公式
+
+- 完整的贝叶斯公式
+
