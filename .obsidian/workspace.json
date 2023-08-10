@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fc1a230ccac716ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2022-10-12-22-42-04.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "chrome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "content/posts/2022-10-12-22-42-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,24 +135,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "fc1a230ccac716ef",
   "lastOpenFiles": [
+    "content/posts/2023-07-29-13-46-38.md",
+    "content/posts/2022-10-12-22-42-04.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2023-01-15-12-42-38.md",
+    "400 Archives/8 月.md",
     "content/posts/2023-08-09-09-25-09.md",
     "000 BOOKS/Linux C++/Linux C 一站式学习.epub",
     "000 BOOKS/Life/影响力.epub",
     "000 BOOKS/Life/情绪急救.epub",
     "000 BOOKS/Life/可能性的艺术.epub",
-    "400 Archives/8 月.md",
     "400 Archives/Birthday.md",
     "400 Archives/综合测评.md",
     "400 Archives/编程随想Technology.md",
     "400 Archives/School.md",
-    "content/posts/2022-10-12-22-42-04.md",
-    "content/posts/2022-10-30-15-28-22.md",
-    "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2023-07-29-10-50-54.md",
-    "content/posts/2023-07-29-13-46-38.md",
     "content/posts/2023-07-31-09-47-50.md",
     "content/posts/2023-08-01-15-23-39.md",
     "content/posts/2023-08-01-18-42-11.md",
