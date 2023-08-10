@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 Workout/Expense.md",
+                "file": "600 Workout/饮食计划.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Workout/Expense.md",
+                "file": "600 Workout/饮食计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,9 @@
   },
   "active": "c8cd7d6f3ee05457",
   "lastOpenFiles": [
-    "200 Research/GNN完整学习路线.md",
     "600 Workout/Expense.md",
+    "600 Workout/饮食计划.md",
+    "200 Research/GNN完整学习路线.md",
     "600 健身/Untitled.canvas",
     "600 Workout",
     "200 Research/100 机器学习相关基础知识.md",
@@ -173,7 +174,6 @@
     "500 Hypothesis/A-03 牛顿法和拟牛顿法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
-    "content/posts/2022-11-02-15-49-03.md",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",
