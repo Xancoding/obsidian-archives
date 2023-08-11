@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/期刊 会议.md",
+                "file": "600 Workout/饮食计划.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/期刊 会议.md",
+                "file": "600 Workout/饮食计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,13 @@
   },
   "active": "c8cd7d6f3ee05457",
   "lastOpenFiles": [
+    "600 Workout/Expense.md",
     "600 Workout/饮食计划.md",
+    "200 Research/入门过程.md",
     "200 Research/期刊 会议.md",
     "600 Workout/Untitled.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "content/posts/2022-10-12-22-42-04.md",
-    "600 Workout/Expense.md",
     "200 Research/GNN完整学习路线.md",
     "600 健身/Untitled.canvas",
     "600 Workout",
@@ -137,7 +138,6 @@
     "200 Research/000 学习资料.md",
     "200 Research/000 图表.md",
     "200 Research/000 研究方向.md",
-    "200 Research/入门过程.md",
     "200 Research/如何定基准模型？.md",
     "400 Archives/8 月.md",
     "content/posts/2022-10-30-15-28-22.md",
