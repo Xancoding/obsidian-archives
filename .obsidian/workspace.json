@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "4f394d83f8aba083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2022-10-12-22-42-04.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chrome",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-12-22-42-04.md",
+                "file": "600 Workout/饮食计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +122,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "4f394d83f8aba083",
+  "active": "c8cd7d6f3ee05457",
   "lastOpenFiles": [
+    "000 BOOKS/自我探索/性学入门.epub",
+    "content/posts/2022-10-12-22-42-04.md",
     "600 Workout/饮食计划.md",
     "600 Workout/Expense.md",
     "200 Research/GNN完整学习路线.md",
@@ -173,8 +161,6 @@
     "500 Hypothesis/A-05 前向选择法和前向梯度法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/A-04 坐标轴下降法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/A-03 牛顿法和拟牛顿法 - 水论文的程序猿 - 博客园.md",
-    "500 Hypothesis/A-02 梯度下降法 - 水论文的程序猿 - 博客园.md",
-    "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",
