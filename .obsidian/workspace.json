@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 Workout/饮食计划.md",
-                "mode": "preview",
+                "file": "200 Research/期刊 会议.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Workout/饮食计划.md",
+                "file": "200 Research/期刊 会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,9 @@
   },
   "active": "c8cd7d6f3ee05457",
   "lastOpenFiles": [
-    "600 Workout/Untitled.md",
     "600 Workout/饮食计划.md",
+    "200 Research/期刊 会议.md",
+    "600 Workout/Untitled.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "content/posts/2022-10-12-22-42-04.md",
     "600 Workout/Expense.md",
@@ -160,7 +161,6 @@
     "500 Hypothesis/A-06 最小角回归法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/A-05 前向选择法和前向梯度法 - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/A-04 坐标轴下降法 - 水论文的程序猿 - 博客园.md",
-    "500 Hypothesis/A-03 牛顿法和拟牛顿法 - 水论文的程序猿 - 博客园.md",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",
