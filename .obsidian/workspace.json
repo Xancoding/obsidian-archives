@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/2022-10-12-22-42-04.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Chrome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Workout/饮食计划.md",
+                "file": "content/posts/2022-10-12-22-42-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,11 +136,19 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c8cd7d6f3ee05457",
+  "active": "ef8bbbc6ba6a3e15",
   "lastOpenFiles": [
-    "600 Workout/Expense.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2023-07-29-13-46-38.md",
+    "content/posts/2022-10-12-22-42-04.md",
     "content/about.md",
     "600 Workout/饮食计划.md",
+    "500 Hypothesis/中国之贪  人生随笔.md",
+    "500 Hypothesis/教育的功利性  人生随笔.md",
+    "500 Hypothesis/中国的大国智慧  人生随笔.md",
+    "500 Hypothesis/新定居点  人生随笔.md",
+    "500 Hypothesis/爱你的国家  人生随笔.md",
+    "600 Workout/Expense.md",
     "500 Hypothesis/一切都是可以理解的  人生随笔.md",
     "500 Hypothesis/关于断供潮的思考  人生随笔.md",
     "500 Hypothesis/俄罗斯的阿喀琉斯之踵  人生随笔.md",
@@ -154,15 +164,7 @@
     "500 Hypothesis/你一定要知道的成功真相  人生随笔.md",
     "500 Hypothesis/与我同行  人生随笔.md",
     "500 Hypothesis/活在当下  人生随笔.md",
-    "500 Hypothesis/拒绝毒品  人生随笔.md",
-    "500 Hypothesis/政治改革：“中国模式”的难题.md",
-    "500 Hypothesis/也谈梦想  人生随笔.md",
-    "200 Research/入门过程.md",
-    "200 Research/期刊 会议.md",
-    "600 Workout/Untitled.md",
     "000 BOOKS/自我探索/性学入门.epub",
-    "content/posts/2022-10-12-22-42-04.md",
-    "200 Research/GNN完整学习路线.md",
     "600 健身/Untitled.canvas",
     "600 Workout",
     "000 BOOKS/ML/深度学习-花书.pdf",
