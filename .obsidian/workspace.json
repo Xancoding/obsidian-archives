@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 Workout/饮食计划.md",
-                "mode": "preview",
+                "file": "700 Spare time/Movies.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Workout/饮食计划.md",
+                "file": "700 Spare time/Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,9 @@
   },
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
+    "600 Workout/饮食计划.md",
+    "700 Spare time/Movies.md",
+    "700 Spare time",
     "600 Workout/Expense.md",
     "500 Hypothesis/中国之贪  人生随笔.md",
     "content/posts/2023-04-30-09-43-31.md",
@@ -133,7 +136,6 @@
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2022-10-12-22-42-04.md",
-    "600 Workout/饮食计划.md",
     "content/posts/2023-08-09-09-25-09.md",
     "content/posts/2023-07-29-13-46-38.md",
     "content/about.md",
@@ -149,7 +151,6 @@
     "500 Hypothesis/给自己一次机会  人生随笔.md",
     "500 Hypothesis/火星太远  人生随笔.md",
     "500 Hypothesis/为了生活  人生随笔.md",
-    "500 Hypothesis/善待弱者  人生随笔.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
     "600 Workout",
@@ -160,7 +161,6 @@
     "000 BOOKS/ML/机器学习-西瓜书.pdf",
     "000 BOOKS/ML/机器学习西瓜书.pdf",
     "000 BOOKS/ML/机器学习西瓜书🍉.pdf",
-    "000 BOOKS/ML/机器学习西瓜书🍉周志华.pdf",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",

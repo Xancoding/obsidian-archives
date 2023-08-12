@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiMovie2Line",
+      "IbFilm",
       "TiBarbell",
       "SiHypothesis",
-      "SiLatex",
-      "SiInternetarchive",
-      "SiBookstack"
+      "SiLatex"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,6 @@
   "200 Research": "SiApple",
   "400 Archives": "SiInternetarchive",
   "500 Hypothesis": "SiHypothesis",
-  "600 Workout": "TiBarbell"
+  "600 Workout": "TiBarbell",
+  "700 Spare time": "RiMovie2Line"
 }
