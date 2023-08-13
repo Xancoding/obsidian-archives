@@ -1,5 +1,8 @@
 # Blogs
-## 
+## [中国数字时代](https://chinadigitaltimes.net/chinese)
+## [人生随笔](https://thinkinlife.org/)
+## [潮流周刊](https://weekly.tw93.fun/)
+## [省流](https://shengliu.substack.com/)
 ## [程序员的喵](https://catcoding.me/)
 ## [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 ##  [编程随想的博客](https://program-think.blogspot.com/)
