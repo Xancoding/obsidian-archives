@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2022-10-12-22-42-04.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "content/links.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-12-22-42-04.md",
+                "file": "content/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +136,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "45cc63ce069c0eac",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
-    "content/links.md",
     "content/posts/2022-10-12-22-42-04.md",
+    "content/links.md",
     "400 Archives/8 月.md",
     "content/about.md",
     "500 Hypothesis/善待弱者  人生随笔.md",
