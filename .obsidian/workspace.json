@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 Spare time/纪录片.md",
+                "file": "500 Hypothesis/善待弱者  人生随笔.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blog",
+                "query": "人生随笔",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700 Spare time/纪录片.md",
+                "file": "500 Hypothesis/善待弱者  人生随笔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +123,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "45cc63ce069c0eac",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
-    "600 Workout/饮食计划.md",
     "700 Spare time/纪录片.md",
+    "600 Workout/饮食计划.md",
     "700 Spare time",
     "600 Workout/Expense.md",
     "500 Hypothesis/中国之贪  人生随笔.md",
