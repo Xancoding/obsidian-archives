@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "44c6aba39e3be8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/links.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,8 +136,9 @@
   },
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
-    "400 Archives/8 月.md",
     "content/links.md",
+    "content/posts/2022-10-12-22-42-04.md",
+    "400 Archives/8 月.md",
     "content/about.md",
     "500 Hypothesis/善待弱者  人生随笔.md",
     "700 Spare time/纪录片.md",
@@ -140,7 +152,6 @@
     "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-29-18-23-59.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-08-09-09-25-09.md",
     "content/posts/2023-07-29-13-46-38.md",
     "500 Hypothesis/教育的功利性  人生随笔.md",
