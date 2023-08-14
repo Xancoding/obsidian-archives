@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/期刊 会议.md",
-                "mode": "source",
+                "file": "200 Research/GNN完整学习路线.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/期刊 会议.md",
+                "file": "200 Research/GNN完整学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
+    "200 Research/期刊 会议.md",
     "200 Research/GNN完整学习路线.md",
     "500 Hypothesis/什么是知识图谱.md",
     "200 Research/GNN科研入门路线.md",
@@ -162,7 +163,6 @@
     "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-29-18-23-59.md",
-    "content/posts/2023-07-29-13-46-38.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
     "600 Workout",
