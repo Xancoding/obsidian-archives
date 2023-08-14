@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "200 Research/Zotero.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -38,12 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-07-29-10-50-54.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/Zotero.md",
+                "file": "content/posts/2023-07-29-10-50-54.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,10 +148,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "45cc63ce069c0eac",
+  "active": "7f3988a0ffda6471",
   "lastOpenFiles": [
-    "content/posts/2023-07-29-10-50-54.md",
     "200 Research/Zotero.md",
+    "content/posts/2023-07-29-10-50-54.md",
     "content/posts/2022-10-12-22-42-04.md",
     "200 Research/GNN完整学习路线.md",
     "content/posts/2022-11-02-15-49-03.md",

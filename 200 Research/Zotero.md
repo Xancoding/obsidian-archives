@@ -1,11 +1,6 @@
 
 # Zotero 
-## 阅读小技巧
-shift `+` +：展开文献，方便查看有无笔记
 
-win `+` -：折叠展开的文献
-
-在遇到想同时阅读 图表与对应的结论 的情况下，我们可以采取 `Split Vertically 垂直分割` 的方法
 ## Zotero Style
 - [zotero-style](https://github.com/MuiseDestiny/zotero-style)
 - [Zotero Style 使用手册](https://www.bilibili.com/video/BV1ss4y1E7sX/?t=776&vd_source=ae16ff6478eb15c1b87880540263910b)
@@ -53,3 +48,4 @@ win `+` -：折叠展开的文献
 自动更新每篇期刊的标签，需要加载 [easyScholar](https://www.easyscholar.cc/console/user/open) 的 密钥
 
 ### `View Group`
+为不同的视图分组，如 `基本视图`、`标签视图`、`进度视图`
