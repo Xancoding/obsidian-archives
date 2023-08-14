@@ -1,6 +1,9 @@
-# 入门案例
+# Finished 入门案例
 
 https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html#
+
+1. Mini-batches
+2. Data Transforms
 
 
 # GraphSAEG
