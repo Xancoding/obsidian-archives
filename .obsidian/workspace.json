@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/Zotero Tags.md",
-                "mode": "preview",
+                "file": "200 Research/Zotero Style.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "博客",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/Zotero Tags.md",
+                "file": "200 Research/Zotero Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
   "lastOpenFiles": [
     "200 Research/GNN完整学习路线.md",
     "200 Research/GNN科研入门路线.md",
-    "200 Research/Zotero Tags.md",
+    "200 Research/Zotero Style.md",
     "200 Research/000 图表.md",
     "200 Research/机器学习相关基础知识.md",
     "200 Research/如何定基准模型？.md",
