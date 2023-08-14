@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/GNN完整学习路线.md",
-                "mode": "preview",
+                "file": "200 Research/期刊 会议.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/GNN完整学习路线.md",
+                "file": "200 Research/期刊 会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +136,9 @@
   },
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
+    "200 Research/GNN完整学习路线.md",
     "500 Hypothesis/什么是知识图谱.md",
     "200 Research/GNN科研入门路线.md",
-    "200 Research/GNN完整学习路线.md",
     "content/links.md",
     "200 Research/100 机器学习相关基础知识.md",
     "200 Research/000 图表.md",
