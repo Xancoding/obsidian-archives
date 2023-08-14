@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "img",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,8 +137,9 @@
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
     "200 Research/GNN完整学习路线.md",
-    "200 Research/GNN科研入门路线.md",
+    "content/posts/2022-11-02-15-49-03.md",
     "200 Research/Zotero Style.md",
+    "200 Research/GNN科研入门路线.md",
     "200 Research/000 图表.md",
     "200 Research/机器学习相关基础知识.md",
     "200 Research/如何定基准模型？.md",
@@ -161,7 +162,6 @@
     "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-04-30-09-33-09.md",
     "content/posts/2022-11-14-15-56-45.md",
-    "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2022-10-30-15-28-22.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
