@@ -1,8 +1,15 @@
+
+# Zotero 
+## 阅读小技巧
+shift `+` +：展开文献，方便查看有无笔记
+
+win + -
+## Zotero Style
 - [zotero-style](https://github.com/MuiseDestiny/zotero-style)
 - [Zotero Style 使用手册](https://www.bilibili.com/video/BV1ss4y1E7sX/?t=776&vd_source=ae16ff6478eb15c1b87880540263910b)
 --- 
 
-# Zotero `Tags`
+### Zotero `Tags`
 标注每篇论文的状态
 
 🗸 打勾标志：已读摘要
@@ -24,7 +31,7 @@
 	padding: 2px;">Result</div> 
  </center>
 
-# Zotero `#Tags`
+### Zotero `#Tags`
 标注每篇论文的重点
 
 <center> 
