@@ -9,6 +9,7 @@ win `+` -：折叠展开的文献
 ## Zotero Style
 - [zotero-style](https://github.com/MuiseDestiny/zotero-style)
 - [Zotero Style 使用手册](https://www.bilibili.com/video/BV1ss4y1E7sX/?t=776&vd_source=ae16ff6478eb15c1b87880540263910b)
+- [# Zotero style使用手册第二期-详操篇](https://www.bilibili.com/video/BV1dM411574y/?spm_id_from=333.999.0.0&vd_source=ae16ff6478eb15c1b87880540263910b)
 --- 
 
 ### Zotero `Tags`
@@ -45,7 +46,7 @@ win `+` -：折叠展开的文献
 	padding: 2px;">Result</div> 
  </center>
 
-# `Publication Tags`
+### `Publication Tags`
 自动更新每篇期刊的标签，需要加载 [easyScholar](https://www.easyscholar.cc/console/user/open) 的 密钥
 
-# `View`
+### `View Group`
