@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/Zotero Tags.md",
+                "file": "200 Research/GNN科研入门路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +135,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "45cc63ce069c0eac",
+  "active": "8d18ade9f61cf78c",
   "lastOpenFiles": [
-    "200 Research/GNN科研入门路线.md",
     "200 Research/Zotero Tags.md",
+    "200 Research/GNN科研入门路线.md",
     "200 Research/GNN完整学习路线.md",
     "200 Research/000 图表.md",
     "200 Research/机器学习相关基础知识.md",
