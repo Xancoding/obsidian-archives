@@ -38,3 +38,5 @@
 
 # `Publication Tags`
 自动更新每篇期刊的标签，需要加载 [easyScholar](https://www.easyscholar.cc/console/user/open) 的 密钥
+
+# `View`
