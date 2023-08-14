@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 Spare time/纪录片.md",
+                "file": "200 Research/GNN完整学习路线.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "44c6aba39e3be8be",
+            "id": "8d18ade9f61cf78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/links.md",
+                "file": "200 Research/GNN科研入门路线.md",
                 "mode": "preview",
                 "source": true
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700 Spare time/纪录片.md",
+                "file": "200 Research/GNN完整学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,13 +137,21 @@
   },
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
+    "content/links.md",
+    "200 Research/GNN科研入门路线.md",
+    "200 Research/GNN完整学习路线.md",
+    "200 Research/100 机器学习相关基础知识.md",
+    "200 Research/000 图表.md",
+    "200 Research/000 学习资料.md",
+    "200 Research/如何定基准模型？.md",
+    "200 Research/入门过程.md",
+    "200 Research/000 研究方向.md",
+    "700 Spare time/纪录片.md",
     "content/posts/2023-08-09-09-25-09.md",
     "content/posts/2022-10-12-22-42-04.md",
-    "content/links.md",
     "400 Archives/8 月.md",
     "content/about.md",
     "500 Hypothesis/善待弱者  人生随笔.md",
-    "700 Spare time/纪录片.md",
     "600 Workout/饮食计划.md",
     "700 Spare time",
     "600 Workout/Expense.md",
@@ -155,14 +164,6 @@
     "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2023-07-29-13-46-38.md",
     "500 Hypothesis/教育的功利性  人生随笔.md",
-    "500 Hypothesis/中国的大国智慧  人生随笔.md",
-    "500 Hypothesis/新定居点  人生随笔.md",
-    "500 Hypothesis/爱你的国家  人生随笔.md",
-    "500 Hypothesis/一切都是可以理解的  人生随笔.md",
-    "500 Hypothesis/关于断供潮的思考  人生随笔.md",
-    "500 Hypothesis/俄罗斯的阿喀琉斯之踵  人生随笔.md",
-    "500 Hypothesis/反对一切器官移植  人生随笔.md",
-    "500 Hypothesis/随心社  人生随笔.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
     "600 Workout",
