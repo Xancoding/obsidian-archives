@@ -1,5 +1,5 @@
-[Zotero Style 使用手册](https://www.bilibili.com/video/BV1ss4y1E7sX/?t=776&vd_source=ae16ff6478eb15c1b87880540263910b)
-
+- [zotero-style](https://github.com/MuiseDestiny/zotero-style)
+- [Zotero Style 使用手册](https://www.bilibili.com/video/BV1ss4y1E7sX/?t=776&vd_source=ae16ff6478eb15c1b87880540263910b)
 --- 
 
 # Zotero `Tags`
