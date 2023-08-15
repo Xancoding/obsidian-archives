@@ -4,7 +4,7 @@ https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html#
 
 1. Mini-batches
 2. Data Transforms
-
+3. Learning Methods on Graphs
 
 # GraphSAEG
 
