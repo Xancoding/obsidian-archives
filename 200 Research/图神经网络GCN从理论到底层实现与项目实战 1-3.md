@@ -14,13 +14,9 @@
 
 https://pytorch.org/docs/master/generated/torch.nn.Conv2d.html#torch.nn.Conv2d
 
-![](assets/1_0.gif)
 
-![](assets/1_1.gif)
 
 ## GCN原理形象解释
-
-![image-20220401004224737](assets/1.png)
 
 
 $$
@@ -50,9 +46,6 @@ $$
 
 
 
-<img src="assets/4.png" alt="image-20220401111927016" style="zoom:50%;" />
-
-<img src="assets/5.png" alt="image-20220401112055629" style="zoom:50%;" />
 
 
 
@@ -112,23 +105,17 @@ Neural networks are usually trained in a batch-wise fashion. PyG **achieves para
 
 This composition allows differing number of nodes and edges over examples in one batch:
 
-![image-20220401114224504](assets/6.png)
-
 
 
 ### Creating Message Passing Networks
 
 将卷积算子推广到不规则域通常表示为邻域聚合或**消息传递**方案。  
 
-![image-20220401115808369](assets/7.png)
-
 PyG 提供了 MessagePassing 基类，它通过**自动处理消息传播**来帮助创建此类消息传递图神经网络。 用户只需定义函数，即 message() 和 update()，以及要使用的聚合方案，即 aggr="add"、aggr="mean" 或 aggr="max"。 
 
 
 
 ### Implementing the GCN Layer
-
-![image-20220401120338548](assets/8.png)
 
 This formula can be divided into the following steps:
 
@@ -257,8 +244,6 @@ print(f'Accuracy: {acc:.4f}')
 《SimGNN: A Neural Network Approach to Fast Graph Similarity Computation》
 
 https://github.com/benedekrozemberczki/SimGNN
-
-![image-20220401133312421](assets/10.png)
 
 
 
