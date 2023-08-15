@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/图神经网络GCN从理论到底层实现与项目实战 1-3.md",
+                "file": "200 Research/图神经网络GNN项目实战 1-3 SimGNN上中下.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/图神经网络GCN从理论到底层实现与项目实战 1-3.md",
+                "file": "200 Research/图神经网络GNN项目实战 1-3 SimGNN上中下.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,11 @@
   },
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
+    "200 Research/图神经网络GCN从理论到底层实现与项目实战 1-3.md",
+    "200 Research/图神经网络GNN项目实战 4-7 StemGNN.md",
+    "200 Research/图神经网络GNN项目实战 1-3 SimGNN上中下.md",
     "content/posts/2023-07-29-10-50-54.md",
     "content/posts/2022-10-12-22-42-04.md",
-    "200 Research/图神经网络GCN从理论到底层实现与项目实战 1-3.md",
     "400 Archives/8 月.md",
     "200 Research/GCN.md",
     "200 Research/GNN完整学习路线.md",
@@ -149,8 +151,6 @@
     "500 Hypothesis/善待弱者  人生随笔.md",
     "600 Workout/饮食计划.md",
     "700 Spare time",
-    "600 Workout/Expense.md",
-    "500 Hypothesis/中国之贪  人生随笔.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
     "600 Workout",
