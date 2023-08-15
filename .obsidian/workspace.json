@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/GNN完整学习路线.md",
-                "mode": "preview",
+                "file": "200 Research/GCN.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/GNN完整学习路线.md",
+                "file": "200 Research/GCN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,12 +136,13 @@
   },
   "active": "45cc63ce069c0eac",
   "lastOpenFiles": [
-    "200 Research/入门过程.md",
+    "200 Research/GNN完整学习路线.md",
+    "200 Research/GCN.md",
     "400 Archives/8 月.md",
+    "200 Research/入门过程.md",
     "200 Research/000 期刊 会议.md",
     "200 Research/GNN科研入门路线.md",
     "200 Research/000 研究方向.md",
-    "200 Research/GNN完整学习路线.md",
     "200 Research/机器学习相关基础知识.md",
     "200 Research/如何定基准模型？.md",
     "400 Archives/Birthday.md",
@@ -162,7 +163,6 @@
     "600 Workout/Expense.md",
     "500 Hypothesis/中国之贪  人生随笔.md",
     "content/posts/2023-04-30-09-43-31.md",
-    "content/posts/2023-04-30-09-33-09.md",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
     "600 Workout",
