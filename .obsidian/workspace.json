@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "93ce9de2724a33a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-07-29-10-50-54.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zotero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/000 一些有参考意义的博客.md",
+                "file": "content/posts/2023-07-29-10-50-54.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +136,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "223b196010b5e876",
+  "active": "93ce9de2724a33a3",
   "lastOpenFiles": [
+    "200 Research/000 一些有参考意义的博客.md",
     "500 Hypothesis/(3 封私信  80 条消息) 对新手来说，图神经网络入门容易吗？ - 知乎.md",
     "content/posts/2023-05-29-12-54-17.md",
-    "200 Research/000 一些有参考意义的博客.md",
     "500 Hypothesis/图表示学习极简教程.md",
     "200 Research/Graph Network.pdf",
     "200 Research/000 学习资料.md",
