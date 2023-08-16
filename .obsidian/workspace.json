@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ef4ea0170c891916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Research/100 如何看论文？.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/100 如何看论文？.md",
+                "file": "200 Research/000 期刊 会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +122,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ef4ea0170c891916",
+  "active": "223b196010b5e876",
   "lastOpenFiles": [
-    "200 Research/000 期刊 会议.md",
     "200 Research/100 如何看论文？.md",
+    "200 Research/000 期刊 会议.md",
     "content/posts/2023-07-29-10-50-54.md",
     "500 Hypothesis/图卷积网络(GCN)的谱分析.md",
     "500 Hypothesis/(3 封私信  80 条消息) Graph - 收藏夹 - 知乎.md",
