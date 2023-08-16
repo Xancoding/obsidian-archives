@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-07-29-10-50-54.md",
+                "file": "200 Research/000 期刊 会议.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ef4ea0170c891916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Research/100 如何看论文？.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-07-29-10-50-54.md",
+                "file": "200 Research/100 如何看论文？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,19 +135,20 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "223b196010b5e876",
+  "active": "ef4ea0170c891916",
   "lastOpenFiles": [
+    "200 Research/000 期刊 会议.md",
+    "200 Research/100 如何看论文？.md",
+    "content/posts/2023-07-29-10-50-54.md",
     "500 Hypothesis/图卷积网络(GCN)的谱分析.md",
     "500 Hypothesis/(3 封私信  80 条消息) Graph - 收藏夹 - 知乎.md",
     "content/posts/2022-10-12-22-42-04.md",
     "200 Research/000 一些有参考意义的博客.md",
-    "content/posts/2023-07-29-10-50-54.md",
     "500 Hypothesis/(3 封私信  80 条消息) 对新手来说，图神经网络入门容易吗？ - 知乎.md",
     "content/posts/2023-05-29-12-54-17.md",
     "500 Hypothesis/图表示学习极简教程.md",
     "200 Research/Graph Network.pdf",
     "200 Research/000 学习资料.md",
-    "200 Research/000 期刊 会议.md",
     "200 Research/000 研究方向.md",
     "200 Research/图神经网络GNN项目实战 4-7 StemGNN.md",
     "200 Research/GNN科研入门路线.md",
@@ -151,7 +164,6 @@
     "200 Research/机器学习相关基础知识.md",
     "200 Research/如何定基准模型？.md",
     "400 Archives/Birthday.md",
-    "200 Research/Zotero.md",
     "700 Spare time",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
