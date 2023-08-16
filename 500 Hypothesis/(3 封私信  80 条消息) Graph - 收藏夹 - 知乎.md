@@ -40,3 +40,10 @@ url: 'https://www.zhihu.com/collection/920629314'
 
 - Lecun 的 spectral GCN 是非常经典的工作，但是文章写得晦涩难懂，前置知识也太多，方法的实用性也不大。而且现在主流的方法都是以 spatial 为主的。所以建议初学者还是先学习 spatial 的 model，里面有很多做 DL 的人熟知的套路，接受起来也比较容易。等对整个领域建立起基本的 sense 之后，spectral GCN 以及其背后的 spectral graph theory 不失为一个继续深入的好选择。
 
+
+- Tags:
+
+- 时频傅里叶变换
+
+- 时域卷积等于频域乘积
+
