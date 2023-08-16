@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/000 期刊 会议.md",
+                "file": "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zotero",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/000 期刊 会议.md",
+                "file": "500 Hypothesis/PyTorch 入门 - SAST skill docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +122,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "223b196010b5e876",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "200 Research/100 如何看论文？.md",
+    "400 Archives/8 月.md",
+    "content/posts/2023-07-31-09-47-50.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2023-07-23-09-20-44.md",
     "200 Research/000 期刊 会议.md",
+    "200 Research/100 如何看论文？.md",
     "content/posts/2023-07-29-10-50-54.md",
     "500 Hypothesis/图卷积网络(GCN)的谱分析.md",
     "500 Hypothesis/(3 封私信  80 条消息) Graph - 收藏夹 - 知乎.md",
@@ -141,16 +145,12 @@
     "200 Research/GNN科研入门路线.md",
     "200 Research/GNN完整学习路线.md",
     "200 Research/入门过程.md",
-    "400 Archives/8 月.md",
     "200 Research/图神经网络GCN从理论到底层实现与项目实战 1-3.md",
     "200 Research/图神经网络GNN项目实战1-3 SimGNN上中下.md",
     "200 Research/GCN.md",
     "500 Hypothesis/GNN综述：Review of Methods and Applications.md",
     "assets/11.png.md",
     "content/posts/2023-08-01-15-23-39.md",
-    "200 Research/机器学习相关基础知识.md",
-    "200 Research/如何定基准模型？.md",
-    "400 Archives/Birthday.md",
     "700 Spare time",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
