@@ -25,3 +25,8 @@ url: 'https://blog.csdn.net/changzengli/article/details/129182528'
 
 - 模型有效的基本条件是能够拟合已知的样本
 
+
+- Tags:
+
+- 机器执行学习任务的框架体现了其学习的本质是“参数估计”（Learning is parameter estimation）。
+
