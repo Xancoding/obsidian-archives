@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 Workout/饮食计划.md",
+                "file": "700 Spare time/纪录片.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Workout/饮食计划.md",
+                "file": "700 Spare time/纪录片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "223b196010b5e876",
   "lastOpenFiles": [
+    "600 Workout/饮食计划.md",
     "500 Hypothesis/计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”.md",
     "600 Workout/Expense.md",
     "400 Archives/综合测评.md",
@@ -150,7 +151,6 @@
     "200 Research/GNN完整学习路线.md",
     "200 Research/000 研究方向.md",
     "200 Research/000 一些有参考意义的博客.md",
-    "200 Research/机器学习相关基础知识.md",
     "200 Research/Graph Network.pdf",
     "700 Spare time",
     "000 BOOKS/自我探索/性学入门.epub",
