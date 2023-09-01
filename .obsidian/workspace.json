@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "600 Workout/饮食计划.md",
                 "mode": "preview",
                 "source": true
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/8 月.md",
+                "file": "600 Workout/饮食计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,32 +124,33 @@
   },
   "active": "223b196010b5e876",
   "lastOpenFiles": [
-    "500 Hypothesis/在北京大学就读是一番怎样的体验？ - 竞赛历程 - hzwer.com.md",
-    "500 Hypothesis/(4 封私信  80 条消息) 请问怎么选择有关深度学习的研究方向？ - 知乎.md",
-    "500 Hypothesis/(4 封私信  80 条消息) 找到感兴趣的研究问题以及研究方向 - 知乎.md",
-    "500 Hypothesis/深度学习、机器学习与NLP的前世今生.md",
-    "500 Hypothesis/机器学习和深度学习综述_深度物联网的博客-CSDN博客.md",
-    "400 Archives/编程随想Technology.md",
-    "400 Archives/8 月.md",
+    "500 Hypothesis/计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”.md",
     "600 Workout/Expense.md",
-    "600 Workout/饮食计划.md",
+    "400 Archives/综合测评.md",
+    "400 Archives/Birthday.md",
+    "800 Myself/我的饮食习惯.md",
+    "400 Archives/编程随想Technology.md",
+    "content/posts/2023-08-31-17-31-55.md",
+    "800 Myself/9 月.md",
+    "content/posts/2023-01-31-16-48-25.md",
+    "content/posts/2023-01-15-12-42-38.md",
+    "content/posts/2023-07-29-13-46-38.md",
     "200 Research/000 期刊 会议.md",
+    "500 Hypothesis/计算机类英文文献检索数据库DBLP.md",
+    "500 Hypothesis/计算机专业的研究生如何找文献.md",
+    "500 Hypothesis/计算机专业学生如何搜索和阅读一篇论文 (How to Search&Read a Paper).md",
+    "200 Research/000 图表.md",
+    "content/posts/2022-10-12-07-27-58.md",
     "700 Spare time/纪录片.md",
-    "500 Hypothesis/给深度学习研究生的入门建议（未完待续ing）.md",
-    "500 Hypothesis/211逆袭浙大-计算机及相关衍生专业保研之路纪实（深度长文，收藏了）_诸神缄默不语的博客-CSDN博客.md",
-    "500 Hypothesis/【经验】刚读硕士怎么感觉学机器学习和深度学习越学越不懂？_qq62985c01d4e12的技术博客_51CTO博客.md",
-    "500 Hypothesis/深度学习调参技巧.md",
-    "400 Archives/饮食习惯.md",
-    "content/posts/2023-08-09-09-25-09.md",
-    "200 Research/图神经网络GCN从理论到底层实现与项目实战 1-3.md",
-    "content/posts/2022-11-02-15-49-03.md",
-    "content/links.md",
-    "content/posts/2022-10-12-22-42-04.md",
-    "500 Hypothesis/2.2 数据操作 - Dive-into-DL-PyTorch.md",
-    "500 Hypothesis/万物皆可Embedding之Word Embedding.md",
-    "500 Hypothesis/爬虫 - 酒井科协暑培 2023.md",
-    "500 Hypothesis/神经网络 & PyTorch - 酒井科协暑培 2023.md",
-    "500 Hypothesis/Python - 酒井科协暑培 2023.md",
+    "500 Hypothesis/(3 封私信  80 条消息) Graph - 收藏夹 - 知乎.md",
+    "400 Archives/School.md",
+    "800 Myself",
+    "200 Research/GNN科研入门路线.md",
+    "200 Research/GCN.md",
+    "200 Research/GNN完整学习路线.md",
+    "200 Research/000 研究方向.md",
+    "200 Research/000 一些有参考意义的博客.md",
+    "200 Research/机器学习相关基础知识.md",
     "200 Research/Graph Network.pdf",
     "700 Spare time",
     "000 BOOKS/自我探索/性学入门.epub",
@@ -160,7 +161,6 @@
     "000 BOOKS/ML/机器学习-吴恩达.pdf",
     "000 BOOKS/ML/图解深度学习.pdf",
     "000 BOOKS/ML/机器学习-西瓜书.pdf",
-    "000 BOOKS/ML/机器学习西瓜书.pdf",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",
