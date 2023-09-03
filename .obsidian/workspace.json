@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 Spare time/纪录片.md",
-                "mode": "preview",
+                "file": "900 School/软件工程.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700 Spare time/纪录片.md",
+                "file": "900 School/软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,13 @@
   },
   "active": "223b196010b5e876",
   "lastOpenFiles": [
+    "700 Spare time/纪录片.md",
+    "900 School/软件工程.md",
+    "700 Spare time/Untitled.md",
+    "900 School/Untitled.canvas",
+    "900 School",
+    "500 Hypothesis/“政治体制”与“系统健壮性”——基于“复杂性科学”的思考.md",
+    "500 Hypothesis/课程概览与 shell.md",
     "600 Workout/饮食计划.md",
     "500 Hypothesis/计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”.md",
     "600 Workout/Expense.md",
@@ -142,15 +149,10 @@
     "500 Hypothesis/计算机专业学生如何搜索和阅读一篇论文 (How to Search&Read a Paper).md",
     "200 Research/000 图表.md",
     "content/posts/2022-10-12-07-27-58.md",
-    "700 Spare time/纪录片.md",
     "500 Hypothesis/(3 封私信  80 条消息) Graph - 收藏夹 - 知乎.md",
     "400 Archives/School.md",
     "800 Myself",
     "200 Research/GNN科研入门路线.md",
-    "200 Research/GCN.md",
-    "200 Research/GNN完整学习路线.md",
-    "200 Research/000 研究方向.md",
-    "200 Research/000 一些有参考意义的博客.md",
     "200 Research/Graph Network.pdf",
     "700 Spare time",
     "000 BOOKS/自我探索/性学入门.epub",
@@ -160,7 +162,6 @@
     "000 BOOKS/ML/Deep-Learning花书-《深度学习》-中文版.pdf",
     "000 BOOKS/ML/机器学习-吴恩达.pdf",
     "000 BOOKS/ML/图解深度学习.pdf",
-    "000 BOOKS/ML/机器学习-西瓜书.pdf",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",
