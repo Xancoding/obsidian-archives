@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "2449c82f61d4e298",
+            "id": "f1233ac341d95e17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-09-07-17-57-14.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2449c82f61d4e298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,34 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2022-10-12-22-42-04.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7299a1e297acc21",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5788f7f5a4022258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tools  ",
+                "query": "tag:#Tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-12-22-42-04.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
