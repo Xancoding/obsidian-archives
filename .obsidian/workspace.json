@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-07-29-10-50-54.md",
-                "mode": "source",
+                "file": "content/posts/2022-10-30-15-28-22.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-07-17-57-14.md",
+                "file": "content/posts/2022-10-30-15-28-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "f1233ac341d95e17",
+  "active": "b77ce54ace83c582",
   "lastOpenFiles": [
     "content/posts/2023-07-29-10-50-54.md",
     "content/posts/2023-09-07-17-57-14.md",
