@@ -30,6 +30,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b77ce54ace83c582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023-01-15-12-42-38.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Life",
+                "query": "tag:#Tools  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,8 +150,11 @@
   },
   "active": "2449c82f61d4e298",
   "lastOpenFiles": [
-    "content/posts/2023-08-31-17-31-55.md",
+    "content/posts/2023-01-15-12-42-38.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-09-07-17-57-14.md",
+    "content/posts/2023-08-31-17-31-55.md",
     "900 School/软件工程.md",
     "500 Hypothesis/做事的心境.md",
     "500 Hypothesis/原码, 反码, 补码 详解 - ziqiu.zhang - 博客园.md",
@@ -158,13 +174,10 @@
     "400 Archives/编程随想Technology.md",
     "800 Myself/9 月.md",
     "content/posts/2023-01-31-16-48-25.md",
-    "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2023-07-29-13-46-38.md",
     "200 Research/000 期刊 会议.md",
     "500 Hypothesis/计算机类英文文献检索数据库DBLP.md",
     "500 Hypothesis/计算机专业的研究生如何找文献.md",
-    "500 Hypothesis/计算机专业学生如何搜索和阅读一篇论文 (How to Search&Read a Paper).md",
-    "200 Research/000 图表.md",
     "800 Myself",
     "200 Research/Graph Network.pdf",
     "700 Spare time",
