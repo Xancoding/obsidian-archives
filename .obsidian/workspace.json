@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "2449c82f61d4e298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b77ce54ace83c582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2022-10-30-15-28-22.md",
+                "file": "content/posts/2023-07-29-10-50-54.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-30-15-28-22.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,13 +148,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b77ce54ace83c582",
+  "active": "f1233ac341d95e17",
   "lastOpenFiles": [
-    "content/posts/2023-09-07-17-57-14.md",
-    "Untitled.md",
-    "content/posts/2022-10-30-15-28-22.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-07-29-10-50-54.md",
+    "content/posts/2023-09-07-17-57-14.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "Untitled.md",
+    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-01-15-12-42-38.md",
     "content/posts/2023-08-01-18-42-11.md",
     "content/posts/2023-07-29-13-46-38.md",
