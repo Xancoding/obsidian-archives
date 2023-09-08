@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tools",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,10 +124,10 @@
   },
   "active": "223b196010b5e876",
   "lastOpenFiles": [
-    "content/posts/2023-09-07-17-57-14.md",
-    "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-12-22-42-04.md",
     "900 School/软件工程.md",
+    "content/posts/2023-09-07-17-57-14.md",
+    "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-07-29-10-50-54.md",
     "Untitled.md",
     "content/posts/2023-01-15-12-42-38.md",
