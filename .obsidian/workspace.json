@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "bc293b329be17c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-09-07-17-57-14.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-07-17-57-14.md",
+                "file": "900 School/软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,12 +123,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "bc293b329be17c20",
+  "active": "223b196010b5e876",
   "lastOpenFiles": [
+    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-12-22-42-04.md",
     "900 School/软件工程.md",
-    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-07-29-10-50-54.md",
     "Untitled.md",
     "content/posts/2023-01-15-12-42-38.md",
