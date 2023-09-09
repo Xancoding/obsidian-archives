@@ -3,7 +3,7 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "livePreview": true,
+  "livePreview": false,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
