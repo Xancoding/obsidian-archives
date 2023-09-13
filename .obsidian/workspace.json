@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Research/学习资料.md",
+                "file": "content/posts/2023-04-30-09-20-36.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "1a7d99ecd605118a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Tools",
+                "query": "户外",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Research/学习资料.md",
+                "file": "content/posts/2023-04-30-09-20-36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,12 +133,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "1a7d99ecd605118a",
+  "active": "223b196010b5e876",
   "lastOpenFiles": [
-    "200 Research/000 研究方向.md",
-    "200 Research/学习资料.md",
-    "300 Project/XChat.md",
     "content/posts/2023-09-07-17-57-14.md",
+    "200 Research/学习资料.md",
+    "200 Research/000 研究方向.md",
+    "300 Project/XChat.md",
     "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-30-15-28-22.md",
