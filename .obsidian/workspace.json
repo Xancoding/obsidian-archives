@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-09-07-17-57-14.md",
+                "file": "200 Research/学习资料.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "1a7d99ecd605118a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-07-17-57-14.md",
+                "file": "200 Research/学习资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +113,16 @@
             "state": {
               "type": "quiet-outline",
               "state": {}
+            }
+          },
+          {
+            "id": "bee2e39d11b0fc9e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -123,10 +143,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "223b196010b5e876",
+  "active": "1a7d99ecd605118a",
   "lastOpenFiles": [
-    "content/posts/2023-09-09-09-46-04.md",
+    "200 Research/000 研究方向.md",
+    "200 Research/学习资料.md",
+    "300 Project/XChat.md",
     "content/posts/2023-09-07-17-57-14.md",
+    "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2023-04-30-09-20-36.md",
@@ -148,9 +171,6 @@
     "content/posts/2023-03-31-08-14-17.md",
     "content/posts/2023-02-28-20-18-17.md",
     "content/posts/2023-01-31-16-48-25.md",
-    "900 School/软件工程.md",
-    "content/posts/2023-07-29-10-50-54.md",
-    "Untitled.md",
     "900 School/Untitled.canvas",
     "900 School",
     "800 Myself",
