@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/软件工程.md",
+                "file": "300 Project/软件工程课程设计.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/软件工程.md",
+                "file": "300 Project/软件工程课程设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +134,8 @@
   },
   "active": "c3dee61871665191",
   "lastOpenFiles": [
+    "900 School/软件工程.md",
+    "300 Project/软件工程课程设计.md",
     "content/posts/2023-04-30-09-20-36.md",
     "600 Workout/大西山永定河沿线.pdf",
     "500 Hypothesis/大西山永定河沿线.pdf",
@@ -162,7 +163,6 @@
     "content/posts/2023-05-29-12-54-17.md",
     "content/posts/2023-04-30-01-10-21.md",
     "content/posts/2023-03-31-08-14-17.md",
-    "content/posts/2023-02-28-20-18-17.md",
     "900 School/Untitled.canvas",
     "900 School",
     "800 Myself",
