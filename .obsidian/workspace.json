@@ -20,14 +20,12 @@
             }
           },
           {
-            "id": "c4683f3c83c7ef12",
+            "id": "85bf4def8bd91946",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "content/posts/2023-09-16-15-08-58.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.4.13"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-16-15-08-58.md",
+                "file": "300 Project/软件工程课程设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +143,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c4683f3c83c7ef12",
+  "active": "85bf4def8bd91946",
   "lastOpenFiles": [
-    "400 Archives/联想R7000外接3个显示器.md",
     "content/posts/2023-09-16-15-08-58.md",
+    "400 Archives/联想R7000外接3个显示器.md",
     "300 Project/软件工程课程设计.md",
     "900 School/软件工程.md",
     "content/posts/2023-04-30-09-20-36.md",
