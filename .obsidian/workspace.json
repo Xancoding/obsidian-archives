@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Archives/综合测评.md",
+                "file": "500 Hypothesis/Python - 酒井科协暑培 2023.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/综合测评.md",
+                "file": "500 Hypothesis/Python - 酒井科协暑培 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,10 @@
   },
   "active": "c3dee61871665191",
   "lastOpenFiles": [
+    "300 Project/XChat.md",
+    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-09-07-17-57-14.md",
+    "400 Archives/综合测评.md",
     "content/posts/2023-04-30-09-20-36.md",
     "content/posts/2023-09-16-15-08-58.md",
     "300 Project/软件工程课程设计.md",
@@ -145,9 +149,7 @@
     "500 Hypothesis/Unconfirmed 8371.crdownload",
     "200 Research/学习资料.md",
     "200 Research/000 研究方向.md",
-    "300 Project/XChat.md",
     "content/posts/2023-09-09-09-46-04.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-30-15-28-22.md",
     "500 Hypothesis/图数据库基础.md",
     "content/posts/2023-08-09-09-25-09.md",
@@ -162,7 +164,6 @@
     "content/posts/2023-07-23-09-20-44.md",
     "content/posts/2023-06-30-17-40-02.md",
     "content/posts/2023-05-31-09-00-39.md",
-    "content/posts/2023-05-29-12-54-17.md",
     "900 School/Untitled.canvas",
     "900 School",
     "800 Myself",
