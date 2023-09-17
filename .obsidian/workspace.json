@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Hypothesis/Python - 酒井科协暑培 2023.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Hypothesis/Python - 酒井科协暑培 2023.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +134,7 @@
   },
   "active": "c3dee61871665191",
   "lastOpenFiles": [
+    "500 Hypothesis/Python - 酒井科协暑培 2023.md",
     "300 Project/XChat.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2023-09-07-17-57-14.md",
@@ -163,7 +163,6 @@
     "content/posts/2023-07-23-09-22-03.md",
     "content/posts/2023-07-23-09-20-44.md",
     "content/posts/2023-06-30-17-40-02.md",
-    "content/posts/2023-05-31-09-00-39.md",
     "900 School/Untitled.canvas",
     "900 School",
     "800 Myself",
