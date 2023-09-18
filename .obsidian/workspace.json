@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "302a34315756990e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "900 School/软件工程.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Archives/电网.md",
+                "file": "900 School/软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,11 +157,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "d21b5e90c80c0290",
+  "active": "302a34315756990e",
   "lastOpenFiles": [
-    "400 Archives/综合测评.md",
-    "400 Archives/电网.md",
     "300 Project/软件工程课程设计.md",
+    "400 Archives/电网.md",
+    "400 Archives/综合测评.md",
     "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2022-10-30-15-28-22.md",
     "500 Hypothesis/Python - 酒井科协暑培 2023.md",
