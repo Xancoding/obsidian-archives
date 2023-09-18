@@ -15,7 +15,7 @@
               "state": {
                 "file": "400 Archives/综合测评.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "400 Archives/电网.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "900 School/软件工程.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
