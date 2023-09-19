@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/软件工程课程设计.md",
+                "file": "900 School/综合测评.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 217.50418853759766
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/软件工程课程设计.md",
+                "file": "900 School/综合测评.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,13 +132,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "302a34315756990e",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "400 Archives/电网.md",
+    "900 School/软件工程课程设计.md",
     "900 School/软件工程.md",
     "300 Project/XChat.md",
-    "900 School/软件工程课程设计.md",
-    "400 Archives/综合测评.md",
-    "400 Archives/电网.md",
+    "900 School/综合测评.md",
     "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2022-10-30-15-28-22.md",
     "500 Hypothesis/Python - 酒井科协暑培 2023.md",
