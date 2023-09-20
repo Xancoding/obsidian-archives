@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/软件工程课程设计.md",
-                "mode": "preview",
+                "file": "900 School/软件工程.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/软件工程课程设计.md",
+                "file": "900 School/软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,8 @@
   },
   "active": "302a34315756990e",
   "lastOpenFiles": [
-    "900 School/综合测评.md",
     "900 School/软件工程课程设计.md",
+    "900 School/综合测评.md",
     "400 Archives/电网.md",
     "900 School/软件工程.md",
     "300 Project/XChat.md",
