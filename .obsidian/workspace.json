@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/软件工程课程设计.md",
-                "mode": "preview",
+                "file": "900 School/软件工程.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/软件工程课程设计.md",
+                "file": "900 School/软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,8 @@
   },
   "active": "302a34315756990e",
   "lastOpenFiles": [
-    "900 School/软件工程.md",
     "900 School/软件工程课程设计.md",
+    "900 School/软件工程.md",
     "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-09-16-15-08-58.md",
     "400 Archives/梯子.md",
