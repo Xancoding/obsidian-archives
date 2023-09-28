@@ -23,9 +23,11 @@
             "id": "5b2166ebe4eab890",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "900 School/软件工程.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
