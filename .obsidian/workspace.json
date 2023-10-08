@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/Untitled.md",
+                "file": "900 School/软件工程.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec3e97cabc6a8c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "900 School/Untitled.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/Untitled.md",
+                "file": "900 School/软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,10 +132,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "5b2166ebe4eab890",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "900 School/软件工程.md",
     "900 School/Untitled.md",
+    "900 School/软件工程.md",
     "900 School/数据库原理.md",
     "400 Archives/保研目标院校.md",
     "900 School/软件工程课程设计.md",
