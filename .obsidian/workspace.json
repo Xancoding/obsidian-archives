@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/数据库原理.md",
-                "mode": "preview",
+                "file": "800 Myself/我的饮食习惯.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/数据库原理.md",
+                "file": "800 Myself/我的饮食习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,9 @@
   "active": "ebd48f84f6343907",
   "lastOpenFiles": [
     "900 School/软件工程课设---数据库部分.md",
-    "900 School/数据库原理.md",
     "900 School/软件工程课程设计.md",
+    "900 School/数据库原理.md",
+    "400 Archives/梯子.md",
     "900 School/软件工程.md",
     "900 School/计算机组成原理.md",
     "EA-project.ldb",
@@ -159,7 +160,6 @@
     "400 Archives/保研目标院校.md",
     "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-09-16-15-08-58.md",
-    "400 Archives/梯子.md",
     "300 Project/XChat.md",
     "400 Archives/电网.md",
     "900 School/综合测评.md",
