@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb17c5a67c992515",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +132,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "bb17c5a67c992515",
+  "active": "5b2166ebe4eab890",
   "lastOpenFiles": [
     "900 School/软件工程.md",
     "900 School/软件工程课设---数据库部分.md",
