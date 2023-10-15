@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebd48f84f6343907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "900 School/数据库原理.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/软件工程课设---数据库部分.md",
+                "file": "900 School/数据库原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +145,15 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "5b2166ebe4eab890",
+  "active": "ebd48f84f6343907",
   "lastOpenFiles": [
-    "EA-project.ldb",
-    "EA-project.eapx",
-    "900 School/软件工程.md",
+    "900 School/计算机组成原理.md",
     "900 School/软件工程课设---数据库部分.md",
     "900 School/软件工程课程设计.md",
+    "900 School/软件工程.md",
+    "EA-project.ldb",
+    "EA-project.eapx",
     "500 Hypothesis/柏码 - 让每一行代码都闪耀智慧的光芒！.md",
-    "900 School/计算机组成原理.md",
     "700 Spare time/纪录片.md",
     "900 School/数据库原理.md",
     "400 Archives/保研目标院校.md",
@@ -171,7 +184,6 @@
     "700 Spare time",
     "000 BOOKS/自我探索/性学入门.epub",
     "600 健身/Untitled.canvas",
-    "600 Workout",
     "static/img/Headshot/003.jpg",
     "static/img/Headshot/002.jpg",
     "static/img/Headshot/004.jpg",
