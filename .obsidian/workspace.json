@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/软件工程课设---数据库部分.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebd48f84f6343907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "800 Myself/我的饮食习惯.md",
+                "file": "900 School/数据库原理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "800 Myself/我的饮食习惯.md",
+                "file": "900 School/数据库原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +132,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ebd48f84f6343907",
+  "active": "5b2166ebe4eab890",
   "lastOpenFiles": [
     "900 School/软件工程课设---数据库部分.md",
+    "800 Myself/我的饮食习惯.md",
     "900 School/软件工程课程设计.md",
     "900 School/数据库原理.md",
     "400 Archives/梯子.md",
