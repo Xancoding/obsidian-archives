@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/数据库原理.md",
-                "mode": "source",
+                "file": "900 School/软件工程课设---数据库部分.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/数据库原理.md",
+                "file": "900 School/软件工程课设---数据库部分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +134,10 @@
   },
   "active": "5b2166ebe4eab890",
   "lastOpenFiles": [
+    "900 School/数据库原理.md",
     "900 School/软件工程课设---数据库部分.md",
     "800 Myself/我的饮食习惯.md",
     "900 School/软件工程课程设计.md",
-    "900 School/数据库原理.md",
     "400 Archives/梯子.md",
     "900 School/软件工程.md",
     "900 School/计算机组成原理.md",
