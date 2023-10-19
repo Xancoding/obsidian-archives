@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/数据库原理.md",
-                "mode": "preview",
+                "file": "400 Archives/Linux 考点.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/数据库原理.md",
+                "file": "400 Archives/Linux 考点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,9 @@
   },
   "active": "5b2166ebe4eab890",
   "lastOpenFiles": [
-    "900 School/软件工程课设---数据库部分.md",
     "900 School/数据库原理.md",
+    "400 Archives/Linux 考点.md",
+    "900 School/软件工程课设---数据库部分.md",
     "800 Myself/我的饮食习惯.md",
     "900 School/软件工程课程设计.md",
     "400 Archives/梯子.md",
@@ -164,7 +165,6 @@
     "content/posts/2023-09-09-09-46-04.md",
     "500 Hypothesis/图数据库基础.md",
     "content/posts/2023-08-09-09-25-09.md",
-    "content/posts/2023-04-30-09-33-09.md",
     "900 School/Untitled.canvas",
     "900 School",
     "800 Myself",
