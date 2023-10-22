@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "keywords": "number",
+    "keywords": "multitext",
     "weight": "number"
   }
 }
