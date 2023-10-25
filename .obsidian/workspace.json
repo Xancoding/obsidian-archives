@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b2166ebe4eab890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f09b1fe2871759df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-05-28-18-28-55.md",
-                "mode": "preview",
+                "file": "900 School/计算机组成原理.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "飞影",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "900 School/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +132,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "5b2166ebe4eab890",
+  "active": "f09b1fe2871759df",
   "lastOpenFiles": [
-    "content/posts/2023-10-22-20-20-31.md",
     "content/posts/2023-05-28-18-28-55.md",
+    "content/posts/2023-09-09-09-46-04.md",
+    "content/posts/2023-10-22-20-20-31.md",
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2023-01-26-11-14-43.md",
     "content/posts/2023-05-28-17-13-05.md",
@@ -177,7 +165,6 @@
     "900 School/综合测评.md",
     "content/posts/2022-10-30-15-28-22.md",
     "500 Hypothesis/Python - 酒井科协暑培 2023.md",
-    "content/posts/2022-10-12-22-42-04.md",
     "600 Workout/大西山永定河沿线.pdf",
     "500 Hypothesis/大西山永定河沿线.pdf",
     "500 Hypothesis/Unconfirmed 8371.crdownload",
