@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 School/计算机组成原理.md",
+                "file": "900 School/编译技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/计算机组成原理.md",
+                "file": "900 School/编译技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +134,8 @@
   },
   "active": "f09b1fe2871759df",
   "lastOpenFiles": [
+    "900 School/计算机组成原理.md",
+    "900 School/编译技术.md",
     "content/posts/2023-05-28-18-28-55.md",
     "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2023-10-22-20-20-31.md",
@@ -152,7 +154,6 @@
     "900 School/软件工程课程设计.md",
     "400 Archives/梯子.md",
     "900 School/软件工程.md",
-    "900 School/计算机组成原理.md",
     "EA-project.ldb",
     "EA-project.eapx",
     "500 Hypothesis/柏码 - 让每一行代码都闪耀智慧的光芒！.md",
@@ -164,7 +165,6 @@
     "400 Archives/电网.md",
     "900 School/综合测评.md",
     "content/posts/2022-10-30-15-28-22.md",
-    "500 Hypothesis/Python - 酒井科协暑培 2023.md",
     "600 Workout/大西山永定河沿线.pdf",
     "500 Hypothesis/大西山永定河沿线.pdf",
     "500 Hypothesis/Unconfirmed 8371.crdownload",
