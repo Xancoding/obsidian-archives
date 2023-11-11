@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabCloudflare",
       "FasSchool",
       "TiSchool",
       "Fab500px",
-      "RiMovie2Line",
-      "IbFilm"
+      "RiMovie2Line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "600 Workout": "TiBarbell",
   "700 Spare time": "RiMovie2Line",
   "800 Myself": "TiSchool",
-  "900 School": "FasSchool"
+  "900 School": "FasSchool",
+  "1000 NILM": "FabCloudflare"
 }
