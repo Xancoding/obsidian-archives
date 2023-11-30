@@ -1,0 +1,32 @@
+{
+  "token": "6879-On4Dt1KMMXaaQSelPo72EgUU25q5wa3NCUREbtCY6eM",
+  "user": "acct:Xancoding@hypothes.is",
+  "highlightsFolder": "500 Hypothesis",
+  "isConnected": true,
+  "template": "{% if is_new_article %}# {{title}}\n## Metadata\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #source/article🗞{% endif %}\n- Tags:\n{% if is_new_article -%}## Highlights{%- endif %}\n{% for highlight in highlights -%}- {{highlight.text}}\n{% if highlight.tags | length %}   - Tags: {% for tag in highlight.tags -%}#{{tag| replace(\" \", \"-\")}} {%- endfor %}{%- endif %}\n{% if highlight.annotation %}   - Annotation: {{highlight.annotation}}{%- endif -%}{%- endfor -%}\n",
+  "syncOnBoot": true,
+  "autoSyncInterval": 2,
+  "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
+  "history": {
+    "totalArticles": 88,
+    "totalHighlights": 1300
+  },
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    },
+    {
+      "id": "mZmgJy78",
+      "name": "Digital Garden",
+      "public": false,
+      "type": "private",
+      "selected": true
+    }
+  ],
+  "useDomainFolders": false,
+  "lastSyncDate": "2023-11-30T06:15:14.464Z"
+}
