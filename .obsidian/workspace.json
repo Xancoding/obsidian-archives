@@ -23,9 +23,11 @@
             "id": "b6ee594ca867edba",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "content/posts/2023-09-07-17-57-14.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "字体",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 School/软工课设——重要的事.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +149,7 @@
   },
   "active": "b6ee594ca867edba",
   "lastOpenFiles": [
+    "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-09-07-17-57-14.md",
     "500 Hypothesis/Python - 酒井科协暑培 2023.md",
     "content/posts/2022-10-30-15-28-22.md",
@@ -171,7 +175,6 @@
     "content/posts/2023-04-30-09-20-36.md",
     "1000 NILM/创新点.md",
     "1000 NILM/非侵入式负荷检测与分解研究.md",
-    "500 Hypothesis/8.7. 通过时间反向传播 — 动手学深度学习 2.0.0 documentation.md",
     "1000 NILM",
     "club/三峰小环线.doc",
     "club/百里画廊.doc",
