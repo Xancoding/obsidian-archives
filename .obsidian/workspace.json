@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6abc903d4d572cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "900 School/软工课设——重要的事.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b6ee594ca867edba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-09-07-17-57-14.md",
+                "file": "content/posts/2023-09-09-09-46-04.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LXGWWenKai-Bold",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 217.50418853759766
+    "width": 217.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "c7a3f6f8cbc7f3ef",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-07-17-57-14.md",
+                "file": "content/posts/2023-09-09-09-46-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,19 +134,22 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
+    "content/posts/2023-11-18-20-43-43.md",
+    "content/posts/2023-04-30-09-20-36.md",
+    "content/posts/2023-09-09-09-46-04.md",
+    "content/posts/2023-04-30-09-33-09.md",
+    "900 School/软工课设——重要的事.md",
     "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-09-07-17-57-14.md",
     "500 Hypothesis/Python - 酒井科协暑培 2023.md",
     "content/posts/2022-10-30-15-28-22.md",
-    "content/posts/2023-09-09-09-46-04.md",
     "900 School/负荷分解.md",
     "900 School/软件工程课程设计.md",
     "900 School/软件工程课设---数据库部分.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-11-02-15-49-03.md",
-    "900 School/软工课设——重要的事.md",
     "900 School/TODO.md",
     "500 Hypothesis/人工智能从入门到放弃-Sklearn实战（目录） - 水论文的程序猿 - 博客园.md",
     "500 Hypothesis/00 预训练语言模型的前世今生（全文 24854 个词） - B站-水论文的程序猿 - 博客园.md",
@@ -171,10 +161,7 @@
     "content/posts/2022-11-15-21-37-17.md",
     "content/posts/2022-11-14-15-56-45.md",
     "content/posts/2022-10-14-16-07-09.md",
-    "content/posts/2023-11-18-20-43-43.md",
-    "content/posts/2023-04-30-09-20-36.md",
     "1000 NILM/创新点.md",
-    "1000 NILM/非侵入式负荷检测与分解研究.md",
     "1000 NILM",
     "club/三峰小环线.doc",
     "club/百里画廊.doc",
