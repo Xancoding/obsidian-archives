@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "字体",
+                "query": "LXGWWenKai-Bold",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b6ee594ca867edba",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
     "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-09-07-17-57-14.md",
