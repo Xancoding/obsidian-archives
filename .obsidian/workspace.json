@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-04-30-09-43-31.md",
-                "mode": "preview",
+                "file": "content/posts/2024-01-01-14-51-55.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "字体",
+                "query": "fun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-43-31.md",
+                "file": "content/posts/2023-09-09-09-46-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,15 +145,17 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "485896110a7eee8d",
+  "active": "b6ee594ca867edba",
   "lastOpenFiles": [
-    "content/posts/2022-11-02-15-49-03.md",
+    "content/posts/2024-01-01-14-51-55.md",
+    "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2023-09-09-09-46-04.md",
+    "content/posts/2023-04-30-09-43-31.md",
+    "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2023-11-18-20-43-43.md",
     "content/posts/2023-04-30-09-20-36.md",
     "content/posts/2023-04-30-09-33-09.md",
     "900 School/软工课设——重要的事.md",
-    "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2023-09-07-17-57-14.md",
     "500 Hypothesis/Python - 酒井科协暑培 2023.md",
     "content/posts/2022-10-30-15-28-22.md",
@@ -173,8 +173,6 @@
     "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2022-11-15-21-37-17.md",
     "content/posts/2022-11-14-15-56-45.md",
-    "content/posts/2022-10-14-16-07-09.md",
-    "1000 NILM/创新点.md",
     "1000 NILM",
     "club/三峰小环线.doc",
     "club/百里画廊.doc",
