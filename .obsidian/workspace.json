@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "content/posts/2023-01-23-22-40-50.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "content/posts/2024-01-01-14-51-55.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,11 +146,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b6ee594ca867edba",
+  "active": "485896110a7eee8d",
   "lastOpenFiles": [
+    "content/posts/2023-01-23-22-40-50.md",
+    "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2024-01-01-14-51-55.md",
     "content/posts/2023-01-18-12-29-48.md",
-    "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2023-11-18-20-43-43.md",
@@ -172,7 +174,6 @@
     "700 Spare time/纪录片.md",
     "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2022-11-15-21-37-17.md",
-    "content/posts/2022-11-14-15-56-45.md",
     "1000 NILM",
     "club/三峰小环线.doc",
     "club/百里画廊.doc",
