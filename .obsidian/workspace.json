@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "485896110a7eee8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024-01-01-14-51-55.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-01-01-14-51-55.md",
+                "file": "content/posts/2023-01-23-22-40-50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,14 +133,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "485896110a7eee8d",
+  "active": "b6ee594ca867edba",
   "lastOpenFiles": [
+    "content/posts/2024-01-01-14-51-55.md",
     "public/img/Headshot/008.jpg",
     "public/fonts/LXGWWenKaiScreenR.ttf",
     "public/fonts",
     "content/posts/2023-01-23-22-40-50.md",
     "content/posts/2023-09-09-09-46-04.md",
-    "content/posts/2024-01-01-14-51-55.md",
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2023-04-30-09-43-31.md",
     "content/posts/2022-11-02-15-49-03.md",
@@ -195,7 +182,6 @@
     "static/img/wechat.jpg",
     "static/img/Headshot.jpg",
     "static/img/Headshot/001.jpg",
-    "100 LaTex course/lena.png",
     "未命名 1.canvas",
     "未命名.canvas",
     "GNN/未命名.canvas"
