@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fff9d766d5a91064",
+        "id": "947a1df06493a65a",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ee594ca867edba",
+            "id": "1d42778776eb2ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -133,7 +133,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b6ee594ca867edba",
+  "active": "1d42778776eb2ff9",
   "lastOpenFiles": [
     "content/posts/2024-01-01-14-51-55.md",
     "content/posts/2024-01-07-16-40-31.md",
