@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3665fe9edfc061c5",
+        "id": "850282ba015202f1",
         "type": "tabs",
         "children": [
           {
-            "id": "48081414ceb40a17",
+            "id": "235d4d8cbe3c3285",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +129,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "48081414ceb40a17",
+  "active": "235d4d8cbe3c3285",
   "lastOpenFiles": [
+    "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2022-10-29-18-23-59.md",
@@ -147,7 +143,6 @@
     "content/posts/2023-05-28-17-57-01.md",
     "content/posts/2023-05-28-17-13-05.md",
     "content/posts/2023-05-21-07-27-22.md",
-    "content/posts/2023-09-09-09-46-04.md",
     "1000 NILM/创新点.md",
     "content/about.md",
     "800 Myself/我的饮食习惯.md",
