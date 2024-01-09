@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 NILM/创新点.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Ride",
+                "query": "typora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000 NILM/创新点.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +136,10 @@
   },
   "active": "48081414ceb40a17",
   "lastOpenFiles": [
+    "1000 NILM/创新点.md",
     "content/about.md",
     "800 Myself/我的饮食习惯.md",
     "1000 NILM/非侵入式负荷检测与分解研究.md",
-    "1000 NILM/创新点.md",
     "900 School/负荷分解.md",
     "900 School/软工课设——重要的事.md",
     "content/posts/2024-01-07-16-40-31.md",
