@@ -46,6 +46,10 @@ menu:
       name: Search
       url: search/
       weight: 50
+    - identifier: Sports
+      name: Sports
+      url: running_page/
+      weight: 60
 
 
 # 这里的参数会被代码以 .Site.Params 的形式读取
