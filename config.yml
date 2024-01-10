@@ -47,8 +47,8 @@ menu:
       url: search/
       weight: 50
     - identifier: Sports
-      name: Sports
-      url: running_page/
+      name: Workouts
+      url: workouts/
       weight: 60
 
 
