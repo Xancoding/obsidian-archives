@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a610b309504de972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024-01-07-16-40-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-01-07-16-40-31.md",
+                "file": "content/posts/2024-01-10-10-00-46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +133,15 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a610b309504de972",
+  "active": "235d4d8cbe3c3285",
   "lastOpenFiles": [
+    "content/posts/2024-01-07-16-40-31.md",
     "content/posts/2024-01-10-10-00-46.md",
     "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2022-10-29-18-23-59.md",
-    "content/posts/2024-01-07-16-40-31.md",
     "content/posts/2024-01-01-14-51-55.md",
     "content/posts/2023-05-28-18-20-45.md",
     "content/posts/2023-05-28-18-16-39.md",
