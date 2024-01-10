@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "霞鹜",
+                "query": "装备",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,10 +137,11 @@
   },
   "active": "235d4d8cbe3c3285",
   "lastOpenFiles": [
-    "content/posts/2024-01-07-16-40-31.md",
-    "content/posts/2024-01-10-10-00-46.md",
-    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-09-09-09-46-04.md",
+    "content/posts/2023-04-30-09-20-36.md",
+    "content/posts/2024-01-10-10-00-46.md",
+    "content/posts/2024-01-07-16-40-31.md",
+    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-04-02-18-00-40.md",
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2022-10-29-18-23-59.md",
@@ -164,7 +166,6 @@
     "public/fonts/LXGWWenKaiScreenR.ttf",
     "public/fonts",
     "content/posts/2023-04-30-09-43-31.md",
-    "content/posts/2022-11-02-15-49-03.md",
     "1000 NILM",
     "club/三峰小环线.doc",
     "club/百里画廊.doc",
