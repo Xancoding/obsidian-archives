@@ -101,6 +101,8 @@ params:
   socialIcons: # 首页图标
       - name: Github
         url: "https://github.com/Xancoding"
+      - name: STRAVA
+        url: "https://www.strava.com/athletes/109700842"
       - name: BiliBili
         url : "https://space.bilibili.com/365076064"        
       - name: WeChat
