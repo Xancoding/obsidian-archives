@@ -2,7 +2,7 @@
 标题: 提高Windows操作效率的实用软件神器 - 知乎
 笔记ID: H88KK8B
 笔记类型: page
-星标: false
+星标: true
 tags: 
 域名: zhuanlan.zhihu.com
 域名2: zhihu.com
