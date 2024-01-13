@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +137,8 @@
   },
   "active": "235d4d8cbe3c3285",
   "lastOpenFiles": [
-    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-09-09-09-46-04.md",
+    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-09-16-15-08-58.md",
     "content/posts/2024-01-11-22-08-49.md",
     "800 Myself/我的饮食习惯.md",
