@@ -12,5 +12,6 @@
   },
   "vimMode": true,
   "trashOption": "system",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "showUnsupportedFiles": true
 }
