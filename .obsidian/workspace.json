@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/2023-09-07-17-57-14.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2023-09-07-17-57-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +138,10 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "1a15bd30a196e8df",
+  "active": "235d4d8cbe3c3285",
   "lastOpenFiles": [
     "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-09-09-09-46-04.md",
