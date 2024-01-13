@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPersonHiking",
       "TiTimelineEventExclamation",
       "FabCloudflare",
       "FasSchool",
-      "TiSchool",
-      "Fab500px"
+      "TiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,10 +33,10 @@
   "100 LaTex course": "SiLatex",
   "200 Research": "SiApple",
   "400 Archives": "SiInternetarchive",
-  "600 Workout": "TiBarbell",
   "700 Spare time": "RiMovie2Line",
   "800 Myself": "TiSchool",
   "900 School": "FasSchool",
   "1000 NILM": "FabCloudflare",
-  "500 WuCai": "TiTimelineEventExclamation"
+  "500 WuCai": "TiTimelineEventExclamation",
+  "600 Hiking": "FasPersonHiking"
 }
