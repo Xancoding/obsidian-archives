@@ -1,0 +1,25 @@
+{
+  "token": "eyJhcHBJZCI6MjAsImFwcEtleSI6Imt0aHlxMTF2bzZnZ3R5ZTQ0dnBvZ3MiLCJhcHBTZWNyZXQiOiJqdmNmcTIzY0xwY0xRMzZJIiwiZXgiOiIifQ==.296ab71000e901a64ed2abd218ce3e12",
+  "useridx": "H3FDK72",
+  "wuCaiDir": "WuCai",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "lastSyncFailed": false,
+  "refreshNotes": false,
+  "notesToRefresh": [],
+  "reimportShowConfirmation": true,
+  "lastCursor": "",
+  "dataVersion": 0,
+  "notePaths": {},
+  "exportConfig": {
+    "pageMirrorStyle": 2,
+    "truncateTile255": 0,
+    "writeStyle": 2,
+    "highlightStyle": 1,
+    "annotationStyle": 1,
+    "tagStyle": 1,
+    "obTemplate": "",
+    "titleTemplate": "",
+    "obQuery": ""
+  }
+}
