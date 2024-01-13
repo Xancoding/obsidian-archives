@@ -8,18 +8,25 @@
   "refreshNotes": false,
   "notesToRefresh": [],
   "reimportShowConfirmation": true,
-  "lastCursor": "",
+  "lastCursor": "eyJsYXN0SGlnaGxpZ2h0UEtJRCI6MCwibG5pIjowLCJja1BLSUQiOjAsImNrTklEIjowLCJja1QiOjAsInMiOjE3MDUxMTQ0ODE5NDA0MDJ9",
   "dataVersion": 0,
-  "notePaths": {},
+  "notePaths": {
+    "H88KK8B": "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md"
+  },
   "exportConfig": {
-    "pageMirrorStyle": 2,
-    "truncateTile255": 0,
-    "writeStyle": 2,
+    "titleFormat": 11,
+    "titleTemplate": "{{ createat_ts | date(\"YYYY/MM\") }}/{{title}}",
+    "writeStyle": 1,
+    "titleStyle": 2,
     "highlightStyle": 1,
     "annotationStyle": 1,
     "tagStyle": 1,
-    "obTemplate": "",
-    "titleTemplate": "",
+    "haveWuCaiTag": 1,
+    "obTemplate": "---\n标题: \"{{title}}\"\n笔记ID: {{noteid}}\n笔记类型: {{notetype}}\n星标: {{isstar}}\ntags: {{mergedtags}}\n{% if not isdailynote %}\n域名: {{domain}}\n域名2: {{domain2}}\n作者: \"{{author}}\"\n原文链接: \"{{url}}\"\n{% endif %}\n五彩链接: \"{{wucaiurl}}\"\n划线数量: {{highlightcount}}\n创建时间: {{createat}}\n更新时间: {{updateat}}\n---\n\n## {{title}} \n{{alltags}}\n\n## 页面笔记\n{% block pagenote %}\n{{pagenote}}\n{% endblock %}\n\n## 划线列表\n{% block highlights %}\n{% for item in highlights %}\n{% set suffix = \"[Link](\"+item.refurl+\")\" %}\n{{ item | style1({prefix:\"- \", suffix:suffix, anno:\"\t- \" }) }}\n{% endfor %}\n{% endblock %}\n\n## 全文剪藏\n{% block mdcontent %}\n{{mdcontent}}\n{% endblock %}",
+    "obTemplateVer": 0,
+    "pageMirrorStyle": 1,
+    "truncateTile255": 0,
+    "IgnoreEmptyNote": 1,
     "obQuery": ""
   }
 }
