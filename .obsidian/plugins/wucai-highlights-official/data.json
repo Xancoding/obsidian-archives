@@ -4,7 +4,7 @@
   "wuCaiDir": "500 WuCai",
   "frequency": "0",
   "triggerOnLoad": true,
-  "lastSyncFailed": false,
+  "lastSyncFailed": true,
   "refreshNotes": false,
   "notesToRefresh": [],
   "reimportShowConfirmation": true,
