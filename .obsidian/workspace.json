@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a15bd30a196e8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024-02-04-13-16-51.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8263681a48e38a4e",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-02-04-13-16-51.md",
+                "file": "content/posts/2024-01-10-10-00-46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,11 +133,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1a15bd30a196e8df",
+  "active": "8263681a48e38a4e",
   "lastOpenFiles": [
+    "content/posts/2024-02-04-13-16-51.md",
     "content/posts/2024-01-10-10-00-46.md",
     "content/posts/2024-01-11-22-08-49.md",
-    "content/posts/2024-02-04-13-16-51.md",
     "content/posts/2023-09-07-17-57-14.md",
     "300 Project/XChat.md",
     "400 Archives/电网.md",
