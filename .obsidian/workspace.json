@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-01-10-10-00-46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +132,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c998ad0bd89f30f9",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2024-01-10-10-00-46.md",
+    "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2024-02-04-13-16-51.md",
     "800 Myself/我的饮食习惯.md",
     "400 Archives/未命名.md",

@@ -48,7 +48,7 @@ menu:
       weight: 50
     - identifier: Sports
       name: Workouts
-      url: workouts/
+      url: workouts_page/
       weight: 60
 
 
