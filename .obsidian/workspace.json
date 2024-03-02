@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e91a9eb65323b809",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +133,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e91a9eb65323b809",
+  "active": "c998ad0bd89f30f9",
   "lastOpenFiles": [
     "content/posts/2024-01-10-10-00-46.md",
     "content/posts/2023-09-09-09-46-04.md",
