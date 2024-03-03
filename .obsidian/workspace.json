@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-03-02-19-56-12.md",
-                "mode": "source",
+                "file": "400 Archives/templates.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-03-02-19-56-12.md",
+                "file": "400 Archives/templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +135,8 @@
   },
   "active": "e5725ad6ba354252",
   "lastOpenFiles": [
-    "400 Archives/templates.md",
     "content/posts/2024-03-02-19-56-12.md",
+    "400 Archives/templates.md",
     "600 Hiking/~WRL3590.tmp",
     "600 Hiking/~WRD3586.tmp",
     "600 Hiking/~WRL0005.tmp",
