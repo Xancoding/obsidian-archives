@@ -11,8 +11,12 @@
             "id": "e5725ad6ba354252",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2024-03-02-19-56-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bili",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2024-03-02-19-56-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +135,7 @@
   },
   "active": "e5725ad6ba354252",
   "lastOpenFiles": [
+    "400 Archives/templates.md",
     "content/posts/2024-03-02-19-56-12.md",
     "600 Hiking/~WRL3590.tmp",
     "600 Hiking/~WRD3586.tmp",
@@ -159,7 +164,6 @@
     "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2024-02-04-13-16-51.md",
     "800 Myself/我的饮食习惯.md",
-    "400 Archives/未命名.md",
     "400 Archives/电网.md",
     "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2024-01-11-22-08-49.md",
