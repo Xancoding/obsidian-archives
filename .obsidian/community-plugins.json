@@ -1,7 +1,6 @@
 [
   "various-complements",
   "cm-editor-syntax-highlight-obsidian",
-  "quickadd",
   "obsidian-emoji-toolbar",
   "obsidian-git",
   "obsidian-wakatime",
@@ -15,5 +14,6 @@
   "obsidian-system-dark-mode",
   "cmdr",
   "obsidian-hover-editor",
-  "wucai-highlights-official"
+  "wucai-highlights-official",
+  "quickadd"
 ]

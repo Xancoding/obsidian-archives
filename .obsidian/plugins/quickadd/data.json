@@ -1,23 +1,23 @@
 {
   "choices": [
     {
-      "id": "ccbc0a01-064d-4029-8385-e8f8a075d52b",
+      "id": "1afdf495-e99d-42f9-afcb-24c822abd6af",
       "name": "新建博客",
       "type": "Macro",
       "command": false,
-      "macroId": "05e1a434-a3d6-4ecc-9ff8-216a08f963f0"
+      "macroId": "326a3a72-2436-4627-9c45-a61fa9781758"
     }
   ],
   "macros": [
     {
       "name": "新建博客",
-      "id": "05e1a434-a3d6-4ecc-9ff8-216a08f963f0",
+      "id": "326a3a72-2436-4627-9c45-a61fa9781758",
       "commands": [
         {
           "name": "NewBlog",
           "type": "UserScript",
-          "id": "5865d3b9-2d42-46d0-a47a-1a81d8977e0a",
-          "path": "obs_scripts/NewBlog.js",
+          "id": "0a4151fe-76bf-4501-bad6-84cbcd8ffc0d",
+          "path": "scripts/NewBlog.js",
           "settings": {}
         }
       ],
@@ -28,7 +28,7 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "1.2.1",
+  "version": "1.7.0",
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",
