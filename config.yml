@@ -75,7 +75,6 @@ params:
   ShowCodeCopyButtons: true # 显示copy按钮
   ShowWordCounts: true # 显示字数
   VisitCount: true # 显示访问人数
-  ShowLastMod: true # 显示文章更新时间
   hideFooter: false # 隐藏页脚
   displayFullLangName: true
 
