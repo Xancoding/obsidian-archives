@@ -1,9 +1,9 @@
 {{- $scratch := newScratch }}
 <!-- 创建时间 -->
-<!-- {{- if not .Date.IsZero -}}
+{{- if not .Date.IsZero -}}
 {{- $scratch.Add "meta" (slice (printf "创建:&nbsp;<span title='%s'>%s</span>" (.Date) (.Date.Format (default "January 2,
 2006" .Site.Params.DateFormat)))) }}
-{{- end }} -->
+{{- end }}
 
 <!-- 统计字数 -->
 {{- if (.Param "ShowWordCounts") -}}
