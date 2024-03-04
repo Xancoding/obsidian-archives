@@ -2,7 +2,6 @@
 <!-- 创建时间 -->
 {{- if not .Date.IsZero -}}
 {{- $scratch.Add "meta" (slice (printf "%s" (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat)))) }}
-{{- $scratch.Add "meta" (slice (printf "%s" (.Date) (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat)))) }}
 {{- end }}
 
 <!-- 分隔方式 -->
