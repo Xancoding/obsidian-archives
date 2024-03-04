@@ -4,21 +4,6 @@
 {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat)))) }}
 {{- end }}
 
-<!-- 统计字数 -->
-<!-- {{- if (.Param "ShowWordCounts") -}}
-{{- $scratch.Add "meta" (slice (default (printf "字数:&nbsp;%d字" .WordCount))) }}
-{{- end }} -->
-
-<!-- 大概需要花费的阅读时间 -->
-<!-- {{- if (.Param "ShowReadingTime") -}}
-{{- $scratch.Add "meta" (slice (default (printf "时长: %d分钟" .ReadingTime))) }}
-{{- end }} -->
-
-<!-- 作者 -->
-<!-- {{- with (partial "author.html" .) }}
-{{- $scratch.Add "meta" (slice .) }}
-{{- end }} -->
-
 <!-- 分隔方式 -->
 {{- with ($scratch.Get "meta") }}
 {{- delimit . " | " -}}
