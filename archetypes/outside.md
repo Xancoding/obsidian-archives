@@ -26,3 +26,16 @@ cover:
     alt: ""
     relative: false
 ---
+
+
+
+{{< galleries >}}
+{{< gallery src="">}}
+{{< gallery src="">}}
+{{< gallery src="">}}
+{{< gallery src="">}}
+{{< /galleries >}}
+
+
+
+{{< bilibili BV1Eu4m13758 >}}
