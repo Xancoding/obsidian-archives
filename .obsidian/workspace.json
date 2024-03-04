@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/outside/test.md",
+                "file": "content/posts/2024-01-23-23-01-34.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/outside/test.md",
+                "file": "content/posts/2024-01-23-23-01-34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +135,9 @@
   },
   "active": "e5725ad6ba354252",
   "lastOpenFiles": [
+    "content/outside/test.md",
     "content/posts/2024-01-23-23-01-34.md",
     "400 Archives/外出游玩模板.md",
-    "content/outside/test.md",
     "content/outside",
     "archetypes/life.md",
     "archetypes/default - 复制.md",
