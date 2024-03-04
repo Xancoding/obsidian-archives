@@ -1,7 +1,18 @@
 {{- $scratch := newScratch }}
 <!-- 创建时间 -->
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (printf "&nbsp;<span title='%s'>%s</span>" (.Date) (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat)))) }}
+{{- $scratch.Add "meta" (slice (printf "创建:&nbsp;<span title='%s'>%s</span>" (.Date) (.Date.Format (default "January 2,
+2006" .Site.Params.DateFormat)))) }}
+{{- end }}
+
+<!-- 统计字数 -->
+{{- if (.Param "ShowWordCounts") -}}
+{{- $scratch.Add "meta" (slice (default (printf "字数:&nbsp;%d字" .WordCount))) }}
+{{- end }}
+
+<!-- 大概需要花费的阅读时间 -->
+{{- if (.Param "ShowReadingTime") -}}
+{{- $scratch.Add "meta" (slice (default (printf "时长: %d分钟" .ReadingTime))) }}
 {{- end }}
 
 <!-- 分隔方式 -->
