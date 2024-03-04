@@ -3,9 +3,13 @@ title: "{{ replace .Name "-" " " | title }}" # 标题
 date: {{ .Date }} # 创建时间
 author: ["Xan"] # 作者
 tags: # 标签
-- 
+- Life
+- Fun
+- Sports
 keywords: # 关键词
-- 
+- Life
+- Fun
+- Sports
 description: "" # 描述
 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: ""
