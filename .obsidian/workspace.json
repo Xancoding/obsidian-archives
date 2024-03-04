@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-01-23-23-01-34.md",
+                "file": "content/posts/2023-04-30-09-43-31.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Riding",
+                "query": "blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-01-23-23-01-34.md",
+                "file": "content/posts/2023-04-30-09-43-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +136,13 @@
   },
   "active": "e5725ad6ba354252",
   "lastOpenFiles": [
-    "content/outside/test.md",
+    "content/posts/2023-04-30-09-33-09.md",
+    "content/posts/2022-11-14-15-56-45.md",
+    "content/posts/2022-10-30-15-28-22.md",
+    "content/posts/2022-10-29-18-23-59.md",
+    "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2024-01-23-23-01-34.md",
+    "content/outside/test.md",
     "400 Archives/外出游玩模板.md",
     "content/outside",
     "archetypes/life.md",
@@ -162,15 +168,10 @@
     "content/posts/2023-07-17-15-49-41.md",
     "obs_scripts/create_new_blog.js",
     "obs_scripts/新建文本文档.txt",
-    "content/posts/2024-03-03-20-06-38.md",
     "public/tags/凌云社/page/1/index.html",
     "public/tags/凌云社/page/1",
     "public/tags/凌云社/page",
     "public/tags/凌云社/index.xml",
-    "400 Archives/电网.md",
-    "400 Archives/保研目标院校.md",
-    "content/posts/2023-05-21-07-27-22.md",
-    "content/posts/2023-04-30-09-43-31.md",
     "public/img/Headshot/008.jpg",
     "900 School/Untitled.canvas",
     "600 健身/Untitled.canvas",
