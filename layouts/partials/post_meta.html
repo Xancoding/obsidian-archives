@@ -5,21 +5,21 @@
 {{- end }}
 
 <!-- 统计字数 -->
-{{- if (.Param "ShowWordCounts") -}}
+<!-- {{- if (.Param "ShowWordCounts") -}}
 {{- $scratch.Add "meta" (slice (default (printf "字数:&nbsp;%d字" .WordCount))) }}
-{{- end }}
+{{- end }} -->
 
 <!-- 大概需要花费的阅读时间 -->
-{{- if (.Param "ShowReadingTime") -}}
+<!-- {{- if (.Param "ShowReadingTime") -}}
 {{- $scratch.Add "meta" (slice (default (printf "时长: %d分钟" .ReadingTime))) }}
-{{- end }}
+{{- end }} -->
 
 <!-- 作者 -->
-{{- with (partial "author.html" .) }}
+<!-- {{- with (partial "author.html" .) }}
 {{- $scratch.Add "meta" (slice .) }}
-{{- end }}
+{{- end }} -->
 
 <!-- 分隔方式 -->
-{{- with ($scratch.Get "meta") }}
+<!-- {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;|&nbsp;" -}}
-{{- end -}}
+{{- end -}} -->
