@@ -136,6 +136,7 @@
   },
   "active": "e5725ad6ba354252",
   "lastOpenFiles": [
+    "themes/hugo-PaperMod",
     "content/posts/2024-02-03-22-54-05.md",
     "400 Archives/外出游玩模板.md",
     "content/posts/2023-04-30-09-43-31.md",
@@ -162,7 +163,6 @@
     "content/posts/2024-02-22-22-28-41.md",
     "content/posts/2024-03-03-22-43-35.md",
     "content/posts/2024-03-03-23-20-48.md",
-    "content/posts/2023-11-18-20-43-43.md",
     "scripts/create_new_blog.js",
     "scripts/NewBlog.js",
     "scripts",
