@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}" # 标题
-date: {{ .Date }} # 创建时间
+title: "Test" # 标题
+date: 2024-03-04T10:39:41+08:00 # 创建时间
 author: ["Xan"] # 作者
 tags: # 标签
 - Life
