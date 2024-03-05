@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bd0b5104ccad8b",
+        "id": "a6b30b6248805724",
         "type": "tabs",
         "children": [
           {
-            "id": "be54e2664926b2ba",
+            "id": "240747d2bfd526cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-04-30-09-43-31.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-43-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +129,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "be54e2664926b2ba",
+  "active": "240747d2bfd526cb",
   "lastOpenFiles": [
+    "content/posts/2023-04-30-09-43-31.md",
     "themes/PaperMod/i18n/th.yaml",
     "themes/PaperMod/i18n/sw.yaml",
     "themes/PaperMod/i18n/sk.yaml",
@@ -146,8 +142,6 @@
     "themes/PaperMod/i18n/hr.yaml",
     "themes/PaperMod/i18n/el.yaml",
     "themes/PaperMod/i18n/cs.yaml",
-    "themes/PaperMod/i18n/be.yaml",
-    "content/posts/2023-04-30-09-43-31.md",
     "themes/hugo-PaperMod/README.md",
     "content/posts/2024-02-03-22-54-05.md",
     "400 Archives/外出游玩模板.md",
