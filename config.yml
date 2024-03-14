@@ -97,7 +97,7 @@ params:
     # title: "Xan" # optional default will be site title
     # subtitle: "Coding Running Hiking"
     # imageUrl: "https://avatars.githubusercontent.com/u/97733434?s=400&u=b2eb7f2c540e6cdeefc2bf0be1a87561c38daf6c&v=4" # optional
-    # imageTitle: "HeadShot.jpg" # optional
+    # imageTitle: "headshot.jpg" # optional
     # imageWidth: 120 # custom size
     # imageHeight: 120 # custom size
 
@@ -124,7 +124,7 @@ params:
         
   label:
     text: "Xan's Blog"
-    icon: "img/Headshot.jpg"
+    icon: "img/headshot.jpg"
     iconHeight: 35
   
   fuseOpts: # 搜索配置
