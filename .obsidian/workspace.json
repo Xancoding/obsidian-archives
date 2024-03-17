@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-03-16-12-13-26.md",
-                "mode": "preview",
+                "file": "content/posts/2024-03-14-15-38-23.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-03-16-12-13-26.md",
+                "file": "content/posts/2024-03-14-15-38-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +136,8 @@
   },
   "active": "240747d2bfd526cb",
   "lastOpenFiles": [
-    "content/posts/2024-01-01-14-51-55.md",
     "content/posts/2024-03-16-12-13-26.md",
+    "content/posts/2024-01-01-14-51-55.md",
     "content/posts/2024-03-14-15-38-23.md",
     "content/posts/2024-03-13-16-59-28.md",
     "content/posts/2024-01-23-23-01-34.md",
