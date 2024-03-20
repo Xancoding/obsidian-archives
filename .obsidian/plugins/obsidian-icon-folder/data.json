@@ -28,14 +28,6 @@
   "content/links.md": "RiLink",
   "content/archives.md": "RiInboxArchiveLine",
   "content/search.md": "RiSearchLine",
-  "000 BOOKS": "SiBookstack",
-  "100 LaTex course": "SiLatex",
-  "200 Research": "SiApple",
-  "400 Archives": "SiInternetarchive",
-  "700 Spare time": "RiMovie2Line",
-  "800 Myself": "TiSchool",
-  "900 School": "FasSchool",
   "1000 NILM": "FabCloudflare",
-  "500 WuCai": "TiTimelineEventExclamation",
-  "600 Hiking": "FasPersonHiking"
+  "500 WuCai": "TiTimelineEventExclamation"
 }
