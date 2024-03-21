@@ -11,9 +11,11 @@
             "id": "e01d8749dc47c9ae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "400 archives/老毛病病病.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "400 archives/老毛病病病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
