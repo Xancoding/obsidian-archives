@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-03-24-00-33-46.md",
-                "mode": "preview",
+                "file": "content/posts/2024-03-31-19-17-32.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-03-24-00-33-46.md",
+                "file": "content/posts/2024-03-31-19-17-32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +137,7 @@
   "lastOpenFiles": [
     "content/posts/2024-03-24-19-25-01.md",
     "content/posts/2024-03-24-00-33-46.md",
+    "content/posts/2024-03-31-19-17-32.md",
     "content/posts/2024-03-24-00-28-44.md",
     "400 archives/2024DCIC.md",
     "400 archives/老毛病病病.md",
@@ -172,7 +173,6 @@
     "200 research/000 期刊 会议.md",
     "200 research/000 一些有参考意义的博客.md",
     "000 books/算法竞赛/XCPC.jpg",
-    "300 Project/XChat.md",
     "public/img/Headshot/008.jpg",
     "900 School/Untitled.canvas",
     "600 健身/Untitled.canvas",
