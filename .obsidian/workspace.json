@@ -23,9 +23,11 @@
             "id": "347a00dbf79d8dfe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "content/posts/2023-09-09-09-46-04.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -76,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-04-05-20-25-49.md",
+                "file": "content/posts/2023-09-09-09-46-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
