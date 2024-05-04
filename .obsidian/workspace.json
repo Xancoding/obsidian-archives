@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "700 spare-time/纪录片.md",
                 "mode": "preview",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "700 spare-time/纪录片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +148,9 @@
   },
   "active": "347a00dbf79d8dfe",
   "lastOpenFiles": [
+    "700 spare-time/美剧.md",
+    "700 spare-time/电影.md",
+    "content/posts/2023-09-09-09-46-04.md",
     "content/posts/2024-03-31-19-17-32.md",
     "content/posts/2024-04-05-20-25-49.md",
     "content/posts/2024-03-24-19-25-01.md",
@@ -160,8 +162,6 @@
     "800 myself/我的饮食习惯.md",
     "800 myself/饮食计划.md",
     "800 myself",
-    "700 spare-time/美剧.md",
-    "700 spare-time/电影.md",
     "700 spare-time/纪录片.md",
     "700 spare-time",
     "100 LaTex-course/lena.png",
@@ -185,7 +185,6 @@
     "200 research/GNN完整学习路线.md",
     "200 research/GNN科研入门路线.md",
     "200 research/000 研究方向.md",
-    "200 research/000 期刊 会议.md",
     "000 books/算法竞赛/XCPC.jpg",
     "public/img/Headshot/008.jpg",
     "900 School/Untitled.canvas",
