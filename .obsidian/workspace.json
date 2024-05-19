@@ -131,10 +131,10 @@
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "templater-obsidian:Templater": false
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "fac3c22a0dc5ca19",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
     "content/posts/2022-10-29-18-23-59.md",
     "template/日记模板.md",
@@ -145,7 +145,7 @@
     "400 archives/nikomat FTN.md",
     "content/posts/2024-04-05-20-25-49.md",
     "200 research/学习资料.md",
-    "300 writing",
+    "300 daily",
     "800 myself/我的饮食习惯.md",
     "content/posts/2023-07-19-14-15-53.md",
     "400 archives/2024DCIC.md",
