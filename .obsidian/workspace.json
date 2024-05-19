@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb5ff77a974bdaf",
+        "id": "43abff8dac54c7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fac3c22a0dc5ca19",
+            "id": "5898d91d8c932302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/日记模板.md",
-                "mode": "source",
+                "file": "300 daily/2024-05-19.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "efe2640004a733b9",
+            "id": "3ddac00dcb98e7ef",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -152,11 +152,11 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "efe2640004a733b9",
+  "active": "3ddac00dcb98e7ef",
   "lastOpenFiles": [
+    "300 daily/2024-05-19.md",
     "template/日记模板.md",
     "themes/PaperMod/README.md",
-    "300 daily/2024-05-19.md",
     "content/posts/2022-10-29-18-23-59.md",
     "template",
     "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
