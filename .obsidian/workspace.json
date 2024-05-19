@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 daily/2024-05-19.md",
+                "file": "template/日记模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 daily/2024-05-19.md",
+                "file": "template/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,10 +142,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "7523615be76cd753",
+  "active": "fac3c22a0dc5ca19",
   "lastOpenFiles": [
-    "template/日记模板.md",
     "300 daily/2024-05-19.md",
+    "template/日记模板.md",
     "content/posts/2022-10-29-18-23-59.md",
     "template",
     "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
