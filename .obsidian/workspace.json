@@ -11,8 +11,12 @@
             "id": "fac3c22a0dc5ca19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "template/日记模板.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2022-10-29-18-23-59.md",
+                "file": "template/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +130,15 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "fac3c22a0dc5ca19",
   "lastOpenFiles": [
+    "content/posts/2022-10-29-18-23-59.md",
+    "template/日记模板.md",
+    "template",
     "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
     "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
     "400 archives/DATA-TO-STRAVA.md",
@@ -162,12 +170,9 @@
     "100 LaTex-course/Doc1.synctex.gz",
     "100 LaTex-course/Doc1.log",
     "100 LaTex-course/Doc1.pdf",
-    "100 LaTex-course/Doc1.aux",
     "400 Archives/DATA-TO-STRAVA.md",
     "200 Research/000 一些有参考意义的博客.md",
     "200 research/机器学习相关基础知识.md",
-    "200 research/如何定基准模型？.md",
-    "200 research/图神经网络GNN项目实战1-3 SimGNN上中下.md",
     "000 books/算法竞赛/XCPC.jpg",
     "public/img/Headshot/008.jpg",
     "900 School/Untitled.canvas",
