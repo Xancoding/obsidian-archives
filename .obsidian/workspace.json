@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/日记模板.md",
+                "file": "300 daily/2024-05-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/日记模板.md",
+                "file": "300 daily/2024-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "7523615be76cd753",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -134,10 +142,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "fac3c22a0dc5ca19",
+  "active": "7523615be76cd753",
   "lastOpenFiles": [
-    "content/posts/2022-10-29-18-23-59.md",
     "template/日记模板.md",
+    "300 daily/2024-05-19.md",
+    "content/posts/2022-10-29-18-23-59.md",
     "template",
     "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
     "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
@@ -172,7 +181,6 @@
     "100 LaTex-course/Doc1.pdf",
     "400 Archives/DATA-TO-STRAVA.md",
     "200 Research/000 一些有参考意义的博客.md",
-    "200 research/机器学习相关基础知识.md",
     "000 books/算法竞赛/XCPC.jpg",
     "public/img/Headshot/008.jpg",
     "900 School/Untitled.canvas",
