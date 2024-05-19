@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✍",
       "FasSchool",
       "FasPerson",
       "IbFilm",
-      "TiBooks",
-      "SiLatex"
+      "TiBooks"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,6 @@
   "000 books": "TiBooks",
   "600 hiking": "FasPersonHiking",
   "800 myself": "FasPerson",
-  "900 school": "FasSchool"
+  "900 school": "FasSchool",
+  "300 writing": "✍"
 }
