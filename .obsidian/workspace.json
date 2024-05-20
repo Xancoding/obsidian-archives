@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#读书",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
