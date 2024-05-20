@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "template/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,10 +138,10 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "3ddac00dcb98e7ef",
   "lastOpenFiles": [
-    "template/日记模板.md",
     "300 daily/2024-05-20.md",
+    "template/日记模板.md",
     "300 daily/2024-05-19.md",
     "themes/PaperMod/README.md",
     "content/posts/2022-10-29-18-23-59.md",
