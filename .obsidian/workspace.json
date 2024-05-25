@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "themes/PaperMod/README.md",
+                "file": "template/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "3ddac00dcb98e7ef",
   "lastOpenFiles": [
+    "300 daily/2024-05-24.md",
     "300 daily/2024-05-23.md",
     "300 daily/2024-05-22.md",
     "300 daily/2024-05-21.md",
@@ -167,7 +168,6 @@
     "700 spare-time/美剧.md",
     "700 spare-time/电影.md",
     "content/posts/2023-09-09-09-46-04.md",
-    "content/posts/2024-03-31-19-17-32.md",
     "900 school",
     "800 myself",
     "700 spare-time",
