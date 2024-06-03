@@ -82,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "themes/PaperMod/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +139,9 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "3ddac00dcb98e7ef",
   "lastOpenFiles": [
+    "300 daily/2024-06-03.md",
     "themes/PaperMod/README.md",
     "300 daily/2024-06-01.md",
     "300 daily/2024-05-25.md",
@@ -167,7 +169,6 @@
     "1000 NILM/非侵入式负荷检测与分解研究.md",
     "1000 NILM/创新点.md",
     "700 spare-time/纪录片.md",
-    "700 spare-time/美剧.md",
     "900 school",
     "800 myself",
     "700 spare-time",
