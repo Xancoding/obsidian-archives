@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#读书",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,9 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "3ddac00dcb98e7ef",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
+    "themes/PaperMod/README.md",
     "300 daily/2024-06-01.md",
     "300 daily/2024-05-25.md",
     "300 daily/2024-05-24.md",
@@ -149,7 +150,6 @@
     "300 daily/2024-05-20.md",
     "template/日记模板.md",
     "300 daily/2024-05-19.md",
-    "themes/PaperMod/README.md",
     "content/posts/2022-10-29-18-23-59.md",
     "template",
     "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
