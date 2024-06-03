@@ -14,8 +14,21 @@
               "type": "thino_view",
               "state": {}
             }
+          },
+          {
+            "id": "f00ac4bded0de148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 research/如何定基准模型？.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "themes/PaperMod/README.md",
+                "file": "200 research/如何定基准模型？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +151,14 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "3ddac00dcb98e7ef",
+  "active": "f00ac4bded0de148",
   "lastOpenFiles": [
-    "300 daily/2024-04-29.md",
+    "200 research/000 期刊 会议.md",
+    "200 research/图神经网络GNN项目实战1-3 SimGNN上中下.md",
+    "200 research/图神经网络GNN项目实战 4-7 StemGNN.md",
+    "200 research/000 一些有参考意义的博客.md",
     "themes/PaperMod/README.md",
+    "300 daily/2024-04-29.md",
     "300 daily/2024-06-03.md",
     "300 daily/2024-06-01.md",
     "300 daily/2024-05-25.md",
@@ -164,10 +181,6 @@
     "800 myself/我的饮食习惯.md",
     "content/posts/2023-07-19-14-15-53.md",
     "400 archives/2024DCIC.md",
-    "800 myself/饮食计划.md",
-    "400 archives/老毛病病病.md",
-    "1000 NILM/非侵入式负荷检测与分解研究.md",
-    "1000 NILM/创新点.md",
     "900 school",
     "800 myself",
     "700 spare-time",
