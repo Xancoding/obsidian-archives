@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "3aa458b5eba3e3f1",
+            "id": "4ee1d690e9565364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "800 myself/饮食计划.md",
+                "file": "800 myself/我的饮食习惯.md",
                 "mode": "preview",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rai",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "800 myself/饮食计划.md",
+                "file": "800 myself/我的饮食习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,10 +151,12 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "3aa458b5eba3e3f1",
+  "active": "4ee1d690e9565364",
   "lastOpenFiles": [
-    "800 myself/我的饮食习惯.md",
     "800 myself/饮食计划.md",
+    "800 myself/我的饮食习惯.md",
+    "template/日记模板.md",
+    "content/posts/2023-09-07-17-57-14.md",
     "themes/PaperMod/README.md",
     "200 research/如何定基准模型？.md",
     "200 research/机器学习相关基础知识.md",
@@ -178,8 +180,6 @@
     "300 daily/2024-05-22.md",
     "300 daily/2024-05-21.md",
     "300 daily/2024-05-20.md",
-    "template/日记模板.md",
-    "300 daily/2024-05-19.md",
     "template",
     "300 daily",
     "900 school",
