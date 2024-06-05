@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 research/机器学习相关基础知识.md",
+                "file": "200 research/如何定基准模型？.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 research/机器学习相关基础知识.md",
+                "file": "200 research/如何定基准模型？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +153,10 @@
   },
   "active": "4460ea6ecc0f7cbc",
   "lastOpenFiles": [
+    "200 research/机器学习相关基础知识.md",
     "200 research/如何定基准模型？.md",
     "themes/PaperMod/README.md",
     "200 research/000 期刊 会议.md",
-    "200 research/机器学习相关基础知识.md",
     "400 archives/nikomat FTN.md",
     "200 research/学习资料.md",
     "200 research/GNN完整学习路线.md",
