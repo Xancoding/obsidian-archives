@@ -14,21 +14,8 @@
               "type": "thino_view",
               "state": {}
             }
-          },
-          {
-            "id": "4460ea6ecc0f7cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 research/如何定基准模型？.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 research/如何定基准模型？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,11 +137,11 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "4460ea6ecc0f7cbc",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "200 research/机器学习相关基础知识.md",
-    "200 research/如何定基准模型？.md",
     "themes/PaperMod/README.md",
+    "200 research/如何定基准模型？.md",
+    "200 research/机器学习相关基础知识.md",
     "200 research/000 期刊 会议.md",
     "400 archives/nikomat FTN.md",
     "200 research/学习资料.md",
