@@ -14,21 +14,8 @@
               "type": "thino_view",
               "state": {}
             }
-          },
-          {
-            "id": "148ad7984f3acb20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,10 +137,11 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "148ad7984f3acb20",
+  "active": "d44a19e1addf462f",
   "lastOpenFiles": [
-    "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
     "README.md",
+    "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
+    "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
     "800 myself/饮食计划.md",
     "800 myself/我的饮食习惯.md",
     "template/日记模板.md",
@@ -179,7 +166,6 @@
     "300 daily/2024-05-25.md",
     "300 daily/2024-05-24.md",
     "300 daily/2024-05-23.md",
-    "300 daily/2024-05-22.md",
     "template",
     "300 daily",
     "900 school",
