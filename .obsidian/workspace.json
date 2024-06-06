@@ -14,8 +14,21 @@
               "type": "thino_view",
               "state": {}
             }
+          },
+          {
+            "id": "148ad7984f3acb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "800 myself/我的饮食习惯.md",
+                "file": "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +151,9 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "d44a19e1addf462f",
+  "active": "148ad7984f3acb20",
   "lastOpenFiles": [
+    "README.md",
     "800 myself/饮食计划.md",
     "800 myself/我的饮食习惯.md",
     "template/日记模板.md",
@@ -166,7 +180,6 @@
     "300 daily/2024-05-23.md",
     "300 daily/2024-05-22.md",
     "300 daily/2024-05-21.md",
-    "300 daily/2024-05-20.md",
     "template",
     "300 daily",
     "900 school",
