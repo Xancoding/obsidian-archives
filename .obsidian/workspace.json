@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-09-09-09-46-04.md",
+                "file": "themes/PaperMod/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +150,9 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "3ddac00dcb98e7ef",
   "lastOpenFiles": [
+    "content/posts/2023-09-09-09-46-04.md",
     "README.md",
     "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
     "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
@@ -180,7 +179,6 @@
     "300 daily/2024-06-01.md",
     "300 daily/2024-05-25.md",
     "300 daily/2024-05-24.md",
-    "300 daily/2024-05-23.md",
     "template",
     "300 daily",
     "900 school",
