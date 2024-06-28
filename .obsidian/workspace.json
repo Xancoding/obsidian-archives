@@ -19,9 +19,11 @@
             "id": "07d80f9948a61201",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "content/posts/2023-04-30-09-20-36.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -55,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "远征",
+                "query": "两步路",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/posts/2023-04-30-09-20-36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +152,11 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "07d80f9948a61201",
+  "active": "9bd55110e08c1ff7",
   "lastOpenFiles": [
+    "content/posts/2023-09-07-17-57-14.md",
+    "content/posts/2023-04-30-09-20-36.md",
+    "content/posts/2023-10-22-20-20-31.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-30-15-28-22.md",
     "content/posts/2022-10-12-07-27-58.md",
@@ -174,9 +180,6 @@
     "content/posts/2024-02-22-22-28-41.md",
     "content/posts/2024-03-02-19-56-12.md",
     "content/posts/2023-07-19-14-15-53.md",
-    "content/posts/2023-04-30-09-48-57.md",
-    "content/posts/2024-02-22-22-16-38.md",
-    "content/posts/2024-03-17-23-33-53.md",
     "200 research/Graph Network.pdf",
     "template",
     "300 daily",
