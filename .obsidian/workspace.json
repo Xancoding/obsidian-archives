@@ -14,21 +14,8 @@
               "type": "thino_view",
               "state": {}
             }
-          },
-          {
-            "id": "07d80f9948a61201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023-04-30-09-20-36.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-04-30-09-20-36.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +138,18 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "9bd55110e08c1ff7",
+  "active": "3ddac00dcb98e7ef",
   "lastOpenFiles": [
-    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-04-30-09-20-36.md",
+    "500 WuCai/2024/08/【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0_哔哩哔哩_bilibili-HM37H66.md",
+    "500 WuCai/2024/08/Transformer详解 - mathor-HM3CC8C.md",
+    "500 WuCai/2024/08",
+    "500 WuCai/2024/07/TNSRE 2024  基于Attention的双尺度融合CNN的脑机接口运动想象分类-HMBB5FD.md",
+    "500 WuCai/2024/07/Nexus mods and community-HMBH27M.md",
+    "500 WuCai/2024/07/Understanding LSTM Networks -- colahs blog-HMBE9M3.md",
+    "500 WuCai/2024/07",
+    "500 WuCai/2024",
+    "content/posts/2023-09-07-17-57-14.md",
     "content/posts/2023-10-22-20-20-31.md",
     "content/posts/2022-10-12-22-42-04.md",
     "content/posts/2022-10-30-15-28-22.md",
@@ -175,11 +169,6 @@
     "content/posts/2023-01-18-12-29-48.md",
     "content/posts/2023-05-21-07-27-22.md",
     "content/posts/2023-05-28-18-16-39.md",
-    "content/posts/2023-04-30-09-43-31.md",
-    "content/posts/2023-04-02-18-00-40.md",
-    "content/posts/2024-02-22-22-28-41.md",
-    "content/posts/2024-03-02-19-56-12.md",
-    "content/posts/2023-07-19-14-15-53.md",
     "200 research/Graph Network.pdf",
     "template",
     "300 daily",
@@ -188,9 +177,6 @@
     "700 spare-time",
     "100 LaTex-course/lena.png",
     "100 LaTex-course/Doc1.toc",
-    "100 LaTex-course/Doc1.tex",
-    "100 LaTex-course/Doc1.synctex.gz",
-    "100 LaTex-course/Doc1.log",
     "000 books/算法竞赛/XCPC.jpg",
     "public/img/Headshot/008.jpg",
     "900 School/Untitled.canvas",

@@ -4,15 +4,20 @@
   "wuCaiDir": "500 WuCai",
   "frequency": "180",
   "triggerOnLoad": true,
-  "lastSyncFailed": true,
+  "lastSyncFailed": false,
   "refreshNotes": false,
   "notesToRefresh": [],
   "reimportShowConfirmation": true,
-  "lastCursor": "eyJsYXN0SGlnaGxpZ2h0UEtJRCI6MCwibG5pIjowLCJja1BLSUQiOjAsImNrTklEIjowLCJja1QiOjAsInMiOjE3MDUxMTkwNjEwNjk0MjB9",
+  "lastCursor": "eyJsYXN0SGlnaGxpZ2h0UEtJRCI6MCwibG5pIjowLCJja1BLSUQiOjAsImNrTklEIjowLCJja1QiOjAsInMiOjE3MjMyNzMwMTM4OTkwNjR9",
   "dataVersion": 0,
   "notePaths": {
     "H88KK8B": "500 WuCai/2024/01/提高Windows操作效率的实用软件神器 - 知乎-H88KK8B.md",
-    "H88KKC6": "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md"
+    "H88KKC6": "500 WuCai/2024/01/一款好用资源管理Directory Opus_哔哩哔哩_bilibili-H88KKC6.md",
+    "HMBE9M3": "500 WuCai/2024/07/Understanding LSTM Networks -- colahs blog-HMBE9M3.md",
+    "HMBH27M": "500 WuCai/2024/07/Nexus mods and community-HMBH27M.md",
+    "HMBB5FD": "500 WuCai/2024/07/TNSRE 2024  基于Attention的双尺度融合CNN的脑机接口运动想象分类-HMBB5FD.md",
+    "HM3CC8C": "500 WuCai/2024/08/Transformer详解 - mathor-HM3CC8C.md",
+    "HM37H66": "500 WuCai/2024/08/【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0_哔哩哔哩_bilibili-HM37H66.md"
   },
   "exportConfig": {
     "titleFormat": 11,
@@ -27,7 +32,11 @@
     "obTemplateVer": 0,
     "pageMirrorStyle": 1,
     "truncateTile255": 0,
-    "IgnoreEmptyNote": 1,
-    "obQuery": ""
+    "ignoreEmptyNote": 1,
+    "obQuery": "",
+    "obExcludeCondition": "",
+    "obDailyPath": "",
+    "obNoteProps": "",
+    "obNotSyncProps": ""
   }
 }
