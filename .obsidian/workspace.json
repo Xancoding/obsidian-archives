@@ -19,9 +19,11 @@
             "id": "6b9a6f873f53adc9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "content/posts/2023-04-30-09-43-31.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -55,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "两步路",
+                "query": "hugo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/posts/2023-04-30-09-43-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +154,10 @@
   },
   "active": "6b9a6f873f53adc9",
   "lastOpenFiles": [
+    "500 WuCai/2024/08/如何解除“无法完成操作 因为文件包含病毒或潜在垃圾软件”_无法成功完成操作-CSDN博客-HMA72BC.md",
+    "500 WuCai/2024/08/第 2 周：共形预测背后的直觉 --- Week 2 Intuition Behind Conf-HMAF7DA.md",
+    "500 WuCai/2024/08/第 1 周：开始使用共形预测进行分类 --- Week 1 Getting Started Wi-HMAF5HH.md",
+    "500 WuCai/2024/08/中心极限定理的证明_中心极限定理证明-CSDN博客-HM3M5F9.md",
     "content/posts/2023-04-30-09-20-36.md",
     "500 WuCai/2024/08/【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0_哔哩哔哩_bilibili-HM37H66.md",
     "500 WuCai/2024/08/Transformer详解 - mathor-HM3CC8C.md",
@@ -176,10 +183,6 @@
     "content/posts/2022-11-02-15-49-03.md",
     "content/posts/2022-10-29-18-23-59.md",
     "content/posts/2023-01-26-11-14-43.md",
-    "content/posts/2023-01-23-22-40-50.md",
-    "content/posts/2023-01-18-12-29-48.md",
-    "content/posts/2023-05-21-07-27-22.md",
-    "content/posts/2023-05-28-18-16-39.md",
     "200 research/Graph Network.pdf",
     "template",
     "300 daily",
