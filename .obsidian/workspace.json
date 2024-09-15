@@ -14,8 +14,19 @@
               "type": "thino_view",
               "state": {}
             }
+          },
+          {
+            "id": "6b9a6f873f53adc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "3ddac00dcb98e7ef",
+  "active": "6b9a6f873f53adc9",
   "lastOpenFiles": [
     "content/posts/2023-04-30-09-20-36.md",
     "500 WuCai/2024/08/【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0_哔哩哔哩_bilibili-HM37H66.md",

@@ -37,6 +37,7 @@
     "obExcludeCondition": "",
     "obDailyPath": "",
     "obNoteProps": "",
-    "obNotSyncProps": ""
+    "obNotSyncProps": "",
+    "obRemainProps": ""
   }
 }
